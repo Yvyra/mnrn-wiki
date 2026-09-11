@@ -10,12 +10,10 @@
 
 ## Coordenadores (signatários da Carta ao BNDES)
 
-| Nome | Contato público |
-|------|----------------|
-| **Ernesto Kenshi Carvalho Maeda** | ernestocarvalhomaeda@gmail.com |
-| **Ricardo Moraes Simi** | ricardoembu@hotmail.com |
-| **Fabiola Pereira do Lago** | fabiolaplago@gmail.com |
-| **Ana Alcantara** | apalcantara@uol.com.br |
+- **Ernesto Kenshi Carvalho Maeda**
+- **Ricardo Moraes Simi**
+- **Fabiola Pereira do Lago**
+- **Ana Alcantara**
 
 (fonte: 2025-06 - Carta Aberta BNDES - versão impressa.pdf)
 

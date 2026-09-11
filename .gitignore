@@ -22,6 +22,8 @@ token.json
 raw/
 .codewhale/
 controle_ingestao_base_nrn.md
+wiki/log.md
+wiki/grandes-arquivos-pendentes.md
 
 # Quartz build output / deps
 node_modules/

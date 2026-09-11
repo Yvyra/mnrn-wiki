@@ -2,7 +2,7 @@
 
 Knowledge wiki about the **Movimento Nova Raposo, NÃO! (MNRN)**, a social movement opposing the 30-year private concession of Rodovia Raposo Tavares (SP-270 + SP-280 + SP-029) in São Paulo. Follows the Andrej Karpathy "LLM Wiki" pattern: short interlinked pages connected by `[[wikilinks]]`, built from primary sources in `raw/`.
 
-This is primarily a **documentation repository**: `raw/` + `wiki/` are Markdown/PDF content written in Brazilian Portuguese (pt-BR). A small `uv`-managed Python environment exists for ingestion/analysis scripts (to live in `scripts/`). There is no git history yet.
+This is primarily a **documentation repository**: `raw/` + `wiki/` are Markdown/PDF content written in Brazilian Portuguese (pt-BR). A small `uv`-managed Python environment exists for ingestion/analysis scripts (to live in `scripts/`). Git repo on branch `main` (remote `Yvyra/mnrn-wiki`, SSH via alias `github.com-yvyra`).
 
 `contexto_mnrn_wiki.md` is the operational playbook of this project — read it before doing any ingestion work. This file distills it; on conflict, `contexto_mnrn_wiki.md` wins.
 
@@ -16,6 +16,7 @@ wiki/             Markdown pages maintained by the AI agent
   log.md          Append-only operations log (one entry per ingestion session)
   linha-tempo.md  Chronology of events
   noticias-relacionadas.md  Press coverage registry
+README.md              setup & local preview instructions (Quartz, uv)
 contexto_mnrn_wiki.md   Operational playbook (rules, flow, formats)
 mapa_mental_mnrn.md     Mermaid mindmaps of the "auction postponement" analysis
 pyproject.toml          uv manifest (Python deps); .python-version pins CPython 3.14.7

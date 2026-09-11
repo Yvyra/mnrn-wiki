@@ -114,6 +114,17 @@ Wiki content has no build/test/lint. An isolated `uv` environment is provided fo
 
 Verification for this repo means: format-check edited pages against the templates above, confirm the four registry files were updated, and check that every `[[wikilink]]` target resolves to an existing `wiki/*.md` filename.
 
+## Quartz Site (build & preview)
+
+The site is built with Quartz v5, integrated in-repo (`quartz/` code, `quartz.config.yaml`). Content source is `wiki/` — do not create a `content/` dir.
+
+- Install deps (once): `npm install`
+- Build static site: `npx quartz build -d wiki` → output `public/` (git-ignored)
+- Live preview: `npx quartz build -d wiki --serve` → http://localhost:8080
+- `baseUrl` is `yvyra.github.io/mnrn-wiki`; `public/` and `node_modules/` are git-ignored.
+
+`wiki/log.md` and `wiki/grandes-arquivos-pendentes.md` are excluded from the site via `ignorePatterns` in `quartz.config.yaml` (not just git-ignored).
+
 ## Tips for AI Agents
 
 - **Path drift**: `wiki/log.md` and `wiki/grandes-arquivos-pendentes.md` reference `raw/fila/`, which no longer exists — all files now sit at the `raw/` root. Trust `Get-ChildItem raw` over historical log entries.

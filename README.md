@@ -14,33 +14,23 @@ Base de conhecimento em Markdown no padrão *LLM Wiki* (páginas curtas interlig
 
 ## Pré-requisitos
 
-- Node.js 20+ (testado com v24) — para o Quartz.
+- Node.js 22+ (testado com v24) — para o Quartz.
 - `uv` — opcional, apenas para os scripts em `scripts/`.
 
-## Visualizando o wiki localmente (Quartz v4)
+## Visualizando o wiki localmente (Quartz v5)
 
-O Quartz **não** é instalado pelo npm como pacote oficial (`npm i quartz` pega um pacote não relacionado, v0.0.1). O método oficial é clonar o repositório:
-
-```
-git clone https://github.com/jackyzha0/quartz.git quartz
-cd quartz
-npm i
-```
-
-Depois, aponte o conteúdo para a pasta `wiki/` deste repositório:
-
-- copie `wiki/` para dentro de `content/`, **ou**
-- crie um link simbólico: `content` → `../wiki` (no Windows, requer Developer Mode).
-
-Rode o preview local:
+O Quartz v5 já está integrado neste repositório (código em `quartz/`, config em `quartz.config.yaml`). O conteúdo é a pasta `wiki/` (a flag `-d wiki` aponta o Quartz para ela).
 
 ```
-npx quartz build --serve
+npm install                      # primeira vez (ou npm ci)
+npx quartz build -d wiki --serve # preview local
 ```
 
 Abra http://localhost:8080.
 
-Antes de publicar, ajuste `baseUrl` em `quartz.config.ts` para `/mnrn-wiki/`.
+Para gerar só o site estático (sem servidor): `npx quartz build -d wiki` (saída em `public/`).
+
+O `baseUrl` já está configurado como `yvyra.github.io/mnrn-wiki` em `quartz.config.yaml`.
 
 ## Toolchain Python (ingestão)
 

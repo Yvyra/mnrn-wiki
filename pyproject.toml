@@ -8,4 +8,5 @@ dependencies = [
     "pdfplumber",
     "pandas",
     "openpyxl",
+    "d3blocks>=2.0.0",
 ]

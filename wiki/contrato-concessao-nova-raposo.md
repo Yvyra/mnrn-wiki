@@ -136,6 +136,10 @@ flowchart TB
     D --> D4["Apêndices A/B — OAE, Interferências, Passivos"]
 ```
 
+## Grafo interativo (d3blocks)
+
+<iframe src="assets/grafos/contrato-concessao-nova-raposo.htm" width="100%" height="600px" frameborder="0"></iframe>
+
 ## Arquivos grandes (apontados, ainda não processados)
 
 - **Apêndice A.1 — Cadastro de OAE e OAC**: ~407 MB (não processado)

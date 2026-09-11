@@ -85,9 +85,9 @@
 
 ## Verificação dos links (2026-09-11)
 
-- **Válidos (HTTP 200)**: todos os links com URL acima — os da carta BNDES e os principais do clipping foram checados.
-- **Não confirmado (HTTP 403)**: UOL Cotidiano (2024-05-06) — bloqueio anti-bot; a matéria provavelmente existe.
-- **Quebrado (HTTP 404)**: Investe SP — "maratona de leilões..." — página removida; não listado.
+- **Válidos (HTTP 200)**: todos os links com URL acima — carta BNDES, clipping e contexto foram checados.
+- **Não confirmado (HTTP 403)**: UOL Cotidiano (2024-05-06) e UOL/Agência Estado "máscara" (2024-09-11) — bloqueio anti-bot.
+- **Quebrado (HTTP 404)**: Investe SP ("maratona de leilões...") e Folha ("76 mortes por síndrome respiratória...") — páginas removidas.
 - **Sem link** (`—`): matérias cuja fonte é edição impressa/web sem URL extraível (Estadão/Tomazela, Forbes, Gazeta de Pinheiros ed. 3582, O Globo, G1).
 - **Não listados (internos/não públicos)**: Google Drive, consulta processual MPSP e e-mails.
 

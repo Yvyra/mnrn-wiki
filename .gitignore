@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+scripts/output/
+
+# Environment / secrets (never commit)
+.env
+.env.*
+credentials.json
+token.json
+*.key
+*.pem
+
+# Local-only (never publish)
+raw/
+.codewhale/
+controle_ingestao_base_nrn.md
+
+# Quartz build output / deps
+node_modules/
+public/
+.quartz-cache/
+
+# Local tooling state
+.DS_Store

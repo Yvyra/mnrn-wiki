@@ -1,0 +1,11 @@
+[project]
+name = "mnrn-wiki"
+version = "0.1.0"
+description = "Ingestão e análise de dados/documentos para a wiki do Movimento Nova Raposo, NÃO!"
+requires-python = ">=3.11"
+dependencies = [
+    "pymupdf",
+    "pdfplumber",
+    "pandas",
+    "openpyxl",
+]

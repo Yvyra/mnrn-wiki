@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nova Raposo — Desapropriações e obras (guia do morador)</title>
+<style>
+  :root{
+    --red:#ed1c24; --orange:#f90; --ink:#1b1b1b; --muted:#5f6368;
+    --bg:#faf7f7; --card:#fff; --line:#e8e0e0; --soft:#fdeeee; --softo:#fff4e5;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#eee;color:var(--ink);line-height:1.5}
+  .page{max-width:900px;margin:0 auto;background:var(--bg);min-height:100vh}
+  /* header */
+  .hero{background:linear-gradient(135deg,var(--red),#c8121a);color:#fff;padding:30px 28px;text-align:center}
+  .hero .logo{width:110px;height:110px;display:block;margin:0 auto 14px;background:#fff;border-radius:24px;padding:8px}
+  .hero h1{font-size:30px;letter-spacing:-.5px;line-height:1.1}
+  .hero p{font-size:16px;opacity:.95;margin-top:8px}
+  .hero .tag{display:inline-block;background:var(--orange);color:#1b1b1b;font-weight:800;font-size:12px;padding:5px 12px;border-radius:999px;margin-top:14px;letter-spacing:.5px}
+  /* section */
+  section{padding:26px 22px}
+  h2{font-size:22px;color:var(--red);letter-spacing:-.3px;margin-bottom:6px;display:flex;align-items:center;gap:10px}
+  h2 .n{background:var(--red);color:#fff;width:30px;height:30px;border-radius:8px;display:inline-flex;align-items:center;justify-content:center;font-size:15px;flex:none}
+  .sub{color:var(--muted);font-size:14px;margin-bottom:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:12px}
+  .card h3{font-size:15px;color:var(--red);margin-bottom:6px}
+  .big{font-size:26px;font-weight:800;letter-spacing:-1px}
+  .big b{color:var(--red)}
+  .small{font-size:13px;color:var(--muted)}
+  /* timeline */
+  .tl{position:relative;padding-left:26px;margin:8px 0}
+  .tl::before{content:"";position:absolute;left:8px;top:4px;bottom:4px;width:3px;background:var(--line);border-radius:2px}
+  .tl .step{position:relative;margin-bottom:18px}
+  .tl .step::before{content:"";position:absolute;left:-22px;top:4px;width:13px;height:13px;border-radius:50%;background:var(--red);border:3px solid #fff;box-shadow:0 0 0 2px var(--red)}
+  .tl .step.orange::before{background:var(--orange);box-shadow:0 0 0 2px var(--orange)}
+  .tl .d{font-weight:800;color:var(--red)}
+  .tl .step.orange .d{color:#b26a00}
+  /* trechos */
+  .trecho{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-left:6px solid var(--red);border-radius:12px;padding:14px 16px;margin-bottom:10px}
+  .trecho.orange{border-left-color:var(--orange)}
+  .trecho .rod{font-weight:800;font-size:14px;min-width:86px}
+  .trecho .info{flex:1}
+  .trecho .info .km{font-size:13px;color:var(--muted)}
+  .trecho .info .dt{font-weight:700;color:var(--red)}
+  .trecho.orange .info .dt{color:#b26a00}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .ruas{background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .ruas h3{font-size:13px;color:var(--red);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px}
+  .ruas ul{list-style:none;font-size:13.5px;line-height:1.7}
+  .ruas li::before{content:"• ";color:var(--orange);font-weight:800}
+  .do{background:var(--softo);border:1px solid #f0d9b0;border-radius:12px;padding:14px 16px;margin-bottom:10px}
+  .do h3{font-size:14px;color:#b26a00;margin-bottom:4px}
+  .foot{background:#2b2b2b;color:#ccc;padding:22px;font-size:12.5px;text-align:center}
+  .foot .logo{width:52px;height:52px;display:inline-block;background:#fff;border-radius:12px;padding:4px;margin-bottom:8px}
+  @media(max-width:640px){.grid2,.cols{grid-template-columns:1fr}.hero h1{font-size:24px}}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header class="hero">
+    <svg class="logo" viewBox="0 0 800 800"><use href="#nrn"/></svg>
+    <h1>Nova Raposo: desapropriações e obras</h1>
+    <p>Guia do morador — entenda os prazos e o que pode acontecer no seu bairro</p>
+    <span class="tag">Material do Movimento Nova Raposo, NÃO!</span>
+  </header>
+
+  <section>
+    <h2><span class="n">1</span> O que está acontecendo</h2>
+    <div class="card">
+      <p>A rodovia Raposo Tavares (e trechos da Castello Branco, SP-029 e Embu–Cotia) foi <b>concedida à iniciativa privada por 30 anos</b>. Para fazer as obras de ampliação, o governo pode precisar <b>desapropriar</b> terrenos, casas e comércios que ficam no caminho.</p>
+      <p class="small" style="margin-top:8px">Contrato nº 0548/ARTESP/2025 · Concessionária: Ecovias Raposo-Castelo · Regulador: ARTESP.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="n">2</span> Linha do tempo dos prazos</h2>
+    <p class="sub">Os prazos que o contrato estabelece para a desapropriação.</p>
+    <div class="tl">
+      <div class="step"><span class="d">14/03/2025</span> — Assinatura do contrato de concessão.</div>
+      <div class="step"><span class="d">Até 18/03/2026</span> — Prazo para a concessionária enviar os documentos da <b>Declaração de Utilidade Pública (DUP)</b>: 180 dias antes do início das obras.</div>
+      <div class="step orange"><span class="d">Até ~16/06/2026</span> — O Poder Concedente (governo) tem <b>90 dias</b> para publicar a DUP.</div>
+      <div class="step"><span class="d">+20 dias</span> — Após a DUP: cadastro físico do imóvel em cartório.</div>
+      <div class="step orange"><span class="d">+60 dias</span> — Após a DUP: ajuizamento das ações (ou acordo amigável).</div>
+      <div class="step"><span class="d">A partir de 2028</span> — Início das obras principais, trecho a trecho (veja abaixo).</div>
+    </div>
+    <p class="small">Fonte: Apresentação Desapropriações.pptx (plenária 29/11/2025) e Cláusula 16 do contrato.</p>
+  </section>
+
+  <section>
+    <h2><span class="n">3</span> Quando as obras chegam em cada trecho</h2>
+    <p class="sub">Cronograma de início das obras por rodovia (Plano de Investimentos).</p>
+    <div class="trecho">
+      <div class="rod">SP-280<br><span class="small">Castello Branco</span></div>
+      <div class="info"><span class="km">km 32,25 a 54,14</span><br><span class="dt">Início: julho de 2028 · ~9 meses</span></div>
+    </div>
+    <div class="trecho">
+      <div class="rod">SP-270<br><span class="small">Raposo Tavares</span></div>
+      <div class="info"><span class="km">km 11,60 a 17,65</span><br><span class="dt">Início: julho de 2029 · ~9 meses</span></div>
+    </div>
+    <div class="trecho">
+      <div class="rod">SP-270<br><span class="small">Raposo Tavares</span></div>
+      <div class="info"><span class="km">km 17,65 a 21,83</span><br><span class="dt">Início: julho de 2030 · ~9 meses</span></div>
+    </div>
+    <div class="trecho orange">
+      <div class="rod">Embu–Cotia<br><span class="small">duplicação</span></div>
+      <div class="info"><span class="km">trecho completo (variantes)</span><br><span class="dt">Início: setembro de 2029 · ~31 meses</span></div>
+    </div>
+    <div class="trecho">
+      <div class="rod">SP-270<br><span class="small">Raposo Tavares</span></div>
+      <div class="info"><span class="km">km 21,83 a 32,41</span><br><span class="dt">Início: julho de 2031 · ~9 meses</span></div>
+    </div>
+    <div class="trecho">
+      <div class="rod">SP-029<br><span class="small">Cotia–Itapevi</span></div>
+      <div class="info"><span class="km">km 38,60 a 43,70</span><br><span class="dt">Início: julho de 2031 · ~9 meses</span></div>
+    </div>
+    <p class="small">Fonte: Anexo 14 — Plano de Investimentos (análise de datas). As obras principais concentram-se entre 2028 e 2031; o pico de investimento é no ano 7 da concessão.</p>
+  </section>
+
+  <section>
+    <h2><span class="n">4</span> Desapropriação em 3 prazos</h2>
+    <div class="grid2">
+      <div class="card"><h3>180 dias antes das obras</h3><div class="big">Enviar documentos</div><p class="small">A concessionária reúne a documentação do imóvel para o pedido de DUP (levantamento, proprietário, laudo).</p></div>
+      <div class="card"><h3>Após a DUP</h3><div class="big">20 dias</div><p class="small">Cadastro físico do imóvel em cartório.</p></div>
+      <div class="card"><h3>Após a DUP</h3><div class="big">60 dias</div><p class="small">Ajuizamento da ação de desapropriação <b>ou</b> busca de acordo amigável.</p></div>
+      <div class="card"><h3>Custo previsto</h3><div class="big">R$ <b>838,9 milhões</b></div><p class="small">Custo global previsto para a Ecovias desapropriar (base março/2024).</p></div>
+    </div>
+    <p class="small" style="margin-top:10px">Quem paga: a concessionária arca com os custos — mas, pelo reequilíbrio econômico-financeiro, o custo acaba repassado ao usuário da rodovia. Não há critérios definidos para esse repasse.</p>
+  </section>
+
+  <section>
+    <h2><span class="n">5</span> Ruas impactadas</h2>
+    <p class="sub">Levantamento dos trechos com possibilidade de desapropriação (total ou parcial de terrenos).</p>
+    <div class="cols">
+      <div class="ruas">
+        <h3>São Paulo — lado esquerdo</h3>
+        <ul>
+          <li>R. Percussão / R. Esplanada</li>
+          <li>R. Antonio Mariane / R. Hugo Carotini</li>
+          <li>Pq. Previdência / R. Porfírio</li>
+          <li>R. Prof. Máximo Ribeiro Nunes</li>
+          <li>Praça Ikuso Koike</li>
+          <li>R. Eugine Carriere / R. Benedito Branco</li>
+          <li>R. Emanuel Bardare / R. Bernardo dos Santos</li>
+          <li>Praça Donato Voroli / R. Annibale Garracci</li>
+          <li>R. Rio Tinto / R. José Candeias</li>
+          <li>R. Carmélia Moraco / R. Sylvio Lagreca</li>
+        </ul>
+      </div>
+      <div class="ruas">
+        <h3>São Paulo — lado direito</h3>
+        <ul>
+          <li>R. Pratápolis / R. Martinho Claro</li>
+          <li>R. Emanuel Guedes / Viveiro II</li>
+          <li>R. Azem Abdalla Azem</li>
+          <li>Praça Ikuso Koike / R. Ari Aps</li>
+          <li>R. Dasolina Ferlim Polinaro</li>
+          <li>R. José Cerqueira Bastos</li>
+          <li>Praça Zaphira Vieira Leite</li>
+          <li>Av. Luciano Laurana / R. Alberto Keller</li>
+          <li>R. Agostinho de Azevedo</li>
+        </ul>
+      </div>
+    </div>
+    <p class="small" style="margin-top:10px">A lista também inclui trechos em <b>Cotia</b>. O levantamento completo (trechos 01 a 30, com efeitos por lado da via) está na Apresentação Desapropriações.pptx.</p>
+  </section>
+
+  <section>
+    <h2><span class="n">6</span> O que você pode fazer</h2>
+    <div class="do"><h3>🕐 Acompanhe os prazos</h3>Anote as datas do seu trecho e fique atento às notificações de desapropriação.</div>
+    <div class="do"><h3>📄 Exija informação</h3>Você tem direito a saber o status do seu imóvel: laudo, valor da oferta e andamento do processo.</div>
+    <div class="do"><h3>✋ Participe</h3>Acompanhe as audiências e reuniões públicas — a participação popular é um direito previsto em lei.</div>
+    <div class="do"><h3>🤝 Busque apoio</h3>Procure o Movimento Nova Raposo, NÃO! para orientação e informação coletiva.</div>
+  </section>
+
+  <footer class="foot">
+    <svg class="logo" viewBox="0 0 800 800"><use href="#nrn"/></svg>
+    <p>Elaborado pelo Movimento Nova Raposo, NÃO! · Fonte: Contrato nº 0548/ARTESP/2025 e anexos · Apresentação Desapropriações (plenária 29/11/2025).</p>
+    <p style="margin-top:6px">Este material é informativo e não substitui orientação jurídica.</p>
+  </footer>
+
+</div>
+<svg width="0" height="0" style="position:absolute"><symbol id="nrn" viewBox="0 0 800 800"><defs><style>.cls-1,.cls-2{fill:#fff;}.cls-2{stroke:#ed1c24;stroke-miterlimit:10;stroke-width:10px;}.cls-3{fill:none;}.cls-4{fill:#ed1c24;}.cls-5{fill:#f90;}</style></defs><g id="Layer_1-2"><g><rect class="cls-3" width="800" height="800"/><g><g><path class="cls-2" d="M468.71,143.12h-187.95c-2.26,0-4.43,.9-6.02,2.49l-132.9,132.9c-1.6,1.6-2.49,3.76-2.49,6.02v187.95c0,2.26,.9,4.43,2.49,6.02l132.9,132.9c1.6,1.6,3.76,2.49,6.02,2.49h187.95c2.26,0,4.43-.9,6.02-2.49l132.9-132.9c1.6-1.6,2.49-3.76,2.49-6.02v-187.95c0-2.26-.9-4.43-2.49-6.02l-132.9-132.9c-1.6-1.6-3.76-2.49-6.02-2.49Z"/><path class="cls-4" d="M458.9,167.71h-168.32c-2.02,0-3.96,.8-5.39,2.23l-119.02,119.02c-1.43,1.43-2.23,3.37-2.23,5.39v168.32c0,2.02,.8,3.96,2.23,5.39l119.02,119.02c1.43,1.43,3.37,2.23,5.39,2.23h168.32c2.02,0,3.96-.8,5.39-2.23l119.02-119.02c1.43-1.43,2.23-3.37,2.23-5.39v-168.32c0-2.02-.8-3.96-2.23-5.39l-119.02-119.02c-1.43-1.43-3.37-2.23-5.39-2.23Z"/></g><g><path class="cls-1" d="M215.34,493.24v-112h43.68l34.56,68.64-2.72,.8v-69.44h34.08v112h-41.44l-36.96-70.88,2.88-.96v71.84h-34.08Z"/><path class="cls-1" d="M323.18,493.24l33.28-112h50.4l33.76,112h-38.08l-23.36-89.44h4l-22.56,89.44h-37.44Zm23.04-120.8c-.21-8.42,1.52-15.01,5.2-19.76,3.68-4.75,8.99-7.12,15.92-7.12,3.41,0,6.45,.4,9.12,1.2,2.67,.8,5.65,1.95,8.96,3.44,2.13,.96,3.92,1.68,5.36,2.16,1.44,.48,2.85,.72,4.24,.72,2.67,0,4.67-.5,6-1.52,1.33-1.01,1.89-2.43,1.68-4.24h16.32c.21,8.32-1.52,14.85-5.2,19.6-3.68,4.75-8.93,7.12-15.76,7.12-3.52,0-6.64-.4-9.36-1.2-2.72-.8-5.74-1.89-9.04-3.28-2.24-.96-4.03-1.68-5.36-2.16-1.33-.48-2.7-.72-4.08-.72-2.78,0-4.8,.48-6.08,1.44s-1.92,2.4-1.92,4.32h-16Zm4.64,103.52v-26.56h61.12v26.56h-61.12Z"/><path class="cls-1" d="M490.22,496.44c-11.63,0-22.03-2.46-31.2-7.36-9.17-4.91-16.32-11.81-21.44-20.72-5.12-8.91-7.68-19.23-7.68-30.96s2.56-21.79,7.68-30.8c5.12-9.01,12.27-16.03,21.44-21.04,9.17-5.01,19.57-7.52,31.2-7.52s22.18,2.51,31.36,7.52c9.17,5.01,16.32,12,21.44,20.96s7.68,19.25,7.68,30.88-2.56,22.05-7.68,30.96c-5.12,8.91-12.27,15.81-21.44,20.72-9.17,4.91-19.63,7.36-31.36,7.36Zm0-34.08c4.69,0,8.72-1.04,12.08-3.12,3.36-2.08,5.92-4.99,7.68-8.72,1.76-3.73,2.64-8,2.64-12.8s-.88-9.15-2.64-13.04c-1.76-3.89-4.32-6.96-7.68-9.2-3.36-2.24-7.39-3.36-12.08-3.36s-8.56,1.12-11.92,3.36c-3.36,2.24-5.92,5.31-7.68,9.2-1.76,3.89-2.64,8.24-2.64,13.04s.88,9.07,2.64,12.8c1.76,3.73,4.32,6.64,7.68,8.72,3.36,2.08,7.33,3.12,11.92,3.12Z"/></g><g><path class="cls-1" d="M212.59,351.48l-1.55,9.63-19.05-9.35,.88-5.47,19.73,5.19Zm1.92-11.91l-1.55,9.63-19.05-9.35,.88-5.47,19.73,5.19Z"/><path class="cls-1" d="M200.36,321.96l4.9-11.95,40.68,1.22-.15,1.93-35.8-14.68,3.2-7.81,42.69,17.51-4.35,10.61-42.71-.78,.36-1.56,37.08,15.21-3.2,7.81-42.69-17.51Z"/><path class="cls-1" d="M260.7,297.85c-3.23,1.04-6.72,1.03-10.47-.03-3.75-1.06-7.6-3.14-11.53-6.24-3.86-3.05-6.73-6.26-8.6-9.64-1.87-3.38-2.67-6.75-2.42-10.13,.26-3.38,1.58-6.58,3.98-9.62,2.39-3.04,5.2-5.06,8.41-6.08,3.21-1.02,6.69-1.01,10.42,.04,3.74,1.05,7.54,3.09,11.4,6.14,3.9,3.08,6.8,6.32,8.7,9.72,1.9,3.41,2.73,6.79,2.49,10.15-.25,3.36-1.56,6.56-3.96,9.6-2.4,3.04-5.21,5.07-8.43,6.11Zm3.4-15.91c-.11-1.63-.88-3.39-2.29-5.29-1.41-1.9-3.5-3.94-6.26-6.11-2.76-2.18-5.23-3.73-7.4-4.66-2.18-.93-4.08-1.27-5.71-1.02-1.63,.25-3.01,1.11-4.16,2.56s-1.66,3-1.54,4.66c.12,1.66,.88,3.44,2.3,5.34,1.41,1.9,3.5,3.94,6.26,6.11,2.76,2.18,5.23,3.73,7.4,4.66,2.18,.93,4.08,1.26,5.7,.97,1.62-.28,3.01-1.15,4.15-2.6s1.66-2.99,1.54-4.62Z"/><path class="cls-1" d="M251.08,240.91l8.55-6.39,30.61,26.08-1.11,.83-16.26-36.82,8.55-6.4,17.81,44.29-10.66,7.97-37.5-29.57Z"/><path class="cls-1" d="M297.02,210.84l12.23-5.28,29.17,37.66-9.68,4.18-6.35-8.89-10.77,4.65,2.11,10.72-9.26,4-7.45-47.04Zm21.39,21.78l-12.66-17.87,4.31,21.47,8.35-3.6Z"/><path class="cls-1" d="M355.52,193.81l16.47-.42c3.43-.09,6.31,.36,8.64,1.33,2.33,.97,4.09,2.4,5.28,4.28,1.19,1.88,1.82,4.16,1.89,6.84,.06,2.55-.4,4.75-1.38,6.6-.99,1.85-2.48,3.29-4.47,4.33-2,1.04-4.42,1.6-7.28,1.67l-3.03,.08,4.29-2.61,13.84,23.19-11.14,.28-13.27-24.06-.04-1.65,4.35-.11c2.85-.07,4.91-.64,6.15-1.71,1.25-1.06,1.84-2.74,1.79-5.02-.05-2.15-.69-3.71-1.9-4.67-1.21-.96-3.22-1.4-6.03-1.33l-4.02,.1,.98,38.75-9.95,.25-1.17-46.13Z"/><path class="cls-1" d="M409.99,196.58l12.97,3.01,1.12,47.63-10.27-2.39,.17-10.92-11.43-2.65-4.66,9.88-9.82-2.28,21.93-42.27Zm4.28,30.23l.42-21.9-9.28,19.84,8.86,2.06Z"/><path class="cls-1" d="M446.38,207.22l14.26,7.43c4.56,2.38,7.46,5.23,8.69,8.58,1.23,3.34,.83,6.96-1.2,10.86-1.28,2.46-2.93,4.32-4.96,5.59-2.03,1.27-4.46,1.83-7.29,1.66-2.84-.17-5.99-1.15-9.46-2.96l-6.25-3.26,3.17-6.08,5.26,2.74c2.57,1.34,4.7,1.82,6.39,1.43s3.06-1.59,4.11-3.62c1.06-2.03,1.3-3.77,.75-5.22-.56-1.45-2.06-2.82-4.52-4.1l-3.57-1.86-17.87,34.32-8.83-4.6,21.31-40.92Z"/><path class="cls-1" d="M460.85,266.85c-.8-3.29-.53-6.77,.8-10.44,1.33-3.67,3.69-7.35,7.07-11.04,3.32-3.63,6.74-6.25,10.24-7.87,3.5-1.62,6.93-2.17,10.28-1.67,3.35,.5,6.45,2.06,9.3,4.67,2.85,2.61,4.67,5.55,5.45,8.83,.78,3.28,.52,6.74-.8,10.39-1.32,3.65-3.63,7.29-6.96,10.92-3.35,3.66-6.8,6.32-10.33,7.97-3.54,1.65-6.97,2.23-10.3,1.74-3.33-.49-6.43-2.04-9.28-4.65-2.85-2.61-4.68-5.56-5.48-8.85Zm15.62,4.56c1.63,0,3.45-.63,5.44-1.9,2-1.27,4.18-3.2,6.55-5.8s4.1-4.94,5.19-7.04c1.09-2.1,1.56-3.97,1.43-5.62-.14-1.64-.88-3.09-2.25-4.33-1.36-1.25-2.88-1.87-4.54-1.88-1.66,0-3.5,.63-5.49,1.9-2,1.27-4.18,3.2-6.55,5.8-2.37,2.59-4.11,4.94-5.19,7.04-1.09,2.1-1.55,3.97-1.38,5.61,.17,1.64,.93,3.08,2.29,4.33,1.36,1.25,2.86,1.87,4.49,1.88Z"/><path class="cls-1" d="M485.09,294.18c-.65-2.64-.81-5.23-.47-7.76l7.89-5.16c-.61,2.92-.73,5.65-.36,8.19,.37,2.54,1.24,4.86,2.61,6.95,1.11,1.69,2.33,2.74,3.67,3.15,1.34,.41,2.69,.17,4.06-.72,.99-.65,1.7-1.48,2.12-2.49,.42-1.01,.54-2.24,.37-3.71-.02-.2-.04-.37-.06-.51s-.04-.32-.06-.51l-1.01-5.64c-.77-3.75-.74-6.83,.1-9.24,.84-2.41,2.56-4.47,5.18-6.18,2.13-1.39,4.36-2.15,6.67-2.27,2.31-.12,4.57,.45,6.79,1.71,2.21,1.26,4.2,3.23,5.95,5.91,1.56,2.39,2.6,4.68,3.11,6.87,.51,2.19,.64,4.25,.39,6.2l-7.39,4.83c.48-2,.57-4.06,.28-6.2-.3-2.14-1.13-4.26-2.5-6.36-1.2-1.84-2.45-2.95-3.75-3.33-1.3-.38-2.56-.18-3.77,.61-.96,.63-1.58,1.44-1.87,2.44-.29,1-.24,2.45,.16,4.34l.97,5.35c.79,3.63,.81,6.72,.03,9.27-.77,2.55-2.65,4.8-5.63,6.75-2.24,1.47-4.61,2.26-7.1,2.39-2.49,.13-4.87-.43-7.15-1.67-2.28-1.24-4.25-3.13-5.91-5.67-1.56-2.39-2.67-4.91-3.32-7.55Z"/><path class="cls-1" d="M502.64,321.75c.89-3.27,2.8-6.19,5.74-8.76,2.94-2.57,6.78-4.65,11.52-6.25,4.66-1.57,8.92-2.22,12.77-1.95,3.85,.28,7.12,1.45,9.81,3.51,2.69,2.06,4.65,4.92,5.89,8.59,1.24,3.66,1.41,7.12,.51,10.37-.9,3.25-2.81,6.15-5.72,8.71-2.92,2.56-6.71,4.63-11.37,6.2-4.71,1.59-9,2.25-12.89,1.99-3.89-.26-7.18-1.42-9.86-3.45-2.68-2.04-4.64-4.89-5.88-8.56-1.24-3.66-1.41-7.13-.52-10.4Zm11.48,11.54c1.43,.79,3.32,1.12,5.68,.97,2.36-.15,5.21-.78,8.54-1.91s5.98-2.34,7.95-3.66c1.97-1.31,3.29-2.72,3.96-4.23,.67-1.5,.72-3.13,.13-4.88-.59-1.75-1.61-3.03-3.07-3.83-1.46-.81-3.36-1.14-5.73-.99-2.36,.15-5.21,.78-8.54,1.91-3.33,1.12-5.98,2.34-7.95,3.66-1.97,1.31-3.28,2.73-3.92,4.25-.65,1.52-.68,3.15-.08,4.9,.59,1.75,1.6,3.02,3.03,3.81Z"/><path class="cls-1" d="M557.98,347.91l.96,9.71-20.81-4.18-.54-5.51,20.4-.02Zm1.18,12l.96,9.71-20.81-4.18-.54-5.51,20.4-.02Z"/></g><g><polygon class="cls-5" points="302.58 656.88 316.73 656.88 660.16 316.28 660.16 302.14 302.58 656.88"/><g><g><rect class="cls-5" x="439.07" y="546.4" width="30.54" height="10" transform="translate(-257.46 489.74) rotate(-45.56)"/><rect class="cls-5" x="474.71" y="510.05" width="30.54" height="10" transform="translate(-220.82 504.29) rotate(-45.56)"/><polygon class="cls-5" points="357.92 656.88 361.68 653.04 354.54 646.04 343.91 656.88 357.92 656.88"/><rect class="cls-5" x="367.78" y="619.1" width="30.54" height="10" transform="translate(-330.75 460.65) rotate(-45.56)"/><rect class="cls-5" x="403.42" y="582.75" width="30.54" height="10" transform="translate(-294.11 475.19) rotate(-45.56)"/><rect class="cls-5" x="510.35" y="473.7" width="30.54" height="10" transform="translate(-184.18 518.84) rotate(-45.56)"/><rect class="cls-5" x="617.28" y="364.66" width="30.55" height="10" transform="translate(-74.26 562.49) rotate(-45.56)"/><rect class="cls-5" x="545.99" y="437.35" width="30.55" height="10" transform="translate(-147.54 533.39) rotate(-45.56)"/><rect class="cls-5" x="581.64" y="401.01" width="30.55" height="10" transform="translate(-110.9 547.94) rotate(-45.56)"/></g><polygon class="cls-5" points="660.65 333.86 653.93 340.71 660.65 347.31 660.65 333.86"/></g></g></g></g></g></symbol></svg>
+</body>
+</html>

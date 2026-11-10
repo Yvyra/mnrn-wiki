@@ -1024,5 +1024,23 @@
   "paginas": 133,
   "chars": 406847,
   "bytes": 422546
+ },
+ {
+  "origem": "raw\\Lei 12587-2012.pdf",
+  "destino": "raw\\Lei 12587-2012.txt",
+  "tipo": "pdf",
+  "metodo": "ocr",
+  "paginas": 11,
+  "chars": 34362,
+  "bytes": 35631
+ },
+ {
+  "origem": "raw\\Portaria SGM n159-2026.pdf",
+  "destino": "raw\\Portaria SGM n159-2026.txt",
+  "tipo": "pdf",
+  "metodo": "ocr",
+  "paginas": 3,
+  "chars": 4074,
+  "bytes": 4159
  }
 ]

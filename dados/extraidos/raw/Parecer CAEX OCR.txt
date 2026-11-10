@@ -1,0 +1,4108 @@
+
+===== PAGINA 1 =====
+FL.
+786
+
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+SEI nº 29.0001.0166050.2024-77
+Parecer Técnico nº 15789370
+Procedimento: Inquérito Civil n.º 0482.0000571/2024
+
+Comarca/Município: São Paulo
+
+Interessado: 4º Promotoria de Justiça do Meio Ambiente da Capital
+Assunto/Finalidade: Análise sob a perspectiva da proteção ambiental, da
+documentação apresentada pela Agência Reguladora de Serviços Públicos
+Delegados de Transporte do Estado de São Paulo (ARTESP) e manifestação dos
+órgãos de licenciamento referente ao projeto "Nova Raposo Tavares”
+
+Data: 29/08/2025
+
+O CAEx - Centro de Apoio à Execução, por meio do MAHUAC —
+Meio Ambiente, Habitação, Urbanismo e Acessibilidade, e do
+NENG — Núcleo de Engenharia, atendendo à solicitação da
+Excelentíssima Senhora Promotora de Justiça do Meio
+Ambiente da Capital, Doutora Yolanda Alves Pinto Serrano, vem,
+mui respeitosamente, apresentar o resultado de sua atividade
+
+consubstanciado no seguinte:
+
+PARECER TÉCNICO
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 1/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+
+===== PAGINA 2 =====
+FL
+
+787
+
+MP SP MINISTÉRIO PÚBLICO CAEX — CENTRO DE
+
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+LISTA DE ILUSTRAÇÕES
+
+Figura 1. Delimitação da área de interesse do empreendimento Nova Raposo ......... 5
+Figura 2. Lote Nova Raposo...................... eee aeraaaaaaaaaaaaaaaaaaaaaaaaaana 9
+Figura 3. Rodovia Pres. Castello Branco - km 13,290 ao km 54,140........................ 11
+Figura 4. Rodovia Raposo Tavares - km 10,940 ao km 34,065. ............................. 12
+Figura 5. Ponte sobre o rio Pinheiros na continuidade da Av. Escola Politécnica.....13
+Figura 6. Interligação Rod. Raposo Tavares/Av. Prof. Francisco Morato.................. 14
+Figura 7. Pontes sobre o rio Pinheiros nas proximidades das pontes Bernardo
+Goldfarb e Eusébio Matoso................... e eeeeeaeeerereeaaa aaa eaaaererasanannaea 14
+Figura 8. Rodovia Cel. PM Nelson Tranchesi - km 32,58 ao km 43,70...................... 15
+Figura 9. Trecho em túnel na conexão com a Rod. Raposo Tavares ....................... 16
+Figura 10. Trecho Cotia-Embu das Artes... aeee 17
+Figura 11. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do
+o) (< ERODRRRD 22
+Figura 12. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do
+o) (< ERODRRRD 22
+Figura 13. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do
+o) (< ERODRRRD 23
+Figura 14. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do
+o) (< ERODRRRD 23
+Figura 15. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do
+o) (< ERODRRRD 24
+Figura 16. Mapa de Suscetibilidade do Solo a Processos do Meio Físico ................ 25
+Figura 17. Mapa de Hidrografia e Classes dos Cursos d'água .................. 25
+Figura 18. Mapa de incidência de Área de Proteção e Recuperação aos Mananciais
+cien aaaaaarenaaaaaaaaaa aaa nana aaa aaaaaa aaa aaa aa anna aa aaaa anca nana aa aaaaaen aaa aaaaaa aaa aaaaaen aaa naaaaanaaaaaaaeaaaaaaanana 26
+Figura 19. Mapa de Áreas Legalmente Protegidas... 26
+Figura 20. Mapa de Uso do Solo no Bioma Mata Atlântica .................. 27
+Figura 21. Sobreposição de Temas Sensíveis para a Biodiversisdade..................... 27
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 2/69
+
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+
+===== PAGINA 3 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Figura 22. Reprodução da escala de sensibilidade em função da distância e dos
+Quadros 12.40 e 12.41 do documento “Consulta à CETESB”...................... 40
+Figura 23. Imagem de satélite com localização de patrimônio cultural ilustrativa,
+considerando acervo CONDEPHAAT (Estadual) e CONPRESP (município de São
+
+Paulo)................... iss eeeeeeeeaaaaaaaaaanaaaaaaaaaaaaaaaaaaaa nana a aa aaaa nana aaa aaaaaaaaaaaaaaaaaaanananaa 41
+Figura 24. Contagem veicular classificada bidirecional.........................., 46
+Figura 25. Quantidade de entrevistas por tipo - OD e PD....................... 48
+Figura 26. Quantidade de entrevistas por local e tipo - OD e PD........................... 48
+Figura 27. Nível de serviço.................. ee raaeaaaaaaaaaaaaaaaaaaaaaaaaanana 55
+Figura 28. Rod. Cel. PM Nelson Tranchesi (SP-029) - Ponto de ônibus, R. S. Judas
+
+Tadeu... aaa aaa aeee a nara rara araras 57
+Figura 29. Rod. Cel. PM Nelson Tranchesi (SP-029) - Ponto de ônibus, R. Vali...... 57
+Figura 30. Rod. Raposo Tavares (SP-270) - Ponto de ônibus, Av. Escola Politécnica
+
+cette aaaaarenaaaaaaaaaaaaaaaaea aaa aaaaaa nana nana nana aaa aeee aaa nana aa aaaaaea aaa aaaaaaaaaaaaanenaaanaaaaanaaaaaaneaaaaaaneana 58
+Figura 31. Corredores de ônibus em São Paulo ................... 59
+Figura 32. Corredores de ônibus em São Paulo ................... 60
+Figura 33. Terminais de ônibus em São Paulo..................... 61
+Figura 34. Corredores e terminais de ônibus planejados. .......................... 62
+Figura 35. Linha 22 - Marrom do Metrô................ aeee 62
+Figura 36. Conexões cicloviárias Subprefeitura do Butantã........................... 63
+
+Figura 37. Intervenção na ciclorrota em via a ser utilizada como marginal da Rod.
+
+Raposo Tavares.............. teta eee eeaaaaeaaaaaaaaaaaaanaaaaaaaaaaaaaaaaanaaeaaaaaaaanana 64
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 3/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+788
+
+
+===== PAGINA 4 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+SUMÁRIO
+
+1. INTRODUÇÃO ........... us iiteieeieeereeeeeeeereeeeer een eereer cancer eee eereereeaeeaeereeaeereeeeeneess 5
+1.1. - Objetivo... iieeeeeeeeeereeeaaeaaaanaaaaaareeeaaanananaaaneaareeraaenananara 5
+1.2. Breve relato .............. cce eeeraaaaaaaaananaaaaaaaaaaaaaaaaananaaaaaaaa 6
+1.3. Material de análise.................... eee eee aeeeraaaaaaaaaaaaaaeaanaaa (o)
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO... 8
+2.1. “Intervenções na Rodovia Pres. Castello Branco (SP-280)............................. 11
+2.2. “Intervenções na Rodovia Raposo Tavares (SP-270).................. 12
+2.2.1. Intervenções no sistema viário da Capital .................. 13
+2.3. Intervenções na Rodovia Cel. PM Nelson Tranchesi (SP-029)...................... 14
+2.4. “Intervenções no trecho Cotia-Embu das Artes ..................... 16
+3. ANÁLISE TÉCNICA .......... si eieaeeieeaeeeaeeaeeraeeaee aerea 17
+3.1. Considerações iniciais... iceee aeee eaaeeeraaaaaaaaaaanaaaa 17
+3.1.1. Manifestações dos órgãos licenciadores..................................is 17
+3.1.2. Audiências Públicas sobre o Processo de Concessão .................................... 18
+3.2. Considerações acerca da análise socioambiental....................iiiiin 19
+3.3. Aspectos ambientais....................... e eeeieeeeea ee eaeaareraraaaaaaaaaaanaaa 20
+3.3.1. Impactos ambientais esperados .................. a eeeieeeeaeeaaaa een 30
+3.4. Aspectos socioeconômicos e culturais ................eeeeeeeeereereraeaes 32
+3.4.1. Desapropriações e reassentamentos ................... eee 33
+3.4.2. Alterações nas dinâmicas de uso e ocupação do solo .................... 38
+3.4.3. Patrimônio cultural............... e eeeeeeeeeeeaaaaaaaaaaaaeeraaaaaaaaaaaannaaa 39
+3.4.4. Territórios indígenas e/ou outras comunidades tradicionais ........................... 42
+3.5. Audiências públicas ..................... e eeieeereeeea aee aaeanareneaaaaanaaananaaaa 42
+3.6. Tráfego... eee aanaaaaaaaaaaanaaaaaa aaa a nana nana nana nana anna aaa aanaa 44
+3.6.1. Segurança viária... eee 64
+7 RR 070) [67 07 O RR 66
+5. ENCERRAMENTO............. e eterrereaaeanaaaaaeeereeeaaananaaananenereena 69
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 4/69
+
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+789
+
+
+===== PAGINA 5 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+1. INTRODUÇÃO
+
+Trata-se de inquérito civil instaurado a partir de representação
+apresentada pelo Movimento “Nova Raposo, Não”, por meio da qual se alega que a
+Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São
+Paulo (ARTESP) lançou consulta pública referente ao Projeto Nova Raposo sem a
+devida transparência e publicidade. Segundo os representantes, foram realizadas
+apenas duas audiências públicas, o que teria impedido a efetiva participação social.
+
+Figura 1. Delimitação da área de interesse do empreendimento Nova Raposo
+
+N
+
+A
+
+Araçariguama
+
+Santana de
+Pamaíba
+
+il
+| [KmB1S:29]
+Osasco
+
+Jandira Alça da Av. Escola Politécnica
+Itapevi XKarapicuiba
+
+São Paulo
+Ctp dae
+“e
+Acesso Butantã
+
+Embu das
+
+%
+a.
+ço.
+e Artes
+O)
+
+Cotia
+
+tapecerica
+da Serra
+
+Lote 1
+Km iniciais e finais
+Municípios Atravessados
+
+o 4 8 12
+Km
+
+Fonte: processo digital CETESB nº 061507/2024-16, fl. 269
+
+1.1. Objetivo
+
+O presente Parecer Técnico tem por objetivo atender à solicitação
+técnica nº 14406333, encaminhada pela 4º Promotoria de Justiça do Meio Ambiente
+da Capital, no âmbito do Inquérito Civil em epígrafe. O objeto trata-se de analisar a
+documentação sob a perspectiva da proteção ambiental, apresentada pela ARTESP
+e pelos órgãos licenciadores referente ao projeto "Nova Raposo Tavares”.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 5/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+790
+
+
+===== PAGINA 6 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+1.2. Breve relato
+
+Em 04/09/2024, o Movimento “Nova Raposo, Não” encaminha
+representação (fls. 3 a 33) à Promotoria de Justiça do Meio Ambiente da Capital,
+noticiando que a ARTESP lançou consulta pública referente ao Projeto Nova Raposo
+sem a devida transparência e publicidade, restringindo a efetiva participação social,
+tendo em vista a realização de apenas duas audiências públicas.
+
+Além disso, os representantes informam que o projeto implicará em
+grande desmatamento de áreas verdes que integram o patrimônio ambiental da
+cidade de São Paulo. Alegam também que o projeto fortalece o modelo rodoviarista
+de transporte individual por veículos, o que implicaria em substancial aumento das
+
+emissões de carbono e intensificação do trânsito na região.
+
+Instada a prestar esclarecimentos, a ARTESP alegou que publicou
+com a devida antecedência os avisos sobre as audiências públicas e realizou consulta
+pública por 30 dias. Constam no endereço eletrônico da ARTESP! documentos
+relacionados à Consulta Pública nº 03/2024, com indicação de disponibilidade para
+manifestações no período de 15/03/2024 até 16/04/2024, e às Audiências nº 03/2024,
+no município de São Paulo na data de 28/03/2024, e nº 04/2024, em Vargem Grande
+Paulista em 03/04/2024, ambas com gravação audiovisual disponível.
+
+A ARTESP informou que os avisos foram divulgados por meios
+oficiais, jornais de grande circulação e redes sociais. Esclareceu que os projetos de
+engenharia disponibilizados são meramente referenciais, sendo que os definitivos
+serão desenvolvidos pela concessionária após a assinatura do contrato. Ressaltou,
+ainda, que o início da execução está condicionado à obtenção das autorizações e
+certificações ambientais pertinentes. Os resultados da participação social foram
+apresentados em Relatório de Aproveitamento das Contribuições Apresentadas no
+Âmbito da Consulta e Audiências Pública
+
+1 Endereço eletrônico http://www .artesp.sp.gov.br/Style%20Library/extranet'novas-
+paginas/CustomPage.aspx?page=126
+2 Endereço eletrônico
+http://www .artesp.sp.gov.br/Shared%20Documents/Relat%C3%B3rio%20de%20Aproveitamento%20d
+as%20ContribuivC3%ATHC3%B5es%20-%20Lote%20Nova%20Raposo ida.pdf
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 6/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+791
+
+
+===== PAGINA 7 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+manifestações cadastradas durante a Consulta Pública e tampouco a transcrição, lista
+
+de presença e ata das Audiências.
+
+Em 27/12/2024, a CETESB informou, por meio do Ofício nº 273/20241
+(fls. 373 e 374), que a Secretaria de Parcerias em Investimentos protocolou consulta
+prévia pelo processo digital CETESB nº 061507/2024-16 quanto ao documento
+técnico para instrução de solicitação de licenciamento ambiental, estando este em
+análise no Departamento de Licenciamento com Avaliação de Impacto Ambiental.
+Foram solicitadas vistas ao processo nº 061507/2024-16 em 12/08/2025 por esse
+CAEx, ocasião na qual verificou-se que a consulta prévia até o momento, não possui
+Parecer conclusivo. Por fim, com manifestação da CETESB pelo Ofício nº 085/2025/1
+(fl. 689), de 09/06/2025, consta que o processo de licenciamento do trecho Cotia-
+Embu das Artes ainda não foi iniciado.
+
+Em 17/01/2025, o IPHAN apresentou a Nota Técnica
+nº 1116/2024/COTEC IPHAN-SP/IPHAN-SP encaminhada pelo Ofício
+nº 209/2025/GAB PRESI/PRESI-IPHAN (fls. 404 a 409), e por sua vez, informou que
+sua participação no processo de licenciamento ambiental se dá após solicitação
+formal da CETESB, nos termos da Instrução Normativa nº 01/2015, com apresentação
+obrigatória da FCA — Ficha de Caracterização da Atividade, o que não havia ocorrido
+
+até aquela data.
+
+Em 21/02/2025, a Secretaria do Verde e do Meio Ambiente (SVMA)
+do município de São Paulo comunicou pelo Ofício nº 242/SVMA.G.AJ/2025 (fls. 429 a
+430), que ainda não foi solicitada a manifestação técnica do órgão ambiental municipal
+pelo órgão estadual com competência para o licenciamento da atividade, conforme
+previsto no artigo 5º da Resolução CONAMA nº 237/97.
+
+Em 04/04/2025, a Secretaria do Verde e do Meio Ambiente de Cotia
+respondeu com o Ofício SVMA nº 431/2025 (fls. 492 a 494) informando sobre a
+ausência de disponibilidade técnica para atuar no processo de licenciamento, a cargo
+do órgão estadual.
+
+Em 05/05/2025 foi encaminhado o Contrato nº 0548/ARTESP/2025
+(fls. 546 a 678) por meio do Ofício nº 0065425291/2025-ARTESP-PRE-GAB-ACE (fls.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 T/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+792
+
+
+===== PAGINA 8 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+543 a 545). Nesse Ofício, também foi disponibilizado endereço eletrônico? para
+
+acesso aos documentos técnicos utilizados como referência nesse Parecer Técnico.
+
+1.3. Material de análise
+
+Documentos acostados aos autos do IC nº 0482.0000571/2024 até o
+dia 07/08/2025 (fls. 1 a 764), documentos técnicos disponíveis no Lote 34 de
+Concessão das rodovias paulistas sob gestão da ARTESP* e autos do processo digital
+CETESB nº 061507/2024-16, referente à consulta prévia, inclusos até o dia
+12/08/2025 (fls. 1 a 600).
+
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO
+
+O Governo do Estado de São Paulo, através da sua Agência
+Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo
+(ARTESP) publicou, em 26/07/2024, edital para concorrência internacional nº 02/2024
+para a concessão dos servicos públicos de ampliação, operação, conservação,
+manutenção e realização dos investimentos necessários para a exploração do sistema
+
+rodoviário do lote Nova Raposo.
+
+Segundo o contrato, foram realizadas audiências públicas nos dias
+28/03/2024 e 03/04/2024, nos municípios de São Paulo e Vargem Grande Paulista,
+cuja comunicação se deu pelo sítio eletrônico da ARTESP e através de publicação no
+Diário Oficial do Estado de São Paulo (DOE/SP), em 15/03/2024.
+
+Pois bem, o lote Nova Raposo é composto pelo sistema rodoviário
+
+compreendido pelos seguintes trechos:
+
+e SP-280 — Rodovia Pres. Castello Branco — km 13,290 ao km
+54,140;
+
+3 Endereço eletrônico http://www .artesp.sp.gov.br/Style%20Library/extranet/transparencia/contratos-
+de-concessao.aspx, Lote 34
+
+4 Endereço eletrônico http://www .artesp.sp.gov.br/Style%20Library/extranet/transparencia/contratos-
+de-concessao.aspx
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 8/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+793
+
+
+===== PAGINA 9 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+e SP-270 — Rodovia Raposo Tavares — km 10,940 ao km 34,065;
+
+e SP-029- Rodovia Cel. PM Nelson Tranchesi — km 32,58 ao km
+43,70;
+
+e Trecho Cotia-Embu das Artes — via a ser construída,
+interligando a SP-270 a BR-116 (Rodovia Régis Bittencourt),
+com 16,5 km de extensão».
+
+Figura 2. Lote Nova Raposo
+SP- 280, em azul claro; SP- 270, em vermelho: SP- 029, em rosa; Cotia- Embu, em azul escuro
+
+igariguama
+
+E'5>-770 AEDES
+
+-yltâpecetipa
+
+“da Serra 2 A
+Fonte: Google Earth, com marcação dos autores com informações do Anexo 2 e Anexo 12 do
+contrato de concessão
+
+Sa
+tp
+
+O certame foi vencido pela Concessionária Ecovias Raposo-Castelo
+SA, que firmou o contrato nº 0548/ARTESP/2025, em 14/03/2025, com vigência de 30
+anos, cujo valor estimado é de R$ 7.979.783.695,82 (sete bilhões, novecentos e
+setenta e nove milhões, setecentos e oitenta e três mil, seiscentos e noventa e cinco
+
+reais e oitenta e dois centavos), na data-base de março/2024.
+
+5 Conforme Estudo de Tráfego Lote 1 — Nova Raposo, Produto P10 Estimativa de demanda e receita,
+julho/2024.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 9/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+794
+
+
+===== PAGINA 10 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Por esse instrumento, a concessionária se compromete a fazer os
+
+serviços e investimentos necessários para atender os indicadores de desempenho
+pactuados. Estão previstas, para além das intervenções de conservação e melhorias
+no pavimento, drenagem, sinalização e dispositivos de segurança nas rodovias
+existentes, a ampliação da capacidade das vias mediante a implantação de faixas
+adicionais, duplicações, vias marginais, a construção da interligação entre as rodovias
+Raposo Tavares (SP-270) e Régis Bittencourt (BR-116), reconstrução, adequação e
+construção de passarelas, dispositivos de entrocamento, túneis, pontes e viadutos,
+
+entre outros.
+
+Cabe ainda à concessionária, entre outros, implantar iluminação
+pública em trechos urbanos e de serra, interseções, passarelas, travessias de
+pedestres e ciclistas; realizar estudos no máximo a cada cinco anos para identificar
+locais onde há travessia de pedestres; regularizar pontos de parada de ônibus,
+dotando de plataforma, cobertura, iluminação e acessibilidade; realizar estudos e
+implantar ciclovias; implantar calçamento para circulação de pedestres*.
+
+Dentre as obrigações da concessionária consta a de “obter tempestiva
+e regularmente, manter e renovar, todas as licenças, autorizações, permissões, dentre
+outras exigências necessárias junto às autoridades municipais, estaduais ou federais
+porventura envolvidas na prestação dos serviços e realização dos investimentos
+devidos, incluindo as relacionadas ao atendimento da legislação ambiental, bem como
+manter vigentes os programas ambientais impostos pela autoridade ambiental em
+
+qualquer fase de licenciamento e atender às determinações, condicionantes e
+
+medidas mitig
+
+ê Conforme Anexo 7 — Serviços correspondentes às funções de ampliação, do contrato de concessão.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 10/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+795
+
+
+===== PAGINA 11 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+2.1. Intervenções na Rodovia Pres. Castello Branco (SP-280)
+
+O trecho da Rod. Pres. Castello Branco (SP-280) que faz parte da
+concessão compreende os km 13,290 ao km 54,140 entre Capital, na confluência das
+marginais dos rios Tietê e Pinheiros, e o dispositivo de acesso ao Distrito Industrial de
+Araçariguama, perfazendo 40,850 km de extensão. Esse trecho anteriormente fazia
+
+parte da concessão do Lote 12, a cargo da ViaOeste.
+
+Google Fart
+Rs
+
+a
+
+Fonte: Google Earth, com marcação dos autores
+
+As intervenções de ampliação e melhoramentos previstas no trecho
+se referem, entre outras, à implantação de 21,89 km de faixa adicional (km 32,25 ao
+km 54,14); implantação de dispositivo de acesso no km 46,62; novas alças nos
+dispositivos dos km 22,20 e km 22,80 e reconstrução dos dispositivos de acessos dos
+km 36 e km 50,90; implantação de 0,49 km de vias marginais na pista sentido Capital
+(km 30,74 e km 31,23); implantação de três passarelas e reconstrução de outras três;
+regularização de 82 acessos e pontos de parada de ônibus”.
+
+Segundo os Planos de Investimentos, essas intervenções terão início
+em 01/07/2028.
+
+” Conforme Anexo 12 — Projetos Funcionais da Malha Concedida e Anexo 14 — Planos de Investimentos,
+do contrato de concessão.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 11/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+796
+
+
+===== PAGINA 12 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+2.2. “Intervenções na Rodovia Raposo Tavares (SP-270)
+
+O trecho da Rod. Raposo Tavares (SP-270) que faz parte da
+concessão vai do km 10,940 ao km 34,065, entre a interseção com a R. Sapetuba, na
+Capital, e pouco além do dispositivo de acesso ao centro de Cotia, totalizando
+23,125 km de extensão. Esse trecho anteriormente estava a cargo do DER/SP.
+
+RES
+
+Figura 4. Rodovia Raposo Tavares - km 10,940 ao km 34,065
+
+|
+
++ VER
+Google Earth
+
+DS
+5%
+
+Fonte: Google Earth, com marcação dos autores
+
+As intervenções de ampliação e melhoramentos previstas no trecho
+se referem, entre outras, à implantação 34,28 km de faixa adicional (km 15,27 ao
+km 32,41); construção de três passagens inferiores (km 12,47, km 23,75 e km 26,15)
+e melhoria de outra (km 30,87); implantação de três dispositivos de acessos
+(km 22,98, km 25,10 e km 28,07), reconstrução de seis outros (km 16,60, km 21,49,
+km 24,08, km 27,28, km 34,02 e km 34,65) e melhoria de mais quatro (km 17,58,
+km 18,33, km 20,55 e km 21,83); construção de 42,28 km de vias marginais, incluindo
+recuperação de vias locais existentes que serão devolvidas aos municípios para
+conservação e operação, e reconfiguração dos acessos e saídas à pista principal
+(km 10,94 ao km 32,41); adequação de uma e a reconstrução de outras 27
+
+passarelas; regularização de 46 acessos e pontos de parada de ônibus.
+
+8 Conforme Anexo 12 — Projetos Funcionais da Malha Concedida e Anexo 14 — Planos de Investimentos,
+do contrato de concessão.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 12/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+797
+
+
+===== PAGINA 13 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Segundo os Planos de Investimentos, essas intervenções terão início
+em 01/07/2029.
+
+2.2.1. Intervenções no sistema viário da Capital
+
+O contrato prevê ainda a obrigação da concessionária promover
+intervenções no sistema viário municipal da Capital no intuito de melhorar a circulação
+na região do Butantã facilitando a conexão da Rod. Raposo Tavares com a Marginal
+
+Pinheiros.
+
+Está prevista uma nova ponte sobre o rio Pinheiros, interligando a
+pista sentido Centro da Av. Escola Politécnica com a pista sentido Castello Branco da
+Av. Marginal Pinheiros; a conexão entre a Rod. Raposo Tavares e a Av. Prof.
+Francisco Morato com túneis e trincheiras na diretriz da R. Sapetuba; e a construção
+de duas novas pontes, uma para cada sentido, sobre o Rio Pinheiros nas imediações
+das pontes Bernardo Goldfarb e Eusébio Matoso. Após a entrega dessas obras, a
+
+conservação e operação ficarão a cargo do município.
+
+Segundo os Planos de Investimentos, essas intervenções terão início
+em 01/08/2029.
+
+Fonte: excerto do projeto funcional DE-SP00000270-010.035-000- F01/005 REV A.
+
+9 Conforme Anexo 12 — Projetos Funcionais da Malha Concedida e Anexo 14 — Planos de Investimentos,
+do contrato de concessão.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 13/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+798
+
+
+===== PAGINA 14 =====
+MPSP
+
+Figura 6. Interligação Rod. Raposo Tavares/Av. Prof. Francisco Morato
+
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Figura 7. Pontes sobre o rio Pinheiros nas proximidades das pontes Bernardo Goldfarb e
+Eusébio Matoso
+
+pari ; sê SM mai? Aátia E
+Fonte: excerto do projeto funcional DE- SP00000270-010.021-000- F01/001 REV C.
+
+2.3. Intervenções na Rodovia Cel. PM Nelson Tranchesi (SP-029)
+
+A rodovia Cel. PM Nelson Tranchesi (SP-029) faz parte da concessão,
+desde o km 32,58, junto à Rod. Pres. Castello Branco, até o km 43,70, junto à Rod.
+Raposo Tavares, totalizando 11,12 km. Assim como no caso da SP-270, esse trecho
+estava sob responsabilidade do DER/SP.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 14/69
+e-mail: caex tec.cientifico(Dmpsp.mp.br
+
+799
+
+
+===== PAGINA 15 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+oe
+
+Figura 8. Rodovia Cel. PM Nelson Tranchesi - km 32,58 km 43,70
+
+Fonte: Google Earth, com marcação dos autores
+
+As intervenções de ampliação e melhoramentos previstas na rodovia
+contemplam, entre outras, a duplicação de 5,10 km (entre o km 38,60 e 43,70); a
+construção de uma passagem inferior (km 37,73) e de um retorno (km 44,10), além
+da melhoria de dois dispositivos de acesso (km 41,80 e 42,55); e a adequação de 11
+acessos e pontos de parada de ônibus!º. Segundo os Planos de Investimentos, as
+
+intervenções terão início em 01/07/2031.
+
+Embora não citado nos Planos de Investimentos, consta versão do
+projeto funcional com a indicação de conexão por túnel com o dispositivo de acesso
+ao centro de Cotia, na altura do km 34 da Rod. Raposo Tavares.
+
+1º Conforme Anexo 12 — Projetos Funcionais da Malha Concedida e Anexo 14 — Planos de
+Investimentos, do contrato de concessão.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 15/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+800
+
+
+===== PAGINA 16 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+o
+
+cional DE-SP0000029-032.045-000-F01-00
+
+Fonte: excerto do projeto fun 1REVA.
+
+2.4. | Intervenções no trecho Cotia-Embu das Artes
+
+O trecho Cotia-Embu das Artes trata-se de uma nova ligação
+rodoviária entre a Rod. Raposo Tavares (SP-270) e a Rod. Régis Bittencourt (BR-
+116), com 16,5 km de extensão, na qual seus primeiros 600 m, aproximadamente,
+seguem parte do sistema viário no município de Cotia e os demais com abertura em
+
+terreno com pouco ou nenhum ambiente construído”.
+
+1 Conforme Anexo 12 — Projetos Funcionais da Malha Concedida e Anexo 21 — Estudo de Viabilidade
+Técnico-Econômica, do contrato de concessão.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 16/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+801
+
+
+===== PAGINA 17 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Figura 10. Trecho Cotia-Embu das Artes
+
+Google Earth | / : Mapecerica da Se
+
+Fonte: Google Earth, com marcação dos autores
+
+Esta ligação viária contará com pista dupla, com duas faixas por
+sentido, com a previsão de 2,5 km em túnel, um dispositivo de acesso junto à Rod.
+Régis Bittencourt (BR-116) e a implantação de 17 acessos e pontos de ônibus.
+
+Segundo os Planos de Investimentos, as intervenções terão início em
+01/09/2029.
+
+3. ANÁLISE TÉCNICA
+3.1. Considerações iniciais
+
+3.1.1.Manifestações dos órgãos licenciadores
+
+A CETESB'2 informa que está em análise no Departamento de
+Licenciamento com Avaliação de Impacto Ambiental a consulta prévia!? para instrução
+de solicitação de licenciamento ambiental para intervenções decorrentes do Projeto
+de Concessão Rodoviária do Lote Nova Raposo e que não foram emitidos parecer
+
+12 Ofício nº 273/2024/1 (fls. 373), de 27/12/2024, em resposta ao Ofício nº 5593/24 - 4º PJMAC -
+0482.0000571/2024 — DIGITAL, de 02/12/2024.
+13 Processo digital CETESB nº 061507/2024-16, autuado em 20/08/2024.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 17/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+802
+
+
+===== PAGINA 18 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+técnico ou licença. Posteriormente, especificamente em relação ao Trecho Cotia-
+
+Embu das Artes, esclareceu que não foi iniciado o processo de licenciamento*.
+
+Por sua vez, tanto o IPHAN'S, quanto a Secretaria Municipal do Verde
+e Meio Ambiente da Capital'º, informaram que ainda não haviam sido provocadas pela
+CETESB a se manifestar.
+
+Por fim, a Secretaria Municipal de Verde e do Meio Ambiente de
+
+Cotia!” informou que não tem disponibilidade técnica para atuar no procedimento de
+
+a
+
+O d-Sse qUe O DrOCE Je onciamento esta eme ago IN di Na
+
+B em fase de consulta neio do processo digital CETESB
+
+nº 00150//2024-16 composto por documentação técnica preliminar. A etapa de
+onsulta prévia tem objetivo de definir o estudo que fundamentará a análise de
+ambiental e este procedimento não apresenta, até o momento, parecer concl O
+
+3.1.2. Audiências Públicas sobre o Processo de Concessão
+
+De acordo com o contrato de concessão, foram realizadas consultas
+públicas, no período de 15/03/2024 até 16/04/2024, e duas audiências públicas, uma
+em 28/03/2024 e outra em 03/04/2024, nos municípios de São Paulo e Vargem
+Grande Paulista, sendo comunicadas através de publicação no DOE/SP, de
+15/03/2024, e no sítio eletrônico da ARTESP.
+
+14 Ofício nº 085/2025/1 (fls. 689), de 09/06/2025, em resposta ao Ofício nº 1702/25 - 4º PJMAC -
+0482.0000571/2024 — DIGITAL, de 24/04/2025.
+
+15 Nota Técnica nº 1116/2024/COTEC IPHAN-SP/IPHAN-SP, de 15/01/2025 (fls. 407/409), em resposta
+ao Ofício nº 5596/24 - 4º PJMAC, de 02/12/2024.
+
+16 Informação SVMA/CLA/DAIA nº 120167388, de 19/02/2025 (fls. 431), encaminhada pelo Ofício
+nº 242/SVMA.G.AJ/2025 (fl. 429), de 20/02/2025, em resposta ao Ofício nº 5594/24 - 4º PJMAC, de
+02/12/2024.
+
+1 Ofício SVMA nº 431/2025, de 28/03/2025 (fls. 492/494), em resposta ao Ofício nº 5595/24 - 4º PJMAC,
+de 02/12/2024.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 18/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+803
+
+
+===== PAGINA 19 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Segundo a Agência, o prazo de divulgação das audiências públicas
+foi superior aos oito dias úteis exigidos pela legislação, Lei Federal nº 14.133/2021, e
+que houve ampla participação popular, tendo sido recebidas 1.849 contribuições.
+Apresentam documentos comprobatórios da divulgação e o relatório de
+aproveitamento das contribuições apresentadas. Contudo, não foram identificadas
+transcrições ou atas das audiências. Tampouco, houve acesso às fichas com as
+
+manifestações populares realizadas durante o período da consulta pública.
+
+Destaca-se que as Audiências realizadas ocorreram sob
+responsabilidade da ARTESP e tiveram por finalidade apresentar o projeto de
+concessão dos servicos públicos de ampliação, operação, conservação, manutenção
+
+e realização dos investimentos necessários para a exploraçao do sistema rodoviário
+
+do lote Nova Raposo, tratado no edital para concorrência internacional nº 02/2024.
+
+3.2. Considerações acerca da análise socioambiental
+
+Na atual etapa de análise ambiental do empreendimento, as
+informações técnicas ainda são preliminares. Foi apresentado ao órgão ambiental,
+dentre outros documentos, relatório intitulado “Consulta à CETESB” (fls. 268 a 583)
+com anexo 1 correspondente ao Relatório Ambiental (fls. 303 a 583) e arquivos
+georreferenciados contendo essencialmente a ADA (área diretamente afetada),
+
+previsão de áreas estimadas de desapropriação e o traçado do empreendimento.
+
+O material disponibilizado faz parte da instrução do processo de
+consulta prévia, o qual tramita na CETESB por meio do processo nº 061507/2024-16,
+
+sendo esta documentação, juntamente com os anexos do Contrato de Concessão
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 19/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+804
+
+
+===== PAGINA 20 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+nº 03/2025'8, a base para análise técnica ambiental por esse CAEx, apresentada a
+
+seguir.
+
+Conforme explicitado previamente, a consulta prévia compreende a
+análise de documentação técnica preliminar para a definição do estudo adequado
+para a verificação pelo órgão ambiental acerca da viabilidade ambiental do
+
+empreendimento.
+
+Dada a complexidade das obras, nos próximos itens será apresentado
+embasamento para o posicionamento dessa Assessoria Técnica na qual entende-se
+que o estudo ambiental mais apropriado consiste na elaboração de EIA/RIMA, sendo
+considerado o empreendimento integral, haja vista os efeitos sinérgicos de todo o
+conjunto das intervenções. A CETESB disponibiliza o Manual para Estudos
+Ambientais com AIA (Avaliação de Impacto Ambiental)!º?, com definições do escopo
+dos conteúdos a serem abordados, o qual também foi utilizado como referência nas
+
+análises dos impactos a serem considerados no estudo.
+
+3.3. Aspectos ambientais
+
+Conforme relatado, o projeto de concessão Nova Raposo é composto
+pelo sistema rodoviário compreendido por trechos da SP-280 — Rodovia Pres. Castello
+Branco (km 13,290 ao km 54,140); da SP-270 — Rodovia Raposo Tavares (km 10,940
+ao km 34,065); SP-029 — Rodovia Cel. PM Nelson Tranchesi (km 32,58 ao km 43,70);
+e trecho rodoviário Cotia-Embu das Artes a ser construído, interligando a SP-270
+(Raposo Tavares) com a BR-116 (Rodovia Régis Bittencourt).
+
+Ao todo, o lote de concessão possui pouco mais de 90km de rodovias,
+sendo na sua maioria já existentes. Dessa forma, as intervenções consistem
+majoritariamente na ampliação dos viários (novas faixas de rolamento e vias
+
+marginais) e implantação de dispositivos de acesso e de transposição, destacando
+
+t8 Endereço eletrônico | http://www.artesp.sp.gov.br/Style%20Library/extranet/rodovias/rodovia-
+interna.aspx?id=30, lote 34
+
+19 Endereço eletrônico https://cetesb.sp.gov.br/licenciamentoambiental/wp-
+content/uploads/sites/32/2024/08/Manual-para-Elaboracao-de-Estudos-com-AIA.pdf
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 20/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+805
+
+
+===== PAGINA 21 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+apenas o trecho de 16,5 km de extensão da rodovia Cotia-Embu das Artes a ser
+
+contruído para interligação da Rodovia Raposo Tavares com a Rodovia Régis
+Bittencourt que possui cerca de 16,5km de extensão.
+
+Nesse sentido, as intervenções ambientais decorrentes das obras
+pretendidas ocorrerão às margens das Rodovias, boa parte dentro da faixa de
+domínio. Entretanto, tais obras, devido ao porte significativo, incorrerão
+inevitavelmente em impactos ambientais relevantes, como intervenções em Áreas de
+Preservação Permanente — APP, supressão de vegetação nativa da Mata Atlântica,
+supressão de árvores isoladas e intervenção em Parque, Áreas Verdes e Unidades
+
+de Conservação.
+
+Tais características são inerentes à implantação, duplicação e
+ampliação de rodoviais, razão pela qual são previstas como atividades/obras
+potenciamente causadoras de impacto ambiental significativo, conforme Resolução
+CONAMA nº 01/1986, que dependem de elaboração de EIA/RIMA para subsídio ao
+devido processo de licenciamento ambiental.
+
+Conforme verifica-se no material consultado/fornecido pela ARTESP,
+bem como material constante no Processo CETESB nº 061507/2024-16, já constam
+estudos ambientais preliminares com levantamento de diversas implicações
+ambientais das obras pretendidas no pacote de concessão. Conforme demonstrado
+no Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do Lote 1, foi
+apontada a supressão de pouco mais de 19,00 ha de vegetação nativa, sendo
+aproximadamente 18,00 ha em estágio médio de regeneração e 1,00 ha em estágio
+avançado de regeneração.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 21/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+806
+
+
+===== PAGINA 22 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Figura 11. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do Lote 1
+
+Intervenção em
+AS Tipo de Unidade de
+” Tipo de Obras Ano de vegetação Estágio de Total de Supressão Realocação de Conservação de
+Rodovias Previstast implantação Municípios Subtrecho (km) fi Sd a pri  ponentenias q ão (h população? Pi ão In 1 Enquadramento Observação
+Florestal 2010) e/ou zona de
+Amortecimento
+Vegetação
+Duplicação 7 Cotia km386040km4370 Sim  Secundáriada mago 0.639256 Sim Não
+Ombrófila Densa
+Rotatória Alongada 7 Cotia km 41,80 Sim Não Não aplicável Não aplicável Sim Não
+Passagem inferior 7 Itapevi km 37,73 Sim Não Não aplicável Não aplicável Sim Não
+Novas OAEs 7 Itapevi km 37,73 E Não Não aplicável Não aplicável Sim Não EIA-RIMA pipe
+Vegetação
+sP 029 Túnel 5,6e7 Cotia  Km43,]0a0km44,13 Sim agencies da Médio 1014185 Sim Não
+Ombrófila Densa
+Rotatória Alongada 7 Cotia km 42,55 Sim Não Não aplicável Não aplicável Não Não
+Retorno em U 7 Cotia km 44,10 Sim Não Não aplicável Não aplicável Não Não
+Itapevi, Cotia e ' Dispensado de licenciamento (DD
+s s: - - - . .
+Úlntrio É end pn dO ra si nº 022/2024/1), caso as obras não
+Sanga ultrapassem os limites da faixa de Não aplicável
+1 Pontos de ônibus 7 se ho à OA ;m 32,58 a0 km 43,7 E É ES a E Não domínio e não haja realocação de
+andira ESSO
+Implantação de faixa Cotia, Osasco, 9 > Vegetação E y
+ps Hd São Paulo Km 15,27a0km3241 Sim Secundária da ; Sim Não
+Cotia, Osasco, Floresta tio Uiiadto
+Marginais 5,6,7 São Paulo Km 10,94 a0km3241 Sim Ombrófila Densa Sim Não
+y oro beso 5 São Paulo Não aplicável Sim Não Não aplicável Não aplicável Não Não
+Nova Trincheira 5 São Paulo Não aplicável Sim Não Não aplicável Não aplicável Sim Não
+Túnel 5 São Paulo Não aplicável Sim Não Não aplicável Não aplicável Sim Não
+Nova passagem inferior 5 São Paulo km 12,47 Sim Não Não aplicável Não aplicável Não Não
+Reconstrução de parclo 5 São Paulo km 16,64 Sim Não Não aplicável Não aplicável Sim Não a
+cora da faixa de
+spam Melhoria de alça 5 São Paulo km 17,58 Sim Não Não aplicável Não aplicável Sim Não as Etapas
+- Melhoria de dispositivo ' E ' , 7 E realocação de
+pda 6 São Paulo km 18,83 Sim Não Não aplicável Não aplicável Sim Não ea
+Melhoria de parclo 6 São Paulo Km 20,55 Sim Não Não aplicável Não aplicável Sim Não
+Reconstrução de alça 6 São Paulo km 21,49 Sim Não Não aplicável Não aplicável Não Não
+cada 7 Osasco km 21,83 Sim Não Não aplicável Não aplicável Não Não
+semidirecional
+Nova alça 7 Cotia km 22,98 Sim Não Não aplicável Não aplicável Não Não
+Novo dispositivo , a ; E a j
+pm 7 Cotia km 23,75 Sim Não Não aplicável Não aplicável Sim Não
+Reconstrução detrevo 7 Cotia km 24,08 Sim Não Não aplicável Não aplicável Não Não
+Nova alça Cotia km 25,10 Sim Não Não aplicável Não aplicável Sim Não
+o
+Fonte: Quadro 7- 4, processo nº 061507/2024-16, fls. 295, 2023
+Figura 12. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do Lote 1
+Intervenção em
+Forada — Tipode Unidade de
+Tipo de Obras Ano de vegetação Estágio de Total de Supressão Realocação de Conservação de
+Rodovias previstas Gem) faixa de (Inventário — conservação — de vegetação (ha) — população? Proteção Integral Enquadramento Observação
+Florestal 2010) efou zona de
+Amortecimento
+ope Copos 7 Cotia km 26,15 Sim Não Não aplicável Não aplicável Não Não
+liamante
+Vegetação
+Reconstrução de trevo 7 Cotia km 27,28 Sim a a Médio Ea. Não Não
+Ombrófila Densa
+Vegetação
+, . Secundária da . Contabilizado nas . .
+' ' 2
+Nova alça 8 Cotia km 28,07 Sim demo Médio Tess de duplicação Sim Não
+Ombrófila Densa
+Melhoria de dispositivo , . , ,
+a 8 Cotia km 30,87 Sim Não Não aplicável Não aplicável Não Não
+ltamante
+Reconstrução de 8 Cotia km 34,02 Sim Não Não aplicável Não aplicável Não Não
+dispositivo diamante
+Recomstnação de 8 Cotia km 34,65 Sim Não Não aplicável Não aplicável Não Não
+dispositivo trevo
+Dispensado de licenciamento (DD
+e 022/2024/
+Novas OAEs 5 São Paulo km 12,47 E Não Não aplicável Não aplicável Não Não nº 022/2027), caso as obras não py, aplicável
+ultrapassem os limites da faixa de
+domínio
+Novas OAEs 5 São Paulo km 12,80 E Não Não aplicável Não aplicável Sim Não
+Novas OAEs 5 São Paulo km 16,63 E Não Não aplicável Não aplicável Sim Não
+Novas OAEs 5 São Paulo km 17,58 - Não Não aplicável Não aplicável Sim Não RAP (resto estudo da SP
+Novas OAEs 6 São Paulo km 18,83 - Não Não aplicável Não aplicável Sim Não implantação de faixa adicional e ppulação
+VR marginais) paro
+Novas OAEs 6 São Paulo km 20,57 E Secundáriada mgio Contabilizado nas Sim Não
+Floresta obras de duplicação
+Ombrófila Densa
+Novas OAEs 6 Osasco km 21,49 Não Não aplicável Não aplicável Não Não ENC ET
+Novas OAEs 7 Osasco km 22,03 É Não Não aplicável Não aplicável Não Não nº 022/2024/1), caso as obras não .
+E ape Não aplicável
+ultrapassem os limites da faixa de
+Novas OAEs 7 Cotia km 22,98 ; Não Não aplicável Não aplicável Não Não domínio
+RAP (mesmo estudo da Realocação de
+Novas OAEs 7 Cotia km 23,75 . Não Não aplicável Não aplicável Sim Não implantação de faixa adicional e Ee
+marginais) Popuiaç
+Novas OAEs 7 Cotia km 24,08 E Não Não aplicável Não aplicável Não Não
+Novas OAEs ã Cotia km 25,10 7 Não Não aplicável Não aplicável Não Não TESTS
+Novas OAEs 7 Cotia km 26,15 a Não Não aplicável Não aplicável Não Não nº 022/2024/1), caso as obras não À
+Não aplicável
+ultrapassem os limites da faixa de
+domínio
+Novas OAEs 7 Cotia km 27,28 296 / 600 a Não
+
+Fonte: Quadro 7-1, processo nº 061507/2024-16, fls. 296, 2023
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 22/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+807
+
+
+===== PAGINA 23 =====
+MPSP
+
+MINISTÉRIO PÚBLICO
+DO ESTADO DE SÃO PAULO
+
+CAEX — CENTRO DE
+APOIO À EXECUÇÃO
+
+Figura 13. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do Lote 1
+
+, Tipo de Obras
+Rodovias Previ
+
+)
+
+Novas OAEs
+
+Novas OAEs
+
+Novas OAEs
+
+Novas OAEs
+Alargamento de OAEs
+
+Alargamento de OAEs
+Alargamento de OAEs
+Passarelas
+Acessos
+
+Pontos de ônibus
+
+Implantação de faixa
+adicional e marginais
+
+Marginal
+
+Nova Alça
+
+Reconstrução de
+dispositivo diamante
+
+Nova Alça
+SP 280
+
+Nova trombeta
+
+Reconstrução de
+dispositivo diamante
+
+Novas OAEs
+
+Novas OAEs
+
+Ano de
+implantação
+
+6
+
+8
+
+8
+5,6,7e8
+5,6,7e8
+
+5,6,7e8
+
+4
+
+Municípios
+
+Cotia
+
+Cotia
+
+Cotia
+
+Cotia
+São Paulo
+
+Cotia
+
+Cotia
+São Paulo,
+Osasco, Cotia
+São Paulo,
+Osasco, Cotia
+São Paulo,
+Osasco, Cotia
+Araçariguama,
+Santana de
+Parnaiba,
+Itapevi, Barueri
+e Jandira
+Barueri, Jandira
+Barueri
+Itapevi
+
+Barueri
+
+Araçariguama
+
+Araçariguama
+
+Barueri
+
+Barueri
+
+Subtrecho (km)
+
+km 28,07
+km 29,68
+km 34,02
+
+km 34,06
+km 18,83
+
+km 29,68
+
+km 30,87
+km 10,94 ao km 34,07
+km 10,94 ao km 34,07
+
+km 10,94 ao km 34,07
+
+Km 32,25 ao km 54,14
+
+km 30,74 ao km
+31,225
+
+km 22,20
+km 36,00
+
+km 22,80
+km 46,62
+
+km 50,90
+
+Ponte sobre o Rio
+Tiete
+
+km 22,2
+
+faixa de
+domínio
+
+Fora da aa
+(Inventário
+Florestal 2010)
+
+Vegetação
+Secundária
+Floresta
+Ombrófila Densa
+- Não
+
+- Não
+
+Vegetação
+Secundária da
+Floresta
+Ombrófila Densa
+
+Não
+
+Sim Não
+
+Não Não
+
+Não Não
+
+Não Não
+Vegetação
+
+Secundária da
+
+Floresta
+
+Ombrófila Densa
+
+Sim
+
+Não Não
+
+- Não
+
+- Não
+
+Estágio de
+conservação
+
+Médio
+
+Não aplicável
+Não aplicável
+Não aplicável
+
+Não aplicável
+
+Não aplicável
+Não aplicável
+Não aplicável
+
+Não aplicável
+
+Médio
+
+Não aplicável
+Não aplicável
+Não aplicável
+
+Não aplicável
+
+Médio
+
+Não aplicável
+
+Não aplicável
+
+Não aplicável
+
+Total de Supressão Realocação de
+de vegetação (ha) população!
+
+Contabilizado nas
+obras de duplicação
+
+Não aplicável
+
+Não aplicável
+
+Não aplicável
+
+Não aplicável
+
+Não aplicável
+Não aplicável
+Não aplicável
+
+Não aplicável
+
+1.08061
+
+Não aplicável
+Não aplicável
+Não aplicável
+Não aplicável
+Contabilizado nas
+obras de implantação
+de faixa adicional e
+
+marginais
+
+Não aplicável
+
+Não aplicável
+
+Não aplicável
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Não
+
+Enquadramento
+
+RAP (mesmo estudo da
+implantação de faixa adicional e
+marginais)
+
+Dispensado de licenciamento (DD
+
+nº 022/2024/1), caso as obras não
+
+ultrapassem os limites da faixa de
+domínio
+
+Dispensado de licenciamento (DD
+nº 022/2024/1)
+
+EAS
+
+Dispensado de licenciamento (DD
+nº 022/2024/1)
+
+EAS
+
+neiamento (DD
+024/1)
+
+Dispensado de li
+
+Dispensado de licenciamento (DD
+
+nº 022/2024/1), caso as obras não
+
+ultrapassem os limites da faixa de
+domínio
+
+Observação
+
+Realocação de
+população
+
+Não aplicável
+
+Não aplicável
+
+Fora da faixa de
+domínio
+
+Não aplicável
+
+Fora da faixa de
+domínio
+
+Não aplicável
+
+Não aplicável
+
+Fonte: Quadro 7-1, processo nº 061507/2024-16, fls. 297, 2023
+
+Figura 14. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do Lote 1
+
+Intervenção em
+Forada | Tipo de Unidade de
+a Tipo de Obras Ano de E E vegetação Estágio de | Total de Supressão Realocação de Conservação de
+Rodovias previstast implantação Municípios Subtrecho (km) faixa de (Inventário — conservação de vegetação (ha) população? Proteção Integral Enquadramento
+Florestal 2010) e/ou zona de
+Amortecimento
+Novas OAEs 4 Barueri km 22,80 - Não Não aplicável Não aplicável Não Não
+Novas OAEs 4 Barueri km 30,81 y Não Não aplicável Não aplicável Não Não
+Novas OAEs 4 Itapevi km 36,00 - Não Não aplicável Não aplicável Não Não
+Vegetação Contabilizado nas
+Novas OAEs 4 Araçariguama km 46,62 - Esniaodo ro [SEAL mo Não
+Floresta de faixa adicional
+Ombrófila Densa marginais
+Novas OAEs 4 Araçariguama km 50,90 E Não Não aplicável Não aplicável Não Não
+Alargamento de OAEs 4 Hapevi km 32,24 - Não Não aplicável Não aplicável Não Não
+Alargamento de OAEs 4 Araçariguama km 44,05 . Não Não aplicável Não aplicável Não Não
+Barueri, Santana
+Passarelas 4 de Paraíba, ,m243080kmS300 - s E E E Não
+Araçariguama,
+Itapevi
+saia Dispensado de licenciamento (DD
+: Sd?
+
+Acessos 4 a, km 1329a0km 54,14 ' A , E Não NEED
+ultrapassem os limites da faixa de
+domínio e não haja realocação de
+
+população
+Pontos de ônibus 4 km 13,29 ao km 54,14 - - - - - Não
+Santana de
+Paranaíba
+Vegetação
+peorerein Cotia, Embu aa Ploresta Médio 14.191833 Sim Não
++, trecho duplicado com 5,6e7 es km 0 ao km 16,5 Sim — Ombrófila Densa
+Rodovia trecho em greenfietd Itapecerica da
+Embu- s EIA-RIMA
+Ci ão Floresta Avançado 1010338 Não Não
+Túnel 56e7  CotiacEmbu (ms91 aokm 8,84 298 / 600 Es dal de! Não
+
+das Artes
+
+Fonte: Quadro 7-1, processo nº 061507/2024-16, fls. 298, 2023
+
+Não aplicável
+
+Implantação de
+nova rodovia,
+duplicação,
+tiúnel, além de
+obras fora da
+faixa de domínio
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+23/69
+
+FL.
+808
+
+
+===== PAGINA 24 =====
+FL.
+809
+
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Figura 15. Quadro 7-1 — Enquadramento do Licenciamento Ambiental das obras do Lote 1
+
+Intervenção em
+Tipo de Unidade de
+
+Fora da
+
+.. TipodeObras — Anode o : vegetação Estágiode Total de Supressão Realocação de Conservação de
+Rodovias previstas implantação Municípios Subtrecho (km) faixa de (Inventário — conservação de vegetação (ha) — população? Proteção Integral Enquadramento Observação
+“O Florestal 2010) e/ou zona de
+
+Amortecimento
+Cotia, Embu das
+Artes, Não
+ltapecericada  kmOaokm 165 apricável
+Serra
+
+Acessos 5,6e7 Não
+
+Cotia, Embu das
+Artes, Não
+aplicável
+
+Pontos de ônibus 5,6e7 km O ao km 16,5 Não
+
+Itapecerica da — Interseção com a BR-
+Serra 6
+
+Fonte: Quadro 7-1, processo nº 061507/2024-16, fls. 299, 2023
+
+Nova trombeta 5,6e7 Sim Não Não Não Não Não
+
+Sob o aspecto ambiental foram apresentadas informações sobre
+diagnóstico dos Meios Físicos e Bióticos, tais como: caracterização climática,
+geologia, geomorfologia, pedologia, recursos hídricos, áreas legalmente protegidas,
+áreas internacionalmente reconhecidas, instrumentos de planejamento e conservação
+
+da biodiversidade e ecossistemas ameaçados.
+
+Destacam-se a seguir, alguns mapas retirados dos estudos
+ambientais preliminares avaliados, referentes à Suscetibilidade do Solo a Processos
+do Meio Físico, Hidrografia e Classes dos Cursos d'água, incidência de Área de
+Proteção e Recuperação aos Mananciais, Áreas Legalmente Protegidas, Uso do Solo
+no Bioma Mata Atlântica e Sobreposição de Temas Sensíveis para a Biodiversidade.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 24/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+
+===== PAGINA 25 =====
+810
+
+MPSP
+
+Figura 16. Mapa de Suscetibilidade do Solo a Processos do Meio Físico
+yo 1 tr er: «=
+
+-
+Tha
+
++
+“a
+1
+x
+
+MINISTÉRIO PÚBLICO CAEX — CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+205
+
+>
+o a rea A
+Ca Cá ST
+Locacional doSoloa Rodovias - Lote 1 Berman
+Sede Municipal Processos do Meio Físico == SP:270 Tese a E ARCADIS
+[Limite Municipal a — SP.280 “DaTAGEOS 223
+E3 Limite Estadual = — $P-029 “A E
+=» Média — Municipais SP ROADS
+E ams — Acesso Butantã j ra LOTE 1
+BE Mutoaia qu ico + Km Suscetibilidade do Solo a Processos do Meio Físico
+2 4 + [Eus fescara, x a
+ARcADIS SA | 1:150,000 [ee Única | 19/07/2024
+
+Fonte: Relatório Socioambiental - ARCADIS, processo nº 061507/2024-16, fls. 252, 2023
+Mapa de Hidrografia e Classes dos Cursos d'água
+
+E SERRO RE
+
+E SS ]
+; ai Rida PASO am
+a Ba | AE a) =
+ea
+
+NS
+ERES NU a Ba ARS o om)
+RE A É E Era O
+
+TEL
+
+É
+
+Na
+th AR ay
+
+E
+
+BRA
+o!
+e)
+
+ES na
+
+O aa g o , 3 | A q E) ar
+AR pa g e E a f Ts x à
+ERR = Tê: RES PE ES Lipe Si O tra ca DD Sa.
+FITA W o ER
+Locacional com os Rodovias - Lote 1 E. p
+de õ — SP. Foi:
+id pa ico pescado cunne re Frenas ide mei “SETESO 202m é 63 ARCADIS
+[3 Limite Estadual — SP-029 cia je
+—4 .3 — Municipais SP ROADS
+
+pes LOTE 1
+Pontos de Intersecção com os Recursos Hidricos)
+
+PA
+é
+== 24 — Acesso Butantã , [e -F
+= Abastecimento Público == Alça Av, Esc Politécnica! + is ds
+sa ,
+=: 6 Ponto de Captação 4" Es E Ear o fer
+ARCADIS SA | 1:150,000 [rica | 19/07/2024
+
+Fonte: Relatório Socioambiental - ARCADIS, processo nº 061507/2024-16, fls. 247, 2023
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 25/69
+e-mail: caex tec.cientifico(Dmpsp.mp.br
+
+
+===== PAGINA 26 =====
+DO ESTADO DE SÃO PAULO
+
+MPSP
+
+MINISTÉRIO PÚBLICO |
+
+CAEX — CENTRO DE
+APOIO À EXECUÇÃO
+
+o,
+gr
+
+EE
+“R$ EC So Pam 4
+
+—
+
+Referência Locacional Rodovias - Lote 1 Área de Proteção e Recuperação REFERÊNCIAS MACROUOCALIZAÇÃO
+[3 Limite Municipal = SP-270 E SBD - Subárea de Baixa Densidade e AM
+[E] Umte Estadual —— SP-020 SEC - Subárea Especial Corredor =Abeares et, 2914
+— Municipais SER - Subárea Envoltória da Represa a) from
+SOD - Subárea de
+
+SP ROADS
+
+CE 1 | ===
+nos a A
+Fonte: Relatório Socioambiental - ARCADIS, processo nº 061507/2024-16, fls. 541, 2023
+
+Referência Locacional Unidades de Conservação Rodovias - Lote 1 REFERÊNCAS NACAOLOCALTAÇÃO
+a E Ex ARCADIS
+Limite Estadual DB Uso Sustentável -RPPN  — b Pano:
+Terras Indígenas — Municipais. POA ” SP ROADS
+
+— Acesso Butantã + - —
+
+[3 Não Homologadas
+
+Outras Áreas Protegidas ——— — nm o E Áreas Legalmente das
+
+mM areTets 3 ARCADISSA | 1150000 Única 19/07/2024
+
+Fonte: Relatório Socioambiental - ARCADIS, processo nº 061507/2024-16, fls. 544, 2023
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171
+e-mail: caex tec.cientifico(Dmpsp.mp.br
+
+26/69
+
+
+===== PAGINA 27 =====
+MPSP
+
+MINISTÉRIO PÚBLICO
+DO ESTADO DE SÃO PAULO
+
+CAEX — CENTRO DE
+
+APOIO À EXECUÇÃO
+Figura 20. Mapa de Uso do Solo no Bioma Mata Atlântica
+E = EXE é + se: sé
+
+EX
+
+Ex] a
+Referência Locacional Uso do Solo no Biomada — Rodovias - Lote 1 NEC LA
+& Sede Municipal Mata Atlântica — SP-270 O ads
+DD Limite Municipal E Cobertura vegetal — SP-280 MAPBIOMAS, 2dz1 á
+[3 Limite Estadual iomiansdnd Eae ' s
+
+m , — Municipais +» ns P ROADS
+
+Rd Esc. Po | EN | [FF LoTE1 - Ecossistema de Mata Atlânt
+Área: das — Alça Av. Esc. Politécnica - Ecossistema intica
+sam + y mo A com em Declínio
+Do 20 4.8 N et jus — as a
+sRgas20%e] » f ARCADIS SA. po 1:150.000 E Única Ex 19/07/2024
+
+Fonte: Relatório Socioambiental - ARCADIS, processo nº 061507/2024-16, fls. 247, 2023
+Figura 21. Sobreposição de Temas Sensíveis para a Biodiversisdade
+
+23305
+
+23405
+
+STO xo EE Co
+Locacional ição de Temas Rodovias - Lote 1 nerRanNea. [nao mae
+& Sede Municipal Sensíveis para a Biodiversidade == SP.270 roça 5 ARCADI
+3 Limite Municipal 1 ms a EM ua
+LS Limite Estadual — ; ( [raguero
+Cavidades no = municipais Pr | = se SP ROADS
+Local de Ocorrência — Acesso Butantã ” irmã, Rá E
+aço a E: e— Alça Av. Esc. Politécnica + Ra LOTE 1
+m [7 (Sesi de potencia ocarência dos Valores (— ——— — a R pa Valores de
+me Prortários de Biodiversidade o 7 4 5 el CT Tr : Ea
+festema de Coorgenacas Geograteas - IRGAS2CO0| a FA ancas sa [O 1:150.000 [E Única | 1907/2024
+
+Fonte: Relatório Socioambiental - ARCADIS, processo nº 061507/2024-16, fls. 554, 2023
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 27/69
+
+e-mail: caex tec.cientifico(Dmpsp.mp.br
+
+812
+
+
+===== PAGINA 28 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+O estudo ambiental apresentado sob o título Relatório Socioambiental
+
+traz ainda conteúdo referente aos Riscos Socioambientais e Recomendações que
+consiste em uma prévia de uma avaliação de impacto ambiental com a identificação
+dos riscos e impactos ambientais potenciais e recomendações de ações voltadas para
+
+mitigação e/ou acompanhamento dos mesmos.
+
+Apesar do e do po i m asto onteúdo om e
+atisfatória, em consonância com o Manual para Elaboração de Estudos Ambienta
+om AIA (CETESB/2014), nota-se ausência de informações imprescindíveis sobre
+
+ntervenções em APP de cursos d'água iscentes, áreas legalmente protegidas em
+ambito municipal (em especial do município de São Paulo) e detalhamento das área
+de cobertura florestal que serão impactadas pelas obras pretendida
+
+Conforme Manual para Elaboração de Estudos Ambientais com AlA,
+o diagnóstico ambiental do meio biótico deve conter caracterização da flora, devendo
+para tanto ser apresentado para a Área de Influência Indireta — All, a descrição da
+cobertura vegetal original e atual da região, considerando o histórico de ocupação da
+área e de interferências antrópicas ou de conservação/preservação, a fim de definir o
+
+grau de alteração existente sobre os ecossistemas locais.
+
+Destaca-se que, em cruzamento das informações disponíveis para o
+projeto com as bases de dados oficiais, tais como hidrografia oficial do estado de São
+Paulo e limites de Parques e Unidades de Conservação Municipais, Estaduais e
+Federais, verificam-se diversas sobreposições das obras pretendidas com tais
+espaços ambientalmente protegidos, que não foram totalmente demonstrados nos
+estudos até então realizados.
+
+Não obstante, tais lacunas poderão/deverão ser sanadas quando da
+elaboração de estudo específico a ser orientado pela CETESB com a emissão do
+Termo de Referência no bojo do Processo CETESB nº 061507/2024-16. Nesse ponto
+cita-se também como possível modelo o Termo de Referência para Estudo de Impacto
+Ambiental e Relatório de Impacto Ambiental EIA/RIMA — Implantação e duplicação de
+
+rodovias? disponibilizado pelo Ministério dos Transportes.
+
+20 https://www.gov.br/transportes/pt-br/pt-br/assuntos/sustentabilidade/licenciamento-ambiental
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 28/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+813
+
+
+===== PAGINA 29 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Outro ponto de grande relevância para a definição do Termo de
+
+Referência para o EIA/RIMA a ser elaborado é a definição adequada dos órgãos
+intervenientes que deverão se manifestar ao longo do procedimento de licenciamento
+ambiental. Mostra-se indispensável a consulta aos municípios atingidos pelas obras,
+em conformidade com o Parágrafo Único do Artigo 5º da Resolução CONAMA
+nº 237/1997, bem como os órgãos gestores das Unidades de Conservação afetadas,
+a saber a Fundação Florestal em âmbito estadual e o ICMBio na esfera federal, se for
+o caso, além dos órgão municipais para Parques e Áreas Verdes municipais, como
+
+caso de São Paulo.
+
+No que tange a supressão de vegetação nativa, destaca-se o Art. 19
+do Decreto nº 6.660/2008, que regulamenta a Lei da Mata Atlântica, e menciona que
+será necessária a anuência prévia do Instituto Brasileiro do Meio Ambiente e dos
+Recursos Naturais Renováveis - IBAMA, quando a supressão de vegetação primária
+ou secundária em estágio médio ou avançado de regeneração ultrapassar os limites
+
+de 50 ha por empreendimento, isolada ou cumulativamente; ou 3 ha por
+
+empreendimento, isolada ou cumulativamente, quando localizada em área urbana ou
+
+região metropolitana.
+
+Destaca-se como um dos tópicos importantes que deve compor o
+EIA/RIMA, o estudo das alternativas tecnológicas e locacionais do empreendimento
+que consiste em uma avaliação comparativa das diferentes alternativas tecnológicas
+entre si e das alternativas locacionais possíveis referentes a diferentes traçados, de
+forma a evitar impactos negativos. Deve ser proposta uma alternativa preferencial,
+resultante dessa avaliação, baseada no nível de interferência de cada uma delas.
+
+De acordo com o Manual para Elaboração de Estudos Ambientais
+com AIA (CETESB/2014), e em atendimento ao Inciso | do Artigo 5º da Resolução
+CONAMA nº 01/1986, deve ser apresentada ainda a hipótese da “alternativa zero”,
+que consiste em um uma avaliação e prognóstico para um cenário de não implantação
+
+do empreendimento.
+
+Um outro instrumento decorrente de casos de licenciamento
+ambiental de empreendimentos de significativo impacto ambiental, com fundamento
+
+em EIA/RIMA é a Compensação Ambiental.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 29/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+814
+
+
+===== PAGINA 30 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+É importante frisar que a compensação ambiental exigida dentro de
+
+um procedimento de licenciamento ambiental decorre de um impacto ambiental
+negativo, ou seja, de um dano ambiental. Dessa forma, têm-se que a compensação
+ambiental visa “substituir” ou “ressarcir” a perda da qualidade ambiental decorrente de
+uma intervenção/supressão, sendo possível admitir que essa compensação ocorra
+em lugar distinto, desde que os benefícios e/ou ganhos ambientais das medidas
+compensatórias sejam equivalentes aos prejuízos e/ou perdas causadas pelo impacto
+ambiental negativo (dano ambiental).
+
+Nesse sentido, o Decreto Federal nº 4.340/2002 regulamenta o
+dispositivo previsto na Lei Federal nº 9.985/2000 que estabelece o direcionamento de
+recursos para criação e/ou manutenção de Unidades de Conservação (UCs) como
+compensação ambiental de empreendimentos de significativo impacto ambiental,
+
+assim considerado pelo órgão ambiental competente, com fundamento em EIA/RIMA.
+
+Conforme o Decreto mencionado, deverá ser estabelecido pelo órgão
+ambiental o grau de impacto, a partir do EIA/RIMA, considerando, exclusivamente, os
+impactos ambientais negativos sobre o meio ambiente. O valor da Compensação
+Ambiental será calculado pelo produto do grau de impacto e do Valor de Referência,
+relativo ao somatório dos investimentos necessários para implantação do
+
+empreendimento.
+
+Outrossim, será devida também a compensação ambiental em
+decorrência da supressão de vegetação nativa e/ou árvores isoladas, necessárias
+para a execução das obras pretendidas, com observância da metodologia utilizada
+para o cálculo da compensação definida pela Resolução SEMIL nº 02/2024, ou norma
+
+municipal mais restritiva.
+
+3.3.1.Impactos ambientais esperados
+
+Obras de duplicação e/ou ampliação de rodovias possuem grande
+potencial de geração de diversos impactos ambientais significativos, tais como
+
+a supressão de vegetação nativa e desmatamento de áreas inseridas em espaços
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 30/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+815
+
+
+===== PAGINA 31 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+ambientalmente protegidos, resultando na perda e fragmentação de habitats para a
+fauna e flora com consequente redução da biodiversidade, além de potencial impacto
+em espécies ameaçadas de extinção.
+
+Não obstante, no que se refere aos danos ambientais da supressão
+de vegetação do Bioma Mata Atlântica, destaca-se as vedações expressas na Lei
+Federal 11.428/2006 (Lei da Mata Atlântica) que estabelece:
+
+Art. 11. O corte e a supressão de vegetação primária ou nos estágios
+
+avançado e médio de regeneração do Bioma Mata Atlântica ficam vedados quando:
+
+| - a vegetação:
+
+a) abrigar espécies da flora e da fauna silvestres ameaçadas de
+extinção, em território nacional ou em âmbito estadual, assim declaradas pela União
+ou pelos Estados, e a intervenção ou o parcelamento puserem em risco a
+
+sobrevivência dessas espécies;
+
+b) exercer a função de proteção de mananciais ou de prevenção e
+
+controle de erosão;
+
+c) formar corredores entre remanescentes de vegetação primária ou
+
+secundária em estágio avançado de regeneração;
+d) proteger o entorno das unidades de conservação; ou
+
+e) possuir excepcional valor paisagístico, reconhecido pelos órgãos
+executivos competentes do Sistema Nacional do Meio Ambiente - SISNAMA;
+
+Nesse contexto, cumpre-nos destacar a grande importância dos
+remanescentes florestais da Região Metropolitana de São Paulo, que dentre os
+diversos serviços ambientais prestados, atuam para a proteção e conservação dos
+recursos hídricos voltados ao abastecimento público, sobretudo diante dos
+recorrentes episódios de escassez hídrica que têm ocorrido nos últimos anos, com
+impactos diretos aos sistemas públicos de tratamento e distribuição de água para a
+
+população.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 31/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+816
+
+
+===== PAGINA 32 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Outros impactos significativos das obras pretendidas são as
+
+intervenções em APP, obras de terraplanagem e movimentação do solo e
+interferências no subsolo (lençol freático) para a execução dos túneis previstos. Os
+impactos esperados dessas intervenções são a deterioração das condições
+qualiquantitativas dos recursos hídricos, com assoreamento dos corpos d'água,
+contaminação da água e interferência direta na dinâmica hidrogeológica.
+
+Destaca-se ainda que, a cobertura vegetal desempenha um papel
+essencial na regulação do clima, pois influencia a umidade do ar e a formação de
+chuvas. As áreas de cobertura florestal atuam diretamente no ciclo da água reciclam
+a água e na evapotranspiração. A vegetação nativa abriga diversidade de espécies
+que ajudam a manter o equilíbrio ecológico, sendo que a perda desses habitats reduz
+a resiliência dos ecossistemas frente às mudanças climáticas, tornando-os mais
+
+vulneráveis a eventos extremos como enchentes, incêndios e tempestades.
+
+3.4. Aspectos socioeconômicos e culturais
+
+Observa-se que a perspectiva socioeconômica possui grande
+relevância no que se refere ao empreendimento em tela, com potencial de geração de
+impactos, cujo estudo ambiental deve apresentar previsão de planos e estratégias de
+mitigação para determinar sua viabilidade ambiental. Isto é, o empreendimento
+apresenta, inevitavelmente, impactos associados a mudanças nas dinâmicas urbanas
+
+local e regional em suas fases de implantação e operação.
+
+Conforme descrito no presente Parecer Técnico, em seu item 2, 0
+empreendimento incide em áreas urbanas consolidadas, sobretudo as intervenções
+no segmento do km 10,940 ao km 34,065 da Rod. Raposo Tavares (SP-270) e as
+obras no sistema viário da capital para conexão do dispositivo viário à Marginal
+Pinheiros. O empreendimento Nova Raposo também conta com intervenções em
+núcleos urbanos em desenvolvimento, com áreas possivelmente precárias, nos
+trechos de obras da SP-029 e da implantação da nova via Cotia — Embu das Artes,
+
+principalmente nas proximidades de conexão à SP-270.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 32/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+817
+
+
+===== PAGINA 33 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+No documento “Consulta à CETESB” elaborado pelo empreendedor
+
+interessado, no que se refere aos aspectos socioeconômicos e culturais do
+empreendimento Nova Raposo, foram descritos como os mais relevantes potenciais
+impactos aqueles relacionados ao reassentamento involuntário de populações para
+implementação de ampliação das vias e estabelecimento de novas faixas de domínio,
+possíveis efeitos em terras indígenas protegidas e à eventuais interferências, danos
+ou perda de patrimônio cultural protegido e não protegido.
+
+Contudo, há pouco destaque aos efeitos do empreendimento na
+dinâmica urbana, o que se entende ser fundamental para a análise do estudo de
+viabilidade ambiental do empreendimento. A seguir são abordados os conteúdos
+esperados nos estudos socioeconômicos a serem abordados no EIA/RIMA, a saber:
+
+Desapropriações e reassentamentos de áreas regulares e
+
+irregulares;
+e Alterações nas dinâmicas de uso e ocupação do solo;
+e Patrimônio cultural;
+e Territórios indígenas e/ou outras comunidades tradicionais.
+3.4.1.Desapropriações e reassentamentos
+
+Consta no documento “Consulta à CETESB” que são previstas
+desapropriações, parciais ou totais, em 395 lotes. Em número de propriedades, o novo
+trecho proposto, a Rod. Cotia — Embu das Artes, possui previsão de desapropriação
+de 117 lotes, o que representa 30% do número total de lotes, enquanto no trecho de
+ampliação e melhoramentos da Rod. Raposo Tavares (SP-270), o prognóstico é de
+desapropriação de 189 lotes, o que corresponde a quase 50% dessas propriedades
+(Quadro 1).
+
+Em termos de uso e ocupação do solo, o Quadro 2 agrupa a
+quantidade de lotes com proposta de desapropriação por tipologia, com quantitativo
+mais expressivos em terrenos (38%) e em lotes comerciais (19% para pequenos
+comércios e 15% para grandes comércios). Destaca-se que, nessa etapa do
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 33/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+818
+
+
+===== PAGINA 34 =====
+MPSP
+
+MINISTÉRIO PÚBLICO
+DO ESTADO DE SÃO PAULO
+
+FL.
+819
+
+CAEX — CENTRO DE
+APOIO À EXECUÇÃO
+
+licenciamento, não há informação coligida nos autos quanto a área efetivamente a ser
+
+desapropriada, número de indivíduos ou qualificação da população a ser deslocada.
+
+As informações apresentadas são embasadas exclusivamente no número absoluto de
+
+lotes, por trecho (rodovia), localização (município) e tipologia (residencial, comercial,
+
+industrial, etc). Assim, espera-se que nas futuras etapas do licenciamento, esses
+
+dados sejam detalhados.
+
+Quadro 1. Levantamento do número de lotes previstos para desapropriação para implantação
+de faixa de domínio e implementação de vias por rodovia, em função de município e tipologia
+
+Rodovia Município Tipologia Tipodelote | Quantidade Observações
+Cotia CAL-8 Comércio 1
+Cotia CSL-8 Comércio 13
+Cotia Gl Indústria 2
+Cotia Ri-A Residência 2
+Cotia R1-N Residência 18
+Cotia RP1Q Residência 1 Ocupação irregular
+Cotia TE Terreno 33
+Cotia CULT Área de Cultivo 2
+aopecerica da cgL.g Comércio 15
+Rodovia Cotia capecericada — cyLT Área de Cultivo 6
+aapecerica da Ep Equip. Público 1 EE Instituto Maria Imaculada
+p pesso da TE Terreno 19
+aapecerica da 4a Residência 1
+p pesso da RAN Residência 1
+OU das TE Terreno 1
+Au das R1-A Residência 1
+Subtotal 117 30,0%
+Cotia R1-N Residência 7
+Cotia TE Terreno 3
+Cotia CSL-8 Comércio 32
+Cotia ES Estacionamento 2
+Cotia R1-B Residência 2
+SP 029 Cotia TE Terreno 23
+Itapevi EP Equip. Público 3 Praças públicas
+Itapevi TE Terreno 2
+Itapevi CSL-8 Comércio 2
+Subtotal 76 19,0%
+São Paulo RP1Q Residência 5 Ocupação irregular
+São Paulo R1-A Residência 19
+São Paulo R8-N Condomínio 2
+São Paulo R16-A Condomínio 4
+São Paulo CAL-8 Comércio 56
+São Paulo Gl Indústria 3
+Prç. João Batista Tramontano, Prç
+São Paulo EP Equip. Público 3 Zaphira Vieira Leite e Posto de
+Bombeiros Butantã
+SP 270 São Paulo TE Terreno 38
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171
+
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+34/69
+
+
+===== PAGINA 35 =====
+FL.
+820
+
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Rodovia Município | Tipologia | Tipo de lote | Quantidade | Observações
+Cotia Ri-N Residência 8
+Cotia CAL-8 Comércio 4
+Cotia CSL-8 Comércio 13
+Cotia ES Estacionamento 1
+Cotia Gl Indústria 13
+Cotia TE Terreno 19
+Cotia EP Equip. Público 1 EE Vinícius de Moraes
+Subtotal 189 48,0%%
+Barueri TE Terreno 1
+Carapicuíba TE Terreno 1
+Araçariguama EP Equip. Público 1 Polícia Rodoviária Estadual
+SP 280 Araçariguama TE Terreno 6
+Barueri TE Terreno 1
+Itapevi TE Terreno 2
+Jandira TE Terreno 1
+Subtotal 13 3,0%
+| | Total 395  100,0%
+
+Fonte: Quadros 4.1 e 4.2 do documento “Consulta à CETESB”, processo nº 061507/2024-16, fls. 284
+a 287
+
+Quadro 2. Levantamento do número de lotes previstos para desapropriação para implantação
+de faixa de domínio e implementação de vias por tipologia
+
+Tipologia qu intidade Percentual Descrição da tipologia conforme ABNT NBR 12721: 2006
+Equipamento 9 23% Edificações com características que possam vir a apresentar
+Público - EP ' interesse público, como escolas, hospitais, praças, parques etc
+Residência 6 15% Residência de 1 pavimento, 1 dormitório, sala, banheiro e
+RP1Q "º cozinha
+Residência de 1 pavimento, 4 dormitórios, sendo um suíte com
+Residência banheiro e closet, outro com banheiro, banheiro social, sala de
+R1-A 23 5,8% estar, sala de jantar e sala íntima, circulação, cozinha, área de
+serviço completa e varanda (abrigo para automóvel). Considera-
+se um terreno de 700 m?.
+Residência 2 05% Residência de 1 pavimento, com 2 dormitórios, sala, banheiro,
+R1-B , cozinha e área para tanque
+
+Residência de 1 pavimento, 3 dormitórios, sendo um suíte com
+Residência banheiro, banheiro social, sala, circulação, cozinha, área de
+
+0
+Ri-N 34 8,6% serviço com banheiro e varanda (abrigo para automóvel).
+Considera-se um terreno de 360 m?.
+Residência de pavimento térreo e 7 pavimentos-tipo. Pavimento
+térreo: Hall de entrada, elevador, escada e 4 apartamentos por
+Residência andar, com 2 dormitórios, sala, banheiro, cozinha e área para
+R8-N 2 0,5% tanque. Na área externa estão localizados o cômodo de lixo e 32
+
+vagas descobertas. Pavimento-tipo: Hall de circulação, escada e
+4 apartamentos por andar, com 2 dormitórios, sala, banheiro,
+cozinha e área para tanque
+
+Condomínio com garagem, pilotis e 16 pavimentos-tipo.
+Garagem: Escada, elevadores, 96 vagas de garagem cobertas,
+cômodo de lixo, depósito e instalação sanitária. Pilotis: Escada,
+elevadores, hall de entrada, salão de festas, salão de jogos,
+Condomínio copa, 2 banheiros, central de gás e guarita. Pavimento-tipo: Halls
+
+0,
+R16-A 4 1,0% de circulação, escada, elevadores e 2 apartamentos por andar,
+com 4 dormitórios, sendo um suíte com banheiro e closet, outro
+com banheiro, banheiro social, sala de estar, sala de jantar e
+sala íntima, circulação, cozinha, área de serviço completa e
+varanda
+Comércio o Comércios pequeno/médio porte, foi considerada a área real
+715 19% É . , 2. .
+CSL-8 proporcional a 2 pavimentos (número máximo de pavimentos
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 35/69
+
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+
+===== PAGINA 36 =====
+FL.
+821
+
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+existentes para a maior parte dos comércios observados através
+das imagens de satélite).
+
+Comércios grande porte, foi considerada a área real proporcional
+
+Comércio 61 154% à 4 pavimentos (número máximo de pavimentos existentes para
+
+CAL-8 ""ºº a maior parte dos comércios observados através das imagens de
+satélite)
+
+ap ustra 18 4,6% Galpão industrial
+
+Estacionamento 3 0 8% Ocupações com características de uso exclusivo como
+
+ES 2º | estacionamento privativo, sem edificações.
+
+rerreno 150 38,0% Terrenos onde não foram identificadas construções/edificações
+
+ade Cultivo 8 2,0% Áreas com características de cultivo
+
+Fonte: Documento “Relatório Ambiental”, processo nº 061507/2024-16, fls. 353, 2025
+
+Pelo estudo apresentado, é previsto o desenvolvimento e
+implementação de Plano de Ação de Reassentamento e de Plano de Restauração de
+Meios de Subsistência (PAR/RMS) para as populações a serem removidas. No
+levantamento de áreas previstas para desapropriação, destacam-se aquelas
+tipologias associadas à equipamentos públicos, dentre as quais estão inclusas duas
+
+escolas, e ao menos duas áreas com ocupações irregulares.
+
+Com relação às áreas públicas, na ocasião de remoção desses
+equipamentos, entende-se que a reposição dos espaços deva ser priorizada à
+indenização pecuniária, considerando a importância de serem mantidos esses
+
+serviços nos locais das comunidades de origem.
+
+Na proposta de remoção de ocupações irregulares, potencialmente
+para moradia de população vulnerável (tipologia RP1Q), houve identificação de dois
+núcleos: o primeiro grupo localiza-se na área de intervenção da SP-270 e tem
+estimativa de 92 unidades, enquanto o segundo encontra-se no novo trecho projetado
+
+Cotia — Embu das Artes, somando 1 habitação.
+
+Destaca-se que o Decreto-Lei nº 3.365/1941, o qual dispõe sobre
+desapropriações por utilidade pública, com alteração de redação dada pela Lei nº
+14.620, de 2023, estabelece desde 2023 que:
+
+“Art. 4º A. Quando o imóvel a ser desapropriado caracterizar-se como núcleo
+urbano informal ocupado predominantemente por população de baixa renda, nos
+termos do $ 2º do art. 9º da Lei nº 13.465, de 11 de julho de 2017, e seu
+regulamento, o ente expropriante deverá prever, no planejamento da ação de
+desapropriação, medidas compensatórias” (Decreto-Lei nº 3.365/1941.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 36/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+
+===== PAGINA 37 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Nesse sentido, entende-se que, quanto às remoções dessas
+
+populações vulneráveis, o EIA/RIMA deve considerar como referência para a definição
+das medidas compensatórias, buscando o cumprimento da garantia legal para defesa
+e fruição dos direitos humanos, ter como referência a Portaria nº 317/2013, do
+Ministério das Cidades, com propósito de assegurar a reposição da moradia para a
+
+população afetada.
+
+Isto é, priorizar soluções de atendimento habitacional nas quais o bem
+jurídico deve ser reposto pela oferta de nova moradia ou, em última instância, prever
+indenização de forma a viabilizar a aquisição de nova habitação. Contudo, a reposição
+habitacional se mostra como a alternativa de maior efetividade ao acesso de moradia
+digna, considerando os critérios patrimoniais que envolvem o cálculo de compensação
+indenizatória, os quais penalizam a população afetada quando em estado de
+
+vulnerabilidade.
+
+O Plano de Reassentamento e as respectivas Medidas
+Compensatórias para populações vulneráveis são de responsabilidade do agente
+executor, nesse caso o empreendedor da Nova Raposo. Nos termos da Portaria
+nº 317/2013 é prevista determinação explícita de garantia da participação da
+população afetada em todo o processo e da elaboração de projeto de Trabalho Social
+pelos responsáveis, garantindo atividades de pré e pós intervenção. O Trabalho
+Social?! é atualmente regimentado pela Portaria nº 464/2018 do Ministério das
+Cidades. De acordo com o Anexo | dessa Portaria:
+
+“11 O Trabalho Social, de que trata este normativo, compreende um conjunto de
+estratégias, processos e ações, realizado a partir de estudos diagnósticos integrados
+e participativos do território, compreendendo as dimensões: social, econômica,
+produtiva, ambiental e político institucional do território e da população
+beneficiária. Esses estudos consideram também as características da intervenção,
+visando promover o exercício da participação e a inserção social dessas famílias,
+em articulação com as demais políticas públicas, contribuindo para a melhoria da
+sua qualidade de vida e para a sustentabilidade dos bens, equipamentos e serviços
+implantados” (Portaria nº 464/2018).
+
+De forma geral, as ações do Trabalho Social devem ocorrer de forma
+integrada e transversal com todas as demais equipes mobilizadas para a execução
+de todas as etapas do atendimento habitacional à população do reassentamento
+
+21 Trabalho Social também apresenta como terminologias PTTS — Projeto de Trabalho Técnico Social,
+PTS — Projeto de Trabalho Social ou TTS — Trabalho Técnico Social.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 37/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+822
+
+
+===== PAGINA 38 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+involuntário. Com isso, espera-se que o licenciamento considere a perspectiva do
+
+Trabalho Social de forma sistemática, amparado pela participação social, e contar com
+planejamento para subsidiar a execução transversal de todas as etapas do
+
+reassentamento.
+3.4.2. Alterações nas dinâmicas de uso e ocupação do solo
+
+No que se refere à dinâmica urbana, dada a ampla extensão do
+empreendimento, a qual abrange diversos municípios, um ponto fundamental da
+análise compreende a delimitação da AID (Área de Influência Direta) para o meio
+socioeconômico. Segundo as orientações do Manual para Elaboração de Estudos
+Ambientais com AIA da CETESB, a AID relativa aos temas socioeconômicos deve
+
+considerar os territórios municipais que compreendem o traçado das rodovias.
+
+Contudo, há de ser considerado no EIA/RIMA as possíveis alterações
+de uso e ocupação do solo e respectivos impactos em diversas escalas, considerando
+primordialmente os efeitos no entorno próximo e bairros vizinhos. Isso perpassa na
+análise dos Planos Diretores municipais quanto a sua atualização e coerência quanto
+
+ao empreendimento.
+
+Sobre o tema, o diagnóstico deve observar mecanismos associados
+a adensamento, aumento de demanda por equipamentos públicos, comunitários e
+serviços, interferências nas relações sociais e fluxos urbanos, e desencadeamento de
+processos de gentrificação, a fim de apresentar plano de mitigação para contenção
+desses impactos. Principalmente, quando considerado que no documento “Consulta
+à CETESB” foi identificada alta vulnerabilidade em alguns municípios.
+
+Com isso, espera-se que o EIA/RIMA não se restrinja a discutir a
+questão urbana apenas em seus extremos, considerando de um lado a escala da ADA
+do empreendimento, ou seja, nos trechos incorporados ao empreendimento por meio
+de desapropriação, e na outra ponta uma descrição genérica com indicadores
+socioeconômicos gerais dos municípios. Isto é, entende-se que devem ser
+observados eventuais impactos do empreendimento em diversos segmentos da
+
+circunvizinhança, em especial no que se refere à implementação das obras de arte
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 38/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+823
+
+
+===== PAGINA 39 =====
+MINISTÉRIO PÚBLICO CAEX = CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+especiais e a nova rodovia Cotia — Embu das Artes, levando em conta os diferentes
+perfis populacionais em cada trecho.
+
+Nesse sentido, sugere-se que, quanto ao uso e ocupação do solo, o
+diagnóstico utilize fundamentação de detalhamento nível 1, nos termos do Manual
+para Elaboração de Estudos Ambientais com AIA da CETESB. A partir do diagnóstico,
+deverão ser identificados os impactos e as respectivas propostas de mitigação.
+
+3.4.3. Patrimônio cultural
+
+Com relação ao patrimônio cultural, durante a análise de viabilidade
+ambiental em empreendimentos com AIA (Avaliação de Impacto Ambiental) é prevista
+a elaboração da FCA (Ficha de Caracterização da Atividade) nos termos da Instrução
+Normativa IPHAN nº 01/2015. A viabilidade ambiental é condicionada à manifestação
+do IPHAN nas ocasiões que são constatadas incidência de bem cultural acautelado
+pelo órgão patrimonial federal na AID (Área de Influência Direta) do empreendimento.
+
+De acordo com as diretrizes do Manual para Elaboração de Estudos
+Ambientais com AIA da CETESB, em empreendimentos rodoviários a AID do meio
+socioeconômico corresponde aos territórios municipais afetados pelo percurso das
+vias de rodagem. Nesse sentido, sendo constatados bens tombados na AID, a FCA é
+obrigatória nessa primeira etapa de análise de viabilidade ambiental.
+
+O documento “Consulta à CETESB” apresentou listagem de
+patrimônio arqueológico e bens protegidos (Figura 22), considerando a incidência de
+patrimônio cultural identificado em envoltória (buffer) de 5 km ao longo do traçado das
+rodovias. Nessa listagem foi considerado o nível de sensibilidade em função da
+distância do bem em relação ao empreendimento, em gradação de alta sensibilidade
+intervalo de 500 m a baixa sensibilidade até 5.000 m, sendo considerado como
+
+irrelevante a distância acima de 5 km.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 39/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+824
+
+
+===== PAGINA 40 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Figura 22. Reprodução da escala de sensibilidade em função da distância e dos Quadros 12.40
+e 12.41 do documento “Consulta à CETESB”
+
+Sensibilidade Alta Média Sem impacto relevante
+Distância Até 500m 500m a 1500m 1500m a 5000m Acima de 5000m
+
+Quadro 12.40 — Patrimônio arqueológico nos municípios do Lote 1
+
+a
+Eurofarma - | SP-280 ps
+Eurofarma - IV em SP-280 183 [o Ma |
+Sitio Waldemar Ferreira São Paulo SP-270 2»  NEUES
+Pinheiros 2 São Paulo SP-270 315 NE
+Eurofarma - Ill Itapevi SP-280 as ES
+Eurofarma - Il ltapevi SP-280 357 [o Ata |
+Sitio Ferreira de Araujo Itapevi SP-270 se ES
+Eusebio Matoso 1 São Paulo SP-270 606
+Pinheiros 1 São Paulo SP-270 [Ee Média |
+Casa do Sertanista São Paulo SP-270 753 | Média |
+Sitio Caxingui São Paulo SP-270 895 Média
+Casa do Bandeirante São Paulo SP-270 980
+Faria Lima São Paulo SP-270 1.712
+Aldeia de Carapicuiba Cotia SP-270 2116
+SA Artesano 01 Barueri SP-280 2.875
+Fazenda Bufalo Cotia SP-270 3.223
+Morumbi São Paulo SP-270 3.322
+Sete Lagoa Cotia SP-270 3.534
+Flamboyant Cotia SP-270 3.557
+Sitio do Morro 01 Itapevi / Jandira / Barueri SP-280 4.550
+Sítio Arqueológico Artesano 01 Barueri SP-280 2.899
+
+Elaboração: Arcadis, 2023. Fonte: IPHAN, 2023. CONDEPHAAT, 20283.
+Quadro 12.41 — Patrimônio material acautelado nos municípios do Lote 1
+
+[CS tias
+
+a E - SP-270/ SP-029
+
+Casa Grande do Sítio do Padre Inácio Cotia / Municipais
+Capela de São João Batista Carapicuíba SP-280 1.910
+Imagem de ig Pedi = ia da Capela da eps sp.280 1.916
+Imagem de Nossa Senhora do Rosário São Paulo SP-270 3.249
+Palácio das Nações São Paulo SP-270 3.831
+Grande marquise São Paulo SP-270 4.097
+Museu de Arte de São Paulo Assis Chateaubriand: São Paulo SP-270 4.388
+
+acervo móvel constituído pelos cavaletes
+Museu de Arte de São Paulo Assis Chateaubriand: São Paulo SP-270 4.388
+edifício e acervo móvel constituído pelos cavaletes
+
+Palácio das Indústrias São Paulo SP-270 4.422
+Imóvel da Rua Itápolis, 961 São Paulo SP-270 4.530
+Palácio da Agricultura São Paulo SP-270 4783
+
+Elaboração: Arcadis, 2023. Fonte: IPHAN, 2023. CONDEPHAAT, 2023.
+Fonte: Documento “Relatório Ambiental”, processo nº 061507/2024-16, fls. 575 e 576, 2025
+
+Espacialmente, em análise aos bens culturais, tombados e em estudo
+para tombamento, protegidos pelo CONDEPHAAT 22 e CONPRESP 2, com
+informações georreferenciadas disponíveis, foram identificados bens culturais
+protegidos nos âmbitos estadual e municipal. A Figura 23 apresenta as informações
+georreferenciadas dos patrimônios estadual e municipal de São Paulo de forma
+
+ilustrativa.
+
+22 Informações espaciais georreferenciadas de bens culturais do CONDEPHAAT disponíveis na
+plataforma https://www.idesp.sp.gov.br/
+
+23 Informações espaciais georreferenciadas de bens culturais do CONPRESP disponíveis na
+plataforma | https://geosampa.prefeitura.sp.gov.br/. Não foram identificadas | informações
+georreferenciadas dos demais municípios que fazem parte da AID da Nova Raposo.
+
+Rua Senador Feijó 170 — Edifício Sta. Lucia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 40/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+825
+
+
+===== PAGINA 41 =====
+826
+
+69/Ly
+
+Jg'durdsdudoojnua!o'09] xeeo :jeu-o
+L2L7-6LL£ (LL) “IS 1 — 000-900L0 daD — dS/oIned oeS — elo “BIS OINPpI — 024 Ofis4 Jopeuss eny
+
+(ASINANOD) eduegos9 s (LyyHdIANOD) dSadaI seuuosejejd sep steuobijod wo? 'ssJojne so :sjuoJ
+
+SIDE Tubes op ttbarisios vinis gude ninar, MD NÉ nerd
+
+ETOE TG) as numas x
+
+aj CASO] ap cprce) ue sas
+bp ppa a nu E)
+& VINI TIPUBINCRIO] MA Cr
+
+sopequio | sopnysa susg
+
+SeLIQUOAU3 SED4y
+OPeqUIO | WS SP Se110)]OAUI Seo1y
+
+€TOT “CTPS SP SUJAS "DDS COESO | IDR a
+ETOR CUPS SP SUSTUOS DIM DRSGUUOL uog E)
+Tor em TOA “SYUM OREQUID | LIMA EA
+795 "PUUM CREQUO | OB 4
+
+3 USÉNIos "Opequo vce E)
+E TOL EUNANI Sp SUE paIZAS CUOÊNOS Opequi| uimg ED
+
+sopequo| suag |
+
+(LvyHdIANOD) Ienpeisa otuguiged
+(DONLSI 4 LA) RUSUEGUIO Sp CESSA LB EaaS
+DEL cum uequoap DSSsaI0 Lu =]
+
+COTA ENIO) DEUS UBE
+
+(dSIYdNOD - Ojned 085) opequio| uog
+
+|jequaique outeg) |
+
+[RU Iquiy oJieg
+
+oD1bojoanbiy assaJequ] ap suag |
+
+001B9|0onb1y 9SSa19]uI 9p suag
+
+soa !bojoanbay sons e]
+
+sod!bojoanbuy sons
+
+opequio | Only =|
+
+(dSIYdNOD - OJNed 0eS) jedolunu oltuguined
+
+enoo-nquia
+620-dS
+082-ds
+
+02Z-dS
+SeIAOpOY
+
+ajDoos ay!jojes ap Wabeu
+000Z SVOUIS / EZ OSNI WIN
+
+(oned ogs ap
+
+oidisunu) dSINAdNOD 9 (lenpeisa) LYVHdINOD 041998 Opueiopisuoo “eAge1snNI]I [esng|no oruguined ap ogôezI[LD0] UIOD SJ!/9)es op uso beu] cg eanbis
+
+OyôNnoaxa y Olodyv
+Ja ON LNIO — xavo
+
+O7NVd OYS Ja OavISI 0d
+OMAN OTA LSINIA
+
+dSdiA
+
+
+===== PAGINA 42 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Nesse sentido, a análise de viabilidade ambiental quanto aos bens
+
+culturais, além de manifestação obrigatória pelo IPHAN após análise da FCA do
+empreendimento prevista na Instrução Normativa nº 01/2015, deve haver participação
+dos órgãos patrimoniais estadual (CONDEPHAAT) e municipais na elaboração do
+diagnóstico do tema e embasamento das propostas das medidas mitigadoras.
+
+3.4.4. Territórios indígenas e/ou outras comunidades tradicionais
+
+Conforme o documento “Consulta à CETESB”, foi identificada a
+comunidade indígena Jaraguá em raio de 10 km do empreendimento. Nesse sentido,
+deverão ser avaliados por meio do diagnóstico os possíveis impactos na área e as
+medidas mitigadoras correspondentes, respeitando a participação dos órgãos
+competentes.
+
+3.5. Audiências públicas
+
+A Resolução CONAMA nº 01/1986 determina a realização de
+audiências públicas para procedimentos de licenciamento ambiental que necessitem
+de apresentação de EIA/RIMA, como o caso em tela. As audiências públicas têm por
+finalidade expor aos interessados e a sociedade em geral o conteúdo do EIA/RIMA,
+dirimindo dúvidas e recolhendo críticas e sugestões dos participantes.
+
+A audiência promove a participação pública, prevista no processo de
+
+licenciamento ambiental, com os objetivos de:
+
+* Garantir a divulgação de informações sobre os projetos a serem
+licenciados, em especial quanto aos possíveis riscos à qualidade
+ambiental das áreas de influência dos empreendimentos e sobre as
+medidas mitigadoras e de controle ambiental destinadas a reduzir
+
+esses efeitos;
+
+* Captar as expectativas e inquietações das populações afetadas e
+permitir ao órgão licenciador recolher as manifestações e os
+
+interesses dos diferentes grupos sociais.
+
+O Princípio 10 da Declaração do Rio - firmado durante a Conferência
+das Nações Unidas sobre o Meio Ambiente e o Desenvolvimento, realizada no Rio de
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+827
+
+
+===== PAGINA 43 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Janeiro em 199224, afirma: “A melhor maneira de tratar questões ambientais é
+
+assegurar a participação, no nível apropriado, de todos os cidadãos interessados”
+(Nações Unidas, 1992).
+
+A Convenção de Aarhus?º, promovida pela Comissão Econômica para
+a Europa da ONU no ano de 1998, considerada como principal acordo internacional
+sobre democracia ambiental, estabelece como direitos fundamentais em questões
+
+ambientais:
+
+e O acesso à informação: refere-se ao direito do público de
+receber informações ambientais mantidas pelas autoridades
+públicas. Isso inclui informações sobre o estado do meio
+ambiente; políticas ou medidas que afetam o meio ambiente; e
+saúde e segurança públicas quando estas são afetadas pelo
+
+estado do ambiente;
+
+e A participação pública: refere-se ao direito do público de
+participar da tomada de decisões ambientais. As autoridades
+públicas são obrigadas a permitir que o público em geral e as
+ONGs ambientais participem significativamente da tomada de
+decisões sobre projetos que afetam o meio ambiente e planos
+
+e programas relacionados ao meio ambiente;
+
+e O acesso à justiça: refere-se ao direito do público à revisão
+por um tribunal ou outro órgão independente para garantir que
+as autoridades públicas respeitem os direitos de acesso à
+informação e à participação pública, e à legislação ambiental
+
+em geral.
+
+No Brasil, a realização das Audiências Públicas deve seguir o
+disposto na Resolução CONAMA nº 09/1987, a qual encontra-se em processo de
+
+revisão, podendo ser realizadas a critério do órgão ambiental; por solicitação de
+
+24 NAÇÕES UNIDAS. Declaração do Rio sobre Meio Ambiente e Desenvolvimento. Rio de Janeiro:
+ONU, 1992
+25 https://environment.ec.europa.eu/law-and-governance/aarhus en
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 43/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+828
+
+
+===== PAGINA 44 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+entidade civil; por solicitação do Ministério Público; ou por abaixo-assinado de pelo
+
+menos 50 cidadãos.
+
+Não há definição legal quanto ao número de audiências públicas que
+devem ser realizadas por procedimento de licenciamento ambiental. Contudo, para o
+Projeto Nova Raposo, sugere-se a realização mínima de cinco audiências públicas,
+sendo duas na Capital e outras três distribuídas em agrupamentos de município
+afetados. Sugere-se manifestação expressa deste Ministério Público a respeito.
+
+Ressalta-se que, as audiências a serem realizadas são referentes ao
+
+procedimento de licenciamento ambiental das obras pretendidas e não devem ser
+
+confundidas com as audiências já realizadas quando do processo de concessão das
+rodovias e informadas pela ARTESP, conforme já explicitado no Item 3.1.2.
+
+3.6. Tráfego
+
+No âmbito da fase de consulta pública, foi elaborado o Produto P10
+referente à Estimativa de Demanda e Receita para o Lote 1 — Nova Raposo, em julho
+de 2024, pela TTC Soluções em Mobilidade, Nommon e Comap. Estruturado em dez
+capítulos e quatro anexos, o documento contempla desde o escopo do projeto até
+projeções de tráfego, modelagem comportamental, estrutura tarifária e estudos
+
+complementares.
+
+Segundo o documento, o Lote Nova Raposo compreende 113,1 km
+de trechos rodoviários, incluindo partes da Rodovia Castello Branco (SP-280),
+Rodovia Raposo Tavares (SP-270), Rod. Cel. PM Nelson Tranchesi (SP-029) e
+estradas vicinais, operadas à época pela concessionária CCR ViaOeste e pelo
+DER/SP. No trecho, a CCR ViaOeste operava três praças de pedágio convencionais
+na SP-280: Osasco, Barueri e Itapevi, com cobrança manual e automática.
+
+Aduz que as rodovias Pres. Castello Branco e Raposo Tavares são
+importantes vias para a ligação da Região Metropolitana de São Paulo (RMSP) com
+as regiões de Sorocaba, Oeste do Estado, Noroeste do Paraná e Mato Grosso do Sul.
+
+A SP-029 e as vicinais que conectam as rodovias Pres. Castello Branco, Raposo
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 44/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+829
+
+
+===== PAGINA 45 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Tavares e Régis Bittencourt (BR-116), proporcionarão uma rota mais curta e menos
+
+congestionada para usuários da BR-116 em direção a Sorocaba, que atualmente
+utilizam o Rodoanel Oeste.
+
+Contudo, verifica-se pelo contrato de concessão que o sistema
+rodoviário perfaz pouco mais de 90 km, se limitando aos trechos iniciais da Rod. Pres.
+Castello Branco (SP-280), Rod. Raposo Tavares (SP-270), pela Rod. Cel. PM Nelson
+Tranchesi (SP-029) e por trecho rodoviário a ser construído interligando a Rod.
+Raposo Tavares a Rod. Régis Bittencourt (BR-116).
+
+O estudo aponta que a região onde se assenta o sistema rodoviário é
+caracterizada por um claro predomínio populacional e econômico na microrregião de
+São Paulo, seguida por Osasco e Sorocaba, enquanto Itapecerica da Serra apresenta
+valores mais baixos. Apesar disso, o crescimento populacional e econômico é mais
+acelerado em Itapecerica da Serra, Sorocaba e Itapetininga. Esse dinamismo impacta
+diretamente o tráfego nas rodovias do Lote 1, especialmente entre a RMSP e
+Sorocaba, onde há maior volume de veículos leves e pesados, com tendência de
+crescimento. Em todas as microrregiões, predominam atividades de serviços e
+comércio, com participação mínima da agropecuária (menos de 1% do PIB em 2021)
+e participação moderada da indústria (12% do PIB no conjunto, abaixo de 29%
+
+individualmente).
+
+A metodologia adotada para o estudo de demanda e receita baseia-
+se na estimativa de volumes de tráfego e receita durante a concessão, e na produção
+de subsídios para análise de ampliações de capacidade e dimensionamento de
+pavimento. O escopo do estudo prevê o pedagiamento por passagem livre (“Free
+Flow”), com cobrança automática via pórticos, o que permite maior número de locais
+
+de cobrança e uma tarifação mais justa e alinhada à utilização efetiva da rodovia.
+
+Com vistas à caracterização da demanda, foram realizados
+levantamentos de dados primários e secundários. Os dados secundários incluíram
+históricos de tráfego, matrizes de viagens, características geométricas e operacionais
+das vias. Por sua vez, os dados primários foram obtidos por meio de contagens
+volumétricas classificadas (CVC) em 24 postos, pesquisas de Origem e Destino (OD)
+e de Preferência Declarada (PD) em 35 postos e dados de telefonia móvel, utilizados
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 45/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+830
+
+
+===== PAGINA 46 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+para complementar as matrizes OD em trechos urbanos e de alta demanda, onde há
+
+dificuldade para a abordagem dos veículos.
+
+As pesquisas de contagem volumétrica classificada (CVC), foram
+realizados entre os meses de junho e outubro de 2023, e apresentaram os volumes
+totais, em ambos os sentidos, aferidos nos postos CVC separados por categoria
+
+veicular.
+
+Figura 24. Contagem veicular classificada bidirecional
+
+e Veículos por Capo
+na mec ta
+
+P101B ldia24h BR-374 41,821 2,252 21,467 66,435
+P103 ldia24h sp-270 46 8,501 1,162 142 1,741 11,546
+
+L IPC Crraridto O portaria
+P1O4 ldia 24h 5P-270 77 10,387 1,567 284 2,223 14,461
+P201 7 dias SP-312 28 52,092 11,127 1,965 3,302 65,456
+P202 24h SP-312 7 991 180 61 141 1,373
+P203 24h SP-280 34 43,031 3,334 1,493 25,243 73,101
+P204 7 dias SP-270 12 631,065 116,093 14,625 28,224 790,010
+P205 7 dias SP-270 18 846,331 118,556 11,789 51,725  1,028401
+P206 7 dias SP-270 25 829,833 103,34] 9,572 68,071  1,010,817
+P207 24h SP-280 4 81,447 12,812 926 10,241 105,426
+P207 24h SP-280 14 126,172 16,303 1,728 32,561 176,764
+p208 24h SP-280 25 117,230 18,143 2,652 40,097 178,122
+P209 24h SP-280 29 71,334 2,177 2041 33,906 114,458
+P251 16h SP-312 36 25,323 4,718 a39 3,422 34,002
+P252 16h SP-312 87 539 108 8 20 73
+P253 16h SP-280 aa 42,083 2,656 754 18,677 64,170
+p254 16h deprdçnDo [ 12,200 1,217 272 2,360 16,049
+P255 16h SP-270 10 68,867 15,911 2,012 3,629 90,419
+P256 16h SP-270 14.5 104,833 20,239 3,124 3,186 133,382
+P257 16h SP-270 31.5 141565 26,447 4,549 13,027 185,588
+p8 24h SP-270 21 5,575,782 o 0 657,086 6,243,621
+p7 24h SP-280 18 12,774,756 39 O 3,081,304 15,856,060
+P3 24h SP-029 394.5 24,192 7,061 1,207 1,951 34,411
+P4 24h SP-029 35 30,614 8,857 1,209 2,892 43,572
+P4-A 24h SP-029 33 33,871 8,945 1,084 3,152 49,052
+
+Fonte: Reprodução da Tabela 2.1 — Volumetria CVC bidirecional, com marcação dos autores
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 46/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+831
+
+
+===== PAGINA 47 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Conforme os dados da Tabela 2.1 — Volumetria CVC bidirecional
+
+reproduzida na Figura 24, e se atendo aos postos de contagem pertencentes à
+concessão Nova Raposo, tem-se que na:
+
+e SP-029, com três postos de contagem, o volume diário é da ordem de 42
+mil veículos, com as motocicletas respondendo por aproximadamente 20%
+
+e que passam mais de mil ônibus por dia.
+
+e SP-270, com sete postos de contagem, os automóveis compõem cerca de
+80% do volume de tráfego e que os ônibus, considerando os postos onde a
+contagem foi feita por sete dias (P204, P205 e P206), são da ordem de dois
+mil por dia. Chama a atenção os dados do posto P8, no destaque em
+vermelho na Figura 24, que em 24 h registrou a passagem de 6 milhões de
+
+veículos e nenhuma motocicleta e nenhum ônibus.
+
+e SP-280, também com sete postos de contagem, os caminhões representam
+por volta de 4 do volume total de veículos, muito superior ao verificado nas
+outras duas rodovias, com maior participação a partir do km 29 (P209)
+quando atinge 30%. Destaca-se também aqui a contagem de quase 16
+milhões de veículos em apenas 24h no posto PY, destacado em vermelho
+na Figura 24.
+
+Apenas a título de comparação, a frota registrada no estado de São
+Paulo em 2023 era de 33 milhões de veículos?º, assim é pouco crível que em apenas
+um posto de contagem de uma única rodovia tenha passado um volume de veículos
+equivalente à metade da frota estadual. Colabora com essa suspeita o fato de que o
+volume registrado nos postos de contagem de sete dias na SP-270 ficou entre 790 mil
+e 1 milhão de veículos. Outra inconsistência é quanto a quantidade de postos, a tabela
+apresenta dados de 25 locais, ante os 24 informados.
+
+Assim, em que pese a eventual revisão da tabela, depreende-se pelos
+volumes veiculares apresentados que o transporte de pessoas (automóveis,
+motocicletas e ônibus) é mais significativo nas rodovias SP-029 e SP-270, por outro
+lado, o transporte de cargas tem maior participação no tráfego da SP-280. Essa
+
+26 https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/frota-de-veiculos-2023
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 47/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+832
+
+
+===== PAGINA 48 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+situação pode ser explicada em grande parte pelo fato de que, tanto a SP-029 quanto
+
+a SP-270, atravessarem áreas densamente urbanizadas, funcionando praticamente
+
+como vias urbanas.
+
+O estudo prossegue abordando a pesquisa de origem-destino (OD),
+na qual foram realizadas 1.511 entrevistas, entre os meses de agosto e novembro de
+2023, que atingiram uma margem de erro de 5% com 95% de confiança, porém os
+dados apresentados na Tabela 2.4 — Entrevistas OD e PD divergem da quantidade de
+
+pesquisas realizadas, conforme mostra a Figura 25.
+
+Figura 25. Quantidade de entrevistas por tipo - OD e PD
+
+E] 1
+Total
+pio
+
+1,756 1,881 3,637
+PD 411 241 652
+Total 2.167 2,122 4,289
+Fonte: Reprodução da Tabela 2.4 — Entrevistas OD e PD
+As inconsistências quanto à quantidade de locais e pesquisas
+realizadas também se verificam nas tabelas 2.6 e 2.7. Por essas tabelas foram nove
+locais de pesquisas OD, com um total de 8074 entrevistas, e cinco locais para as
+
+pesquisas PD, com 1519 entrevistas (Figura 26).
+
+Figura 26. Quantidade de entrevistas aigddis, local e tipo - OD e PD
+
+[|
+
+Pirapora do Bom Pirapora do Bom
+
+P201 SP-312 Jesus P201 SP-312 TES 25) 110
+P203 — SP-280 34 — Itapevi-P. Pedágio 383 409 P203 | sp-280 34 — Itapevi-P. Pedágio 100 131
+P101B SP-280 74.98 | Itu-PP lado oposto 366 312 P101B SP-280 74.98 — Itu - PP lado oposto 108 108
+São Roque - P. São Roque - P.
+P103 SP-270 47.56 621 359 P103 SP-270 47.56 EE 246 191
+Pedágio Pedágio
+Alumínio - P. Alumínio - P.
+P104 SP-270 79.155 À 811 438 P104 SP-270 79.155 a 100 102
+Pedágio Pedágio
+Po3 SP250 56.5 Ibiúna 437 441 Po3 SP250 56.5 Ibiúna
+P4-A — SP-029 33 Itapevi 502 515 P4A | SP-029 33 Itapevi
+P8 SP-270 21 Osasco 446 447 P8 SP-270 21 Osasco
+P7 SP-250 18 Barueri 424 444 P7 SP-250 18 Barueri
+
+Fonte: Reprodução da Tabela 2.6 — Localização e quantidade de pesquisas executadas — OD e da
+Tabela 2.7 — Localização e quantidade de pesquisas executadas — PD
+
+Como mencionado, para incrementar as informações sobre o tráfego
+rodoviário, foram utilizados dados de telefonia móvel, que após tratamento e
+inferências com relação à população, uso e ocupação do solo, ofertas de transporte e
+as próprias contagens veiculares realizadas, subsidiaram a elaboração das matrizes
+
+de origem e destino.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 48/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+833
+
+
+===== PAGINA 49 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Na apresentação dos resultados das pesquisas o estudo indica que a
+
+Rod. Pres. Castello Branco (SP-280) exibe tráfego intenso, principalmente até Itupeva,
+devido à conurbação, com viagens intermunicipais internas à região metropolitana e
+entre a capital e Sorocaba/ltu. Similarmente, a Rod. Raposo Tavares (SP-270), em
+área densamente urbanizada (Butantã, Osasco, Itapevi, Cotia, Vargem Grande
+Paulista), registra tráfego intenso, com predomínio de veículos leves e viagens com
+destino a regiões empresariais na Capital, como a Faria Lima, Itaim Bibi, Paulista, Vila
+
+Olímpia e Brooklin.
+
+Os resultados corroboram o entendimento de que a SP-270 exerce
+
+função predominantemente urbana para deslocamentos casa-trabalho.
+
+Quanto ao padrão de viagens, tem-se para automóveis a
+predominância de viagens com alta frequência (diária, semanal e mensal). Os motivos
+de origem e destino mais comuns foram residência e trabalho, seguidos por lazer. O
+uso de dispositivos de cobrança automática (AVI) é baixo em geral, mas mais alto
+(cerca de 70%) entre usuários de alta frequência e rendas alta e média. A maioria dos
+condutores (cerca de 70%) possui renda de até 5 salários-mínimos. No tocante aos
+caminhões, verifica-se alta frequência de viagens (diária e semanal), com destaque
+para a Rod. Bunjiro Nakao (SP-250), respondendo por 75%. Caminhões carregados
+são maioria na SP-270 e SP-280, enquanto na SP-250, cerca de 55% são vazios. O
+uso de AVI é predominante na SP-270 (quase 80%) e na SP-250 (cerca de 55%).
+Veículos de empresas predominam na SP-270 (quase 80%) e na SP-250 (pouco mais
+de 50%). Em todas as rodovias, veículos leves de 2 e 3 eixos são maioria, mas
+
+veículos de 5 e 6 eixos somam quase 30% na SP-280.
+
+Novamente, convém rememorar que a Rod. Bunijiro Nakao (SP-250)
+não faz parte do contrato de concessão, por outro lado, não foram apresentados dados
+sobre a SP-029.
+
+A modelagem do valor do tempo foi conduzida com base em pesquisa
+de preferência declarada (PD), utilizando cenários hipotéticos que variavam atributos
+como tempo de viagem, custo de pedágio e tipo de pista, quais sejam:
+rota sem pedágio por pista simples com pavimento ruim, rota pedagiada por pista
+simples com pavimento bom, rota pedagiada por pista dupla com pavimento bom.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 49/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+834
+
+
+===== PAGINA 50 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+A estimação dos parâmetros foi realizada por meio do software
+
+específico, com validação estatística. Os valores de tempo de viagem (SVTTS?”) foi
+estimado pela relação entre os parâmetros de tempo e custo. Os valores de SVTTS
+variam de R$ 29,01/hora para automóveis não frequentes de baixa renda a R$
+161,22/hora para caminhões de 6 ou mais eixos com gastos com pedágio
+
+reembolsáveis, situando-se na faixa de valores obtidos em outros estudos no Brasil.
+
+Quanto ao pedagiamento, propõe-se a adoção do sistema de
+passagem livre (“Free Flow”, com cobrança automática por meio de pórticos,
+substituindo gradualmente as praças convencionais. São propostos 13 pórticos, com
+trecho de cobertura de pedágio (TCP) médio de 7,1 km, buscando justiça tarifária e
+diluição do valor em trechos mais curtos, especialmente em áreas urbanas, para
+desincentivar a fuga local. A tarifa quilométrica adotada prevê um deságio de 20% em
+relação à tarifa praticada pela ViaOeste, com valores diferenciados para pista simples
+ou dupla e aumento com a implantação de faixas adicionais. O cronograma prevê a
+substituição gradual das praças de pedágio atuais por pórticos até o terceiro ano, com
+a implantação dos pórticos em trechos administrados pelo DER/SP a partir do ano 6,
+
+conforme as obras de ampliação de capacidade entrem em operação.
+
+Insta mencionar que a alocação dos 13 pórticos tem a seguinte
+distribuição:
+
+Tabela 1. Pórticos de cobrança de pedágio por rodovia
+Rodovia Quantidade de pórticos
+Rod. Cel. PM Nelson Tranchesi (SP-029)
+Rod. Raposo Tavares (SP-270
+
+Rod. Pres. Castello Branco (SP-280)
+
+Trecho Cotia-Embu das Artes
+Fonte: os autores, a partir da Figura 4.2 — Localização dos pórticos
+
+|O ON
+
+Na estimativa do volume diário médio anual (VDMA) para o ano base,
+ou seja, no cenário anterior as intervenções nas rodovias, os volumes das pesquisas
+CVC foram expandidos utilizando fatores de sazonalidade de praças de pedágio
+existentes da ViaOeste em 2023. Os fatores de sazonalidade foram aplicados
+conforme o período de duração da CVC (1 dia/16h, 1 dia/24h, 7 dias). Para o cálculo
+
+27 Subject Value of Travel Time Saving, na sigla em inglês
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 50/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+835
+
+
+===== PAGINA 51 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+de receita, o VDMA refere-se a veículos pagantes, considerando eixos equivalentes
+
+(n-1 para eixos suspensos), e que não há isenção judicial de pedágio na ViaOeste.
+Não foi apresentada a estimativa de VDMA para a SP-029.
+
+Considerando apenas os postos pertencentes ao trecho da
+concessão Nova Raposo, a Tabela 2 apresenta as estimativas de VDMA das rodovias
+SP-270 e SP-280.
+
+Tabela 2. Estimativa de VDMA nas rodovias Raposo Tavares (SP-270) e Pres. Castello Branco
+(SP-280)
+
+rodovia km posto | sentido autos geral motocicletas ônibus geral caminhões geral total
+
+SP-270 10 P255 |LESTE 35.39. 77% 8.094 18% 930 2% 1.623 4% 45.966
+SP-270 10 P255 |OESTE 38432  T6% 8.945 18% 992 2% 1.883 4% 50.252
+SP-270 12 P204 |LESTE 40.564 80% 7.513 15% 958 2% 1.840 4% 50.875
+SP-270 12 P204 [OESTE 48693 80% 8.907 15% 1.060 2% 2.051 3% 60.711
+SP-270 | 145 P256 |LESTE 55739 79% 11.379 16% 1.422 2% 2.454 3% 70.994
+SP-270 | 145 P256 |OESTE 54.971 80% 9.995 15% 1.459 2% 2.394 3% 68.819
+SP-270 18 P205 |LESTE 60.730 82% 8.957 12% TT6 1% 3.248 4% T3T1
+SP-270 18 P205 |OESTE 58.972 82% 7.811 11% 851 1% 3.886 5% 71.520
+SP-270 25 P206 |LESTE 58887 823% 7.250 10% 669 1% 4.510 E% 71.316
+SP-270 25 P2068 [OESTE 60.029 82% 7.559 10% 635 1% 4 T52 T% T2.975
+SP-270 | 315 P257 |LESTE 89020 79% 17.625 16% 1.967 2% 4.769 4% 113.381
+SP-270 | 31,5 P257 |LESTE 102.536 79% 18.162 14% 2185 2% 7.312 6% 130.195
+SP-280 14 P207 |LESTE 111.586 TE% 16.787 11% 1.068 1% 17.151 12% | 146.592
+SP-280 14 P207 |OESTE 95.988 76% 12.321 10% 1.017 1% 16.725 13% | 126.052
+SP-280 25 P208 |LESTE 53373 69% T.5T4 10% 992 1% 15.397 20%) TTIIT
+SP-280 25 P208 [OESTE 57.805 | 69% 9.833 11% 1.007 1% 15.701 19% | 84144
+SP-280 29 P209 |LESTE 39.398 68% 3.762 T% 843 1% 13.645 24% | 57.648
+SP-280 29 P209 [OESTE 45.571 70% 4.787 T% 790 1% (3.712 21%] 64.859
+SP-280 34 P203 |LESTE 29.985 69% 2.717 6% 640 1% 10373 24% | 43714
+SP-280 34 P203 [OESTE 214.271 64% 1.254 4% 556 2% 10.021 30% | 33.102
+SP-280 44 P253 |LESTE 251417 68% 1.552 4% 396 1% 9.941 27% | 37.006
+SP-280 44 P253 [OESTE 25.215 70% 1.624 4% 339 1% 8.998 25% | 36174
+
+Fonte: os autores a partir da Tabela 5.3 — VDMA dos postos CVC
+
+Observa-se que a estimativa de VDMA corrobora os apontamentos
+feitos em relação aos volumes registrados nas contagens de tráfego, nas quais
+verifica-se que a predominância de veículos de transporte de pessoas é mais
+significativo pela Rod. Raposo Tavares (SP-270), com os automóveis, motocicletas e
+ônibus ultrapassando os 90% do volume total, com destaque para os mais de 2 mil
+ônibus diários na altura do km 31,5. Já na Rod. Pres. Castello Branco (SP-280) há
+significativa presença de caminhões, na faixa de 12% a 30% do volume diário.
+
+O estudo prossegue apresentando as matrizes diárias Origem-
+Destino (OD) geradas a partir dos dados de telefonia móvel para automóveis e
+caminhões, bem como de pesquisas de campo expandidas pelos VDMA. As matrizes
+foram segmentadas em 36 categorias, considerando classes de veículos, frequência
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 51/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+836
+
+
+===== PAGINA 52 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+de viagens, renda (para automóveis) ou propriedade/pagamento (para caminhões), e
+
+forma de pagamento (manual ou AVI). As matrizes de telefonia demonstraram mais
+pares OD e maior concentração de viagens em regiões metropolitanas do que as de
+campo. A consolidação das matrizes finais seguiu procedimentos específicos para
+postos com dados de campo, telefonia, ou ambos, utilizando proporções de postos
+
+semelhantes quando necessário.
+
+Na sequência, a avaliação do comportamento dos usuários frente a
+mudanças na infraestrutura e operação das rodovias foi feita mediante um modelo de
+simulação de tráfego de grande abrangência desenvolvido com a utilização do
+software EMME. O zoneamento abrangeu toda a América do Sul, com detalhamento
+para o Estado de São Paulo, Região Metropolitana de São Paulo, e microrregiões de
+Campinas e Sorocaba, num total de 4.024 zonas de tráfego. A rede viária incluiu
+parâmetros físicos, operacionais e de custos (valor do tempo, custo operacional,
+
+pedágio) para avaliar a demanda atual e futura, incorporando potenciais rotas de fuga.
+
+Os cenários futuros foram simulados considerando a situação inicial
+de cobrança, o cronograma de implantação de pórticos de cobrança e as ampliações
+de capacidade com seus respectivos reajustes tarifários. Também foram
+apresentadas as variações relativas anuais do volume de tráfego em cada pórtico de
+
+cobrança (permanências).
+
+A projeção de tráfego se utilizou de modelos econométricos ajustados
+com base no PIB do Brasil, volume mensal das praças de pedágio da ViaOeste e no
+índice da Associação Brasileira de Concessionárias de Rodovias (ABCR), assim,
+foram projetados os volumes de tráfego até o ano de 2060. As taxas de crescimento
+anual para veículos leves e pesados foram estimadas em 1,93% e 1,82% no primeiro
+ano, decrescendo gradualmente ao longo do período.
+
+Insta mencionar que os dados relativos ao período da pandemia de
+Covid 19 foram desconsiderados.
+
+O estudo apresenta apenas a escala gráfica identificando os trechos
+onde há acréscimo e redução de tráfego em relação ao ano imediatamente anterior,
+não permitindo que se identifique o volume de tráfego em cada trecho homogêneo da
+
+rede simulada.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 52/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+837
+
+
+===== PAGINA 53 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Na sequência, como estudos complementares tem-se os estudos de
+nível de serviço utilizando a metodologia do “Highway Capacity Manual 2016” (HCM
+2016), considerando os volumes projetados e as características geométricas dos
+trechos, entre eles a 50º hora mais carregada do ano (fator k50), classe da rodovia
+(via expressa, com controle de acesso; rodovia de pista dupla ou simples), e rampas
+críticas. Na definição dos trechos homogêneos foram considerados os principais polos
+geradores de tráfego e interseções com vias principais. Foram apresentados os
+resultados por trechos homogêneos ao longo dos 30 anos de concessão,
+considerando as obras obrigatórias previstas (Figura 27).
+
+Os trechos homogêneos foram assim estabelecidos:
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 53/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+838
+
+
+===== PAGINA 54 =====
+FL.
+839
+
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Tabela 3. Identificação dos trechos homogêneos
+
+Rod. Raposo Tavares (SP-270)
+Trecho Início km Fim km Extensão
+Homogêneo (km)
+(TH)
+1 R. Alvarenga 10,94 | Av. Benjamim Mansur 12,45 1,51
+2 Av. Benjamim Mansur 12,45 | Av. Laudo F. Camargo | 14,055 1,605
+3 Av. Laudo F. Camargo 14,055 | Av. Politécnica 17,65 3,095
+4 Av. Politécnica 17,65 | Rodoanel Leste* 21,825 4,175
+5 Rodoanel Leste* 21,825 | Estrada do Capuava 27,59 5,765
+6 Estrada do Capuava 27,59 | R. Aimoré (Cotia) 32,41 4,82
+7 R. Aimoré (Cotia) 32,41 | Início concessão | 34,065 1,655
+ViaOeste
+Rod. Pres. Castello Branco (SP-280)
+Trecho Início km Fim km Extensão
+Homogêneo (km)
+(TH)
+8 Marg. Tietê 13,29 | Av. dos Remédios 13,7 0,41
+9 Av. dos Remédios 13,7 | Av. Brasil (Osasco) 16,14 2,44
+10 Av. Brasil (Osasco) 16,14 | Rodoanel 20,99 4,85
+11 Rodoanel 20,99 | Av. Piracema 22,165 1,175
+12 Av. Piracema 22,165 | Alphaville 23,555 1,39
+13 Alphaville 23,955 | Estrada dos Romeiros | 26,655 3,1
+14 Estrada dos Romeiros 26,655 | Rod. Cel. Nelson | 32,245 5,59
+Tranchesi
+15 Rod. Cel. Nelson | 32,245 | distrito industrial | 41,695 9,45
+Tranchesi Cururuquara
+16 Distrito industrial | 41,695 | SPA-053/280 54,14 12,445
+Cururuquara
+Rod. Cel. PM Nelson Tranchesi (SP-029)
+Trecho Início km Fim km Extensão
+Homogêneo (km)
+(TH)
+17 SP-280 32,58 | Itapevi 38,6 6,02
+18 Itapevi 38,6 | SP-270 43,7 5,1
+Trecho Cotia-Embu das Artes
+Trecho Início km Fim km Extensão
+Homogêneo (km)
+(TH)
+19 SP-270 0 BR-116 16,5 16,5
+
+*a Rod. Raposo Tavares faz intercessão com o Rodoanel Sul
+Fonte: os autores, a partir da Tabela 10.2 — Segmentos homogêneos
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 54/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+
+===== PAGINA 55 =====
+FL.
+840
+
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Figura 27. Nível de serviço
+
+ANO
+tor RS pesdlcad agi 012345 67ESVLULISIAUSCEVEVLARBRHãADS EN RDN
+
+1 1 Crescente | Duplicada [c Tele Tc ll ll lololol llIllãIlãlaIlãOãIlO ln
+
+1 1 | Decrescente | Duplicada [| Je fo fe je fole fo le jo le le lc lo jo jo fo jo pj lo lo lo lbljõol5
+
+1 2 Crescente Duplicada jb ]b Jo Jo jo Jo jo | [1]
+1 2 Decrescente | Duplicada je |c lo lo lc lc lo jo lo lo lo lo lo lo lololol U
+1 3 Crescente Duplicada ui
+1 3 Decrescente Duplicada 2)
+1 4 Crescente | Duplicada >
+1 Decrescente | Duplicada [40]
+1 5 Crescente Duplicada
+
+1 5 Decrescente Duplicada H
+1 7 Crescente Expressa 5
+1 7 Decrescente Expressa [1d
+1 7 Crescente Marginal
+
+À treat
+
+1 8 Crescente Expressa
+
+1 8 | Decrescente | expressa je Jp Jo lo lo Jo lo jo lo jo jo |
+
+1 8 Crescente Marginal
+
+1 8 Decri e] Marginal jo jo Jo jo | (6)
+1 10 crescente | Duplicada lo lo lc le lo lo lo lo lb lo lo Jo Jo jo b [6)
+1 10 | Decrescente | Duplicada [C Te Tolo lo ll bllllhlblhãõ c
+1 13 Crescente Duplicada fas)
+1 13 Decrescente Duplicada Sm
+1 14 Crescente Duplicada |D D D D m
+1 14 | Decrescente | Duplicada |D jo Jo jo jo jo jo jo
+
+1 15 Crescente Duplicada fc Jo jo jo jo jo jo jo jo | n
+1 15 | Decrescente | Duplicada je Je - - D jo a D jo jo [6)
+1 16 Crescente Duplicada |C Cc [c [c [c Cc [c D D D D D D D D
+
+1 16 | Decrescente | Duplicada | fc fe fc fc Jc jo je joe joe jo jo jo jo jo jo jo jo jo
+
+Fonte: Reprodução da Tabela 10.4 — Níveis de Serviço, com marcação dos autores
+
+Cumpre esclarecer que nível de serviço é um indicador que busca
+traduzir as condições operacionais de uma via e a percepção dos usuários quanto a
+essas condições. Envolve, entre outros, a densidade do tráfego, facilidade em realizar
+manobras de mudança de faixa de tráfego, a (falta de) liberdade para escolher a
+velocidade de deslocamento etc. Varia entre o nível de serviço “A” até “F”, com o
+primeiro indicando condições mais favoráveis e o último a situação de saturação e
+congestionamento. Regra geral, a partir no nível de serviço “D”, já há indicação de
+intervenções para retomar a capacidade de escoamento do tráfego, ademais no
+contrato de concessão prevê a obrigação da concessionária fazer constar no seu
+planejamento de investimentos necessários para ampliação da capacidade do
+segmento rodoviário que operarem por mais de 50h/ano com nível de serviço “E” ou
+“P” (cláusula 24.12.1).
+
+Como se pode observar, na Rod. Raposo Tavares (SP-270), mesmo
+com as obras de ampliação previstas, a maior parte da rodovia permanecerá em nível
+“E” ou “Fº durante os trinta anos de concessão. Quanto à Rod. Pres. Castello Branco
+(SP-280) a situação é menos crítica, contudo, apresenta ao menos um segmento
+saturado ao longo do período. Registra-se que o estudo não apresenta o nível de
+serviço para a Rod. Cel. PM Nelson Tranchesi (SP-029) e para o trecho Cotia-Embu
+das Artes.
+
+Adicionalmente, foi efetuado o cálculo do número “N”, que representa
+o número de solicitações provocadas pelo tráfego de veículos na rodovia, equivalente
+às solicitações do eixo padrão rodoviário de 8,2 tf durante a vida útil do pavimento.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 55/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+
+===== PAGINA 56 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Foram utilizadas as metodologias “American Association of State Highway and
+
+,
+
+Transportation Officials” (AASHTO) e “United States Army Corps of Engineers”
+(USACE), que se diferenciam no fator de equivalência de cargas. O cálculo de "Nº
+envolve o VDMa, o fator de veículos (Fv, ponderado pela participação de cada
+categoria de veículo, considerando 70% carregados e 30% vazios), fator climático
+regional (FR=1), fator de pista (FE=1), e fator de faixa (FF, de acordo com o percentual
+de veículos de carga por faixa). Os resultados acumulados do número N para 10, 20
+e 30 anos foram apresentados para os trechos homogêneos, tanto para a metodologia
+USACE quanto para a AASHTO.
+
+Por fim, nos anexos do documento são apresentados os formulários
+utilizados nas pesquisas OD, os formulários da CVC, a classificação de veículos do
+DNIT, e referências bibliográficas para a modelagem do valor do tempo.
+
+O estudo deixa claro que o sistema rodoviário que compõem a
+concessão Nova Raposo tem alta demanda de tráfego, com as rodovias Raposo
+Tavares (SP-270) e Cel. PM Nelson Tranchesi (SP-029) apresentando características
+de vias urbanas. Nesse sentido, sugere-se que os projetos das intervenções nessas
+rodovias contemplem medidas de priorização do transporte coletivo e dos modos
+ativos de deslocamento, a pé e por bicicleta.
+
+Convém mencionar, em complemento ao volume de ônibus
+apresentado no estudo, que o ponto de ônibus na SP-029 na altura da R. São Judas
+Tadeu, em Itapevi, é servido por 17 linhas, entre municipais e intermunicipais (Figura
+28). Já no trecho da rodovia em Cotia, o ponto de ônibus na altura da R. Vali, é servido
+por 19 linhas (Figura 29). Quanto à SP-270, tem-se que o ponto de ônibus localizado
+na pista sentido Capital, na altura do acesso à Av. Escola Politécnica, é servido por
+35 linhas (Figura 30). Ademais, segundo veiculado no sítio eletrônico da Prefeitura
+Municipal de São Paulo 22, o empreendimento denominado Reserva Raposo,
+localizado na altura do km 18, tem a previsão de construção de 124 torres, para
+atender uma população de 60 mil pessoas que, entre outros, contempla a construção
+
+de um terminal rodoviário urbano.
+
+28 https://prefeitura.sp.gov.br/w/prefeitura-investe-r-1-3-bilh%C3%A30-no-residencial-raposo-tavares-
+para-atender-6.220-fam%C3%ADlias%C2%AO0, acessado em 22/08/2025.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 56/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+841
+
+
+===== PAGINA 57 =====
+842
+
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Figura 28. Rod. Cel. PM Nelson Tranchesi (SP-029) - Ponto de ônibus, R. S. Judas Tadeu
+Linhas 01, 024, 247, 247EX1, 422, 468, 468EX1, 468EX2, 468EX3, 489, 815, 821, 870, 870EX1, 101,
+I01VP1, 111
+
+Rodovia Coronel Pm NeisonTranche Q  X
+
+(9 "Parque Santo Antonio, Itapevi - SP, 06657-050
+ie CIWTeVC Itapevi SP
+
+€) Suas atividades no Google Maps
+
+4 Sugerir mudança
+
+Horários de pico sextas-feiras — o
+
+anotar;
+
+E ônibus
+[o fo [a]
+
+[= [=]
+
+De e
+
+0EX1
+
+[o [oo]
+elmo)
+
+E? Ver o quadro de horários
+
+Fotos e vídeos
+
+St Natu Mons Tocheinçõs ça GRC
+
+Fonte: Google Maps, camada transporte público, acessada em 22/08/2025
+
+Figura 29. Rod. Cel. PM Nelson Tranchesi (SP-029) - Ponto de ônibus, R. Vali
+Linhas 01, 007, 024, 036, 131, 232, 234, 235, 247, 247EX1, 422, 468, 468EX1, 468EX2, 468EX3,
+489, 815, 870, 870EX1
+
+Estr. da Roselândia, 1 a x A (| | Wi Restaurantes À hm Hotéis | [B) Coisas legais para
+
+Ti E “2 Ciro
+
+OQ Jardim Nova Coimbra, Cotia - SP, 06703-135 oo ho» >
+É+—C32J-FC Cotia - Caucaia do Alto, Cotia - SP
+€) Suas atividades no Google Maps
+
+D Adicionar marcador
+
+4 Sugerir mudança
+
+Horários de pico Sextas-feiras — fo)
+
+É? Ver o quadro de horários
+
+Fotos e videos
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 57/69
+e-mail: caex tec.cientifico()mpsp.mp.br
+
+
+===== PAGINA 58 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Figura 30. Rod. Raposo Tavares (SP-270) - Ponto de ônibus, Av. Escola Politécnica
+
+Linhas 035, 036, 036B11, 213, 297, 329, 334, 396, 404, 422, 488, 490, 492, 496, 506, 543, 572, 748A-
+10, 771P-10, 778J-10, 778J-41, 778R-10, 809A-10, 809H-10, 809T-10, 835, 838, 838EX1, 842, 7458-
+10, 7903-10,8023-10, 8610-10, N835-11, N842-11
+
+To PARALAV Sã Baia 65]
+
+Spm-270 e Rod. Raposo Tavares kr Q  X
+DD Adicionar marcador
+
+4 Sugerir mudança
+
+Horários de pico Sextas-feiras = o
+
+9
+
+nibus
+
+[de orem |
+
+musa
+
+ES Vero quadro de horários
+
+Fotos e vídeos à
+E “TEM |
+
+Fonte: Google Maps, camada transporte público, acessada em 22/08/2025
+
+no
+
+Registra-se ainda a previsão do Plano Municipal de Mobilidade
+Urbana de São Paulo?º, de implantação dos corredores de ônibus “Raposo Tavares”,
+contemplando a Rod. Raposo Tavares e R. Sapetuba, e “Politécnica”, o qual passa
+pela Av. Escola Politécnica e Av. Jaguaré, e do terminal de ônibus Monte Belo nas
+proximidades da interseção da Av. Escola Politécnica com a Rod. Raposo Tavares
+(SP-270).
+
+29 instituído pelo Decreto nº 56.834/2016 e disponível em
+https:/legislacao.prefeitura.sp.gov.br/leis/decreto-56834-de-24-de-fevereiro-de-2016
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 58/69
+
+e-mail: caex tec.cientifico()mpsp.mp.br
+
+843
+
+
+===== PAGINA 59 =====
+844
+
+CAEX — CENTRO DE
+APOIO À EXECUÇÃO
+
+MINISTÉRIO PÚBLICO
+DO ESTADO DE SÃO PAULO
+
+MPSP
+
+Figura 31. Corredores de ônibus em São Paulo
+
+Plano de Mobilidade Urbana de São Paulo
+
+Corredores do PlanMob/SP 2015
+
+ID NOME VIAS PRINCIPAIS KM ANO
+02 Aricanduva Av. Aricanduva 13,7. 2016
+17 Bandeirantes Av. Bandeirantes / Av. Tancredo Neves 15,8 2016
+05 Belmira Marin Av. Belmira Marin 5,1 2016
+08 Berrini Av. Berrini (Trecho 1) 3,6 2016
+48 Berrini Av. Chucri Zaidan / viário novo (Trecho 2) 35 2016
+D6 Campo Limpo Av. Carlos Lacerda / Estr. Campo Limpo / Av. Foo. Morato 12,2 2016
+62 Carlos Caldeira Filho Av. Carlos Caldeira Filho (extensão) 3,6 2016
+76 Celso Garcia - São Miguel Av. Carvalho Pinto / Av. São Miguel / Av. Mal. Tito (Trecho 1) 16,0 2016
+77 Nove de Julho - Santo Amaro Av. Cidade Jardim (extensão) 2,2. 2016
+Ol Itaquera - Lider Av. Itaquera / Av. Lider / Rua São Teodoro) 10,4 2016
+59 João Batista Av. Prof. João Batista Conti / Rua Luis Mateus 4,6 2016
+30 Miguel Yunes Av. Miguel Yunes 49 2016
+08 Ponte Baixa Rua Antonio Aranha / Av. Tomás do Vale / viário novo 4,6 206
+03 Radial Leste Av. Alcantara Machado / R. Melo Freire (Trecho 1) 49 2016
+04 Radial Leste Av. Luiz Ayres (Trecho 2) 71 206
+25 Radial Leste Av. José Pinheiro Borges (Trecho 3) 80 206
+24 Perimetral Leste Av. Ragueb / Estr. Iguatemi / Estr. Dom João Neri 18,2 2016
+23 Sabará Av. Sabará 80 2016
+Extensão 2016 151,6
+10 Caetano Álvares Av. Caetano Álvares / nova ponte / Av. Thomas Edison 68 2020
+51 Canal da Cocaia R. Pedro Escobar / R. Rubens de Oliveira / Av. L. Cabreira / Av. Jair Ribeiro da Silva BS 2020
+75 Celso Garcia - São Miguel Av. Celso Garcia / até Penha (Trecho 2) 95 2020
+46 Cidade Jardim - USP Av. Tajurás / Av. Lineu de Paula / Av. Afrânio Peixoto) 59 2020
+25 Imperador Estr. Mopi / Estr. Imperador / viário novo 7,9. 2020
+16 Faria Lima Av. Faria Lima / Av. Hélio Pellegrino 7,8 200
+50 Itapecerica Estr. de Itapecerica (extensão) 45 2020
+44 Juscelino Kubsticheck Av. Juscelino Kubsticheck 45º 2020
+07 M'Boi Mirim Estr. M'Boi Mirim (extensão) 5,3 2020
+28 Norte - Sul Av. Santos Dumont / Av. 23 Maio / Av. Rubem Berta / Av. W. Luis / Av. Interlagos 27,2. 280
+EM 84 2020
+
+Pacaembu
+
+Av. Bráz Leme / Av. Abrahão Ribeiro / Av. Pacaembu
+
+19 Av. Politécnica / Av. Jaguaré
+
+LZ Ula Av. Qianopo Av. Rep. do UDano dy IP
+
+21 Rótula Av. Ipiranga / Av. 5. Luís / Rua D. M Paula / Av. Rangel Pestana / Av. Mercúrio / Av. 5. Queirós 57 2020
+
+18 Salim Farah Av. Salim Farah Maluf 7,3. 250
+
+11 Sumaré - Brasil Av. Antártica / Av. Sumaré / Av. Brasil 92 2020
+
+43 Zaki Narchi - Dumont Villares Av. Zaki Narchi / Av. Luiz Dumont Villares 49 2020
+Extensão 2020 1524
+
+Fonte: Corredores PlanMob/SP 2015, com marcação dos autores
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171
+e-mail: caex tec.cientifico)mpsp.mp.br
+
+59/69
+
+
+===== PAGINA 60 =====
+845
+
+CAEX — CENTRO DE
+APOIO À EXECUÇÃO
+
+MINISTÉRIO PÚBLICO
+DO ESTADO DE SÃO PAULO
+
+MPSP
+
+Figura 32. Corredores de ônibus em São Paulo
+
+Plano de Mobilidade Urbana de São Paulo
+Corredores do PlanMob/SP 2015
+
+ID NOME VIAS PRINCIPAIS KM ANO
+6? Abel Ferreira Av. Abel Ferreira / Av. Álvaro Ramos 61 2024
+32 Águia de Haia Av. Águia de Haia / Av. Paranaguá 7,1 2024
+35 Artigas - Sampaio Av. Arg. Vilanova Artigas / Av. Affonso Sampaio 92 2024
+33 Assis Ribeiro Av. Assis Ribeiro 13,5 2004
+57 Augusto Antunes Av. Augusto Antunes / Rua Abel Tavares 48 2024
+49 Berrini viário novo (Trecho 3 - extensão do Berrini) 2,3; 2024
+35 Bom Retiro - Aricanduva Rua Sérgio Tomás / viário novo / Av. Bom Jardim / viário novo (até Term. Aricanduva) 11,0 2024
+56 Caititu Av. Caititu / viário novo 3,6 2024
+13 Cantídio Sampaio Av. Dep. Cantídio Sampalo Tá 2024
+22 Contra Rótula Contra Rótula 94 2024
+27 Imperador Av. Imperador / viário novo (extensão) 3,2 2024
+73 Estrada do Alvarenga Estr. do Alvarenga 5d 2024
+36 Calim Eid Av. Hélder Câmara / Av. Calim Eid 84 2024
+65 Imirim Av. Imirim 2,8 2024
+52 Itaquera - Itaqueruna viário nono / Av. Dep. Dr. José Aristodemo Pinotti / viário novo / Av. Coroa de Frade 3,7 2024
+41 João XXIII Av. João XXIII viário novo (extensão do Itaquera - Lider) 3,1 2024
+31 Mar Vermelho Av. Joaquim Meira de Siqueira / Av. Mar Vermelho / Av. Alziro Zarur / viário novo 51 2024
+55 Magib Farah Maluf Av. Nagib Farah Maluf 2,1 2024
+53 Pires do Bio Av. Pires do Rig 5.5 2024
+38 Pirituba - Casa Verde viário novo [apoio Norte) BB 2024
+14 Raimundo Pereira Av. Raimundo Pereira de Magalhães 12.4 204
+37 Santana - Penha Santana - Penha Bs 2024
+60 Celso Garcia - São Miguel viário novo [ligação Av. São Miguel e Av. Mal. Tito) 3.2 2024
+64 Sena Madureira Av. Sena Madureira 2,2 2024
+Extensão 2024 149,3
+68 Alvarenga - Butantã Rua Alvarenga 2,3 2028
+20 Cerro Corá - Heitor Penteado Rua Cerro Corá/ Rua Heitor Penteado 51 2028
+71 Inajar - Rio Branco - Centro Av. Inajar de Souza (extensão) 2,8 2028
+74. Guilherme Cotching Av. Guilherme Cotching 2,5 2028
+70 Guilhermina - São Lucas Rua Arambaré / Av. Aguiar da Beira / Rua Embiú / viário movo (linha de transmissão) 10,2 2028
+23 Paes de Barros Av. Paes de Barros (extensão do Brás) 3,8 2028
+45 Paulista Av. Dr. Amaldo / Av. Paulista / Rua Vergueiro / Rua Domingos de Moraes / Av. Jabaquara 11,7 2028
+bl Perimetral Marginais Av. Morvan D. Figuiredo / Av. Otaviano A. de Lima / Av. Nações Unidas / Av. Eng. Billings (e ou 25,2 2028
+68 Perimetral Norte Av. Parada Pinto / Av. Santa Inês / Rua Maria Amália L. Azevedo / Av. Antônio C. Meto 10,8 2028
+a a col cagada italia Ses lado Mg Es] Tá 5
+
+47 Raposo Tavares Rodovia Raposo Tavares / Sapetuba 7,2 2028
+et Ricardo Ja Av. PrOT. ADrado de Moral AM. UT. RICO JaTê [EE
+
+58 Sapopemba Av. Sapopemba [entre Pç. Felisberto F. Silva e Av. Jacu Pêssego) 44 2028
+54 Virginia Ferni Rua Virginia Ferni 30 2028
+b3 Washington Luiz Av. Washington Luiz 2,9 2028
+b& Yervant Kissajikian Av. Yervant Kissajikian 40 2028
+
+Extensão 2028 112,0
+
+Extensão TOTAL: 2016 / 2020 / 2024 | 2028 565,3
+
+Fonte: Corredores PlanMob/SP 2015, com marcação dos autores
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171
+e-mail: caex tec.cientifico()mpsp.mp.br
+
+60/69
+
+
+===== PAGINA 61 =====
+846
+
+CAEX — CENTRO DE
+APOIO À EXECUÇÃO
+
+MINISTÉRIO PÚBLICO
+DO ESTADO DE SÃO PAULO
+
+MPSP
+
+Figura 33. Terminais de ônibus em São Paulo
+
+Plano de Mobilidade Urbana de São Paulo
+
+Terminais do PlanMob/SP 2015
+
+ID NOME POSIÇÃO EMPRESA SITUAÇÃO SUBPREF. VIA 01* VIA 02* ANO
+
+2 Água Espraiada SPTrans obras SP-PI Av. Jorn. Roberto Marinho Av. Chucri Zaidan 208
+405 Correio atual SPTrans obras SP-SE Pe Pedro Lessa R. Brigadeiro Tobias >016
+13 Itaim Paulista SPTrans planejado SPT OR. Francisco Vaz Moniz R. Francisco de Sá Peixoto >016
+515 Itaquera nova SPTrans obras SPO R. Dr. LuizAires Av. Miguel Ignacio Curi 2016
+513 Jardim Ângela nova SPTrans planejado  SP-MB Est. do MEoi Mirim R. Agamenon Pereira da Silva 2016
+514 Parelheiros nova SPTrans planejado  SP-PA Av. Sadamu Inoue Rodoanel Mário Covas am
+411 Vila Prudente nova Metrô obras SP-VP RR. bitirama Av. P. Luiz Ignácio de Anhaia Mello 2016
+
+07 TERMINAIS
+515 Anhanguera SPTrans planejado  SP-PR A Leopoldo de Passos Lima R. Virginia Castiglioni 2020
+517 Baronesa SPTrans | planejado  SP-MB Est. do MEoi Mirim R. Funcionarios Publicos 2020
+510 Concórdia SPTrans | planejado  5P-MO Rdo Gasômetro R. Cel Francisco Amaro 2000
+95 Henrique Chamma** SPTrans planejado SP-Pi Av. Henrique Chamma R. Prof Geraldo Ataliba 2000
+516 Jardim Aeroporto SPTrans planejado  SP-SA Av, Roberto Marinho Av. Washington Luiz 2020
+406 Jardim Eliana SPTrans planejado  SP-CS Av. Dona Belmira Marin Est. Canal da Cocala >00
+504 Jardim Miriam SPTrans planejado  SP-AD Av Cupece Av. Leopoldo Lugones 2000
+Sliiiandas RE piapojad ST irei E Sd ioluaticocda nto 3290.
+29 Monte Belo SPTrans planejado  SP-BT Av. Escola Politécnica Rod Raposo Tavares 2020
+d? Peneira SPTr: Jado PAD (ESE O AlVArEnEça FE Dr. Sá Pires MIT
+24 Perus SPTrans | planejado  SP-PR Jd Dep. Ulysses Guimaraes Tv Cambaritiba 2020
+404 Praça josé Antunes atual SPTrans planejado  SP-LA AR. Barão de Jundiai R. Nossa Senhora da Lapa >000
+520 Santana nova SPTrans planejado  SP-ST O Av. Cruzeiro do Sul R. Darzan 2000
+410 São Mateus nova SPTrans planejado  SP-SM Av. Sapopemba Pe Felisberto E. da Silva 2020
+522 Senador Queiróz SPTrans planejado  SP-SE Av, Senador Queiróz E. Dom Francisco de Souza 2020
+518 Varginha nova SPTrans planejado  SP-PA Av. Paulo Guilguer Via da CPTM 2000
+6 Brasilândia Metrô planejado  SP-FO Est. do Sabao R. Domingos F. Lisboa 200
+60 Bresser atual Metrô planejado  SP-MO Ac Rua Bresser R. do Hipodromo 2020
+524 João Paulo | Metrô planejado  SP-FO R. Miguel Conejo R. Baião Parente 2000
+72 São Paulo - Morumbi Metrô planejado | SP-BT Av. Prf. Francisco Morato Av. Jorge Joao Saad 2020
+415 Tamanduatei Metrô planejado  SPVP R.Aida Av. Presidente Wilson 2020
+525, Vila Cardoso Metrô planejado  SP-FO Est do Sabão R. Michihisa Mrata 2000
+42 Vila Sônia Metrô planejado  SP-BT Av. Prf. Francisco Morato R. Heitor dos Prazeres 2020
+23 TERMINAIS
+
+521 Bartira SPTrans planejado SPT Estr Dom João Neri Linha de Transmissão Eletropaulo 2024
+512 Cidade Lider SPTrans planejado SPIQ Av, Principal R. Francesco Melzi 204
+523 Glicério SPTrans planejado SP-SE R.do Glicério R. Dr. Lund 2024
+35 Ponte Rasa SPTrans planejado SP-PE Av. Govemador Carvalho Pinto Av. 5ão Miguel 204
+D Taipas SPTrans planejado SP-PJ Av. Dep. Cantídio Sampaio Av. Raimundo Pereira de Magalhães 2024
+37 Vila Mara SPTrans planejado SP-MP Av. Mal Tito R. Padre Diogo 2024
+38 Vila Maria SPTrans planejado SP-MG RB. Curuçá R. Guaranesia >004
+526 Água Rasa Metrô planejado SP-MO Av. Sapopemba Av. Adutora Rio Claro 204
+530 Paulo Freire Metrô planejado SP-MG Av. Morvan Dias de Figueiredo Av. Educador Paulo Freire 204
+507 Tiguatira Metrô planejado SP-PE Av. Gabriela Mistral R. Mário de Castro 204
+527 Vila Formosa Metrô planejado SP-AF Av. Dr. Eduardo Cotching R. Tauandê >004
+
+11 TERMINAIS
+
+TOTAL: 41 TERMINAIS 2016 / 2020 / 2024
+
+[| localização aprosimada
+
+[**] poderá ser substituido pelo Terminal Bandeirantes (planejado outro local)
+
+Fonte: Terminais PlanMob/SP 2015, com marcação dos autores
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 61/69
+
+e-mail: caex tec.cientifico)mpsp.mp.br
+
+
+===== PAGINA 62 =====
+847
+
+MINISTÉRIO PÚBLICO CAEX — CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Figura 34. Corredores e terminais de ônibus planejados
+As setas indicam os corredores Raposo Tavares e Politécnica e o terminal Monte Belo |
+
+” q Í
+
+Fonte: excerto do Mapa 03 — Corredores e Terminais Planejados 2016 a 2028 do PlanMob/SP 2015,
+com marcação dos autores
+
+Ainda no âmbito do transporte público, insta mencionar a previsão da
+construção da Linha 22 — Marrom do Metrô, que tem parte de seu traçado próximo à
+Rod. Raposo Tavares (SP-270), logo sugere-se que os projetos de intervenções
+nessa rodovia priorizem a implantação dessa linha de transporte público de alta
+capacidade.
+
+Figura 35. Linha 22 - Marrom do Metrô
+
+caserna ca
+meta
+mmam
+
+mma |
+
+O Linha 22-Marrom
+— Rode sobre trilhos
+
+Estação de transferência
+
+EM Linha integrada à Linha 22 esmo sas seres
+—— Corredores metropolitanos
+
+& Parques e áreas verdes
+— Principais cursos dágua
+Viário de referência
+
+Fonte: https://noticias.uol.com.br/cotidiano/ultimas-noticias/2025/08/06/linhas-estudos-metro-sao-
+paulo.htm,acessada em 22/08/2025
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 62/69
+e-mail: caex tec.cientifico()mpsp.mp.br
+
+
+===== PAGINA 63 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+MPSP
+
+Quanto à infraestrutura cicloviária, para além da previsão contratual
+
+da realização de estudos?º, no âmbito do município de São Paulo, o Plano Cicloviário?”
+prevê para a Subprefeitura do Butantã intervenções na Rod. Raposo Tavares e em
+vias paralelas que servirão como marginais, para a circulação de bicicletas que devem
+ser abarcadas nos projetos a cargo da concessionária da Nova Raposo (Figuras 36 e
+37).
+
+Figura 36. Conexões cicloviárias Subprefeitura do Butantã
+
+Legenda
+Viabilidade das Ligações
+
+q q "
+to “ay Viabilidade das Ligações de Interesse Ciclovi
+1» à : , Subprefeitura de Butantã ESC 1:30.000
+
+Curva Mestra (Sm) SE h)
+E Metrô! CETIM AR
+
+Fonte: reprodução do Mapa 22: Viabilidade das conexões cicloviárias, Análise Técnica da Infraestrutura
+Cicloviária por Subprefeitura, Subprefeitura Butantã, página 51
+
+30 Item 3.2.14. Ciclovias, do Anexo 7 — Serviços correspondentes às funções de ampliação, do contrato
+nº 0548/ARTESP/2025.
+
+31 Disponível em https:/Awww.cetsp.com.br/media/1100812/Plano-CicloviawCC%B1rio 2020.pdf,
+acessada em 22/08/2025.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 63/69
+e-mail: caex tec.cientifico()mpsp.mp.br
+
+848
+
+
+===== PAGINA 64 =====
+MPSP
+
+MINISTÉRIO PÚBLICO
+DO ESTADO DE SÃO PAULO
+
+CAEX — CENTRO DE
+APOIO À EXECUÇÃO
+
+Figura 37. Intervenção na ciclorrota em via a ser utilizada como marginal da Rod. Raposo
+
+Tavares
+
+a
+nearoviva ooo
+
+Fonte: reprodução do Mapa 40: Remanejamento da Ciclorrota da Rua Hugo Carotini para a Rua
+Martinho Claro, Análise Técnica da Infraestrutura Cicloviária por Subprefeitura, Subprefeitura Butantã,
+
+página 72
+
+3.6.1. Segurança viária
+
+No conjunto de estudos prévios ao edital
+
+da concorrência
+
+internacional nº 02/2024 apresentados pela ARTESP, consta o relatório técnico de
+
+Inspeção de Segurança Rodoviária, de janeiro de 2024, elaborado pela Pavesys
+Engenharia de Pavimentos.
+
+O estudo avaliou as condições de segurança viária do lote formado
+pelos seguintes trechos rodoviários:
+
+Tabela 4. Trechos rodoviários
+
+Rodovia Início (km) Fim (km) Extensão (km)
+SPA-053/280 0,00 9,50 9,50
+SP-270 9,80 34,00 24,20
+SP-270 34,00 46,50 12,50
+SP-280 11,00 54,00 43,00
+SP-312 31,00 34,00 3,00
+SP-312 34,00 93,50 59,50
+
+Fonte: os autores, a partir da Tabela 1 — Trechos avaliados
+
+A avaliação seguiu a metodologia do “Internacional Road Assessment
+
+Program” (IRAP) que avalia o risco viário com base em elementos da infraestrutura
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171
+
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+64/69
+
+FL.
+849
+
+
+===== PAGINA 65 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+viária codificados. Cada elemento recebe um fator de risco, que pode indicar perigo à
+
+segurança (quando maior que 1) ou potencial de salvar vidas (quando menor que 1).
+Esses fatores variam conforme o tipo de usuário (como pedestres ou motoristas) e o
+tipo de sinistro, já que uma solução pode beneficiar um grupo e prejudicar outro. Esses
+fatores são usados no cálculo da classificação por estrelas, considerando a
+contribuição de cada atributo para a probabilidade e severidade dos sinistros.
+
+A qualificação é baseada nas Pontuações de Classificação por
+Estrelas (PCESs), calculadas a cada 100 metros de rodovia, combinando fatores de
+
+risco relativos por meio de um modelo multiplicativo.
+
+A Classificação por Estrelas do iRAP avalia o risco da infraestrutura
+rodoviária com base em como ela influencia a probabilidade e a gravidade dos
+sinistros para quatro tipos de usuários: ocupantes de veículos motorizados,
+motociclistas, pedestres e ciclistas. Rodovias são classificadas de 1 estrela (mais
+perigosas) a 5 estrelas (mais seguras), mas apenas para os tipos de usuários que
+
+realmente utilizam o trecho.
+
+Verifica-se que no estudo de segurança viária foram propostas
+melhorias na Rod. Raposo Tavares (SP-270), entre os km 10 e km 34, destacando-se
+a pavimentação de acostamento do lado do condutor (>1m) em 96% do trecho,
+dispositivos físicos para controlar a velocidade dos veículos em 83% do trecho,
+acostamento do lado do passageiro (>1m) em 81% do trecho, construir calçada do
+lado do passageiro (com defensa/barreira) em 78% do trecho e sonorizadores ao
+longo do acostamento em 71% do trecho.
+
+No tocante à Rod. Pres. Castello Branco (SP-280), entre os km 11 e
+km 54, destacam-se a implantação de sonorizadores ao longo do acostamento em
+88% do trecho e a pavimentação do acostamento do lado do condutor (>1m) em 87%
+do trecho.
+
+A Rod. Cel. PM Nelson Tranchesi (SP-029), como mencionado, não
+foi objeto do estudo.
+
+Diante desse cenário, considera-se que o estudo traz diretrizes
+
+importantes para melhorar as condições de segurança viária aos usuários das
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 65/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+850
+
+
+===== PAGINA 66 =====
+MINISTÉRIO PÚBLICO CAEX — CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+rodovias SP-270 e SP-280 a serem adotadas pela empresa que assumiu a concessão,
+
+e sugere-se que seja aplicada a mesma metodologia para a SP-029 e conceitos no
+desenvolvimento do projeto do Trecho Cotia-Embu das Artes.
+
+4. CONCLUSÃO
+
+Atendendo a solicitação da 4º Promotoria de Justiça do Meio
+Ambiente da Capital, esta Assessoria Técnica procedeu análise da documentação
+apresentada pela Agência Reguladora de Serviços Públicos Delegados de Transporte
+do Estado de São Paulo (ARTESP), Companhia Ambiental do Estado de São Paulo
+(CETESB), Secretaria Municipal do Verde e Meio Ambiente de São Paulo (SVMA),
+Secretaria do Meio Ambiente de Cotia e Instituto do Patrimônio Histórico e Artístico
+Nacional (IPHAN), relativos ao Projeto Nova Raposo.
+
+Constatou-se que se trata da concessão dos serviços públicos de
+ampliação, operação, conservação, manutenção e realização dos investimentos
+necessários para a exploraçao do sistema rodoviário do lote Nova Raposo composto
+por trechos das rodovias Pres. Castello Branco (SP-280 — km 13,290 ao km 54,140),
+Raposo Tavares (SP-270 — km 10,940 ao km 34,065), Coronel PM Nelson Tranchesi
+(SP-029 — km 32,58 ao km 43,70) e de via a ser construída no trecho Cotia-Embu das
+Artes, interligando a SP-270 a BR-116, com 16,5 km de extensão, objeto de licitação
+
+internacional nº 02/2024.
+
+O sistema rodoviário foi assumido pela Concessionária Ecovias
+Raposo-Castelo SA, mediante o contrato nº 0548/ARTESP/2025, firmado em
+14/03/2025, com vigência de 30 anos, na qual estão previstas uma série de melhorias
+para aumentar a capacidade e as condições de fluidez e segurança, inclusive com
+intervenções no sistema viário municipal da Capital na conexão da Rod. Raposo
+
+Tavares com a Marginal Pinheiros, mediante túneis, viadutos e pontes.
+
+Segundo os planos de investimentos, as intervenções de construção
+de rodovia, duplicação de pistas, implantação de vias marginais e faixas adicionais
+têm previsão de início em 01/07/2028.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 66/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+851
+
+
+===== PAGINA 67 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+Verificou-se que foram realizadas consulta e audiências públicas
+
+previamente à publicação do edital da licitação internacional, com emissão de relatório
+de aproveitamento das contribuições da população. Contudo, não foi identificado
+documento apresentando como as manifestações da comunidade interessada foram
+
+incorporadas no projeto do empreendimento.
+
+Atualmente, encontra-se sob análise da CETESB, por meio do
+processo nº 061507/2024-16, a consulta prévia para definição do estudo que
+fundamentará a análise de viabilidade ambiental da Nova Raposo. Conforme descrito
+na Análise Técnica do presente Parecer, entende-se que o licenciamento deve ser
+respaldado por EIA/RIMA, incluindo as sugestões de análise destacadas ao longo
+
+desse Parecer Técnico, considerando especial atenção quanto aos impactos
+
+relacionados à supressão de vegetação nativa tratados no Item 3.31 e as
+
+desapropriações previstas em trechos urbanizados.
+
+No âmbito dos estudos prévios ao edital da concorrência internacional
+nº 02/2024 apresentados pela ARTESP, verifica-se que o estudo de tráfego do Lote 1
+— Nova Raposo, apresenta a análise ao longo de trechos das rodovias Raposo
+Tavares (SP-270), Pres. Castello Branco (SP-280), Cel. PM Nelson Tranchesi (SP-
+029) e um novo segmento entre Cotia-Embu das Artes, interligando a SP-270 até a
+BR-116. O estudo destaca que as rodovias Raposo Tavares (SP-270) e Cel. PM
+Nelson Tranchesi (SP-029) possuem características urbanas, com tráfego intenso de
+veículos leves e ônibus, funcionando como vias de ligação entre bairros e regiões
+metropolitanas. A SP-270, em especial, é utilizada para deslocamentos diários casa-
+trabalho, com forte presença de linhas de ônibus e conexões com áreas empresariais
+
+da capital.
+
+A modelagem de tráfego foi realizada com base em dados primários
+(contagens CVC, pesquisas OD e PD, telefonia móvel) e secundários (históricos de
+tráfego, características operacionais), com simulações feitas no software EMME.
+Foram identificadas inconsistências nos dados de contagem e entrevistas, como
+volumes de tráfego elevados para os padrões e divergências entre o número de postos
+e entrevistas informadas, o que pode comprometer a precisão das projeções.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 67/69
+e-mail: caex tec.cientifico(Ompsp.mp.br
+
+FL.
+852
+
+
+===== PAGINA 68 =====
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+A estrutura tarifária proposta adota o sistema de pedágio por
+
+passagem livre, “free flow”, com 13 pórticos distribuídos ao longo das rodovias,
+buscando justiça tarifária e eficiência operacional. A tarifa quilométrica prevê deságio
+de 20% em relação à praticada pela ViaOeste, antiga concessionária responsável por
+parte do sistema rodoviário, com diferenciação por tipo de pista e faixas adicionais. A
+substituição das praças de pedágio por pórticos será gradual, com início nos primeiros
+
+três anos da concessão.
+
+A análise do nível de servico, baseada na metodologia do “Highwa
+apacity Manual” 2016 (HCM 2016), indica que a SP-270 permanecerá, mesmo com
+
+as obras previstas, em níveis críticos (E ou F) durante os 30 anos de concessão, o
+
+que evidencia saturação e que as intervenções propostas não têm o condão de
+solucionar o problema de fluidez. A Rod. Pres. Castello Branco (SP-280) apresenta
+situação menos grave, mas ainda com trechos saturados. O estudo não apresenta
+avaliação de nível de serviço para a SP-029 nem para o trecho Cotia-Embu das Artes,
+
+o que representa uma lacuna relevante, considerando o papel urbano dessas vias.
+
+Diante do perfil urbano, da alta demanda de tráfego e da falta de
+efetividade das medidas de ampliação da capacidade consideradas no estudo, esta
+Assessoria Técnica sugere que os projetos de intervenção priorizem o transporte
+coletivo e os modos ativos de deslocamento, com calçadas e infraestrutura cicloviária.
+A sugestão também se justifica pela presença de diversas linhas de ônibus nas
+rodovias analisadas, pela previsão de implantação de corredores e terminais urbanos
+(como o Terminal Monte Belo) e pela futura Linha 22 — Marrom do Metrô, que terá
+parte de seu traçado próximo à SP-270 e as conexões cicloviárias previstas no Plano
+Cicloviário da cidade de São Paulo, especialmente na Subprefeitura do Butantã.
+
+Quanto ao estudo de segurança viária, verifica-se que esse propõe
+diretrizes específicas para os trechos da SP-270 e SP-280, como pavimentação de
+acostamentos, instalação de sonorizadores, calçadas com barreiras e dispositivos de
+controle de velocidade. Essas medidas visam reduzir a gravidade e a probabilidade
+de sinistros. A SP-029, embora parte do sistema, não foi contemplada nesse estudo,
+portanto, sugere-se a aplicação da mesma metodologia no desenvolvimento dos
+projetos de intervenções nessa rodovia, e no novo trecho rodoviário Cotia-Embu das
+Artes.
+
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 68/69
+e-mail: caex tec.cientifico()mpsp.mp.br
+
+FL.
+853
+
+
+===== PAGINA 69 =====
+FL.
+854
+
+MINISTÉRIO PÚBLICO CAEX - CENTRO DE
+DO ESTADO DE SÃO PAULO APOIO À EXECUÇÃO
+
+5. ENCERRAMENTO
+
+Este Parecer Técnico foi digitado em 69 (sessenta e nove) folhas,
+estando todas as folhas numeradas, à exceção desta última que segue datada e
+
+assinada.
+São Paulo, 29 de agosto de 2025.
+ernanda Serida
+Analista Técnico Científico Analista Técnico Científico
+Arquiteta e Urbanista Engenheiro de Tráfego
+Marcos Gr gorio Santana
+Analista TôQhico Científico
+Engenheiro Ambiental
+Rua Senador Feijó 164/176 — Edifício Santa Lúcia — São Paulo/SP — CEP 01006-000 — Tel. (11) 3119-7171 69/69
+
+e-mail: caex tec.cientifico(Ompsp.mp.br

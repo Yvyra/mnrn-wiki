@@ -26,6 +26,9 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 | `fila/2025-04 - Seminário Mobilidade - Nestor` | 2026-05-14 | Apresentação Linha 22-Marrom (Metrô) |
 | `fila/AUDIENCIA ALESP 25NOV` | 2026-05-14 | Apresentação na ALESP — 9 motivações para sustar (25/11/2024) |
 | `2024 11 CAUTELAR ANTECEDENTE - NOVA RAPOSO` | 2026-05-14 | Ação Cautelar Antecedente da Bancada Feminista do PSOL (27/11/2024) |
+| `1500561-14.2025.8.26.0053 ACP Nova Raposo` | 2026-11-10 | Ação Civil Pública do MPSP — suspensão/rescisão do contrato |
+| `1120375-77.2025.8.26.0053` | 2026-11-10 | Ação Popular PSOL/MNRN — nulidade do contrato |
+| `2025 09 Parecer CAEX` | 2026-11-10 | Parecer Técnico CAEX nº 15789370 — EIA/RIMA, nível de serviço E/F |
 
 **9 arquivos pendentes** (ver [[grandes-arquivos-pendentes]]).
 
@@ -72,6 +75,9 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[artigo-projeto-populacao]] — Análise socioeconômica da AID (~897 mil)
 - [[seminario-mobilidade]] — Seminário técnico abr/2025 — Linha 22-Marrom
 - [[cautelar-antecedente-2024]] — Ação Cautelar Antecedente da Bancada Feminista do PSOL (27/11/2024)
+- [[acao-civil-publica-nova-raposo]] — Ação Civil Pública do MPSP (03/12/2025)
+- [[acao-popular-nova-raposo]] — Ação Popular PSOL/MNRN — manifestação MP (11/11/2025)
+- [[parecer-caex-mpsp]] — Parecer Técnico CAEX nº 15789370 (29/08/2025)
 
 ### Plataforma Política
 - [[diretrizes-e-reivindicacoes]] — 12 diretrizes, 4 reivindicações

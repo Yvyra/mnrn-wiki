@@ -51,6 +51,11 @@
 - **2 plenárias na EMEF Amorim Lima** — aprovação das [[diretrizes-e-reivindicacoes|12 Diretrizes e 4 Reivindicações]]
 - Início dos **[[grupos-de-trabalho|Grupos de Trabalho Temáticos]]** (transporte de massa, municipalização, rodízio, limite de velocidade)
 
+### Agosto–Dezembro 2025
+- **29/08/2025**: [[parecer-caex-mpsp|Parecer Técnico CAEX nº 15789370]] — aponta deficiências de transparência, participação social e mobilidade, e recomenda EIA/RIMA
+- **11/11/2025**: manifestação do MP na [[acao-popular-nova-raposo|Ação Popular]] — requisitos presentes (art. 5º, LXXIII, CF); pede oitiva dos réus
+- **03/12/2025**: MPSP ajuíza [[acao-civil-publica-nova-raposo|Ação Civil Pública]] com pedido de suspensão liminar e rescisão do Contrato 0548/ARTESP/2025
+
 ---
 
 ## Páginas relacionadas

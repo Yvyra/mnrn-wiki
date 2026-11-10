@@ -51,6 +51,7 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[indicadores-de-desempenho]] — IQD/CSP e vinculação à tarifa
 - [[penalidades-contratuais]] — multas por grupo/nível (Anexo 11)
 - [[anexos-e-apendices-contrato]] — demais anexos/apêndices (risco de demanda, transição, passivos, níveis de serviço)
+- [[cronograma-fisico-financeiro]] — cronograma das etapas e obras por trecho (Anexo 14)
 - [[atores-institucionais]] — ARTESP, EcoRodovias, BNDES, IFC, Arcadis, ALESP, MPSP
 - [[edital-lote-1]] — Concorrência Internacional 02/2024, R$ 7,35 bi
 - [[estrutura-tarifaria]] — 13 pórticos free flow bidirecionais, R$ 0,1477/km
@@ -82,6 +83,7 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[seminario-elio-pedagio]] — Élio Camargo — administração de demanda e subsídio
 - [[seminario-felipe-clima]] — Felipe Barcellos — clima e soluções ASI
 - [[seminario-marta-barcelona]] — Marta Lagreca — opções urbanísticas sustentáveis
+- [[dossie-cet-efeitos-urbanos]] — dossiê técnico para a CET (efeitos urbanos)
 - [[cautelar-antecedente-2024]] — Ação Cautelar Antecedente da Bancada Feminista do PSOL (27/11/2024)
 - [[acao-civil-publica-nova-raposo]] — Ação Civil Pública do MPSP (03/12/2025)
 - [[acao-popular-nova-raposo]] — Ação Popular PSOL/MNRN — manifestação MP (11/11/2025)
@@ -91,6 +93,10 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[diretrizes-e-reivindicacoes]] — 12 diretrizes, 4 reivindicações
 - [[carta-aberta-bndes]] — Carta ao BNDES (jun/2025): 6 incongruências
 - [[texto-base-conferencia-cidades]] — PNDU — Conferência Nacional das Cidades
+
+### Legislação
+- [[portarias-sgm-gt-marginal-pinheiros]] — Portarias SGM 257/258/155/159 (GT viaduto Marginal)
+- [[lei-12587-2012]] — Política Nacional de Mobilidade Urbana
 
 ### Contexto e Referências
 - [[linha-tempo]] — Cronologia completa do movimento

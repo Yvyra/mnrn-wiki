@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="mnrn-wiki" version="24.0.0">
+  <diagram id="crono-nova-raposo" name="Cronograma Nova Raposo">
+    <mxGraphModel dx="1150" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a1" value="Assinatura do contrato&#10;14/03/2025" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ed1c24;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="60" y="40" width="220" height="50" as="geometry" /></mxCell>
+        <mxCell id="a2" value="Termo de Transferência Inicial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ed1c24;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="60" y="120" width="220" height="50" as="geometry" /></mxCell>
+        <mxCell id="a3" value="Projetos Funcionais&#10;(390 dias antes das obras)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f90;fontColor=#1b1b1b;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="60" y="200" width="220" height="50" as="geometry" /></mxCell>
+        <mxCell id="a4" value="Envio dos documentos da DUP&#10;(180 dias antes das obras)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f90;fontColor=#1b1b1b;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="60" y="280" width="220" height="50" as="geometry" /></mxCell>
+        <mxCell id="a5" value="Publicação da DUP&#10;(90 dias)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f90;fontColor=#1b1b1b;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="60" y="360" width="220" height="50" as="geometry" /></mxCell>
+        <mxCell id="a6" value="Cadastro (20d) + ajuizamento (60d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f90;fontColor=#1b1b1b;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="60" y="440" width="220" height="50" as="geometry" /></mxCell>
+        <mxCell id="a7" value="Obras por trecho&#10;(2028 a 2031)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ed1c24;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="60" y="520" width="220" height="50" as="geometry" /></mxCell>
+        <mxCell id="b1" value="SP-280 km 32–54&#10;(jul/2028 · 9m)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeeee;strokeColor=#ed1c24;" vertex="1" parent="1"><mxGeometry x="360" y="520" width="150" height="50" as="geometry" /></mxCell>
+        <mxCell id="b2" value="SP-270 km 11–17&#10;(jul/2029 · 9m)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeeee;strokeColor=#ed1c24;" vertex="1" parent="1"><mxGeometry x="530" y="520" width="150" height="50" as="geometry" /></mxCell>
+        <mxCell id="b3" value="Embu–Cotia&#10;(set/2029 · 31m)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff4e5;strokeColor=#f90;" vertex="1" parent="1"><mxGeometry x="700" y="520" width="150" height="50" as="geometry" /></mxCell>
+        <mxCell id="b4" value="SP-270 km 17–32 + SP-029&#10;(2030–2031 · 9m)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeeee;strokeColor=#ed1c24;" vertex="1" parent="1"><mxGeometry x="870" y="520" width="190" height="50" as="geometry" /></mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="a1" target="a2"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="a2" target="a3"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="a3" target="a4"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="a4" target="a5"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="a5" target="a6"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="a6" target="a7"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="a7" target="b1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="a7" target="b2"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="a7" target="b3"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="a7" target="b4"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

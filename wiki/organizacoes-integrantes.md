@@ -12,7 +12,7 @@
 
 A lista a seguir foi consolidada na [[noticia-fato-mpsp|Notícia de Fato apresentada ao MPSP em 04/09/2024]]. A natureza diversa das entidades — moradores, ciclistas, sindicatos, conselhos, instituições religiosas, escolas, ambientalistas — evidencia a amplitude territorial e setorial da resistência ao Projeto Nova Raposo Tavares. (fonte: 2024 09 NFMA D00)
 
-Documento complementar com a lista categorizada está em [[lista-organizacoes-categorizada]].
+A lista categorizada das entidades está organizada nas seções desta página.
 
 ## Tipologia (por nome)
 

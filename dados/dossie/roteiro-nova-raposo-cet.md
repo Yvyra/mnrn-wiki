@@ -83,18 +83,14 @@ Cada item abaixo lista: tese, evidências a mobilizar e fontes disponíveis.
 ### 4.7 Contexto institucional (Portaria SGM / GT Marginal Pinheiros)
 - GT intersecretarial para estudo de implantação de novo viaduto na Marginal
   Pinheiros e requalificação da Rodovia Raposo Tavares. Processo SEI
-  6011.2025/0003642-5 (confirmado pela Portaria SGM nº 159/2026).
-- Cadeia normativa (resolvida com o texto integral da Portaria SGM nº 159):
-  - Portaria SGM nº 155, de 31/07/2026 — institui o GT.
-  - Portaria SGM nº 159, de 03/08/2026 — designa representantes (11 órgãos: SGM,
-    SIURB, SMT/SEMTRA, SEPLAN, SMUL, SMDET, SVMA, SPObras, CET, SP-Urbanismo,
-    SPTrans) e revoga a Portaria SGM nº 258, de 13/10/2025.
-  - Clipping Diário do Transporte (13/10/2025) citava "Portaria SGM nº 257"
-    (GT anterior). Divergência residual 257 × 258 a conferir no Diário Oficial;
-    não altera o essencial.
-- Fontes:
-  - `dados/extraidos/raw/Portaria SGM n159-2026.txt`
-  - `dados/extraidos/4.2.Clipping/4.2.1.Noticias Sobre NRN/Prefeitura de SP cria grupo de trabalho para estudar novo viaduto na Marginal Pinheiros __ Reader View.txt`
+  6011.2025/0003642-5 (confirmado nas portarias).
+- Cadeia normativa (confirmada no Catálogo de Legislação Municipal):
+  - Portaria SGM nº 257, de 10/10/2025 — institui o "GT Marginal Pinheiros".
+  - Portaria SGM nº 258, de 13/10/2025 — designa membros (instituído pela 257).
+  - Portaria SGM nº 155, de 31/07/2026 — institui novo GT (Marginal + Raposo, ampliado).
+  - Portaria SGM nº 159, de 03/08/2026 — designa representantes (11 órgãos) e
+    revoga a Portaria SGM nº 258/2025.
+- Fontes oficiais: legislacao.prefeitura.sp.gov.br (portarias SGM 257/258/155/159).
 
 ### 4.8 Perguntas a responder antes da decisão (o que a CET precisa saber)
 - Quantos veículos/pessoas adicionais por ponto crítico; impacto em Marginal,
@@ -136,12 +132,10 @@ Cada item abaixo lista: tese, evidências a mobilizar e fontes disponíveis.
 
 ## 5. Lacunas a resolver
 
-- [ ] Conferir no Diário Oficial a divergência residual entre Portaria SGM nº 257 (clipping) e nº 258 (revogada pela 159/2026).
-- [x] Obter textos integrais da Portaria SGM nº 159/2026 e da Lei 12.587/2012 (adicionados a `raw/` e extraídos).
-- [ ] Definir se a modelagem de tráfego será executada (quem/ferramenta) ou se o
-      dossiê registra apenas a demanda por modelagem.
-- [ ] Verificar se há dados quantitativos (contagens, velocidades) em `raw/` ainda
-      não extraídos — os `.dwg`/`.xlsx` do Lote 34 podem conter geometria/tabelas.
+- [x] Divergência Portaria SGM 257 × 258 — resolvida (cadeia normativa confirmada na fonte oficial).
+- [x] Textos integrais da Portaria SGM 159/2026 e da Lei 12.587/2012 — obtidos e extraídos.
+- [x] Dados quantitativos nos `.dwg`/`.xlsx` — os `.xlsx` têm lista de obras, custos (EVTE) e coordenadas, mas não contagens/velocidades; único dado de demanda no repo: 111.000 veículos (D07/MNRN).
+- [ ] Modelagem de tráfego — registrada como encaminhamento pendente (não executada no repositório).
 
 ## 6. Observação
 

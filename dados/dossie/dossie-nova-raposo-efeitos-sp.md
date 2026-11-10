@@ -95,6 +95,13 @@ apresentação é: *capacidade ampliada a montante → gargalos urbanos a jusant
 possível transferência de congestionamento para a rede municipal*
 (fonte: `dados/extraidos/raw/Nova_Raposo_Efeitos_Sao_Paulo_CET.txt`).
 
+O relatório preliminar do Movimento Nova Raposo NÃO! dimensiona a ordem de grandeza:
+o aumento esperado de **111.000 veículos** (conforme o edital) seria "descarregado
+mais velozmente nos atuais gargalos da Ponte Eusébio Matoso e Marginal Pinheiros"
+(fonte: `dados/extraidos/raw/2024 09 NFMA D07_RELAT PREL IMPACTO AMBIENTAL NR R00 0824.txt`).
+É a demanda a montante cuja destinação a jusante ainda precisa ser modelada — reforça,
+sem comprovar, a hipótese do funil.
+
 ### 4.2 A Marginal Pinheiros como nó crítico
 
 A Marginal funciona como distribuidora metropolitana e já recebe fluxos de vários
@@ -129,9 +136,14 @@ A apresentação lista efeitos em cascata que vão além do congestionamento:
 A avaliação deve comparar pessoas/hora e tempo total de viagem, não apenas
 veículos/hora (fonte: `dados/extraidos/raw/Nova_Raposo_Efeitos_Sao_Paulo_CET.txt`).
 
-Corroboram a dimensão ambiental e de saúde do tráfego os clippings:
+O clipping confirma a dimensão ambiental e de saúde do tráfego motorizado:
 
-- `dados/extraidos/4.2.Clipping/*` (qualidade do ar, ilhas de calor, síndrome respiratória, congestionamento)
+- Em set/2024, São Paulo chegou a registrar "a pior qualidade de ar no mundo", com
+  qualidade "muito ruim" na capital e RMSP (fonte:
+  `dados/extraidos/4.2.Clipping/São Paulo tem a pior qualidade de ar do mundo nesta segunda (9), diz site __ Reader View.txt`;
+  notícia original: folha.uol.com.br/cotidiano/2024/09).
+- O conjunto de clippings registra ainda ilhas de calor, síndrome respiratória
+  aguda e congestionamento (`dados/extraidos/4.2.Clipping/*`).
 - `dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Felipe Clima Mobilidade Cidades.txt`
 
 ## 6. Meio ambiente e urbanização
@@ -154,26 +166,41 @@ Fontes primárias ambientais e urbanísticas:
 - `dados/extraidos/raw/1500561-14.2025.8.26.0053 ACP Nova Raposo.txt`
 - `dados/extraidos/raw/2024 11 CAUTELAR ANTECEDENTE - NOVA RAPOSO.txt`
 
+O relatório preliminar do Movimento Nova Raposo NÃO! dimensiona a supressão vegetal
+em cerca de **425.000 m² de cobertura** nessa versão do projeto, além de tabelar
+áreas de APP invadidas (fonte: `dados/extraidos/raw/2024 09 NFMA D07_RELAT PREL
+IMPACTO AMBIENTAL NR R00 0824.txt`). A pressão sobre habitações é corroborada pela
+imprensa local: moradores da beira da Raposo passaram a receber notificações de
+desapropriação do Governo do Estado, com parte de terrenos, casas e comércios
+afetada (fonte: `dados/extraidos/4.2.Clipping/4.2.1.Noticias Sobre NRN/Moradores da beira da Raposo Tavares começam a receber notificação de desapropriação __ Reader View.txt`).
+
 ## 7. Contexto institucional
 
 O Município de São Paulo formalizou um **Grupo de Trabalho Intersecretarial** para o
 estudo de implantação de novo viaduto na Marginal Pinheiros e requalificação da
 Rodovia Raposo Tavares.
 
-Cadeia normativa (fonte: `dados/extraidos/raw/Portaria SGM n159-2026.txt`):
+Cadeia normativa (confirmada no Catálogo de Legislação Municipal, Prefeitura de SP):
 
-- **Portaria SGM nº 155, de 31/07/2026** — institui o GT.
-- **Portaria SGM nº 159, de 03/08/2026** — designa os representantes; **processo SEI
-  6011.2025/0003642-5**; revoga a Portaria SGM nº 258, de 13/10/2025.
+- **Portaria SGM nº 257, de 10/10/2025** — institui o "GT Marginal Pinheiros".
+- **Portaria SGM nº 258, de 13/10/2025** — designa os membros do GT instituído pela 257.
+- **Portaria SGM nº 155, de 31/07/2026** — institui novo GT "Marginal Pinheiros/
+  Requalificação da Raposo Tavares" (composição ampliada).
+- **Portaria SGM nº 159, de 03/08/2026** — designa os representantes do GT da 155 e
+  **revoga a Portaria SGM nº 258/2025**. Processo SEI 6011.2025/0003642-5.
 
-Órgãos com assento no GT (11): SGM, SIURB, SMT/SEMTRA, SEPLAN, SMUL, SMDET, SVMA,
-SPObras, CET, SP-Urbanismo e SPTrans. A CET está formalmente representada.
+Órgãos com assento no GT vigente (11): SGM, SIURB, SMT/SEMTRA, SEPLAN, SMUL, SMDET,
+SVMA, SPObras, CET, SP-Urbanismo e SPTrans. A CET está formalmente representada.
 
-Observação: o clipping Diário do Transporte (13/10/2025) citava a "Portaria SGM
-nº 257" para o GT anterior; a portaria nº 159 revoga a nº 258, ambas de 13/10/2025.
-Divergência residual 257 × 258 a conferir no Diário Oficial **[verificar]** — não
-altera o essencial da cadeia normativa vigente
-(fonte: `dados/extraidos/4.2.Clipping/4.2.1.Noticias Sobre NRN/Prefeitura de SP cria grupo de trabalho para estudar novo viaduto na Marginal Pinheiros __ Reader View.txt`).
+Fontes oficiais (internet):
+- legislacao.prefeitura.sp.gov.br/portaria-secretaria-do-governo-municipal-sgm-257-de-10-de-outubro-de-2025
+- legislacao.prefeitura.sp.gov.br/portaria-secretaria-do-governo-municipal-sgm-258-de-13-de-outubro-de-2025
+- legislacao.prefeitura.sp.gov.br/portaria-secretaria-do-governo-municipal-sgm-155-de-31-de-julho-de-2026
+- legislacao.prefeitura.sp.gov.br/portaria-secretaria-do-governo-municipal-sgm-159-de-3-de-agosto-de-2026
+
+Nota: a aparente divergência do clipping Diário do Transporte (que citava "SGM
+nº 257" em 13/10) era imprecisão de data/número — a 257 é de 10/10 e institui; a
+portaria publicada em 13/10 é a 258 (designa). Não há contradição entre as normas.
 
 ## 8. Perguntas a responder antes da decisão
 
@@ -262,9 +289,26 @@ efeito dessa capacidade sobre toda a rede urbana*.
   (`dados/extraidos/Lote 34 - Contrato, Anexos e Apêndices/`).
 - Clippings de imprensa (`dados/extraidos/4.2.Clipping/`).
 - Peças e pareceres judiciais (`dados/extraidos/raw/`).
+- Fontes oficiais (internet):
+  - Projeto Nova Raposo — SP Parcerias em Investimentos:
+    parceriaseminvestimentos.sp.gov.br (projetos contratados → Nova Raposo)
+  - SEMIL — consulta pública do Lote Nova Raposo (mar/2024):
+    semil.sp.gov.br
+  - PPI — edital da Nova Raposo (R$ 7,3 bi em investimento):
+    ppi.sp.gov.br
+  - Catálogo de Legislação Municipal — Portarias SGM 257/2025, 258/2025, 155/2026 e 159/2026:
+    legislacao.prefeitura.sp.gov.br
 
 ## Lacunas em aberto
 
-- [ ] Conferir divergência residual Portaria SGM nº 257 (clipping) × nº 258 (revogada).
-- [ ] Definir se a modelagem de tráfego será executada, ou se o dossiê registra a demanda.
-- [ ] Verificar dados quantitativos (contagens/velocidades) nos `.dwg`/`.xlsx` do Lote 34.
+- [x] **Portaria SGM 257 × 258** — resolvida (cadeia normativa confirmada na fonte oficial; ver seção 7).
+- [x] **Dados quantitativos nos `.dwg`/`.xlsx`** — os `.xlsx` do Lote 34 contêm lista
+  de obras (km, tipo, extensão, coordenadas), custos (EVTE) e alinhamento
+  georreferenciado (ALN), mas **não contêm contagens de tráfego nem velocidades**.
+  O único dado de demanda disponível no repositório é o de **111.000 veículos**
+  (citado no relatório do MNRN a partir do edital). Contagens/velocidades/níveis de
+  serviço, se existirem, estão nos estudos oficiais (SP Parcerias/SEMIL/ARTESP).
+- [ ] **Modelagem de tráfego** — não executada neste repositório (que é documental).
+  O dossiê registra a modelagem integrada Estado–Município como **encaminhamento
+  pendente** (seção 11); os inputs parciais disponíveis são o dado de demanda
+  (111.000 veículos), a lista de obras e a EVTE. A execução depende do GT/CET.

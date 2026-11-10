@@ -81,19 +81,20 @@ Cada item abaixo lista: tese, evidências a mobilizar e fontes disponíveis.
   - `dados/extraidos/raw/2024 11 CAUTELAR ANTECEDENTE - NOVA RAPOSO.txt`
 
 ### 4.7 Contexto institucional (Portaria SGM / GT Marginal Pinheiros)
-- GT intersecretarial para novo viaduto na Marginal Pinheiros e requalificação da
-  Raposo. Processo municipal citado: SEI 6011.2025/0003642-5.
-- **Divergência de fontes a resolver**:
-  - Clipping Diário do Transporte (13/10/2025): "Portaria SGM nº 257" cria o "GT
-    Marginal Pinheiros" (180 dias; composto por SGM, SIURB, SMT/SEMTRA, SEPLAN,
-    SMUL, SMDET, SPObras, CET, SP-Urbanismo). Fonte:
-    `dados/extraidos/4.2.Clipping/4.2.1.Noticias Sobre NRN/Prefeitura de SP cria grupo de trabalho para estudar novo viaduto na Marginal Pinheiros __ Reader View.txt`
-  - PPTX CET (02/10/2026): "Portaria SGM nº 159, de 03/08/2026" (composta por CET,
-    SPTrans, SMT/SEMTRA, SEPLAN, SMUL, SVMA, SPObras). Fonte:
-    `dados/extraidos/raw/Nova_Raposo_Efeitos_Sao_Paulo_CET.txt`
-  - As duas referências divergem no número (257 vs 159) e na composição do GT.
-    Nenhum texto integral da portaria está em `raw/`.
-    **[verificar no Diário Oficial do Município]**
+- GT intersecretarial para estudo de implantação de novo viaduto na Marginal
+  Pinheiros e requalificação da Rodovia Raposo Tavares. Processo SEI
+  6011.2025/0003642-5 (confirmado pela Portaria SGM nº 159/2026).
+- Cadeia normativa (resolvida com o texto integral da Portaria SGM nº 159):
+  - Portaria SGM nº 155, de 31/07/2026 — institui o GT.
+  - Portaria SGM nº 159, de 03/08/2026 — designa representantes (11 órgãos: SGM,
+    SIURB, SMT/SEMTRA, SEPLAN, SMUL, SMDET, SVMA, SPObras, CET, SP-Urbanismo,
+    SPTrans) e revoga a Portaria SGM nº 258, de 13/10/2025.
+  - Clipping Diário do Transporte (13/10/2025) citava "Portaria SGM nº 257"
+    (GT anterior). Divergência residual 257 × 258 a conferir no Diário Oficial;
+    não altera o essencial.
+- Fontes:
+  - `dados/extraidos/raw/Portaria SGM n159-2026.txt`
+  - `dados/extraidos/4.2.Clipping/4.2.1.Noticias Sobre NRN/Prefeitura de SP cria grupo de trabalho para estudar novo viaduto na Marginal Pinheiros __ Reader View.txt`
 
 ### 4.8 Perguntas a responder antes da decisão (o que a CET precisa saber)
 - Quantos veículos/pessoas adicionais por ponto crítico; impacto em Marginal,
@@ -109,14 +110,18 @@ Cada item abaixo lista: tese, evidências a mobilizar e fontes disponíveis.
   - `dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Marta Estudo de Caso Barcelona.txt`
 
 ### 4.10 Financiamento e política de mobilidade
-- Gestão da circulação (rodízio como instrumento econômico), destinação da receita
-  ao transporte coletivo, Lei Federal 12.587/2012.
-- A Lei 12.587/2012 é citada (sem texto integral) em:
-  - `dados/extraidos/raw/1500561-14.2025.8.26.0053 ACP Nova Raposo.txt`
-  - `dados/extraidos/raw/2025_MNRN_Diretrizes e reivindicações.txt`
-  - `dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Elio Pedágio Controle Demanda.txt`
-  - `dados/extraidos/raw/2025-06 - Carta Aberta BNDES - versão impressa.txt`
-- Texto integral a obter no Planalto. **[verificar]**
+- Gestão da circulação e instrumentos econômicos, com base na Lei 12.587/2012
+  (texto integral em `dados/extraidos/raw/Lei 12587-2012.txt`):
+  - Art. 6º, II — prioridade do transporte público coletivo sobre o individual
+    motorizado e dos não motorizados sobre os motorizados.
+  - Art. 6º, VI — priorização de projetos de transporte coletivo estruturadores do
+    território.
+  - Art. 23, I — restrição e controle de acesso e circulação de veículos.
+  - Art. 23, III — tributos para desestimular modos, com receita vinculada a
+    transporte coletivo e não motorizado e ao subsídio tarifário.
+  - Art. 24 — Plano de Mobilidade Urbana (obrigatório para o Município de SP).
+- A apresentação propõe estudo técnico e jurídico do rodízio como instrumento de
+  gestão de circulação, com receita destinada ao transporte coletivo.
 
 ### 4.11 Encaminhamentos (6 passos)
 1. Modelar conjuntamente Nova Raposo + rede municipal, com cenários de demanda.
@@ -129,11 +134,10 @@ Cada item abaixo lista: tese, evidências a mobilizar e fontes disponíveis.
 ### 4.12 Referências e fontes
 - Consolidar em uma seção final, com mapeamento para os caminhos em `dados/extraidos/`.
 
-## 5. Lacunas a resolver antes de redigir
+## 5. Lacunas a resolver
 
-- [ ] Resolver divergência Portaria SGM nº 257 (clipping) vs nº 159 (pptx) no Diário Oficial do Município de SP.
-- [ ] Obter texto integral da Portaria SGM e confirmação do SEI municipal 6011.2025/0003642-5 (não há em `raw/`).
-- [ ] Obter texto integral da Lei 12.587/2012 no Planalto (só há menções em `raw/`).
+- [ ] Conferir no Diário Oficial a divergência residual entre Portaria SGM nº 257 (clipping) e nº 258 (revogada pela 159/2026).
+- [x] Obter textos integrais da Portaria SGM nº 159/2026 e da Lei 12.587/2012 (adicionados a `raw/` e extraídos).
 - [ ] Definir se a modelagem de tráfego será executada (quem/ferramenta) ou se o
       dossiê registra apenas a demanda por modelagem.
 - [ ] Verificar se há dados quantitativos (contagens, velocidades) em `raw/` ainda

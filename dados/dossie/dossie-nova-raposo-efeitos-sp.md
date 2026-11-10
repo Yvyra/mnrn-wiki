@@ -102,6 +102,20 @@ mais velozmente nos atuais gargalos da Ponte Eusébio Matoso e Marginal Pinheiro
 É a demanda a montante cuja destinação a jusante ainda precisa ser modelada — reforça,
 sem comprovar, a hipótese do funil.
 
+As contagens volumétricas classificadas do próprio **Edital** (Estudo de Tráfego do
+Lote 1 Nova Raposo, jun–out/2023) confirmam um fluxo já elevado no trecho inicial da
+SP-270 (fonte: Horácio Augusto Figueira, 2025 — reprodução dos dados do Edital):
+
+- **P204** (km 12, 7 dias/24 h): 790.010 veíc/semana; ~5.079 veíc/h no pico (79,9% autos).
+- **P205** (km 18, 7 dias/24 h): 1.028.401 veíc/semana; ~6.611 veíc/h no pico (82,3% autos).
+- **P206** (km 25, 7 dias/24 h): 1.010.817 veíc/semana; ~6.498 veíc/h (82,1% autos).
+- **P257** (km 31,5, 16 h): 185.588 veíc/16 h; ~5.800 veíc/h (76,3% autos).
+- **P255** (km 10, 16 h): 90.419 veíc/16 h; ~2.826 veíc/h.
+- **P160** (km 39, 16 h): 66.155 veíc/16 h; ~2.067 veíc/h.
+
+A predominância do automóvel (76–82% dos veículos) é o que torna a ampliação viária
+sensível à destinação desse fluxo a jusante.
+
 ### 4.2 A Marginal Pinheiros como nó crítico
 
 A Marginal funciona como distribuidora metropolitana e já recebe fluxos de vários
@@ -123,6 +137,17 @@ Contexto operacional adicional:
 - `dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Elio Pedágio Controle Demanda.txt` (pedágio como instrumento de controle de demanda)
 - `dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Horácio Analise e Refelxões Proposta Nova Raposo.txt`
 
+### 4.4 Demanda induzida: a experiência das ampliações viárias
+
+Horácio Augusto Figueira (2025) sistematiza o comportamento pós-ampliação: parte das
+viagens muda de horário/dia, ocorre **tráfego desviado** (mudança de rota) e
+**tráfego gerado** (novas viagens que antes não existiam), seguidos de nova adaptação
+aos novos congestionamentos. Exemplos citados como ampliações que voltaram a
+congestionar por não terem projeto de transporte de pessoas: **Marginal Tietê**
+("não durou um mês"), **Rodovia dos Bandeirantes** (3→5 faixas), **Castello Branco**
+(marginais) e **Rodoanel Sul** (os automóveis ocuparam o espaço deixado pelos
+caminhões) (fonte: Horácio Augusto Figueira, 2025).
+
 ## 5. Efeitos além do automóvel
 
 A apresentação lista efeitos em cascata que vão além do congestionamento:
@@ -135,6 +160,13 @@ A apresentação lista efeitos em cascata que vão além do congestionamento:
 
 A avaliação deve comparar pessoas/hora e tempo total de viagem, não apenas
 veículos/hora (fonte: `dados/extraidos/raw/Nova_Raposo_Efeitos_Sao_Paulo_CET.txt`).
+
+Horácio Augusto Figueira (2025) reforça a ineficiência do transporte individual:
+cerca de **70% dos automóveis e táxis circulam só com o condutor**, e o transporte
+individual ocupa **10 vezes mais espaço** para transportar o mesmo número de pessoas
+que o ônibus. Quanto à segurança, os dados do **INFOSIGA-2024** para a cidade de São
+Paulo mostram 1.033 óbitos no trânsito, dos quais 46,9% de motociclistas e 36,1% de
+pedestres (fonte: Horácio Augusto Figueira, 2025, com base no INFOSIGA-2024).
 
 O clipping confirma a dimensão ambiental e de saúde do tráfego motorizado:
 
@@ -239,6 +271,13 @@ Fontes de apoio:
 - `dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Nestor Linha Marrom.txt`
 - `dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Marta Estudo de Caso Barcelona.txt`
 
+Horácio Augusto Figueira (2025) quantifica a vantagem do coletivo: **uma faixa
+exclusiva de ônibus bem operada transporta de 10 a 15 vezes mais pessoas/hora que uma
+faixa equivalente de automóveis**. Na Raposo, o corredor já opera com até **121
+ônibus/hora** no pico da manhã no trecho entre o Rodoanel e a Av. Escola Politécnica
+(SPTrans + EMTU, abr/2025), mostrando que a infraestrutura de demanda coletiva já
+existe para ser priorizada (fonte: Horácio Augusto Figueira, 2025).
+
 ## 10. Financiamento e política de mobilidade
 
 A **Lei 12.587/2012** (Política Nacional de Mobilidade Urbana) fornece a base legal
@@ -289,6 +328,11 @@ efeito dessa capacidade sobre toda a rede urbana*.
   (`dados/extraidos/Lote 34 - Contrato, Anexos e Apêndices/`).
 - Clippings de imprensa (`dados/extraidos/4.2.Clipping/`).
 - Peças e pareceres judiciais (`dados/extraidos/raw/`).
+- **Figueira, Horácio Augusto** (Eng. Me.). *Rodovia Raposo Tavares — Cidade de São
+  Paulo: algumas reflexões*. Apresentação no Seminário Mobilidade (ALESP), v.1,
+  23/04/2025. Contém as contagens volumétricas classificadas do Estudo de Tráfego do
+  Edital Lote 1 Nova Raposo (jun–out/2023) e dados INFOSIGA-2024.
+  (`dados/extraidos/raw/2025-04 - Apresentação Seminário Mobilidade - Horácio Analise e Refelxões Proposta Nova Raposo.txt`)
 - Fontes oficiais (internet):
   - Projeto Nova Raposo — SP Parcerias em Investimentos:
     parceriaseminvestimentos.sp.gov.br (projetos contratados → Nova Raposo)
@@ -305,9 +349,10 @@ efeito dessa capacidade sobre toda a rede urbana*.
 - [x] **Dados quantitativos nos `.dwg`/`.xlsx`** — os `.xlsx` do Lote 34 contêm lista
   de obras (km, tipo, extensão, coordenadas), custos (EVTE) e alinhamento
   georreferenciado (ALN), mas **não contêm contagens de tráfego nem velocidades**.
-  O único dado de demanda disponível no repositório é o de **111.000 veículos**
-  (citado no relatório do MNRN a partir do edital). Contagens/velocidades/níveis de
-  serviço, se existirem, estão nos estudos oficiais (SP Parcerias/SEMIL/ARTESP).
+  Contudo, as **contagens volumétricas classificadas do Edital** (postos P160–P257,
+  jun–out/2023) estão disponíveis no repositório via Horácio Augusto Figueira (2025),
+  além do dado de **111.000 veículos** (relatório MNRN). Contagens/velocidades/níveis
+  de serviço completos, se existirem, estão nos estudos oficiais (SP Parcerias/SEMIL/ARTESP).
 - [ ] **Modelagem de tráfego** — não executada neste repositório (que é documental).
   O dossiê registra a modelagem integrada Estado–Município como **encaminhamento
   pendente** (seção 11); os inputs parciais disponíveis são o dado de demanda

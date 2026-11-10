@@ -1,0 +1,896 @@
+cidades
+clima
+mobilidade
+Felipe Barcellos e Silva
+barcellos.silva@gmail.com
+abril de 2025
+Foto de Felipe Dias na Unsplash 
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+clima-mobilidade-cidades
+1. mudanças climáticas, efeito estufa e o CO2
+Notícias sobre mudanças climáticas têm sido frequentes
+fonte: https://www1.folha.uol.com.br/mercado/2024/03/macron-no-
+brasil-faz-agro-retomar-criticas-a-restricoes-ambientais-europeias.shtml
+fonte: https://www1.folha.uol.com.br/ambiente/2024/03/onda-
+de-calor-de-marco-no-brasil-foi-intensificada-pelas-mudancas-
+climaticas-aponta-estudo.shtml
+fonte: https://g1.globo.com/economia/noticia/2024/03/27/consumo-de-
+energia-aumentou-57percent-em-fevereiro-por-causa-do-calor-diz-ccee.ghtml
+fonte: 
+https://www.nexojornal.com.br/express
+o/2024/02/10/meta-15oc-acordo-de-
+paris-perdida-aquecimento-global
+fonte: 
+https://www.nexojornal.com.br/extra/2024/
+01/24/seca-na-amazonia-foi-causada-por-
+mudancas-climaticas-diz-estudo
+fonte: 
+https://www.estadao.com.br/
+economia/soja-cana-
+macauba-variedades-materia-
+prima-saf-de-aviacao/
+
+
+clima-mobilidade-cidades
+1. mudanças climáticas, efeito estufa e o CO2
+Outros
+(MP, SF6, CxFx)
+O efeito estufa possibilita que parte da energia proveniente do Sol 
+permaneça na Terra, mantendo a temperatura média do planeta e 
+garantindo a atual dinâmica climática, bem como a presença de vida.
+fonte:
+https://novaescola.org.br/planos-de-
+aula/fundamental/7ano/ciencias/o-
+efeito-estufa-terrestre/2158
+Gases de Efeito 
+Estufa - GEEs:
+H2O
+(água)
+CO2
+(dióxido de carbono)
+CH4
+(metano)
+NO2
+(óxido nitroso)
+HFCs
+(hidrofluorcarbonos)
+O3
+(ozônio)
+fonte: https://theconversation.com/the-three-minute-story-of-800-000-years-of-climate-change-with-a-sting-in-the-tail-73368
+Cientistas avaliam que as mudanças climáticas já observadas são 
+resultantes da potencialização antropomórfica do efeito estufa, dado o 
+aumento desproporcional da concentração de GEEs na atmosfera, fruto 
+de emissões provenientes de atividades humanas como a queima de 
+combustíveis fósseis.
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+clima-mobilidade-cidades
+(Emissão) = (Fator de Emissão) * (Taxa de Atividade)
+Mas o que causa emissões de CO2 e outros gases de efeito estufa?
+As atividades econômicas emissoras de gases de efeito estufa podem ser 
+organizadas em 5 grandes setores 
+MUDANÇA DE USO DA TERRA E FLORESTAS (MUT)
+Emissão de carbono devido a mudanças de uso da terra, 
+como o desmatamento (ex. transição de floresta primária 
+para uso agropecuário).
+AGROPECUÁRIA
+Emissões das atividades de produção animal e vegetal, 
+além do manejo de solos. Destacam-se os processos de 
+digestão de bovinos (popular arroto do boi) e de 
+fertilização.
+PROCESSOS INDUSTRIAIS E USO DE PRODUTOS (PIUP)
+Emissões provenientes de transformações físicas ou químicas 
+na indústria.
+RESÍDUOS
+Emissões geradas devido ao tratamento e decomposição 
+de resíduos.
+ENERGIA
+Emissões provenientes da produção ou queima de 
+combustíveis para obtenção de energia: queima de 
+combustíveis nos transportes, queima de combustíveis 
+na geração termelétrica, exploração de petróleo etc.
+fonte: https://super.abril.com.br/sociedade/quem-e-greta-thunberg-e-o-que-ela-representa
+* Greta Thunberg 
+é uma jovem 
+liderança no 
+ativismo climático 
+europeu
+2. setores emissores de CO2
+
+
+clima-mobilidade-cidades
+Participação nas 
+emissões de 2020
+A atividade de Transporte tem grande peso nas emissões globais, só ficando atrás da geração de eletricidade e calor.
+Emissões mundiais por diferentes atividades
+tCO2 = tC02e
+tCH4 = 25 tCO2e
+tN2O = 298 tCO2e
+32%
+ELETRICIDADE E 
+CALOR
+13% USO DE ENERGIA NA 
+INDÚSTRIA
+9% AGROPECUÁRIA
+7% PROCESSOS INDUSTRIAIS
+7% EMISSÕES FUGITIVAS
+15% TRANSPORTE
+https://www.climatewatchdata.org/ghg-emissions
+6% EDIFÍCIOS
+4% RESÍDUOS
+3% MUDANÇA DE USO DA TERRA
+1% OUTRAS
+2. setores emissores de CO2
+
+
+Participação nas 
+emissões de 2020
+2. setores emissores de CO2
+clima-mobilidade-cidades
+O Brasil está entre os 5 países que mais emitem gases de efeito estufa devido à atividade de transporte.
+Emissões mundiais de transporte por país
+tCO2 = tC02e
+tCH4 = 25 tCO2e
+tN2O = 298 tCO2e
+2º China (11%) 
+3º Índia (4%) 
+4º Rússia (3%) 
+5º Brasil (3%)
+1º EUA (21%) 
+https://www.climatewatchdata.org/ghg-emissions
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+3. o particular perfil de emissões brasileiro
+clima-mobilidade-cidades
+Diferentemente do que ocorre em outros países, o setor de Mudança de Uso da Terra e Florestas (MUT) é, de longe, a principal fonte de emissões no Brasil, principalmente devido 
+ao desmatamento na Amazônia. Em um cenário de controle do desmatamento, conforme inúmeras promessas governamentais e desejos da sociedade civil, o setor de energia 
+terá uma importância ainda maior nas emissões brasileiras e soluções nessa área serão essenciais para descarbonizar o país.
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+Milhões de Toneladas (Mt) de Gases de Efeito Estufa
+Total Brasil
+2.319 Mt CO2e 
+Mudança de uso da terra e floresta
+1.120 Mt CO2e (48%)
+Agropecuária - 617 Mt CO2e (27%)
+Energia - 412 Mt CO2e (18%)
+Processos Industriais - 78 Mt CO2e (3%)
+Resíduos - 91 Mt CO2e (4%)
+2022:
+dados de CO2e em GWP-AR5:
+tCO2 = tC02e; tCH4 = 28 tCO2e; tN2O = 265 tCO2e
+http://seeg.eco.br/
+
+
+3. o particular perfil de emissões brasileiro
+clima-mobilidade-cidades
+http://seeg.eco.br/
+dados de CO2e em GWP-AR5:
+tCO2 = tC02e; tCH4 = 28 tCO2e; tN2O = 265 tCO2e
+Emissões brasileiras em 2021 (milhões de toneladas de CO2e)
+Mudança de uso 
+da terra e floresta
+1.120 Mt CO2e (48%)
+Agropecuária
+617 Mt CO2e (27%)
+Energia
+412 Mt CO2e (18%)
+Resíduos - 91 Mt CO2e (4%)
+PIUP - 78 Mt CO2e (3%)
+Pecuária
+1.358 Mt CO2e (59%)
+Agricultura
+335 Mt CO2e (14%)
+Transporte
+224 Mt CO2e (10%)
+
+
+3. o particular perfil de emissões brasileiro
+clima-mobilidade-cidades
+http://seeg.eco.br/
+dados de CO2e em GWP-AR5:
+tCO2 = tC02e; tCH4 = 28 tCO2e; tN2O = 265 tCO2e
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+20%
+22%
+24%
+26%
+28%
+30%
+32%
+34%
+36%
+38%
+40%
+42%
+44%
+Distrito Federal
+São Paulo
+Paraná
+Pernambuco
+Santa Catarina
+Rio Grande do Norte
+Ceará
+Amapá
+Paraíba
+Rio de Janeiro
+Alagoas
+Espírito Santo
+Sergipe
+Minas Gerais
+Rio Grande do Sul
+Bahia
+Piauí
+Goiás
+Mato Grosso do Sul
+Maranhão
+Tocantins
+Amazonas
+Roraima
+Pará
+Mato Grosso
+Rondônia
+Acre
+Participação das emissões de transportes no total emitido nos estados (%)
+Média Brasil: 10%
+
+
+4. o particular perfil de emissões brasileiro
+clima-mobilidade-cidades
+http://seeg.eco.br/
+dados de CO2e em GWP-AR5:
+tCO2 = tC02e; tCH4 = 28 tCO2e; tN2O = 265 tCO2e
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+20%
+22%
+24%
+26%
+28%
+30%
+32%
+34%
+36%
+38%
+40%
+42%
+44%
+Distrito Federal
+São Paulo
+Paraná
+Pernambuco
+Santa Catarina
+Rio Grande do Norte
+Ceará
+Amapá
+Paraíba
+Rio de Janeiro
+Alagoas
+Espírito Santo
+Sergipe
+Minas Gerais
+Rio Grande do Sul
+Bahia
+Piauí
+Goiás
+Mato Grosso do Sul
+Maranhão
+Tocantins
+Amazonas
+Roraima
+Pará
+Mato Grosso
+Rondônia
+Acre
+Participação das emissões de transportes no total emitido nos estados (%)
+Média Brasil: 10%
+Emissões absolutas de transportes por estado (milhões de toneladas de CO2e)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+48
+50
+Distrito Federal
+São Paulo
+Paraná
+Pernambuco
+Santa Catarina
+Rio Grande do Norte
+Ceará
+Amapá
+Paraíba
+Rio de Janeiro
+Alagoas
+Espírito Santo
+Sergipe
+Minas Gerais
+Rio Grande do Sul
+Bahia
+Piauí
+Goiás
+Mato Grosso do Sul
+Maranhão
+Tocantins
+Amazonas
+Roraima
+Pará
+Mato Grosso
+Rondônia
+Acre
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+São Paulo (SP)
+Curitiba (PR)
+Florianópolis (SC)
+Vitória (ES)
+Goiânia (GO)
+João Pessoa (PB)
+Campo Grande (MS)
+Porto Alegre (RS)
+Recife (PE)
+Teresina (PI)
+Salvador (BA)
+Belém (PA)
+Natal (RN)
+São Luís (MA)
+Brasília (DF)
+Belo Horizonte (MG)
+Maceió (AL)
+Palmas (TO)
+Fortaleza (CE)
+Macapá (AP)
+Rio de Janeiro (RJ)
+Cuiabá (MT)
+Manaus (AM)
+Boa Vista (RR)
+Aracaju (SE)
+Rio Branco (AC)
+Porto Velho (RO)
+4. transportes como maior fonte de emissões urbanas
+clima-mobilidade-cidades
+Participação das emissões de transportes no total emitido nas capitais (%)
+Média Brasil: 10%
+http://seeg.eco.br/
+dados de CO2e em GWP-AR5:
+tCO2 = tC02e; tCH4 = 28 tCO2e; tN2O = 265 tCO2e
+
+
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+4.500
+5.000
+5.500
+6.000
+6.500
+7.000
+7.500
+8.000
+8.500
+9.000
+São Paulo (SP)
+Curitiba (PR)
+Florianópolis (SC)
+Vitória (ES)
+Goiânia (GO)
+João Pessoa (PB)
+Campo Grande (MS)
+Porto Alegre (RS)
+Recife (PE)
+Teresina (PI)
+Salvador (BA)
+Belém (PA)
+Natal (RN)
+São Luís (MA)
+Brasília (DF)
+Belo Horizonte (MG)
+Maceió (AL)
+Palmas (TO)
+Fortaleza (CE)
+Macapá (AP)
+Rio de Janeiro (RJ)
+Cuiabá (MT)
+Manaus (AM)
+Boa Vista (RR)
+Aracaju (SE)
+Rio Branco (AC)
+Porto Velho (RO)
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+São Paulo (SP)
+Curitiba (PR)
+Florianópolis (SC)
+Vitória (ES)
+Goiânia (GO)
+João Pessoa (PB)
+Campo Grande (MS)
+Porto Alegre (RS)
+Recife (PE)
+Teresina (PI)
+Salvador (BA)
+Belém (PA)
+Natal (RN)
+São Luís (MA)
+Brasília (DF)
+Belo Horizonte (MG)
+Maceió (AL)
+Palmas (TO)
+Fortaleza (CE)
+Macapá (AP)
+Rio de Janeiro (RJ)
+Cuiabá (MT)
+Manaus (AM)
+Boa Vista (RR)
+Aracaju (SE)
+Rio Branco (AC)
+Porto Velho (RO)
+4. transportes como maior fonte de emissões urbanas
+clima-mobilidade-cidades
+Participação das emissões de transportes no total emitido nas capitais (%)
+Emissões absolutas de transportes por capital (milhões de toneladas de CO2e)
+Média Brasil: 10%
+http://seeg.eco.br/
+dados de CO2e em GWP-AR5:
+tCO2 = tC02e; tCH4 = 28 tCO2e; tN2O = 265 tCO2e
+
+
+clima-mobilidade-cidades
+fonte: 
+https://energiaeambiente.org.br/wp-
+content/uploads/2021/03/seeg-
+municipios-infografico.pdf
+O uso da terra é a maior fonte de emissões na maioria dos municípios brasileiros. No entanto, há um considerável número de territórios onde 
+energia é o maior setor emissor. No geral, dentro do setor de energia brasileiro, a atividade de transportes é a maior fonte de emissões.
+4. transportes como maior fonte de emissões urbanas
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+5. poluição atmosférica
+clima-mobilidade-cidades
+Além de emitir gases de efeito estufa, que possuem efeito no clima global, a atividade de transportes também tende a ser a principal fonte de 
+poluentes atmosféricos em contextos urbanos, deteriorando a qualidade do ar nas cidades e prejudicando a saúde de seus habitantes.
+fonte: https://www.wribrasil.org.br/noticias/qual-o-impacto-da-poluicao-do-ar-na-saude
+
+
+5. poluição atmosférica
+clima-mobilidade-cidades
+São Paulo possui uma rede de monitoramento da qualidade do ar em que parte das estações avaliam a poluição causada pelos transportes.
+
+
+5. poluição atmosférica
+clima-mobilidade-cidades
+O monitoramento da qualidade do ar na Região Metropolitana de São Paulo aponta consistentemente a ultrapassagem das recomendações 
+de máxima poluição atmosférica apontadas pela Organização Mundial da Saúde (OMS).
+https://energiaeambiente.org.br/qualidadedoar/
+https://energiaeambiente.
+org.br/qualidadedoar/
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+clima-mobilidade-cidades
+É necessário diminuir o consumo de combustíveis fósseis em veículos para reduzir essas emissões.
+fonte: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-ben
+0
+5
+10
+15
+20
+25
+30
+35
+40
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Milhões de toneladas equivalentes de petróleo (Mtep)
+Diesel de petróleo
+Gasolina automotiva
+Etanol
+Biodiesel
+Querosene de aviação
+Gás natural
+Outros combustíveis
+Consumo de combustíveis nos transportes
+7. soluções ASI (avoid-shift-improve)
+
+
+7. soluções ASI (avoid-shift-improve)
+clima-mobilidade-cidades
+Transformação da Avenida 9 de Julio em Buenos Aires, Argentina (2013)
+fonte: https://www.itdp.org/2020/01/27/buenos-aires-1985-and-today/
+antes
+depois
+Evitar (avoid)
+Evitar grandes deslocamentos 
+motorizados, aproximando as 
+pessoas das oportunidades.
+Mudar (shift)
+Promover transferências 
+modais, priorizando o uso do 
+transporte coletivo, menos 
+intensivo em carbono.
+Melhorar (improve)
+Utilizar tecnologias e sistemas 
+de operação mais eficientes e 
+menos emissores, como 
+veículos elétricos e vias onde 
+ônibus possam trafegar com 
+maior fluidez.
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+clima-mobilidade-cidades
+Cidade compacta
+Uso misto
+Adensamento populacional
+Diminuição das distâncias
+Aproximar bairros populosos e 
+oportunidades, principalmente de 
+trabalho e educação
+Planejamento territorial
+Habitação de interesse social em 
+bairros de urbanização consolidada
+Promoção do caminhar
+fonte: 
+https://br.pinterest.com/pin/
+47991552265219271/
+
+
+fonte: https://www.itdp.org/2020/01/27/buenos-aires-1985-and-today/
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de transporte
+clima-mobilidade-cidades
+7. exemplos, potencialidades e desafios
+fonte: https://itdpbrasil.org/wp-
+content/uploads/2021/05/Vias-
+expressas-vs-ruas-completas.pdf
+Aumento da oferta de transporte público
+Incentivo ao uso do transporte público
+Zonas prioritárias de adensamento populacional próximas 
+a grandes eixos de transporte coletivo
+Limite máximo de vagas de garagem em novos edifícios 
+próximos ao transporte de massa
+Ciclovias, bicicletários públicos, sistemas de bicicletas 
+compartilhadas
+Incentivo ao transporte hidroviário (quando possível) 
+
+
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+clima-mobilidade-cidades
+roteiro 
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+Foto de Maick Maciel na Unsplash 
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+8.3. improve – melhorar tecnologias veiculares, combustíveis e condições operacionais
+clima-mobilidade-cidades
+8. exemplos, potencialidades e desafios
+A tecnologia elétrica (e outras) podem ser aplicadas no 
+transporte coletivo, alinhando as ações de shift e improve.
+fonte: https://elements.visualcapitalist.com/visualized-battery-vs-hydrogen-fuel-cell/
+O programa de metas 
+da atual gestão da 
+prefeitura de São Paulo 
+indica que a frota 
+paulistana deve fechar 
+o ano de 2024 com ao 
+menos 2600 ônibus 
+elétricos. No fim de 
+2023, eram 270, 
+sendo 201 trólebus.
+fonte: 
+https://www.capital.sp.gov.br/
+w/noticia/prefeitura-apresenta-
+novos-50-onibus-eletricos-e-
+avanca-na-renovacao-da-frota-
+por-modelos-de-energia-limpa-1
+
+
+fonte: https://itdpbrasil.org/infografico-o-cenario-de-cidades-compactas-eletrificadas/
+
+
+clima-mobilidade-cidades
+moral da 
+história:
+As mudanças climáticas e as emissões de gases de efeito estufa 
+(GEE) são constantemente alvo de interesse dos meios de 
+comunicação, de estudos científicos, de políticas públicas e até 
+acordos internacionais.
+A atividade de transportes está entre as maiores fontes de 
+emissões de CO2 do mundo, tendendo, com a diminuição do 
+carbono emitido em outros setores, a aumentar ainda mais sua 
+importância.
+O Brasil está entre os 10 países que mais emitem GEE e a 
+mobilidade é a principal fonte de emissões nas áreas urbanas do 
+país.
+Para reduzir emissões da mobilidade, além de produzir outros 
+efeitos urbanos positivos, pode-se usar a abordagem ASI (avoid-
+shift-improve ou evitar-mudar-melhorar):
+Evitar grandes deslocamentos motorizados;
+Mudar a matriz modal para priorizar modos menos intensivos em carbono;
+Melhorar as tecnologias, combustíveis e condições de operação dos veículos.
+7.2. shift – mudar viagens individuais motorizadas para outros modos de 
+transporte
+3. o particular perfil de emissões brasileiro
+5. poluição atmosférica
+6. soluções ASI (avoid-shift-improve)
+1. mudanças climáticas, efeito estufa e o CO2
+2. setores emissores de CO2
+4. transportes como maior fonte de emissões urbanas
+7. exemplos, potencialidades e desafios
+7.1. avoid – evitar longas viagens motorizadas
+7.3. improve – melhorar tecnologias veiculares, combustíveis e condições 
+operacionais
+
+
+cidades
+clima
+mobilidade
+Felipe Barcellos e Silva
+barcellos.silva@gmail.com
+abril de 2025
+Foto de Felipe Dias na Unsplash 

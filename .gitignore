@@ -19,7 +19,8 @@ token.json
 *.pem
 
 # Local-only (never publish)
-raw/
+# apenas a pasta de fontes na raiz; nao ignorar dados/extraidos/raw/
+/raw/
 .codewhale/
 controle_ingestao_base_nrn.md
 wiki/log.md

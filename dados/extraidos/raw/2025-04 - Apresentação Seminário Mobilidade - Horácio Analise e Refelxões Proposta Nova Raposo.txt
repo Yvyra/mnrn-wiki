@@ -1,0 +1,1129 @@
+“Rodovia Raposo Tavares” 
+Cidade de São Paulo
+Algumas reflexões!
+Versão-1: 23-04-2025
+Eng. Me. Horácio Augusto Figueira
+
+
+Eng. Me. Horácio Augusto Figueira
+São Paulo e a R.M.S.P. não precisam parar!
+Mas quem está causando o caos?
+Transporte coletivo público ou privado?
+Transporte de carga?
+Transporte individual (autos e motos)?
+Ou são os “E.T.s”?
+
+
+Eng. Me. Horácio Augusto Figueira
+ARTHUR C. CLARKE
+ “Livro: Perfil do futuro” (1962, 1970)
+“[…] os veículos – exceto os de utilidade pública – não podem 
+por muito tempo ser permitidos em áreas urbanas. Se os 
+carros particulares continuarem a trafegar no interior das 
+cidades, teremos de colocar todos os edifícios sobre 
+pilotis, a fim de que toda a área do terreno seja usada 
+para avenidas e parques de estacionamento, e mesmo 
+isto não resolverá o problema.” 
+
+
+Eng. Me. Horácio Augusto Figueira
+Livro: “APOCALIPSE MOTORIZADO”
+“A Tirania do Automóvel em um Planeta Poluído” (Organizador/Autor: Ned Ludd) 
+Conrad Editora do Brasil-2004
+“Os Cavaleiros do Apocalipse estão a caminho...e vêm motorizados!”
+
+
+Eng. Me. Horácio Augusto Figueira
+LIMITE DO SISTEMA VIÁRIO DA CIDADE DE SÃO PAULO X
+EXPANSÃO DA FROTA DE VEÍCULOS (2025)
+Não há mais espaço no sistema viário da cidade de São Paulo, nos 
+períodos de pico, para a expansão da frota de automóveis e agora 
+de motos, sem comprometer a sua viabilidade econômica e 
+ambiental.
+Precisamos aplicar urgente os conceitos de:
+ “Engenharia de Transporte de Pessoas”
+e não só de
+“Engenharia de tráfego de veículos individuais”
+O uso do espaço viário é FINITO!
+
+
+Eng. Me. Horácio Augusto Figueira
+Cidade de São Paulo: Automóvel ou Auto imóvel?
+❖Alguns números:
+❑População: 11.895.578 (IBGE-2024)
+❑19.485 quilômetros de malha viária (Fonte: CET-2024)
+❑187.000.000 m² de área estimada do sistema viário (PMSP-2024)
+❑Frota: 9.748.457 (SENATRAN/ dezembro-2024, todos os tipos de veículos)
+❑Área territorial: 1.521,20 km² (IBGE-2024, urbana e rural)
+❖Alguns indicadores:
+❑
+1,22 habitantes / veículo
+❑
+6.408 veículos/km² de área territorial
+•
+156,05 m²/veículo na superfície (Áreas urbanas e rurais)
+o
+Quadrado de 12,50 m de lado ou Círculo de 7,0 m de raio / veículo
+❑
+52.130 veículos/km² na área exclusiva do viário
+•
+19,18 m²/veículo na área exclusiva do viário
+o
+Quadrado de 4,38 m de lado ou Círculo de 2,47 m de raio / veículo
+Pergunta: Aonde vamos colocar as Pessoas, Áreas verdes, Represas, Casas, Escolas, 
+Empresas, Calçadas, Vias, Transporte coletivo, Estacionamentos, etc.? A vida nessa cidade?
+
+
+Eng. Me. Horácio Augusto Figueira
+LIMITE DO SISTEMA VIÁRIO DA CIDADE DE SÃO PAULO
+X
+EXPANSÃO DA FROTA DE VEÍCULOS? (2025)
+❖
+Frota = 9.748.457 veículos (SENATRAN / dezembro-2024)
+❑
+Auto / Utilitário = 7.159.073 (73,44%)
+❑
+Moto = 1.565.091 (16,06%)
+❑
+Caminhão = 925.470 (9,49%)
+❑
+Ônibus = 93.593 (0,96%)
+❑
+Outros = 5.230 (0,05%)
+❖
+Hipótese teórica:
+❑
+Saída simultânea e distribuição uniforme no sistema viário
+❑
+Velocidade = 0,00 km/h (congestionamento)
+❑
+Espaço ocupado por automóvel equivalente  = 6,00 m de faixa de tráfego
+❑
+Densidade máxima = 167 veículos por km de faixa de tráfego incluindo os cruzamentos
+❑
+Número de faixas de tráfego = uma por sentido
+❑
+Malha viária total da cidade = 19.485 km (CET/SP-2024, inclui ruas sem saída e vielas)
+Malha viária necessária = 56 mil km  (Inclui ruas sem saída e vielas) somente 
+para acomodar os veículos parados!
+❖
+Conclusão: 
+Se toda a frota de veículos tentasse sair às ruas, não haveria espaço suficiente nem para 
+ficarem parados um atrás do outro!
+
+
+Eng. Me. Horácio Augusto Figueira
+Como e porque priorizar o fluxo de ônibus no sistema viário?
+❖Ou a Prefeitura da cidade de São Paulo em conjunto com o Governo do Estado e 
+Região Metropolitana deixam o ônibus fluir, incomodando mesmo o transporte 
+individual, ou serão coniventes e omissos em relação ao caos na mobilidade urbana.
+❖Para onde estamos caminhando, se nada for feito para reverter a divisão modal?
+❖Cidade de São Paulo-2025: Frota prevista = 10,0 milhões
+❖Nos horários de pico existe o seguinte aparente paradoxo, quando os sistemas são 
+mais solicitados:
+❑O sistema de ônibus, em via exclusiva, têm a sua maior eficiência em termos de 
+passageiros/hora e veículos/hora
+❑O sistema viário (autos), têm a sua maior ineficiência, em termos de veículos/hora, 
+pois no congestionamento apenas a densidade é máxima e o fluxo real de 
+autos/hora é menor que fora dos picos.  
+❖Uma única faixa exclusiva de ônibus, à esquerda, quando bem operada, com 
+ultrapassagem nas paradas de maior demanda e fiscalizada pode transportar 10 a 15 
+vezes mais pessoas/hora que uma faixa de tráfego equivalente de automóveis.
+
+
+Eng. Me. Horácio Augusto Figueira
+y = 0,1314x + 44,788
+R² = 0,9368
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+900
+950
+1.000
+1.050
+1.100
+1.150
+1.200
+0
+200
+400
+600
+800
+1.000
+1.200
+1.400
+1.600
+1.800
+2.000
+2.200
+2.400
+2.600
+2.800
+3.000
+3.200
+3.400
+3.600
+3.800
+4.000
+4.200
+4.400
+4.600
+4.800
+5.000
+5.200
+5.400
+5.600
+5.800
+6.000
+6.200
+6.400
+6.600
+6.800
+7.000
+7.200
+7.400
+7.600
+7.800
+8.000
+8.200
+8.400
+Km de Congestionamento
+FROTA DE VEÍCULOS X 1.000
+Km de CONGESTIONAMENTO (Máximos: Todos os dias até Agosto / 2018 - Fonte: Maplink)
+X
+FROTA: DENATRAN  (Julho / 2018) 26 Cidades do Brasil
+São Paulo
+Rio de Janeiro
+Curitiba
+Brasília
+Belo Horizonte
+Fortaleza
+Recife
+Campinas
+Goiânia
+Manaus
+Salvador
+Porto Alegre
+Santo André
+São Bernardo
+Guarulhos
+Para onde a “mobilidade” está “caminhando” no BRASIL? E na sua cidade? 
+
+
+O conceito do Automóvel Elástico !
+PEQUENO AUTOMÓVEL ocupa que espaço na via urbana ou rodovia ?   
+(Intervalo médio de 2,0 segundos)
+AUTOMÓVEL ELÁSTICO 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+0,0
+7,2
+10,8 14,4 21,6
+36,0 50,4 64,8
+79,2 108,0
+Velocidade Média (Km/h)
+Área / Automóvél 
+(m²)
+Área X
+Velocidade
+Eng. Me. Horácio Augusto Figueira
+
+
+A R.M.S.P. E A CIDADE DE SÃO PAULO NÃO PRECISAM PARAR!
+Como e porque priorizar o fluxo de ônibus no sistema viário?
+Ex: 35 Pessoas viajando sentadas (uma faixa de tráfego)
+ 
+ 
+Ônibus convencional (SPTrans, EMTU, Escolar ou Fretado) = 15 metros
+             25 Automóveis ou 25 Táxis = 150 metros = Fila de 1,5 quadra 
+       (Ocupação média adotada = 1,4 pessoas/auto e 6,0 metros/auto) 
+    I - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -I     I- - - - - - - - - - - - - - - - - - - - 
+     - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -I     I- - - - - - - - - - - - - - - - - - - -
+    
+    I- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -I     I- - - - - - - - -  - - - - - - - - - - 
+  -  70 % dos automóveis e táxis circulam só com o condutor
+– Transporte Individual ocupa 10 vezes mais espaço para transportar o mesmo número 
+de pessoas, nas mesmas condições de conforto.
+– Ou deixamos o ônibus fluir, pra valer, ou vamos todos ficar parados reclamando como 
+crianças birrentas. 
+– O congestionamento de automóveis é INEVITÁVEL.
+– O congestionamento de ônibus é IMPERDOÁVEL.
+– NA VERDADE O QUE EXISTE É CONGESTIONAMENTO DE IDEIAS.
+Eng. Me. Horácio Augusto Figueira
+
+
+(*) Eng. Me. Horácio Augusto Figueira
+Edital: Estudo de Tráfego Lote-1 Nova Raposo: Posto- 255
+ Contagem volumétrica classificada- Junho a Outubro/2023
+Rodovia Raposo Tavares- SP-270 (Trecho inicial em São Paulo)
+Posto
+Veículos por Categoria (Bidirecional)
+Posto
+Tipo (duração)
+km
+Nº de 
+faixas / 
+sentido
+Auto
+Moto
+Ônibus
+Caminhão
+Total
+P255
+16 h
+10
+3
+68.867
+15.911
+2.012
+3.629
+90.419
+(*) Estimativas: Média / 
+sentido 
+Veículos / hora
+2.152
+497
+63
+114
+2.826
+% por tipo de veículo
+76,15%
+17,59%
+2,23%
+4,03%
+100,0%
+Pessoas / hora
+3.013
+(ocupaçã
+o ≈ 1,4)
+522
+(ocupação ≈ 
+1,05)
+3.150
+(ocupação 
+≈ 50)
+285
+(ocupação 
+≈ 2,5)
+6.970
+% por tipo de veículo
+43,23%
+7,49%
+45,19%
+4,09%
+100,0%
+
+
+(*) Eng. Me. Horácio Augusto Figueira
+Edital: Estudo de Tráfego Lote-1 Nova Raposo: Posto- 204
+ Contagem volumétrica classificada- Junho a Outubro/2023
+Rodovia Raposo Tavares- SP-270 (Trecho inicial em São Paulo)
+Posto
+Veículos por Categoria (Bidirecional)
+Posto
+Tipo (duração)
+km
+Nº de 
+faixas / 
+sentido
+Auto
+Moto
+Ônibus
+Caminhão
+Total
+P204
+7 dias / 24 horas
+12
+3
+631.065
+116.093
+14.628
+28.224
+790.010
+(*) Estimativas: Média 
+/ sentido 
+(HP = 9%) 
+Veículos / hora
+4.057
+746
+94
+182
+5.079
+% por tipo de veículo
+79,88%
+14,69%
+1,85%
+3,58%
+100,0%
+Pessoas / hora
+5.680
+(ocupação 
+≈ 1,4)
+783
+(ocupação ≈ 
+1,05)
+4.700
+(ocupação ≈ 
+50)
+455
+(ocupação 
+≈ 2,5)
+11.618
+% por tipo de veículo
+48,89%
+6,74%
+40,45%
+3,92%
+100,0%
+
+
+(*) Eng. Me. Horácio Augusto Figueira
+Edital: Estudo de Tráfego Lote-1 Nova Raposo: Posto- 256
+ Contagem volumétrica classificada- Junho a Outubro/2023
+Rodovia Raposo Tavares- SP-270 (Trecho inicial em São Paulo)
+Posto
+Veículos por Categoria (Bidirecional)
+Posto
+Tipo (duração)
+km
+Nº de 
+faixas / 
+sentido
+Auto
+Moto
+Ônibus
+Caminhão
+Total
+P256
+16 h
+14,5
+3
+104.833
+20.239
+3.124
+5.186
+133.382
+(*) Estimativas: Média 
+/ sentido 
+Veículos / hora
+3.276
+632
+98
+162
+4.168
+% por tipo de veículo
+78,60%
+15,16%
+2,35%
+3,89%
+100,0%
+Pessoas / hora
+4.586
+(ocupação ≈ 
+1,4)
+664
+(ocupação 
+≈ 1,05)
+4.900
+(ocupação 
+≈ 50)
+405
+(ocupação 
+≈ 2,5)
+10.555
+% por tipo de veículo
+43,45%
+6,29%
+46,42%
+3,84%
+100,0%
+
+
+(*) Eng. Me. Horácio Augusto Figueira
+Edital: Estudo de Tráfego Lote-1 Nova Raposo: Posto- 205
+ Contagem volumétrica classificada- Junho a Outubro/2023
+Rodovia Raposo Tavares- SP-270 (Trecho inicial em São Paulo)
+Posto
+Veículos por Categoria (Bidirecional)
+Posto
+Tipo 
+(duração)
+km
+Nº de 
+faixas / 
+sentido
+Auto
+Moto
+Ônibus
+Caminhão
+Total
+P205
+7 dias / 24 
+horas
+18
+3
+846.331
+118.556
+11.789
+51.725
+1.028.401
+(*) Estimativas: Média / 
+sentido 
+(HP = 9%) 
+Veículos / hora
+5.440
+762
+76
+333
+6.611
+% por tipo de 
+veículo
+82,29%
+11,53%
+1,15%
+5,03%
+100,0%
+Pessoas / hora
+7.616
+(ocupação 
+≈ 1,4)
+800
+(ocupação 
+≈ 1,05)
+3.800
+(ocupação ≈ 
+50)
+833
+(ocupação 
+≈ 2,5)
+13.049
+% por tipo de 
+veículo
+58,36%
+6,13%
+29,12%
+6,38%
+100,0%
+
+
+(*) Eng. Me. Horácio Augusto Figueira
+Edital: Estudo de Tráfego Lote-1 Nova Raposo: Posto- 206
+ Contagem volumétrica classificada- Junho a Outubro/2023
+Rodovia Raposo Tavares- SP-270 (Trecho inicial em São Paulo)
+Posto
+Veículos por Categoria (Bidirecional)
+Posto
+Tipo 
+(duração)
+km
+Nº de 
+faixas / 
+sentido
+Auto
+Moto
+Ônibus
+Caminhão
+Total
+P206
+7 dias / 24 
+horas
+25
+3
+829.833
+103.341
+9.572
+68.071
+1.010.817
+(*) Estimativas: Média / 
+sentido 
+(HP = 9%) 
+Veículos / hora
+5.335
+664
+62
+437
+6.498
+% por tipo de 
+veículo
+82,10%
+10,22%
+0,95%
+6,73%
+100,0%
+Pessoas / hora
+7.469
+(ocupação 
+≈ 1,4)
+697
+(ocupação 
+≈ 1,05)
+3.100
+(ocupação ≈ 
+50)
+1.093
+(ocupação 
+≈ 2,5)
+12.359
+% por tipo de 
+veículo
+60,43%
+5,64%
+25,08%
+8,85%
+100,0%
+
+
+(*) Eng. Me. Horácio Augusto Figueira
+Edital: Estudo de Tráfego Lote-1 Nova Raposo: Posto- 257
+ Contagem volumétrica classificada- Junho a Outubro/2023
+Rodovia Raposo Tavares- SP-270 (Trecho inicial em São Paulo)
+Posto
+Veículos por Categoria (Bidirecional)
+Posto
+Tipo (duração)
+km
+Nº de 
+faixas / 
+sentido
+Auto
+Moto
+Ônibus
+Caminhão
+Total
+P257
+16 h
+31,5
+3
+141.565
+26.447
+4.549
+13.027
+185.588
+(*) Estimativas: Média 
+/ sentido 
+Veículos / hora
+4.424
+827
+142
+407
+5.800
+% por tipo de veículo
+76,27%
+14,26%
+2,45%
+7,02%
+100,0%
+Pessoas / hora
+6.194
+(ocupação ≈ 
+1,4)
+868
+(ocupação 
+≈ 1,05)
+7.100
+(ocupação 
+≈ 50)
+1.018
+(ocupação 
+≈ 2,5)
+15.180
+% por tipo de veículo
+40,80%
+5,72%
+46,77%
+6,71
+100,0%
+
+
+(*) Eng. Me. Horácio Augusto Figueira
+Edital: Estudo de Tráfego Lote-1 Nova Raposo: Posto- 160
+ Contagem volumétrica classificada- Junho a Outubro/2023
+Rodovia Raposo Tavares- SP-270 (Trecho inicial em São Paulo)
+Posto
+Veículos por Categoria (Bidirecional)
+Posto
+Tipo (duração)
+km
+Nº de 
+faixas / 
+sentido
+Auto
+Moto
+Ônibus
+Caminhão
+Total
+P160
+16 h
+39
+2
+53.034
+6.067
+543
+6.511
+66.155
+(*) Estimativas: Média 
+/ sentido 
+Veículos / hora
+1.657
+190
+17
+203
+2.067
+% por tipo de veículo
+80,16%
+9,19%
+0,82%
+9,82%
+100,0%
+Pessoas / hora
+2.320
+(ocupação ≈ 
+1,4)
+200
+(ocupação 
+≈ 1,05)
+850
+(ocupação 
+≈ 50)
+508
+(ocupação 
+≈ 2,5)
+3.878
+% por tipo de veículo
+59,82%
+5,16%
+21,92%
+13,10%
+100,0%
+
+
+Eng. Me. Horácio Augusto Figueira
+Frequências máximas horárias das linhas de ônibus operadas pela SPTrans e EMTU
+Rodovia Raposo Tavares: São Paulo – Cotia (Fonte: Site das operadoras- Abril / 2025) 
+km
+Sentido
+Pico
+Nº de linhas
+Frequência máxima
+(2ª à 6ª) Ônibus / hora
+SPTrans
+EMTU
+TOTAL
+SPTrans
+EMTU
+TOTAL
+10,4
+Leste (Interior – Capital)
+Manhã
+12
+4
+16
+60
+26
+86
+10,2
+Oeste (Capital – Interior)
+Tarde
+12
+4
+16
+51
+18
+69
+17,1
+Leste (Interior – Capital)
+Entre o Rodoanel e a Av. Escola 
+Politécnica
+Manhã
+12
+19
+31
+56
+65
+121
+17,1
+Oeste (Capital – Interior)
+Entre a Av. Escola Politécnica
+ e o Rodoanel
+Tarde
+12
+20
+32
+44
+54
+98
+31,5
+Leste (Interior – Capital)
+Na saída de Cotia 
+(Rua Esmeralda)
+Manhã
+0
+10
+10
+0
+47
+47
+31,5
+Oeste (Capital – Interior)
+Antes da chegada em Cotia
+(Rua Aimoré)
+Tarde
+0
+8
+8
+0
+33
+33
+OBS: Faltam as demandas de viagens de pessoas em ônibus fretados, rodoviários, escolar e dos municípios do entorno, 
+que também utilizam a Rodovia Raposo Tavares em algum trecho. 
+
+
+Eng. Me. Horácio Augusto Figueira
+Algumas observações sobre previsões de demanda em sistemas saturados
+Após a inauguração das “Melhorias” (ampliações viárias) o que em geral acontece?
+Essas alterações conseguem ser mensuradas previamente pelas simulações de tráfego?
+❖Parte das viagens dos condutores de autos/utilitários e até de entregas de carga mudam horários 
+(períodos do dia), dias na semana das viagens e frequência.
+❖Mudança de rotas de viagens urbanas, metropolitanas e rodoviárias (Tráfego desviado).
+❖Geração de novas viagens, que antes não eram realizadas (Tráfego gerado).
+❖Em função de novos congestionamentos, após as melhorias, ocorre nova adaptação.
+❖Em função das alternativas disponíveis de transporte coletivo, com prioridade ou não no viário, há 
+migração de parte das viagens de pessoas do transporte individual para o transporte coletivo ou ao 
+contrário.
+❖Alguns exemplos de ampliações viárias ou vias novas, que continuam e continuarão 
+congestionadas, pois não tem um projeto de transporte de pessoas (TC):
+❑Via Dutra
+❑Marginal Tietê (Não durou um mês e os congestionamentos voltaram)
+❑Rodovia dos Bandeirantes (Ampliação de 3 para 5 faixas, na chegada à São Paulo)
+•
+No projeto original de 5 décadas atrás estava previsto um Trem no canteiro central 
+❑Rodovia Castello Branco (Marginais até Alphaville e em breve até Aldeia da Serra)
+❑Rodoanel SUL (Que tirou parte dos caminhões da Av. dos Bandeirantes)
+• Em poucas semanas os automóveis ocuparam o espaço deixado pelos caminhões
+❑Rodovia dos Tamoios (Vide feriado de páscoa de Abril/2025)
+❑Rodovia Raposo Tavares????
+
+
+ÔNIBUS X TRANSPORTE INDIVIDUAL
+Capacidades médias de transporte de pessoas (Sentadas) X Nº Faixas de tráfego / sentido 
+Ex: Vias com semáforo (*) x Via Expressa
+Faixas de 
+Tráfego / 
+sentido
+ÔNIBUS EM FAIXA EXCLUSIVA
+1 Faixa (sem ultrapassagem)
+2 Faixas (com ultrapassagem)
+AUTOMÓVEL (TI)
+Relação
+TC / TI
+Comum 
+(35 sentados)
+Bi-articulado (TC)
+(105 sentados)
+Ocupação Média = 1,4
+A
+B
+C
+B/C
+Veíc. / h
+Pas. / h
+Veíc. / h
+Pas. / h
+Veíc. / h
+Pas. / h
+1 (*)
+30
+1.050
+30
+3.150
+750
+1.050
+3,0
+1 (*)
+60
+2.100
+60
+6.300
+750
+1.050
+6,0
+1 (*)
+120
+4.200
+120
+12.600
+750
+1.050
+12,0
+2 (*)
+240
+8.400
+240
+25.200
+1.500
+2.100
+12,0
+10
+Marginal Tietê
+(Via Expressa)
+240
+(2 faixas)
+25.200
+15.000
+(10 faixas)
+21.000
+ou
+4.200 
+(2 faixas)
+6,0
+(1,2 x 5 
+faixas)
+Eng. Me. Horácio Augusto Figueira
+
+
+RODOANEL – TRAMO NORTE
+AINDA VAI RESOLVER O TRÂNSITO
+E A MOBILIDADE DA R.M.S.P.?
+Conversa para adultos!
+Eng. Me. Horácio Augusto Figueira
+
+
+ 
+Eng. Me. Horácio Augusto Figueira
+
+
+ 
+Eng. Me. Horácio Augusto Figueira
+
+
+Eng. Me. Horácio Augusto Figueira
+
+
+Eng. Me. Horácio Augusto Figueira
+Segurança de trânsito? 
+Breve: Mototáxi biarticulado?
+
+
+Estado de São Paulo: INFOSIGA-2024
+Frota   x   População (P = 45.973.194 - IBGE: 1º Julho/2024))   x   Óbitos por Sinistros de Trânsito
+Eng. Me. Horácio Augusto Figueira
+Tipo  de veículo da vítima
+Frota
+(DENATRAN/ dezembro-2024)
+Óbitos no Trânsito 
+(INFOSIGA-2024)
+Indicadores (2024)
+Nº
+% por Tipo de 
+Veículo
+Nº
+% por Tipo de 
+Veículo
+Óbitos por 100 mil
+Veículos
+Pessoas (P)
+A
+B = A%
+C
+D = C%
+E = (C/A) x 100 
+mil
+F = (C/P) x 100 
+mil
+TOTAL
+34.332.819
+100,00%
+6.110
+100,0%
+16,20
+13,29
+Moto
+7.171.699 
+20,88%
+2.630
+43,05%
+36,67 (*)
+------
+Pedestre
+-----
+-----
+1.379
+22,57%
+4,02 (Frota total)
+3,00
+Auto / Utilitário
+22.579.625
+65,77%
+1.358
+22,23%
+6,01
+------
+Bicicleta
+-----
+-----
+398
+6,51%
+-----
+-----
+Caminhão
+4.252.494 
+12,39%
+200
+3,27%
+4,70
+-----
+Ônibus
+309.363 
+0,90%
+42
+0,69%
+13,58 (**)
+-----
+Outros
+19.638 
+0,06%
+32
+0,52%
+162,95 (***)
+-----
+N.D. (Não disponível)
+-----
+-----
+71
+1,16%
+-----
+-----
+(*) No estado de São Paulo, no trânsito, uma pessoa numa moto tem 6,10 = (36,67 / 6,01) mais chances de ir a óbito, num sinistro de 
+trânsito, do que estando dentro de um auto / utilitário. Os indicadores para cidades nas faixas menores de população e frota são 
+extremamente altos, atingindo valores de três a cinco vezes maiores que a média geral do Estado. Para cada 1 sinistro com óbito de 
+motociclista, outros 29,6 se envolveram em sinistro não fatal. (**) No caso dos ônibus esse indicador fica distorcido, não levando em conta 
+a alta quilometragem percorrida. (***) Idem para “Outros” tipos de veículos.
+
+
+Cidade de São Paulo de São Paulo: INFOSIGA-2024
+Frota   x   População (P = 11.895.578 - IBGE: 1º Julho/2024))   x   Óbitos por Sinistros de Trânsito
+Eng. Me. Horácio Augusto Figueira
+Tipo  de veículo da vítima
+Frota
+(DENATRAN-SP/ dezembro-2024)
+Óbitos no Trânsito 
+(INFOSIGA-2024)
+Indicadores (2024)
+Nº
+% por Tipo de 
+Veículo
+Nº
+% por Tipo de 
+Veículo
+Óbitos por 100 mil
+Veículos
+Pessoas (P)
+A
+B = A%
+C
+D = C%
+E = (C/A) x 100 
+mil
+F = (C/P) x 100 
+mil
+TOTAL
+9.748.457 
+100,00%
+1.033
+100,0%
+11,33
+8,68
+Moto
+1.565.091 
+16,06%
+484
+46,85%
+30,93 (*)
+-----
+Pedestre
+-----
+-----
+373
+36,11%
+3,83 (Frota Total)
+3,14
+Auto / Utilitário
+7.159.073 
+73,44%
+100
+9,68%
+1,40
+-----
+Bicicleta
+-----
+-----
+44
+4,26%
+-----
+-----
+Caminhão
+925.470 
+9,49%
+17
+1,65%
+1,84
+-----
+Ônibus
+93.593 
+0,96%
+5
+0,48%
+5,34 (**)
+-----
+Outros
+5.230 
+0,05%
+3
+0,29%
+57,36 (***)
+-----
+N.D. (Não disponível)
+-----
+------
+7
+0,68%
+-----
+-----
+(*) Na cidade de São Paulo, no trânsito, uma pessoa numa moto tem 22,1 (30,93 / 1,40) mais chances de ir a óbito, num sinistro de trânsito, 
+do que estando dentro de um auto / utilitário. Os indicadores para cidades nas faixas menores de população e frota são extremamente altos, 
+atingindo valores de três a cinco vezes maiores que a média geral do Estado. Para cada 1 sinistro com óbito de motociclista, outros 37,2 se 
+envolveram em sinistro não fatal. (**) No caso dos ônibus esse indicador fica distorcido, não levando em conta a alta quilometragem 
+percorrida. (***) Idem para “Outros” tipos de veículos.
+
+
+• Obrigado!
+• Eng. Me. Horácio Augusto Figueira
+• Celular: (0-11) 9-99-45-20-66
+• e-mail: horah2001@gmail.com
+Eng. Me. Horácio Augusto Figueira

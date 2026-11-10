@@ -1,0 +1,512 @@
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  1 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO 
+PROJETO NOVA RAPOSO TAVARES | KM 10 a 20 Município de São Paulo 
+Grupo de Trabalho Técnico | Movimento Nova Raposo NÃO!! 
+Agosto 2024 
+O presente relatório preliminar elaborado pelo Grupo de Trabalho GT técnico do coletivo NOVA RAPOSO 
+NÃO!, demonstra por meio do cruzamento de dados do projeto disponibilizado para consulta da 
+concorrência internacional com os dados cartográficos georreferenciados públicos disponíveis, o enorme 
+impacto ambiental que a implantação da obra vai gerar e os seus inúmeros desdobramentos. O presente 
+relatório se concentra na análise do trecho da rodovia entre R. Sapetuba (km 10) e KM 20, trecho que 
+abrange o município de São Paulo/ SP, pois é nesse trecho que há bases cartográficas digitais públicas 
+disponíveis. Todos os dados utilizados para a análise da proposta da ARTESP são aqueles obtidos no site 
+da Artesp quando da publicação para CONCORRÊNCIA INTERNACIONAL Nº 02/2024 julho 2024 
+(http://www.artesp.sp.gov.br/Style%20Library/extranet/novas-paginas/CustomPage.aspx?page=126) e os dados obtidos 
+no portal GeoSampa (https://geosampa.prefeitura.sp.gov.br/) 
+O projeto NOVA RAPOSO traz como proposta o aumento da capacidade da Rodovia com a implantação 
+de uma faixa adicional por sentido e, em todo o trecho, a implantação de vias marginais NÃO PEDAGIADAS 
+em toda sua extensão, além de uma nova conexão com a cidade de São Paulo com a instalação de túneis 
+e viadutos, na Rua Sapetuba em direção à ponte Eusébio Matoso. 
+Esse Grupo técnico afirma, após análise desse material, que a proposição da Artesp tem um caráter 
+rodoviarista obsoleto, que não condiz com a agenda urbanística contemporânea, além de ser totalmente 
+ineficaz para alcançar seu objetivo de melhoria da fluidez do trânsito no trecho pois prioriza de maneira 
+deliberada o transporte individual em detrimento do transporte coletivo. Não há possibilidade de sucesso 
+na fluidez do trânsito com a implantação do projeto como foi apresentado, pois o aumento esperado de 
+111.000 veículos (conforme descrito no edital) será descarregado mais velozmente nos atuais gargalos da 
+Ponte Eusébio Matoso e Marginal Pinheiros, sem considerar o incentivo ao uso dos veículos individuais 
+que por sua vez aumentará o volume de trânsito. Os impactos ambientais de sua implantação serão 
+enormes e graves em alguns âmbitos: Social, Ambiental, Mobilidade e Trânsito e Econômico.  
+Juntamente a isso é notória a incompatibilidade com o Plano Diretor da Cidade de São Paulo e os Planos 
+que compõem a política de gestão ambiental do município, como: PDE (ato ao Ordenamento Territorial, 
+áreas de expansão urbana e outros componentes do PDE); os Planos para a conservação e preservação – 
+(PLANPAVEL, PMMA, PMAU); outros planos como: Plano de Ação Climática (PlanClima SP);  Plano 
+Municipal de Conservação e Recuperação de Áreas Prestadoras de Serviços Ambientais entre outras 
+iniciativas e compromissos, até internacionais, com a preservação ambiental, como  a Agenda 2030 e os 
+seus Objetivos do Desenvolvimento Sustentável (ODS). 
+A seguir serão apresentadas algumas avaliações preliminares dos impactos ambientais, porém a 
+responsabilidade de apresentar e mitigar esses impactos será obrigatoriamente responsabilidade do 
+Estado, suas agências ou da empresa vier a receber a concessão, ou seja, não foi apresentado qualquer 
+Relatório de Impactos da implantação em nenhum dos âmbitos acima citados.  
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  2 
+ 
+SUMÁRIO DO RELATÓRIO DE IMPACTOS AMBIENTAIS 
+ 
+1. Impactos nas áreas de conservação e preservação permanentes: Áreas de Preservação 
+Permanente de Nascente e em faixas torno dos córregos). 
+2. Impacto de Supressão vegetal para implantação das vias marginais, rampas de acessos e os 
+dispositivos viários. 
+3. Impacto de mais impermeabilização do solo: impossibilidade de reabastecimento de lençóis 
+e outros reservatórios subterrâneos, aumento da velocidade do escoamento e potencial 
+erosivo. 
+4. Impacto amplo da geração de resíduos da construção civil. Desmonte de morros e entulho 
+gerado de demolição. Não há Plano de Gerenciamento de Resíduos da Construção Civil 
+PGRCC. 
+5. Anexos 
+ 
+ 
+INTRODUÇÃO 
+O trecho da Rodovia Raposo Tavares com intervenções do Projeto da Nova Raposo apresentado pela 
+ARTESP em seu site oficial passa por 3 municípios: São Paulo, Osasco e Cotia. No total são 
+aproximadamente 26 km de extensão com intervenções propostas no projeto segundo arquivo fornecido 
+em formatos DWG e PDF.  
+A análise aqui apresentada considera dados para o Município de São Paulo cujos dados digitais estão 
+disponíveis no sistema GeoSampa.  A chegada à capital é uma região crítica das intervenções pois é onde 
+o afunilamento das pistas acontecerá e onde as grandes obras de engenharia terão impactos negativos 
+na paisagem urbana e na qualidade do ambiente construído.  
+Atualmente, a Raposo é uma via de passagem, pois ainda carrega características antigas de sua função 
+originária de rodovia, no entanto, o crescimento da área urbanizada transformou essa via que agora 
+possui características majoritariamente de via urbana. A aptidão dessa via se mostra como uma grande 
+avenida urbana e tal aptidão precisa ser reforçada e não ignorada. Isto é, a Raposo Tavares precisa deixar 
+de ser uma via meramente de passagem para ser destino com a criação de oportunidades de empregos, 
+educação e saúde. Há necessidade de se olhar para a questão do trânsito com uma abordagem sistêmica 
+respeitando a interdependência de todas as dimensões da vida urbana.  
+Os arquivos base utilizados para a análise são: 
+● DE-SP00000270-010.019-000- F01-001 a 005_RB.dwg 
+● DE-SP00000270-010.019-000- F01-001 a 005_RB.pdf 
+● DE-SP00000270-010.035-000- F05-001 SEÇÃO TIPO.dwg 
+● DE-SP00000270-010.035-000- F05-001 SEÇÃO TIPO.pdf 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  3 
+ 
+ 
+ 
+1. Impactos nas áreas de conservação e preservação permanentes: Áreas de Preservação 
+Permanente de Nascente e em faixas torno dos córregos). 
+Analisando os dados cartográficos é possível perceber que entre os km 10 e 18 a região se caracteriza por 
+ser uma cumeeira e divisor de águas das bacias do Córrego Jaguaré e do Córrego Pirajussara com presença 
+de várias nascentes ao longo de porções de território com relevo acidentado e com existência de vários 
+pequenos vales paralelos por onde passam córregos tributários das bacias acima. 
+A partir do km 18 a situação se altera de modo a se caracterizar por região de baixadas, cortadas por áreas 
+de várzea e baixios alagáveis cobertos por vegetação ripária remanescente. 
+As marginais propostas no projeto da Nova Raposo, cujo objetivo é ampliar a área asfaltada e os leitos 
+carroçáveis, estão sendo traçadas sobre território ambientalmente muito frágil e estão invadindo diversas 
+áreas de Preservação Permanente das bacias de córregos, inclusive de nascentes. Fica então evidente que 
+a invasão dessas APPs configura infração ambiental não passível de compensação e por isso invalidam o 
+projeto da maneira como está apresentado. 
+Entre os KM 10 e 15 a implantação das Marginais irá invadir as Áreas de Preservação Permanente de 05 
+nascentes, num total de área invadida de área de 3967,50 m². Ver tabela abaixo: 
+ 
+Nascente (APP raio 50 m) 
+Altura da 
+Rodovia KM 
+ÁREA INVADIDA PELAS MARGINAIS 
+PROPOSTAS (M²) 
+1 Córrego Pirajussara Mirim 
+11,5 
+1.059,50 
+2 Córrego Pq. Luís Carlos Prestes 
+12 
+199,00 
+3 Córrego do Sapé 
+15 
+928,00 
+4 
+Córrego sem nome (Tributário do Cor. 
+Jaguarezinho) 
+15,5 
+381,00 
+5 
+Córrego sem nome (Tributário do Cor. 
+Jaguaré) 
+15,5 
+1.400,00 
+TOTAL 
+3.967,50 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  4 
+ 
+ 
+ 
+Mapa de Sobreposição das APPs de nascentes e as marginais propostas 
+ 
+● 
+Figura 1. Invasão das áreas de APP, nas nascentes do Córrego Pirajussara Mirim e Cor. Pq. Luís Carlos Prestes. Altura do 
+KM 11,50. Arquivos base para sobreposição: DE-SP00000270-010.019-000- F01-001 a 005_RB.dwg e 
+meio_fisico_hidrodrenagem_utm_dxf GeoSampa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapa de Sobreposição das APPs de nascentes e as marginais propostas 
+ 
+● 
+Figura 2. Invasão das áreas de APP, nas nascentes do Córrego do Sapé e Córregos sem nome, tributários do Cor. 
+Jaguarezinho. Altura do KM 15. Arquivos base para sobreposição: DE-SP00000270-010.019-000- F01-001 a 005_RB.dwg 
+e meio_fisico_hidrodrenagem_utm_dxf GeoSampa 
+ 
+ 
+ 
+A partir do KM 15, a implantação das Marginais vai invadir as faixas de Áreas de Preservação Permanente 
+lindeiras a 2 córregos, num total de área invadida de 22.149,00 m². Ver tabela abaixo: 
+Faixa de Preservação (APP 15 metros) 
+Altura da Rodovia KM 
+ÁREA INVADIDA PELAS MARGINAIS 
+PROPOSTAS (M²) 
+2 Córrego do Jaguaré 
+16,5 
+2.732,00 
+2 Córrego do Itaim 
+17,5 
+2.924,00 
+2 Córrego do Itaim (e seus tributários) 
+19,5 
+16.493,00 
+TOTAL 
+22.149,00 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  6 
+ 
+ 
+Mapa de Sobreposição das faixas de APPs e as marginais propostas 
+ 
+● 
+Figura 3. Invasão das faixas de APP lindeiras aos Córregos Jaguaré e Jaguarezinho. Altura do KM 16,5. 
+ Arquivos base: DE-SP00000270-010.019-000-F01-001a005_RB.dwg e meio_fisico_hidrodrenagem_utm_dxf GeoSampa 
+ 
+● 
+Figura 4. Invasão da faixa de APP lindeira ao Córrego do Itaim. Altura do KM 17. 
+ Arquivos base: DE-SP00000270-010.019-000- F01-001 a 005_RB.dwg e meio_fisico_hidrodrenagem_utm_dxf 
+GeoSampa 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  7 
+ 
+ 
+● 
+Figura 5. Invasão das faixas de APP lindeiras ao Córrego do Itaim e seus tributários. Altura do KM 19. 
+ Arquivos 
+base 
+para 
+sobreposição: 
+DE-SP00000270-010.019-000- 
+F01-001 
+a 
+005_RB.dwg 
+e 
+meio_fisico_hidrodrenagem_utm_dxf GeoSampa 
+ 
+TABELA GERAL DE ÁREAS DE APPs INVADIDAS PELO PROJETO PROPOSTO PARA 
+NOVA RAPOSO 
+Nascente (APP raio 50 m) 
+Altura da Rodovia 
+KM 
+ÁREA INVADIDA PELAS 
+MARGINAIS PROPOSTAS (M²) 
+1 Córrego Pirajussara Mirim 
+11,5 
+1.059,50 
+2 Córrego Pq. Luis Carlos Prestes 
+12 
+199,00 
+3 Córrego do Sapé 
+15 
+928,00 
+4 
+Córrego sem nome (Tribitário do Cór. 
+Jaguarezinho) 
+15,5 
+381,00 
+5 Córrego sem nome (Tribitário do Cór. Jaguaré) 
+15,5 
+1.400,00 
+TOTAL 
+3.967,50 
+Faixa de Preservação (APP 15 metros) 
+Altura da Rodovia 
+KM 
+ÁREA INVADIDA PELAS 
+MARGINAIS PROPOSTAS (M²) 
+2 Córrego do Jaguaré 
+16,5 
+2.732,00 
+2 Córrego do Itaim 
+17,5 
+2.924,00 
+2 Córrego do Itaim (e seus tributários) 
+19,5 
+16.493,00 
+TOTAL 
+22.149,00 
+TOTAL GERAL DE ÁREAS DE APP INVADIDAS 
+26.116,50 m² 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  8 
+ 
+2. Impacto de Supressão vegetal para implantação das vias marginais, rampas de acessos 
+e os dispositivos viários. 
+No trecho paulistano da Rodovia Raposo temos algumas características marcantes: nos quilômetros 
+iniciais existe ocupação urbana mais antiga, que data dos anos 1950 a 1970, com bairros predominantes 
+residenciais de baixa densidade. Por sua vez essa matriz de ocupação gerou um bairro com grande volume 
+de cobertura vegetal e densa arborização urbana. Existem ainda várias porções de vegetação nativa 
+preservada no distrito o que confere ao bairro a condição de um dos bairros mais arborizados da cidade.  
+Os indivíduos arbóreos presentes nesse trecho inicial são de grande porte e já plenamente formados 
+(DAPs superiores 40 cm) o que oferece excelente qualidade ambiental aos bairros, com sombreamento, 
+beleza, redução das ilhas de calor e filtragem das partículas de fuligem que o trânsito da rodovia levanta.  
+A presença da vegetação nesses bairros do km 10 a 15 também é fundamental para manter a cobertura 
+vegetal dos topos de morro e nascentes de modo a garantir a estabilidade do solo e diminuir a erosão a 
+assoreamento dos córregos a jusante. 
+Nos quilômetros após o KM 15 até a divisa com o município de Cotia, a ocupação é mais recente e a 
+presença da vegetação estão concentradas em capões remanescentes em áreas de várzea e trechos de 
+baixios alagáveis. Alguns desses capões resilientes são de mata ciliar nativa. 
+Todos esses fatores tornam imprescindível que não haja mais desmatamento e supressão de cobertura 
+vegetal nos distritos do Butantã. A meta para manter a qualidade do local deve ser de desmatamento e 
+supressão zero de vegetação, pois parte da vegetação remanescente está em Área de Preservação 
+Permanente (garantidos por lei federal) e em bairros jardim preservados pelo Plano Diretor do Município 
+de São Paulo. 
+O Projeto da Nova Raposa vai no sentido contrário dessa meta de desmatamento zero, com a implantação 
+das pistas marginais vai promover um enorme volume de supressão de cobertura vegetal e arbórea, num 
+total de 425.000 m² de cobertura sendo suprimida nessa versão do projeto, além de aumentar a 
+impermeabilização do solo com mais a pavimentação e asfalto 
+Mesmo tendo sido parte das marginais colocadas sobre vias já existentes três motivos são decisivos para 
+definir esse volume de supressão vegetal: 
+1. Alargamento da pista central; 
+2. Criação e alargamento de vias laterais e para a instalação das marginais não pedagiadas; 
+3. Criação de muros de contenção, taludes e grande movimento de terra o que vai, certamente, 
+alterar os níveis do colo e raízes do elemento arbóreo o que leva a sua destruição e morte. 
+Para a obtenção da metragem da área de supressão de cobertura arbórea e vegetal foram utilizados os 
+dados disponíveis no GeoSampa sendo as manchas de cobertura vegetal sobrepostas sobre o traçado das 
+marginais conforme os arquivos publicados. A quantidade exata de indivíduos que serão suprimidos só 
+será possível de precisar com a constituição de um inventário vegetal que precisa ser conduzido pelos 
+responsáveis pelo projeto imediatamente. Entretanto, na análise da deste grupo técnico, apenas 
+considerando as marginais a metragem de supressão já é consideravelmente grande: 
+METRAGEM TOTAL DE ÁREA DE SUPRESSSÃO DE COBERTURA VEGETAL E ARBÓREA 
+425.000,00 M² 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  9 
+ 
+ 
+● 
+Figura 6. Manchas de cobertura vegetal e arbórea a ser suprimida pela implantação das marginais. KM 10 a 15. DE-
+SP00000270-010.019-000- F01-001 a 005_RB.dwg e erde_vegetacao_pmd_butanta_utm.dxf | GeoSampa 
+ 
+● 
+Figura 7. Manchas de cobertura vegetal e arbórea a ser suprimida pela implantação das marginais. KM 15 a 19. DE-
+SP00000270-010.019-000- F01-001 a 005_RB.dwg e erde_vegetacao_pmd_butanta_utm.dxf | GeoSampa 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  10 
+ 
+3. Impacto de mais impermeabilização do solo: impossibilidade de reabastecimento de 
+lençóis e reservatórios subterrâneos, aumento da velocidade do escoamento e 
+potencial erosivo. 
+Este item refere-se ao impacto ambiental significativo oriundo do aumento de quantidade de áreas 
+impermeabilizadas com pavimentação asfáltica na região com a implantação das marginais. O projeto 
+publicado prevê a instalação de novas pistas de pelo menos 8 metros de largura mais 1,5m de calçadas 
+de cada lado, conforme secção tipo na figura abaixo:  
+ Figura 7. Secção tipo de faixas com marginais. (Arquivo DE-SP00000270-010.035-000- F05-001 SEÇÃO TIPO.pdf): 
+Nas marginais estão previstas: a revisão de pavimentos existentes e a criação de pavimentação nova. Os 
+pavimentos novos deverão ser adequados às novas condições de trânsito, pois vias locais serão 
+transformadas em vias de tráfego intenso e a pavimentação nova que será implantada sobre área de 
+cobertura vegetal e sobre áreas de desapropriação. 
+METRAGEM TOTAL DE ÁREA A SER IMPERMEABILIZADA  
+COM A IMPLANTAÇÃO DAS MARGINAIS  
+67.000,00 M² 
+METRAGEM TOTAL DE ÁREA DE PAVIMENTO EXISTENTE A ADEQUADA  
+COM A IMPLANTAÇÃO DAS MARGINAIS 
+104.000,00 M² 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  11 
+ 
+4. Impacto amplo da geração de resíduos da construção civil com desmonte de morros e 
+entulho gerado de demolição. Não há Plano de Gerenciamento de Resíduos da 
+Construção Civil PGRCC. 
+Toda a movimentação de terra que será exigida para a implantação da Nova Raposo será gigantesca, 
+porém ainda não é possível quantificar o volume total, pois não há detalhamento dos dispositivos, tais 
+como, viadutos, alças e muros de contenção nem desenhos de cortes e secções transversais de cada caso 
+que permitam a cubicagem da terraplanagem. Porém certamente será um volume de grande vulto já que 
+estamos em porções de território com relevo bastante movimento e a implantação forçada das pistas 
+marginais vai obrigar o desmonte de morros, cortes de taludes e construção de aterros.  
+No entanto, pode-se afirmar, a partir da informação acima, que serão gerados ao menos 85.500 m³ de 
+resíduos de construção civil para a nova pavimentação, considerando que, em estimativa mínima, serão 
+50 cm de sub-base a ser movimentado para cada metro quadrado. 
+Tudo isso, somado ao volume de movimentação de terra dos cortes e aterros exigirão um Plano de 
+Gerenciamento de Resíduos da Construção Civil PGRCC que precisará definir como serão gerenciados 
+todos esses resíduos. Como serão transportados, onde serão dispostos os despojos e como serão tratados 
+os resíduos com variados graus de contaminação que serão encontrados.  
+Em que pese esse impacto ambiental da destinação dos resíduos, a sua movimentação e transporte 
+também irá gerar enorme pegada ecologia devido aos equipamentos utilizados para a atividade. 
+Escavadeiras, tratores e caminhões de grande porte, movidos a combustível fóssil, serão utilizados e a 
+emissão de Carbono CO2 na atmosfera será a grave consequência dessa implantação cujos benefícios são 
+questionáveis. Num cálculo preliminar: somente para nova pavimentação serão 167 toneladas de CO2 
+despejados na atmosfera, conforme tabela abaixo: 
+VOLUME DE 
+RESÍDUOS M³ 
+VOLUME DESENPOLADO M³ 
+Nº VIAGENS CAMINHÕES 
+GRANDES 12 M² 
+EMISSÃO DE CARBONO 
+Viagem de 50 km (ida e volta).  
+0,45 kg CO2/ KM 
+TOTAL DE 
+CARBONO EMITIDO 
+EM KG 
+85.500,00 
+111.150,00 
+7.410,00 
+22,50 
+166.725,00 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  12 
+ 
+CONCLUSÕES PRELIMINARES DO RELATÓRIO 
+ 
+A partir dos itens colocados acima, fica evidenciado, que o projeto apresentado para 
+implantação da NOVA RAPOSO, irá gerar enormes impactos ambientais tanto nas suas 
+adjacências quanto no bairro do Butantã como um todo. Mais grave ainda é que parte 
+desses impactos constituem infrações graves à legislação ambiental que não são passíveis 
+de atos compensatórios, ou seja, não são aprováveis com termos de ajustes de conduta 
+ou compensações. A fragilidade da meio físico e importância do território para região 
+oeste da cidade não suportará essa intervenção. 
+Acima de tudo, é fundamental ressaltar que toda essa intervenção cujo objetivo ainda é 
+nebuloso, pois não vai trazer nenhum benefício para a fluidez do trânsito já que não ataca 
+o problema da mobilidade metropolitana com transporte público de massa apenas 
+retorna, de maneira obsoleta a anacrônica, a incentivar o uso do transporte individual e 
+a recarbonizarão da mobilidade urbana em tempos de clara crise ambiental. 
+Definitivamente, essa proposta de Nova Raposo vai na contramão do urbanismo 
+contemporâneo. É a vanguarda do atraso. 
+Por sua essência equivocada e conjunto de infrações, o Edital publicado não pode ser 
+levado a diante. O processo de concorrência precisa ser sustado, até a haja uma proposta 
+efetiva de melhoria da mobilidade na região respeitando toda a legislação ambiental e 
+urbanística nos âmbitos federal, estadual e município. O legado de destruição não pode 
+prosperar. 
+ 
+ 
+ 
+São Paulo, 28 de Agosto 2024 
+ 
+GRUPO TÉCNICO NOVA RAPOSO NÃO! 
+Cordenação  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+RELATÓRIO PRELIMINAR DOS IMPACTOS AMBIENTAIS DA IMPLANTAÇÃO DO PROJETO NOVA RAPOSO | KM 10 a 20 Município de São Paulo | página  13 
+ 
+5. ANEXOS 
+ 
+• Prancha de Sobreposição das Marginais propostas sobre áreas de Preservação 
+Permanente APPs 
+ 
+• Prancha de Sobreposição das Marginais propostas sobre as áreas de Cobertura Arbórea 
+ 
+ 
+ 
+ 
+ 

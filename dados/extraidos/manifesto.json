@@ -1,0 +1,1028 @@
+[
+ {
+  "origem": "raw\\1031_artigo_projnovaraposoeapopulacao (1).pdf",
+  "destino": "raw\\1031_artigo_projnovaraposoeapopulacao (1).txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 24,
+  "chars": 55042,
+  "bytes": 56037
+ },
+ {
+  "origem": "raw\\1120375-77.2025.8.26.0053.pdf",
+  "destino": "raw\\1120375-77.2025.8.26.0053.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 8,
+  "chars": 16326,
+  "bytes": 16948
+ },
+ {
+  "origem": "raw\\1500561-14.2025.8.26.0053 ACP Nova Raposo.pdf",
+  "destino": "raw\\1500561-14.2025.8.26.0053 ACP Nova Raposo.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 788,
+  "chars": 2208042,
+  "bytes": 2274705
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D00 Notícia de Fato Projeto Nova Raposo_040924.pdf",
+  "destino": "raw\\2024 09 NFMA D00 Notícia de Fato Projeto Nova Raposo_040924.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 12,
+  "chars": 19172,
+  "bytes": 19892
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D01_20240411 Materia Impressa Estadão.pdf",
+  "destino": "raw\\2024 09 NFMA D01_20240411 Materia Impressa Estadão.txt",
+  "tipo": "pdf",
+  "metodo": "ocr",
+  "paginas": 2,
+  "chars": 12003,
+  "bytes": 12398
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D02_2024-09-02 Lista de organizações A.pdf",
+  "destino": "raw\\2024 09 NFMA D02_2024-09-02 Lista de organizações A.txt",
+  "tipo": "pdf",
+  "metodo": "misto",
+  "paginas": 6,
+  "chars": 6924,
+  "bytes": 7145
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D03_Print_ABaixoAssinado_ChangeOrg.pdf",
+  "destino": "raw\\2024 09 NFMA D03_Print_ABaixoAssinado_ChangeOrg.txt",
+  "tipo": "pdf",
+  "metodo": "ocr",
+  "paginas": 7,
+  "chars": 8218,
+  "bytes": 8487
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D04_Oficio _Secretaria de parceria em investimentos.pdf",
+  "destino": "raw\\2024 09 NFMA D04_Oficio _Secretaria de parceria em investimentos.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 4,
+  "chars": 7414,
+  "bytes": 7651
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D05_Oficio_Projeto Nova Raposo Tavares - 134.00011442_2024-04.pdf",
+  "destino": "raw\\2024 09 NFMA D05_Oficio_Projeto Nova Raposo Tavares - 134.00011442_2024-04.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 6,
+  "chars": 7633,
+  "bytes": 7875
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D06a_LOTE 1 - EDITAL.pdf",
+  "destino": "raw\\2024 09 NFMA D06a_LOTE 1 - EDITAL.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 56,
+  "chars": 160554,
+  "bytes": 166524
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D06b_LOTE 1 - Anexo 04 - Estrutura Tarif†ria.pdf",
+  "destino": "raw\\2024 09 NFMA D06b_LOTE 1 - Anexo 04 - Estrutura Tarif†ria.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 14,
+  "chars": 32751,
+  "bytes": 34285
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D07_RELAT PREL IMPACTO AMBIENTAL NR R00 0824.pdf",
+  "destino": "raw\\2024 09 NFMA D07_RELAT PREL IMPACTO AMBIENTAL NR R00 0824.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 13,
+  "chars": 21120,
+  "bytes": 21927
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D08_PROJETO NOVA RAPOSO_PARQUES ADJACENTES.pdf",
+  "destino": "raw\\2024 09 NFMA D08_PROJETO NOVA RAPOSO_PARQUES ADJACENTES.txt",
+  "tipo": "pdf",
+  "metodo": "misto",
+  "paginas": 40,
+  "chars": 18766,
+  "bytes": 19388
+ },
+ {
+  "origem": "raw\\2024 09 NFMA D09_Texto Base Conferência das Cidades.pdf",
+  "destino": "raw\\2024 09 NFMA D09_Texto Base Conferência das Cidades.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 26,
+  "chars": 63937,
+  "bytes": 66467
+ },
+ {
+  "origem": "raw\\2024 11 CAUTELAR ANTECEDENTE - NOVA RAPOSO.pdf",
+  "destino": "raw\\2024 11 CAUTELAR ANTECEDENTE - NOVA RAPOSO.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 52,
+  "chars": 100017,
+  "bytes": 103425
+ },
+ {
+  "origem": "raw\\2025 09 Parecer CAEX Nova Raposo IC 048200005712024 MP PJMAC ate 250925-718-786_ParecerCAEX.pdf",
+  "destino": "raw\\2025 09 Parecer CAEX Nova Raposo IC 048200005712024 MP PJMAC ate 250925-718-786_ParecerCAEX.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 69,
+  "chars": 120898,
+  "bytes": 121433
+ },
+ {
+  "origem": "raw\\2025-04 - Apresentação Seminário Mobilidade - Elio Pedágio Controle Demanda.pdf",
+  "destino": "raw\\2025-04 - Apresentação Seminário Mobilidade - Elio Pedágio Controle Demanda.txt",
+  "tipo": "pdf",
+  "metodo": "misto",
+  "paginas": 41,
+  "chars": 14537,
+  "bytes": 15013
+ },
+ {
+  "origem": "raw\\2025-04 - Apresentação Seminário Mobilidade - Felipe Clima Mobilidade Cidades.pdf",
+  "destino": "raw\\2025-04 - Apresentação Seminário Mobilidade - Felipe Clima Mobilidade Cidades.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 35,
+  "chars": 21059,
+  "bytes": 21618
+ },
+ {
+  "origem": "raw\\2025-04 - Apresentação Seminário Mobilidade - Horácio Analise e Refelxões Proposta Nova Raposo.pdf",
+  "destino": "raw\\2025-04 - Apresentação Seminário Mobilidade - Horácio Analise e Refelxões Proposta Nova Raposo.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 29,
+  "chars": 18834,
+  "bytes": 19627
+ },
+ {
+  "origem": "raw\\2025-04 - Apresentação Seminário Mobilidade - Marta Estudo de Caso Barcelona.pdf",
+  "destino": "raw\\2025-04 - Apresentação Seminário Mobilidade - Marta Estudo de Caso Barcelona.txt",
+  "tipo": "pdf",
+  "metodo": "misto",
+  "paginas": 64,
+  "chars": 10355,
+  "bytes": 10773
+ },
+ {
+  "origem": "raw\\2025-04 - Apresentação Seminário Mobilidade - Nestor Linha Marrom.pdf",
+  "destino": "raw\\2025-04 - Apresentação Seminário Mobilidade - Nestor Linha Marrom.txt",
+  "tipo": "pdf",
+  "metodo": "misto",
+  "paginas": 7,
+  "chars": 1461,
+  "bytes": 1521
+ },
+ {
+  "origem": "raw\\2025-06 - Carta Aberta BNDES - versão impressa.pdf",
+  "destino": "raw\\2025-06 - Carta Aberta BNDES - versão impressa.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 6,
+  "chars": 15965,
+  "bytes": 16345
+ },
+ {
+  "origem": "raw\\2025_MNRN_Diretrizes e reivindicações.pdf",
+  "destino": "raw\\2025_MNRN_Diretrizes e reivindicações.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 4,
+  "chars": 8098,
+  "bytes": 8412
+ },
+ {
+  "origem": "raw\\AUDIENCIA ALESP 25NOV_R1.pdf",
+  "destino": "raw\\AUDIENCIA ALESP 25NOV_R1.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 15,
+  "chars": 10944,
+  "bytes": 11371
+ },
+ {
+  "origem": "raw\\L14133 __ Reader View.pdf",
+  "destino": "raw\\L14133 __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 111,
+  "chars": 288488,
+  "bytes": 301570
+ },
+ {
+  "origem": "raw\\SEminário ALESP - Sustentabilidade Ameaçada na Zona Oeste de São Paulo-RMSP - Rev.pdf",
+  "destino": "raw\\SEminário ALESP - Sustentabilidade Ameaçada na Zona Oeste de São Paulo-RMSP - Rev.txt",
+  "tipo": "pdf",
+  "metodo": "misto",
+  "paginas": 27,
+  "chars": 16963,
+  "bytes": 17629
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Quais áreas de São Paulo têm mais risco de enchente ou afundamento Mapa interativo revela.txt",
+  "destino": "4.2.Clipping\\Quais áreas de São Paulo têm mais risco de enchente ou afundamento Mapa interativo revela.txt",
+  "tipo": "txt",
+  "metodo": "copia",
+  "paginas": 0,
+  "chars": 19163,
+  "bytes": 20037
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Mônica Bergamo_ MPSP aciona Justiça e pede suspensão do projeto Nova Raposo por falhas ambientais e risco a famílias __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Mônica Bergamo_ MPSP aciona Justiça e pede suspensão do projeto Nova Raposo por falhas ambientais e risco a famílias __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 4172,
+  "bytes": 4307
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/WhatsApp Image 2024-11-28 at 9.05.30 PM.jpeg",
+  "destino": "4.2.Clipping\\WhatsApp Image 2024-11-28 at 9.05.30 PM.txt",
+  "tipo": "jpeg",
+  "metodo": "ocr",
+  "paginas": 0,
+  "chars": 230,
+  "bytes": 236
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Opinião - Leão Serva_ Nova Raposo Tavares só vai produzir mais trânsito em SP __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Opinião - Leão Serva_ Nova Raposo Tavares só vai produzir mais trânsito em SP __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 5100,
+  "bytes": 5238
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/SP tem a pior qualidade de ar pelo 4º dia consecutivo entre grandes cidades do mundo __ Reader View.pdf",
+  "destino": "4.2.Clipping\\SP tem a pior qualidade de ar pelo 4º dia consecutivo entre grandes cidades do mundo __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 4654,
+  "bytes": 4835
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Cidade de São Paulo tem ar mais poluído do mundo, aponta ranking internacional __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Cidade de São Paulo tem ar mais poluído do mundo, aponta ranking internacional __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 2417,
+  "bytes": 2499
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/4.2.1.Noticias Sobre NRN/Moradores da beira da Raposo Tavares começam a receber notificação de desapropriação __ Reader View.pdf",
+  "destino": "4.2.Clipping\\4.2.1.Noticias Sobre NRN\\Moradores da beira da Raposo Tavares começam a receber notificação de desapropriação __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 2577,
+  "bytes": 2676
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Vitória de Trump desencadeia venda indiscriminada de ativos ligados a ESG  Fina.pdf",
+  "destino": "4.2.Clipping\\Vitória de Trump desencadeia venda indiscriminada de ativos ligados a ESG  Fina.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 6,
+  "chars": 7272,
+  "bytes": 7525
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Poluição faz governo de SP recomendar máscara e evitar atividades ao ar livre __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Poluição faz governo de SP recomendar máscara e evitar atividades ao ar livre __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 2139,
+  "bytes": 2219
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/São Paulo tem a pior qualidade de ar do mundo nesta segunda (9), diz site __ Reader View.pdf",
+  "destino": "4.2.Clipping\\São Paulo tem a pior qualidade de ar do mundo nesta segunda (9), diz site __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 3,
+  "chars": 4190,
+  "bytes": 4312
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Opinião - Andanças na metrópole_ UBS concorre com criação de parque no Butantã __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Opinião - Andanças na metrópole_ UBS concorre com criação de parque no Butantã __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 4102,
+  "bytes": 4232
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/São Paulo tem a pior qualidade de ar pelo 2º dia consecutivo entre grandes cidades do mundo __ Reader View.pdf",
+  "destino": "4.2.Clipping\\São Paulo tem a pior qualidade de ar pelo 2º dia consecutivo entre grandes cidades do mundo __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 4675,
+  "bytes": 4848
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Projeto na Raposo Tavares preocupa moradores da região de Embu das Artes __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Projeto na Raposo Tavares preocupa moradores da região de Embu das Artes __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 3880,
+  "bytes": 4011
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/4.2.1.Noticias Sobre NRN/Ecovias Raposo Castello declara não ter enviado notificações de desapropriação __ Reader View.pdf",
+  "destino": "4.2.Clipping\\4.2.1.Noticias Sobre NRN\\Ecovias Raposo Castello declara não ter enviado notificações de desapropriação __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 3,
+  "chars": 4729,
+  "bytes": 4930
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/4.2.1.Noticias Sobre NRN/Mônica Bergamo_ MP-SP aponta falhas graves no projeto Nova Raposo e recomenda estudos ambientais completos __ Reader View.pdf",
+  "destino": "4.2.Clipping\\4.2.1.Noticias Sobre NRN\\Mônica Bergamo_ MP-SP aponta falhas graves no projeto Nova Raposo e recomenda estudos ambientais completos __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 4418,
+  "bytes": 4543
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Tomazela julho 24.pdf",
+  "destino": "4.2.Clipping\\Tomazela julho 24.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 10728,
+  "bytes": 11138
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Pesquisa internacional aponta pane em ciclo hídrico global __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Pesquisa internacional aponta pane em ciclo hídrico global __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 4,
+  "chars": 8747,
+  "bytes": 9024
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/CEO da Ecorodovias diz que oferta por _Nova Raposo_ não pressionará muito dívida do grupo.pdf",
+  "destino": "4.2.Clipping\\CEO da Ecorodovias diz que oferta por _Nova Raposo_ não pressionará muito dívida do grupo.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 3,
+  "chars": 4828,
+  "bytes": 4964
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Mauricio Orth - MP pede suspensão da Nova Raposo e projeto entra em xeque __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Mauricio Orth - MP pede suspensão da Nova Raposo e projeto entra em xeque __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 4,
+  "chars": 6199,
+  "bytes": 6452
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Nova Raposo ameaça cinturão verde de São Paulo __ Reader View_revisado.pdf",
+  "destino": "4.2.Clipping\\Nova Raposo ameaça cinturão verde de São Paulo __ Reader View_revisado.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 12017,
+  "bytes": 12417
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/São Paulo tem 76 mortes por síndrome respiratória aguda grave no período de queimadas __ Reader View.pdf",
+  "destino": "4.2.Clipping\\São Paulo tem 76 mortes por síndrome respiratória aguda grave no período de queimadas __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 5118,
+  "bytes": 5290
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/CCR ViaOeste realiza lan&ccedil_amento de vigas na Rodovia Raposo Tavares, em Mairinque __ Reader View.pdf",
+  "destino": "4.2.Clipping\\CCR ViaOeste realiza lan&ccedil_amento de vigas na Rodovia Raposo Tavares, em Mairinque __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 1691,
+  "bytes": 1731
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/São Paulo, adoecida pelo rodoviarismo - Instituto Humanitas Unisinos - IHU.pdf",
+  "destino": "4.2.Clipping\\São Paulo, adoecida pelo rodoviarismo - Instituto Humanitas Unisinos - IHU.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 6614,
+  "bytes": 6848
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Quais áreas de São Paulo têm mais risco de enchente ou afundamento_ Mapa interativo revela - Estadão.pdf",
+  "destino": "4.2.Clipping\\Quais áreas de São Paulo têm mais risco de enchente ou afundamento_ Mapa interativo revela - Estadão.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 20,
+  "chars": 25608,
+  "bytes": 26653
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/São Paulo tem a pior qualidade de ar pelo 3º dia consecutivo entre grandes cidades do mundo __ Reader View.pdf",
+  "destino": "4.2.Clipping\\São Paulo tem a pior qualidade de ar pelo 3º dia consecutivo entre grandes cidades do mundo __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 5144,
+  "bytes": 5353
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Opinião - Mauro Calliari_ Túnel da Sena Madureira, parque Jurubatuba, Raposo Tavares_ quando o transporte destrói lugares __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Opinião - Mauro Calliari_ Túnel da Sena Madureira, parque Jurubatuba, Raposo Tavares_ quando o transporte destrói lugares __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 3,
+  "chars": 4732,
+  "bytes": 4865
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Zona oeste tem mais exposição a carbono negro em São Paulo, revela mapa de poluição __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Zona oeste tem mais exposição a carbono negro em São Paulo, revela mapa de poluição __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 4024,
+  "bytes": 4185
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/4.2.1.Noticias Sobre NRN/Nova Raposo ameaça cinturão verde de São Paulo __ Reader View.pdf",
+  "destino": "4.2.Clipping\\4.2.1.Noticias Sobre NRN\\Nova Raposo ameaça cinturão verde de São Paulo __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 11893,
+  "bytes": 12286
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/São Paulo tem grande ilha de calor agravada pelo declínio de áreas verdes __ Reader View.pdf",
+  "destino": "4.2.Clipping\\São Paulo tem grande ilha de calor agravada pelo declínio de áreas verdes __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 8740,
+  "bytes": 9080
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Aquecimento global amplifica ondas de calor, que podem assolar cidades brasileiras até 15 vezes ao ano __ Reader View.pdf",
+  "destino": "4.2.Clipping\\Aquecimento global amplifica ondas de calor, que podem assolar cidades brasileiras até 15 vezes ao ano __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 13382,
+  "bytes": 13792
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/CCR ViaOeste realiza lançamento de vigas na Rodovia Raposo Tavares, em Mairinque.pdf",
+  "destino": "4.2.Clipping\\CCR ViaOeste realiza lançamento de vigas na Rodovia Raposo Tavares, em Mairinque.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 3,
+  "chars": 4376,
+  "bytes": 4468
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/4.2.1.Noticias Sobre NRN/Nova Raposo_ Linha do Tempo_.docx",
+  "destino": "4.2.Clipping\\4.2.1.Noticias Sobre NRN\\Nova Raposo_ Linha do Tempo_.txt",
+  "tipo": "docx",
+  "metodo": "docx_xml",
+  "paginas": 0,
+  "chars": 27327,
+  "bytes": 28010
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Vereadores de SP vão votar projeto que prevê prédios maiores no Butantã, Vila Leopoldina e Jaguaré_ veja o mapa.pdf",
+  "destino": "4.2.Clipping\\Vereadores de SP vão votar projeto que prevê prédios maiores no Butantã, Vila Leopoldina e Jaguaré_ veja o mapa.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 10589,
+  "bytes": 10928
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Temperatura na cidade de SP aumentou acima da media - G1.pdf",
+  "destino": "4.2.Clipping\\Temperatura na cidade de SP aumentou acima da media - G1.txt",
+  "tipo": "pdf",
+  "metodo": "ocr",
+  "paginas": 4,
+  "chars": 6694,
+  "bytes": 6910
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/4.2.1.Noticias Sobre NRN/Prefeitura de SP cria grupo de trabalho para estudar novo viaduto na Marginal Pinheiros __ Reader View.pdf",
+  "destino": "4.2.Clipping\\4.2.1.Noticias Sobre NRN\\Prefeitura de SP cria grupo de trabalho para estudar novo viaduto na Marginal Pinheiros __ Reader View.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 4935,
+  "bytes": 5063
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Cidade de São Paulo tem ar mais poluído do mundo, aponta ranking internacional _ CNN Brasil.pdf",
+  "destino": "4.2.Clipping\\Cidade de São Paulo tem ar mais poluído do mundo, aponta ranking internacional _ CNN Brasil.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 9,
+  "chars": 9625,
+  "bytes": 9866
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Os desafios de se deslocar numa cidade pensada para veículos particulares – Jornal da USP.pdf",
+  "destino": "4.2.Clipping\\Os desafios de se deslocar numa cidade pensada para veículos particulares – Jornal da USP.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 6,
+  "chars": 9415,
+  "bytes": 9770
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Gazeta de Pinheiros Ed 3582 - 8 de novembro de 2024.pdf",
+  "destino": "4.2.Clipping\\Gazeta de Pinheiros Ed 3582 - 8 de novembro de 2024.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 12,
+  "chars": 73244,
+  "bytes": 75586
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Nova Raposo ameaça cinturão verde de São Paulo ResetUOL 07-07-25.pdf",
+  "destino": "4.2.Clipping\\Nova Raposo ameaça cinturão verde de São Paulo ResetUOL 07-07-25.txt",
+  "tipo": "pdf",
+  "metodo": "ocr",
+  "paginas": 5,
+  "chars": 12285,
+  "bytes": 12662
+ },
+ {
+  "origem": "4.2.Clipping-20261110T200638Z-1-001.zip::4.2.Clipping/Pesquisa internacional aponta pane em ciclo hídrico global.pdf",
+  "destino": "4.2.Clipping\\Pesquisa internacional aponta pane em ciclo hídrico global.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 13,
+  "chars": 15414,
+  "bytes": 15836
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 01 - Regulamento da concessão.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 01 - Regulamento da concessão.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 15,
+  "chars": 38105,
+  "bytes": 39618
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 02 - Sistema Rodoviário.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 02 - Sistema Rodoviário.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 22,
+  "chars": 26002,
+  "bytes": 26903
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 03 - Indicadores de Desempenho.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 03 - Indicadores de Desempenho.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 13,
+  "chars": 29958,
+  "bytes": 31178
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 04 - Estrutura Tarifária.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 04 - Estrutura Tarifária.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 15,
+  "chars": 35074,
+  "bytes": 36675
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 05 - Serviços correspondentes a funções operacionais.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 05 - Serviços correspondentes a funções operacionais.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 73,
+  "chars": 250750,
+  "bytes": 260631
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 06 - Serviços de Conservação do Sistema Rodoviário.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 06 - Serviços de Conservação do Sistema Rodoviário.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 113,
+  "chars": 340101,
+  "bytes": 353840
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 07 - Serviços correspondentes a funções de ampliação.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 07 - Serviços correspondentes a funções de ampliação.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 42,
+  "chars": 131641,
+  "bytes": 136996
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 08 - Acordo Tripartite.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 08 - Acordo Tripartite.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 32,
+  "chars": 95738,
+  "bytes": 99367
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 09 - Termos de transferência assinados.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 09 - Termos de transferência assinados.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 636,
+  "bytes": 660
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 10 - Condições de devolução.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 10 - Condições de devolução.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 18,
+  "chars": 44963,
+  "bytes": 46766
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 11 - Penalidades.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 11 - Penalidades.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 58,
+  "chars": 161213,
+  "bytes": 167010
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 3581,
+  "bytes": 3697
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/Alça Av. Politécnica/DE-SP00000270-010.035-000- F01-001 a 005_ALCA MARGINAL.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\Alça Av. Politécnica\\DE-SP00000270-010.035-000- F01-001 a 005_ALCA MARGINAL.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 1075,
+  "bytes": 1108
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-029/Com túnel/DE-SP000029-032.045-000-F01-001-A_ACESSO COTIA.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-029\\Com túnel\\DE-SP000029-032.045-000-F01-001-A_ACESSO COTIA.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 830,
+  "bytes": 857
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-029/Com túnel/DE-SP000029-032.045-000-F01-001a004-B.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-029\\Com túnel\\DE-SP000029-032.045-000-F01-001a004-B.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 4,
+  "chars": 4485,
+  "bytes": 4585
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-029/Com túnel/DE-SP000029-032.045-000-F05-001.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-029\\Com túnel\\DE-SP000029-032.045-000-F05-001.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 1372,
+  "bytes": 1432
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-029/R01/DE-SP000029-032.045-000-F01-001a004-B_ARTICULAÇÃO SEM BINÁRIO_.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-029\\R01\\DE-SP000029-032.045-000-F01-001a004-B_ARTICULAÇÃO SEM BINÁRIO_.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 4,
+  "chars": 4485,
+  "bytes": 4585
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-029/R01/DE-SP000029-032.045-000-F05-001.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-029\\R01\\DE-SP000029-032.045-000-F05-001.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1,
+  "chars": 1372,
+  "bytes": 1432
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-270/SP-270 (Cotia)/DE-SP00000270-019.032-000- F01-006-010_RC.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-270\\SP-270 (Cotia)\\DE-SP00000270-019.032-000- F01-006-010_RC.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 14730,
+  "bytes": 14981
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-270/SP-270 (SP-Cotia)/DE-SP00000270-010.021-000- F01-001-005_RC.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-270\\SP-270 (SP-Cotia)\\DE-SP00000270-010.021-000- F01-001-005_RC.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 9692,
+  "bytes": 9853
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-280/SP-280 (Itapevi - Araçariguama)_RB/DE-SPF000280-032-054-000-F01_001 A 008_B.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-280\\SP-280 (Itapevi - Araçariguama)_RB\\DE-SPF000280-032-054-000-F01_001 A 008_B.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 8,
+  "chars": 15849,
+  "bytes": 16129
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/SP-280/SP-280 (SP-Itapevi)_RC/DE-SPF000280-013-033-000-F01-001-008_RC.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\SP-280\\SP-280 (SP-Itapevi)_RC\\DE-SPF000280-013-033-000-F01-001-008_RC.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 8,
+  "chars": 14297,
+  "bytes": 14507
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 12 - Projetos Funcionais da Malha Concedida/Trecho Embu-Cotia/DE-MUNICIPAIS-000.016-000-F01-001_006_RB.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 12 - Projetos Funcionais da Malha Concedida\\Trecho Embu-Cotia\\DE-MUNICIPAIS-000.016-000-F01-001_006_RB.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 6,
+  "chars": 12336,
+  "bytes": 12535
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 13 - Cronograma de integralizaçao do capital social.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 13 - Cronograma de integralizaçao do capital social.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 2,
+  "chars": 1554,
+  "bytes": 1595
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 14 - Plano de Investimentos.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 14 - Plano de Investimentos.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 3,
+  "chars": 276623,
+  "bytes": 277260
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 14 - Plano de Investimentos.xlsx",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 14 - Plano de Investimentos__POI (000).csv",
+  "tipo": "xlsx",
+  "metodo": "csv",
+  "paginas": 0,
+  "chars": 112955,
+  "bytes": 113570
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 15 - Transição do Sistema Rodoviário.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 15 - Transição do Sistema Rodoviário.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 11,
+  "chars": 28840,
+  "bytes": 29856
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 16 - Glossário.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 16 - Glossário.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 25,
+  "chars": 63535,
+  "bytes": 65710
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 17 - Condições técnicas necessárias à assinatura do Contrato.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 17 - Condições técnicas necessárias à assinatura do Contrato.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 11934,
+  "bytes": 12407
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 18 - Modelos de documentos.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 18 - Modelos de documentos.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 35,
+  "chars": 56834,
+  "bytes": 59022
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 19 - Manual de Procedimentos da B3.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 19 - Manual de Procedimentos da B3.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 28,
+  "chars": 48274,
+  "bytes": 50115
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 20 - Sistema Automático Livre.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 20 - Sistema Automático Livre.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 14,
+  "chars": 42500,
+  "bytes": 44147
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 21 - EVTE.xlsx",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 21 - EVTE__ALN.csv",
+  "tipo": "xlsx",
+  "metodo": "csv",
+  "paginas": 0,
+  "chars": 4231813,
+  "bytes": 4231815
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 21 - EVTE.xlsx",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 21 - EVTE__Q9B-L1.csv",
+  "tipo": "xlsx",
+  "metodo": "csv",
+  "paginas": 0,
+  "chars": 62344,
+  "bytes": 62684
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 21 - EVTE.xlsx",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 21 - EVTE__ListadeObras.csv",
+  "tipo": "xlsx",
+  "metodo": "csv",
+  "paginas": 0,
+  "chars": 14759,
+  "bytes": 15024
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 22 - Mecanismo de Compartilhamento do Risco de Demanda.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 22 - Mecanismo de Compartilhamento do Risco de Demanda.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 10,
+  "chars": 25667,
+  "bytes": 27836
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Anexo 23 - Solução de divergências.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Anexo 23 - Solução de divergências.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 19,
+  "chars": 64127,
+  "bytes": 66811
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice A.1 - CADASTRO DE OAE E OAC.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice A.1 - CADASTRO DE OAE E OAC.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 1433,
+  "chars": 2117035,
+  "bytes": 2163128
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice A.2 - INTERFERÊNCIAS.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice A.2 - INTERFERÊNCIAS.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 136,
+  "chars": 759612,
+  "bytes": 776262
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice B - Passivos.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice B - Passivos.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 23,
+  "chars": 30186,
+  "bytes": 31340
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice C - Fichas relativas aos indicadores de desempenho.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice C - Fichas relativas aos indicadores de desempenho.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 44,
+  "chars": 100712,
+  "bytes": 109791
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice D - Contrato de Administração de contas.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice D - Contrato de Administração de contas.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 26,
+  "chars": 71956,
+  "bytes": 74461
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice E - ACESSOS.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice E - ACESSOS.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 16,
+  "chars": 41556,
+  "bytes": 41997
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice F - Sistemas Digitais.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice F - Sistemas Digitais.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 19,
+  "chars": 58974,
+  "bytes": 60925
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice G - Níveis de serviço.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice G - Níveis de serviço.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 11129,
+  "bytes": 11580
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice H - Procedimento para a apresentação de projetos.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice H - Procedimento para a apresentação de projetos.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 16,
+  "chars": 44420,
+  "bytes": 45962
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Apêndice I - Adequações geométricas.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Apêndice I - Adequações geométricas.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 5,
+  "chars": 9918,
+  "bytes": 10260
+ },
+ {
+  "origem": "Lote 34 - Ecovias Raposo-Castelo.zip::Lote 34 - Contrato, Anexos e Apêndices/Contrato nº 0548-ARTESP-2025.pdf",
+  "destino": "Lote 34 - Contrato, Anexos e Apêndices\\Contrato nº 0548-ARTESP-2025.txt",
+  "tipo": "pdf",
+  "metodo": "texto_embutido",
+  "paginas": 133,
+  "chars": 406847,
+  "bytes": 422546
+ }
+]

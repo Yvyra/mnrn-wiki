@@ -1,0 +1,156 @@
+jornal.usp.br /ciencias/sao-paulo-tem-grande-ilha-de-calor-agravada-pelo-declinio-de-areas-verdes/
+São Paulo tem grande ilha de calor agravada
+pelo declínio de áreas verdes
+8-10 minutes ⋮ 01/11/2024
+São paulo tem grande ilha de calor agravada pelo declínio de áreas verdes
+Tucuruvi, Mooca, Freguesia do Ó e Jabaquara
+têm maior média de temperatura e menor
+umidade do que bairros periurbanos ou rurais
+da região metropolitana
+ Publicado: 01/11/2024 às 18:07     Atualizado: 05/11/2024 às 17:05
+Texto: Jean Silva*
+Arte: Jornal da USP
+Variação na temperatura média entre regiões da cidade pode chegar a 4° C –
+Fotomontagem: Jornal da USP com imagens de Marcos Santos/USP Imagens
+Bairros como Tucuruvi, Mooca, Freguesia do Ó e Jabaquara têm maior média de
+temperatura e menor umidade do que localidades como Capela do Socorro e Riacho
+Grande, próximas à zona rural, conforme artigo publicado na Revista Brasileira de
+Meteorologia. Ao identificar regiões específicas dentro da Região Metropolitana de
+São Paulo (RMSP) que apresentam maior intensidade de Ilha de Calor Urbano
+(ICU), os pesquisadores da Escola de Artes, Ciências e Humanidades (EACH) da
+USP perceberam uma variação na temperatura média entre grupos separados que
+pode chegar a 4º C.
+Com dados meteorológicos de janeiro de 2009 a fevereiro de 2019 obtidos por 30
+estações meteorológicas do Centro de Gerenciamento de Emergências (CGE), eles
+usaram o algoritmo K-means de agrupamento em clusters  para verificar a
+intensidade de ilhas de calor nas regiões. 
+“O K-means é um modelo de machine learning não supervisionado útil para
+entender padrões com muitas variáveis”, explica Pedro Almeida, engenheiro
+ambiental e primeiro autor do artigo. Para essa junção, os pesquisadores utilizaram
+variáveis como precipitação, temperatura, umidade e uso do solo em um raio de 500
+metros.
+06/11/2024, 11:02
+São Paulo tem grande ilha de calor agravada pelo declínio de áreas verdes
+chrome-extension://ecabifbgmdmgdllomnfinbmaellmclnh/data/reader/index.html?id=623293264&url=https%3A%2F%2Fjornal.usp.br%2Fciencias…
+1/5
+
+
+Pedro Almeida - Foto: Arquivo pessoal
+Áreas com maior concentração residencial e menor área verde
+concentram as maiores temperaturas. Regiões mais afastadas dos centros
+urbanos têm maior conforto térmico - Gráfico: cedido pelos
+pesquisadores
+“Nossos resultados corroboram para o entendimento de que a questão
+do uso do solo e áreas mais arborizadas podem diminuir as ilhas de
+calor” – Pedro Almeida
+06/11/2024, 11:02
+São Paulo tem grande ilha de calor agravada pelo declínio de áreas verdes
+chrome-extension://ecabifbgmdmgdllomnfinbmaellmclnh/data/reader/index.html?id=623293264&url=https%3A%2F%2Fjornal.usp.br%2Fciencias…
+2/5
+
+
+O “Cluster A”, que engloba os bairros de Tucuruvi, Mooca, Freguesia do Ó e
+Jabaquara, apresentou a maior intensidade de ICU, com médias e variabilidade de
+temperatura mais altas. Esse grupo foi associado a áreas com alta ocupação
+residencial e comercial e uma menor quantidade de áreas verdes, o que contribui
+para o aumento da temperatura. Ao mesmo tempo, o “Cluster D”, que apresenta uma
+ocupação 
+periurbana, consequentemente 
+mais 
+arborizada, teve 
+médias 
+e
+variabilidade de temperatura mais baixas.
+Método de agrupamento
+Para reunir bairros com perfis semelhantes em comportamento climático, o K-
+means foi essencial, mas um pré-tratamento foi necessário. “Antes de aplicá-lo, é
+preciso tratar esses dados com outro algoritmo, o de Análise de Componentes
+Principais (PCA), e redimensionar os dados para duas dimensões”, detalha. Esse
+tratamento permite que as variáveis tenham a mesma escala e peso no processo de
+análise, e o uso do PCA reduz suas dimensões para maior fidelidade dos resultados. 
+Após a aplicação do algoritmo de agrupamento, as localidades são separadas e
+reunidas com base na proximidade dos pontos de seus dados em relação aos centros
+de cada cluster. A partir desses centros, os pesquisadores aplicaram o “método do
+cotovelo”, uma análise empírica dos gráficos para determinar o número ideal de
+clusters. Ele ajuda a verificar o ponto ideal para a qualidade da classificação dos
+dados, evitando o uso de um número excessivo de clusters. Com isso, quatro grupos
+diferentes foram identificados.
+06/11/2024, 11:02
+São Paulo tem grande ilha de calor agravada pelo declínio de áreas verdes
+chrome-extension://ecabifbgmdmgdllomnfinbmaellmclnh/data/reader/index.html?id=623293264&url=https%3A%2F%2Fjornal.usp.br%2Fciencias…
+3/5
+
+
+Método permitiu agrupar semelhanças nas ilhas de calor da região
+metropolitana de São Paulo - Gráfico: cedido pelos pesquisadores
+“Esse método permite identificar agrupamentos com dados semelhantes. Depois
+olhamos as estatísticas das variáveis em cada cluster, principalmente analisando o
+gráfico de ‘boxplot’”. Esse gráfico citado é uma ferramenta visual que representa a
+distribuição de um conjunto de dados. No contexto da análise, os boxplots são
+utilizados para comparar as variáveis entre os diferentes clusters, permitindo uma
+visualização clara das diferenças e semelhanças nas características climáticas e de
+uso do solo entre as áreas agrupadas. 
+O “A” apresentou a maior intensidade do efeito ICU, com as regiões mencionadas
+como Tucuruvi e outras como Vila Mariana, Sé, Pinheiros, Butantã, Lapa, Pirituba,
+Tremembé, Penha, Vila Formosa, Anhembi e Vila Prudente. O “B” teve
+características intermediárias, com regiões como Perus, Santana do Parnaíba,
+Itaquera, Itaim Paulista, Ipiranga, Vila Maria, Cidade Ademar e Campo Limpo, com
+temperaturas mais amenas devido à presença de mais áreas verdes. 
+O “C” teve temperaturas ainda mais baixas, com zonas menos urbanizadas e maior
+vegetação, o que engloba Santo Amaro, M’Boi Mirim, Mauá, São Mateus e São
+Miguel Paulista. 
+O “D”, Capela do Socorro e Riacho Grande,  apresentou as mais baixas, composto
+principalmente de áreas rurais e periurbanas com abundância de vegetação. 
+Planejamento urbano
+O engenheiro chama a atenção que “na primavera, em especial, a umidade relativa
+do ar diminui, enquanto aumenta a temperatura”. Esse fator é preocupante por
+conta da sinergia entre ondas de calor e a ilha de calor observada nessa estação e no
+inverno. Durante uma onda de calor, as temperaturas urbanas podem subir mais
+devido à retenção de calor pelas superfícies construídas, como asfalto e concreto, que
+absorvem e reemitem calor. A falta de vegetação agrava essas ondas, enquanto sua
+ampliação seria responsável pelo resfriamento do ambiente por evapotranspiração.
+Assim, as áreas urbanas experimentam temperaturas significativamente mais altas
+do que as áreas rurais durante os eventos extremos. 
+Flávia Ribeiro, professora de Gestão Ambiental da USP e coautora do artigo, indica
+que há várias soluções urbanísticas e de materiais de construção para garantir o
+conforto térmico, mas mitigar os efeitos da ilha de calor urbano é difícil e desafiador.
+“A literatura colabora ao entendimento de que populações mais vulneráveis
+socioeconomicamente 
+sofrem 
+mais 
+com 
+a 
+intensificação 
+desses 
+eventos
+atmosféricos”, conta a pesquisadora. 
+06/11/2024, 11:02
+São Paulo tem grande ilha de calor agravada pelo declínio de áreas verdes
+chrome-extension://ecabifbgmdmgdllomnfinbmaellmclnh/data/reader/index.html?id=623293264&url=https%3A%2F%2Fjornal.usp.br%2Fciencias…
+4/5
+
+
+“O poder público tem acesso aos dados e precisa avançar no
+planejamento. Vimos nas últimas ondas de calor o aumento de uso de
+energia, quase levando o sistema energético ao colapso" – Flávia
+Ribeiro
+Os autores apontam que estudos futuros também podem ser enriquecidos com a
+inclusão de dados socioeconômicos, enquanto a expansão para outras cidades
+brasileiras e globais pode aprofundar o debate de mitigação e adaptação às
+mudanças climáticas urbanas. 
+“Há avanços em estudos híbridos com modelos numéricos clássicos e machine
+learning em busca de predição”, explica a coautora, já que, além do algoritmo atual
+poder identificar padrões, essa hibridização poderia colaborar na identificação e
+adaptação das cidades à nova realidade climática.
+*Estagiário supervisionado por Luiza Caires e Tabita Said. Com informações da
+Agência Bori
+Política de uso 
+A reprodução de matérias e fotografias é livre mediante a citação do Jornal da USP e
+do autor. No caso dos arquivos de áudio, deverão constar dos créditos a Rádio USP e,
+em sendo explicitados, os autores. Para uso de arquivos de vídeo, esses créditos
+deverão mencionar a TV USP e, caso estejam explicitados, os autores. Fotos devem
+ser creditadas como USP Imagens e o nome do fotógrafo.
+06/11/2024, 11:02
+São Paulo tem grande ilha de calor agravada pelo declínio de áreas verdes
+chrome-extension://ecabifbgmdmgdllomnfinbmaellmclnh/data/reader/index.html?id=623293264&url=https%3A%2F%2Fjornal.usp.br%2Fciencias…
+5/5

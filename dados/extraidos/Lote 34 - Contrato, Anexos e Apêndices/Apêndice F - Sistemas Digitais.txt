@@ -1,0 +1,1131 @@
+ 
+Folha 1 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APÊNDICE F 
+SISTEMAS DIGITAIS 
+CONCESSÃO DOS SERVIÇOS PÚBLICOS DE AMPLIAÇÃO, OPERAÇÃO, CONSERVAÇÃO, 
+MANUTENÇÃO E REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A EXPLORAÇÃO DO 
+SISTEMA RODOVIÁRIO DENOMINADO LOTE NOVA RAPOSO 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 1
+
+
+ 
+Folha 2 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+ 
+ 
+ÍNDICE 
+1. INTRODUÇÃO ................................................................................................................................... 3 
+2. SISTEMA DIGITAL INTEGRADO DE GERENCIAMENTO DE DEMANDAS DA SOCIEDADE 
+SISDEMANDA ........................................................................................................................................ 5 
+3. SISTEMA DIGITAL INTEGRADO DE GERENCIAMENTO DIGITAL DE PROJETOS – SISPROJ .. 6 
+4. SISTEMA DIGITAL INTEGRAL DE SONDAGENS E ENSAIOS – SISSOND ................................... 7 
+5. SISTEMA DIGITAL INTEGRADO DE GERENCIAMENTO DO CONTROLE TECNOLÓGICO E DA 
+QUALIDADE DAS OBRAS – SISQUALI ................................................................................................. 7 
+6. SISTEMA DIGITAL INTEGRADO GIS DA CONCESSÃO – SISGIS ................................................. 7 
+7. SISTEMA DIGITAL INTEGRADO DE ACOMPANHAMENTO DE OBRAS – SISOBRAS ............... 10 
+8. SISTEMA INTEGRADO DE GERENCIAMENTO DIGITAL DE FUNÇÕES DE CONSERVAÇÃO – 
+SIGECON .............................................................................................................................................. 11 
+9. SISTEMA DIGITAL INTEGRADO DE CADASTRO DO INVENTÁRIO RODOVIÁRIO – SIR ......... 11 
+10. SISTEMA ELETRÔNICO DE GERENCIAMENTO DE ATIVOS DA CONCESSÃO – SISATIVOS 
+..............................................................................................................................................................12 
+11. SISTEMA DIGITAL DE GERENCIAMENTO DE PAVIMENTOS – SGP ....................................... 12 
+12. SISTEMA ELETRÔNICO DE GERENCIAMENTO DE OAE E PASSARELAS – SISOAES ......... 15 
+13. SISTEMA ELETRÔNICO DE GERENCIAMENTO DE DADOS DE RADARES – SIS-RAD ......... 15 
+14. SISTEMA ELETRÔNICO DE GERENCIAMENTO DE DADOS DE ACIDENTES – 
+SISACIDENTES .................................................................................................................................... 16 
+15. MÓDULO DE GERENCIAMENTO DE DADOS DE PESAGEM DO SISTEMA ELETRÔNICO DE 
+PESAGEM EM MOVIMENTO – SISPESMOV ..................................................................................... 16 
+16. SISTEMA DE ANÁLISE DE TRÁFEGO – SIS-SAT ....................................................................... 16 
+17. SISTEMA DIGITAL INTEGRADO DE GESTÃO AMBIENTAL – SGA............................................17 
+18. SISTEMA DIGITAL INTEGRADO DE NOTIFICAÇÕES – SISNOT................................................17 
+19. SISTEMA DIGITAL INTEGRADO DOS PÓRTICOS DO SISTEMA AUTOMÁTICO LIVRE – 
+SISFREEFLOW..............................................................................................................................17 
+20. SISTEMA ELETRÔNICO DE SERVIÇO DE ATENDIMENTO AO USUÁRIO – SIS-SAU...............18 
+21. SISTEMA ELETRÔNICO DE CÁLCULO DOS INDICADORES DE DESEMPENHO – SIS- 
+CSP.................................................................................................................................................19 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 2
+
+
+ 
+Folha 3 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+1. 
+INTRODUÇÃO 
+1.1. 
+Neste APÊNDICE são previstos os sistemas digitais e o respectivo detalhamento para a 
+sua implementação e operação pela CONCESSIONÁRIA, sem prejuízo das disposições 
+previstas no  CONTRATO e ANEXOS. 
+1.2. 
+Para todos os sistemas implantados deverá ser prevista futura integração com sistemas de 
+informação da ARTESP observando a rapidez, sigilo, garantia, integridade, confiabilidade 
+da segurança da informação, em termos alinhados e atualizados com as melhores práticas 
+de mercado, sendo imprescindível a aprovação da ARTESP em todos os aspectos no 
+texto aqui observados. 
+1.2.1. 
+Anualmente, a CONCESSIONÁRIA deverá realizar auditoria independente, com a 
+entrega do respectivo relatório à ARTESP, nos sistemas digitais que envolvam a 
+apuração de IQD ou que sejam fonte de informação para a fiscalização exercida 
+pela ARTESP. A auditoria deverá ser realizada por empresa especializada e 
+previamente aprovada pela ARTESP. 
+1.3. Os sistemas digitais devem observar as seguintes condições obrigatórias: 
+i. 
+portal com acesso via web e/ou app mobile a critério da ARTESP, com 
+disponibilização de pares de usuário/senha para a ARTESP para a consulta e 
+eventual download de arquivos e informações, validação de informações, cadastro 
+de comentários e upload de documentos em formatos definidos pela ARTESP. 
+Também poderão ser disponibilizados pares de usuário/senha para a PMRv a fim 
+de facilitar o gerenciamenot de suas competências no âmbito do SISTEMA 
+RODOVIÁRIO; 
+ii. 
+exportação de 100% das informações cadastradas para documentos editáveis em 
+padrões e/ou formato definido pela ARTESP. Deverá ser garantida, conforme 
+parâmetros legais e definidos pela ARTESP, a confidencialidade das informações 
+pessoais dos usuários; 
+iii. 
+integração com sistemas eletrônicos de documentos e informações da ARTESP 
+para os mesmos fins; 
+iv. 
+integração sistêmica e arquitetura de dados alinhados com o CCI e compatíveis 
+com as tecnologias definidas e adotadas pela ARTESP, que suporte todas as 
+demandas existentes e futuras, caso ocorram; 
+v. 
+entrega e devolução, ao fim do termo final do CONTRATO, de todo o conteúdo 
+digital em mídia eletrônica de alta capacidade, bem como backup de todos os 
+dados da vigência contratual armazenados, inclusive banco de dados em formatos 
+atuais e performáticos, banco de imagens, acervos digitais, acervos históricos, 
+juntamente com toda a transferência de tecnologia para software desenvolvido; 
+vi. 
+aprovação da(s) área(s) técnica(s) da ARTESP para cada módulo desenvolvido; 
+vii. 
+em caso de desenvolvimento de sistemas, devem ser entregues: códigos fontes, 
+documentação de requisitos, bem como workflow funcional e processual de todos 
+os sistemas informatizados implementados pela CONCESSIONÁRIA ou por 
+terceiros por ela contratada, desde que as licenças aplicáveis aos sistemas 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 3
+
+
+ 
+Folha 4 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+permitam; 
+viii. 
+para sistemas que dependam de licenças válidas, a CONCESSIONÁRIA deverá 
+assegurar pelo menos 2 (dois) anos de licenças após encerramento do 
+CONTRATO; 
+ix. 
+emissão de relatórios gerenciais em formato de planilha eletrônica ou outro 
+formato definido pela ARTESP; 
+x. 
+implantação inicial até o fim do primeiro ano do CONTRATO com previsão de 
+expansão  e melhorias para os demais anos; 
+xi. 
+troca de informações entre os diversos sistemas, quando for o caso; 
+xii. 
+integração das informações com bancos de dados de modelos BIM da 
+CONCESSÃO, gerados a partir dos PROJETOS EXECUTIVOS referentes a obras 
+de ampliação, elaborados pela CONCESSIONÁRIA no decorrer do CONTRATO, 
+bem como dos modelos gerados a partir do trabalho de restituição da rodovia em 
+modelagem BIM, conforme previsão contida no APÊNDICE aos ANEXOS 5, 6 e 7; 
+xiii. 
+integração e sincronização de informações, sempre que possível em tempo real, 
+com o SISGIS – que deverá fazer o papel de sistema gerenciador principal das 
+informações da CONCESSÃO; 
+xiv. 
+possibilidade de determinação automática dos IQD da Concessão, de acordo com 
+as regras estabelecidas pela ARTESP no EDITAL, no CONTRATO e demais 
+normativas sobre o assunto; 
+xv. 
+cadastro básico vinculado de informações de localização (rodovia, tipo de via, 
+sentido da pista, faixa de rolamento, coordenadas dos elementos etc.), inclusive 
+para fins de cadastro de elementos, além de pesquisa e consulta; 
+xvi. 
+compatibilidade integral com o sistema de coordenadas SIRGAS2000 ou outro que 
+eventualmente a ARTESP venha a adotar. 
+xvii. 
+mecanismos de codificação ou similares para garantir a proteção de dados 
+pessoais para eventuais fins de consultas e extração de resumos, de modo a 
+atender integralmente às disposições da Lei Geral de Proteção de Dados – LGPD. 
+1.3.1. 
+A CONCESSIONÁRIA poderá propor, a seu critério, o desenvolvimento de 
+plataforma única para o atendimento das exigências previstas no EDITAL, desde 
+que mantida uma arquitetura modular de desenvolvimento (módulos basicamente 
+independentes entre si para fins de implementação e operacionalização). 
+1.4. 
+As etapas de desenvolvimento, teste, implantação e efetivo funcionamento do SISPROJ, 
+SISQUALI, SISSOND e SISDEMANDA deverão ser descritas pela CONCESSIONÁRIA em 
+seu POI. 
+1.5. 
+Não obstante o compartilhamento de dados e documentos de forma virtual, por 
+meio do SISPROJ, SISQUALI e SISSOND, a CONCESSIONÁRIA deverá respeitar os 
+prazos e protocolar, caso solicitado pela ARTESP, as entregas em vias físicas na ARTESP 
+para fins de instrumentalização dos processos administrativos físicos correspondentes. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 4
+
+
+ 
+Folha 5 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+1.6. 
+O 
+não 
+atendimento 
+aos 
+requisitos 
+previstos 
+neste 
+APÊNDICE 
+sujeita 
+a 
+CONCESSIONÁRIA às penalidades previstas no ANEXO 11 ao CONTRATO. 
+1.7. 
+A CONCESSIONÁRIA deverá apresentar, no prazo de 120 (cento e vinte) dias contados 
+da assinatura do CONTRATO, cronograma detalhado para a implementação e 
+operacionalização dos sistemas, para aprovação da ARTESP. 
+1.8. 
+As regras gerais especificadas neste tópico aplicam-se de forma genérica a todo e 
+qualquer sistema eletrônico implementado no âmbito da presente Concessão, 
+especialmente no que tange a informações passíveis de serem auditadas ou fiscalizadas 
+pela ARTESP, nos termos do Contrato e seus Anexos e Apêndices, mesmo nos casos em 
+que tais sistemas não estejam especificamente previstos no presente documento. 
+2. 
+SISTEMA DIGITAL INTEGRADO DE GERENCIAMENTO DE DEMANDAS DA 
+SOCIEDADE – SISDEMANDA 
+2.1. 
+No primeiro ano da CONCESSÃO, a CONCESSIONÁRIA deverá implementar o 
+SISDEMANDA, que deverá permitir o recebimento de comunicados automáticos, consulta, 
+download de arquivos e informações, bem como cadastro de informações, dados e 
+documentos por parte das áreas técnicas da ARTESP. O sistema deverá ser capaz de 
+armazenar e gerenciar os diversos pleitos e demandas recebidos da sociedade e dos 
+diversos órgãos de participação pública (Administração Pública, Prefeituras, Câmaras, 
+Associações etc.). 
+2.2. 
+Deverá contar com um portal via web e/ou app mobile a critério da ARTESP, onde os 
+diversos setores da sociedade poderão cadastrar seus usuários e posteriormente 
+cadastrar suas respectivas demandas, mediante o preenchimento de formulário, com 
+campos pré-definidos pela  CONCESSIONÁRIA em conjunto com a ARTESP – informações 
+mínimas necessárias para análise técnica dos pleitos e justificativas socioeconômicas, 
+inclusive envio de anteprojeto do investimento demandado e eventuais comprovantes de 
+pagamentos de taxas de análise, quando a ARTESP assim definir. 
+2.3. 
+Neste portal, os demais USUÁRIOS também poderão consultar pleitos previamente 
+cadastrados por outros USUÁRIOS no portal mediante consulta de local (rodovia, 
+quilômetro, tipo de investimento demandado etc.) e, eventualmente, também contribuir 
+para uma mesma demanda/pleito pré-existente com a possibilidade de anexar 
+documentos e justificativas que corroborem com a necessidade de priorização dos 
+investimentos demandados no local. 
+2.4. 
+O SISDEMANDA deverá ser capaz de sincronizar informações básicas contidas no banco 
+de dados da CONCESSIONÁRIA sobre os locais em estudo, tais como geometria atual da 
+via, existência de elementos de segurança (barreiras, passarelas etc.), volumes diários 
+médios, volumes de hora pico, índices de acidentes, índices regionais de crescimento 
+socioeconômico (PIB, renda per capita, população etc.), bem como atribuir pesos a estes 
+elementos, de acordo com regras pré-estabelecidas pela ARTESP, no intuito de definir 
+prioridades técnicas para os investimentos demandados. Neste sistema deverá existir 
+opção de correlação dos locais de pleito de investimentos com o georreferenciamento para 
+aplicações em mapas de sistemas GEO de latitude e longitude e no SISGIS. A ARTESP 
+definirá quais informações ficarão visíveis para o público em geral e quais ficarão visíveis 
+apenas para a ARTESP e CONCESSIONÁRIA. 
+2.5. 
+O SISDEMANDA também deverá informar o USUÁRIO, no momento do cadastro, quando o 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 5
+
+
+ 
+Folha 6 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+local do investimento demandado se localizar fora da área de circunscrição/administração 
+da CONCESSIONÁRIA. Todo o gerenciamento deverá ser feito pela CONCESSIONÁRIA 
+e as etapas do processo poderão ser acompanhadas por todos os USUÁRIOS. Deverá ser 
+prevista integração com sistemas digitais da ARTESP para os mesmos fins. 
+2.6. 
+Todos os pleitos de terceiros, bem como a inclusão de novos investimentos não previstos 
+no POI e o detalhamento das atividades pertinentes, relacionadas às funções 
+especificadas no ANEXO 5, deverão ser cadastrados e disponibilizados no SISDEMANDA, 
+conforme regramento estabelecido no CONTRATO e, especialmente, de acordo com os 
+processamentos descritos no ANEXO 7 do CONTRATO, observando as normas aplicáveis 
+às REVISÕES ORDINÁRIAS. 
+2.7. 
+O SISDEMANDA deverá facilitar e instrumentalizar o processamento das REVISÕES 
+ORDINÁRIAS e possuir um canal de atendimento exclusivo às autoridades locais. A 
+Plataforma Digital, que não se confunde com os canais de ouvidoria e atendimento ao 
+cidadão, deverá servir como o canal apropriado para que as autoridades, USUÁRIOS e 
+demais interessados possam apresentar sugestões de melhorias e de novos 
+investimentos, cuja execução, se pertinente,deverá ser incluída como obrigação da 
+CONCESSIONÁRIA para os próximos anos do CONTRATO. A CONCESSIONÁRIA 
+assegurará acesso da ARTESP a todas as informações necessárias para o devido 
+conhecimento de cada sugestão apresentada por meio da Plataforma Digital. 
+2.8. 
+A CONCESSIONÁRIA deverá observar as especificações apresentadas neste APÊNDICE 
+para a implantação da Plataforma SISDEMANDA, por meio da qual deverá gerenciar as 
+demandas e, no prazo de até um ano antes da REVISÃO ORDINÁRIA, apresentar, à 
+ARTESP, um documento contendo a compilação dos investimentos, ampliações e 
+melhoramentos, escalonados justificadamente por ordem de prioridade, para a melhoria 
+do SISTEMA RODOVIÁRIO (Consolidação de Demandas para Revisão Ordinária), 
+juntamente com os anteprojetos e/ou PROJETOS FUNCIONAIS correlatos que tenham 
+sido apresentados e recebidos pela CONCESSIONÁRIA via SISDEMANDA e/ou já 
+tenham sido elaborados pela própria CONCESSIONÁRIA. 
+2.8.1. 
+O escalonamento apresentado na Consolidação de Demandas deverá apresentar 
+as justificativas de necessidade da modificação contratual eventualmente 
+decorrente da demanda recebida, bem como elementos que demonstrem a 
+vantajosidade para a Administração e interesse dos USUÁRIOS. 
+3. 
+SISTEMA DIGITAL INTEGRADO DE GERENCIAMENTO DIGITAL DE PROJETOS – 
+SISPROJ 
+3.1. 
+No primeiro ano da CONCESSÃO, a CONCESSIONÁRIA deverá implantar o SISPROJ 
+com acesso via web e/ou app mobile a critério da ARTESP. Os projetos e modelos BIM 
+deverão ser disponibilizados no sistema a cada entrega. Uma vez disponibilizados, não 
+haverá possibilidade de alteração de versões no sistema por parte da CONCESSIONÁRIA 
+sem o devido registro e controle de versionamento ativado através de workflow de alerta, 
+aviso, comunicado e/ou ciência para com os usuários cadastrados por parte da ARTESP. 
+Deverão ser mantidos os padrões de codificação (Id de obra) de itens de obra/serviço e 
+codificação de documento de projeto em vigência e definidos pela ARTESP. 
+3.2. 
+Para a execução de quaisquer serviços especificados nos ANEXOS 5, 6 e 7, em que seja 
+necessária a apresentação de projetos de engenharia, os mesmos deverão ser 
+alimentados no SISPROJ. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 6
+
+
+ 
+Folha 7 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+3.2.1. 
+A CONCESSIONÁRIA deverá inserir, em até 12 (doze) meses após a 
+implementação do SISPROJ, todos os projetos de engenharia previamente 
+submetidos à ARTESP. 
+3.3. 
+Caso seja necessário remeter projetos relacionados a obtenção de autorização de 
+ACESSO de terrenos lindeiros à FAIXA DE DOMÍNIO das rodovias integrantes do 
+SISTEMA RODOVIÁRIO, a CONCESSIONÁRIA deverá, igualmente, alimentar o SISPROJ 
+em versão digital. 
+4. 
+SISTEMA DIGITAL INTEGRAL DE SONDAGENS E ENSAIOS – SISSOND 
+4.1. 
+No primeiro ano da CONCESSÃO, a CONCESSIONÁRIA deverá implantar o SISSOND 
+com acesso via web e/ou app mobile a critério da ARTESP. As sondagens deverão ser 
+atualizadas no SISSOND a cada sondagem realizada e validada dentro da FAIXA DE 
+DOMÍNIO da rodovia por parte da CONCESSIONÁRIA ou de terceiros. Deverão conter 
+informações de localização (georreferenciada), descrição dos horizontes das camadas e 
+suas respectivas espessuras e índice Nspt, além de nível d’água, ocorrência de rocha e 
+outras informações relevantes. Também deverá conter módulo de cadastro de resultados 
+de ensaios de laboratório das amostras coletadas. Permitirá maior controle, gestão e 
+confiabilidade das informações de sondagens utilizadas seja para fins de mapeamento 
+geológico, para fins de projeto e/ou apuração de eventuais irregularidades de ordem 
+geológica/geotécnica. 
+5. 
+SISTEMA 
+DIGITAL 
+INTEGRADO 
+DE 
+GERENCIAMENTO 
+DO 
+CONTROLE 
+TECNOLÓGICO E DA QUALIDADE DAS OBRAS – SISQUALI 
+5.1. 
+No primeiro ano da CONCESSÃO, a CONCESSIONÁRIA deverá implantar o SISQUALI, 
+de modo a manter um cadastro atualizado dos resultados dos ensaios previstos nas 
+normas vigentes aplicáveis (ARTESP, ABNT e DER/SP), bem como o processamento 
+destes dados através de cálculos por procedimentos estatísticos de maneira a demonstrar 
+o pleno atendimento às disposições normativas e às especificações técnicas vigentes 
+aplicáveis. Os dados de acompanhamento das obras deverão ser atualizados no 
+SISQUALI online e em tempo real pela equipe técnica responsável pelo controle de 
+qualidade. Ressalta-se que os riscos associados ao Controle da Qualidade das obras são 
+de responsabilidade integral da CONCESSIONÁRIA. Deverá ser prevista integração de 
+dados entre o SISPROJ e o modelo BIM Integrado do Acompanhamento de obra/As Built 
+(MBIM-AB), bem como com o SISGIS. 
+5.2. 
+Sem prejuízo dos dados e documentos que ficarão disponíveis para acesso digital por 
+meio do SISQUALI, a CONCESSIONÁRIA deverá cumprir com as obrigações de 
+manutenção de via física assinada pela empresa responsável pelo controle de campo junto 
+à documentação da obra e, quando for o caso, de entrega e protocolo de vias físicas dos 
+documentos, inclusive para fins de demonstração de atendimento e cômputo dos prazos 
+procedimentais pertinentes. 
+5.3. 
+A ARTESP se reserva o direito de, a qualquer momento, manifestar recomendações e 
+orientações, inclusive com a finalidade de chamar atenção da CONCESSIONÁRIA para 
+atendimento a determinada norma, o que poderá ser feito também com base nas 
+informações a que tiver acesso por meio do SISQUALI. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 7
+
+
+ 
+Folha 8 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+6. 
+SISTEMA DIGITAL INTEGRADO GIS DA CONCESSÃO – SISGIS 
+6.1. 
+No primeiro ano da CONCESSÃO, a CONCESSIONÁRIA deverá implantar o SISGIS, que 
+deverá permitir o recebimento de comunicados automáticos, download de arquivos e 
+informações, bem como cadastro de informações, dados e documentos por parte das 
+áreas técnicas da ARTESP. O SISGIS deverá ter uma interface robusta capaz de 
+incorporar, integrar e gerenciar, em formato de layers de mapas georreferenciados, todas as 
+informações constantes nos bancos de dados dos diversos sistemas digitais previstos na 
+CONCESSÃO, bem como informações relevantes constantes nos modelos BIM gerados 
+ao longo da CONCESSÃO e no MDSR. Características mínimas do SISGIS: 
+i. 
+ser compatível com o sistema de coordenadas SIRGAS2000 ou outro que 
+eventualmente a ARTESP venha a adotar; 
+ii. 
+fornecer, imagens aéreas (foto de satélite) históricas de resolução mínima de 10m 
+com periodicidade semanal; e imagens aéreas de resolução mínima 0,50 m com 
+periodicidade bimestral, bem como manter e gerenciar tais registros (devem estar 
+disponíveis para consulta e pesquisa para a ARTESP); 
+iii. 
+fornecer, por default e a partir de fontes oficiais ou confiáveis, mapa rodoviário 
+digital de todas as vias do SISTEMA RODOVIÁRIO, bem como das vias concedidas 
+ou não no entorno da CONCESSÃO; 
+iv. 
+ser capaz de plotar em mapa rodoviário informações de bancos de dados diversos, 
+a partir de informações de geolocalização ou de localização aproximada, baseada 
+em referência física dos marcos quilométricos das rodovias do SISTEMA 
+RODOVIÁRIO; 
+v. 
+fornecer, a partir de fontes oficiais ou confiáveis, mapeamento (layers atualizados) 
+de dados e indicadores socioeconômicos: densidade populacional; crescimento 
+populacional, volumes de veículos; PIB, entre outros considerados relevantes para 
+a análise de pleitos/demandas da sociedade, bem como análise de viabilidade de 
+empreendimentos; 
+vi. 
+fornecer, a partir de fontes oficiais ou confiáveis, mapeamento (layers atualizados) 
+de dados e indicadores de uso e ocupação do solo; 
+vii. 
+fornecer, a partir de fontes oficiais ou confiáveis, mapeamento (layers atualizados) 
+de dados e registros históricos de indicadores climáticos, tais como: densidade de 
+chuva (horária, diária, semanal, mensal e anual); temperatura (horária, diária, 
+semanal, mensal e anual). 
+viii. 
+fornecer, a partir de fontes oficiais ou confiáveis, mapeamento (layers atualizados) 
+de dados e indicadores de uso e ocupação do solo; 
+ix. 
+fornecer, a partir de fontes oficiais ou confiáveis, layers atualizados de mapas 
+geológicos e mapas pedológicos; 
+x. 
+fornecer, a partir de fontes oficiais ou confiáveis, layers atualizados de mapas 
+topográficos (relevo), com precisão de 10 metros ou superior; 
+xi. 
+fornecer, a partir de fontes oficiais ou confiáveis, layers atualizados de mapas de 
+bacias hidrográficas; 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 8
+
+
+ 
+Folha 9 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+xii. 
+possibilitar integração em tempo real (atualização automática) com bancos de 
+dados dos demais sistemas digitais da CONCESSÃO, por exemplo, com os bancos 
+de dados dos sistemas SIR e SISATIVOS; 
+xiii. 
+possibilitar navegação em mapa aéreo, imagem aérea e/ou ‘vista da rua’ (este 
+último através da integração dos dados do levantamento do vídeo-registro 
+realizado pela Concessionária e armazenados no banco de dados do SIR); 
+xiv. 
+possibilitar integração de informações com os modelos BIM gerados pela 
+CONCESSÃO; 
+xv. 
+possibilitar integração de informações com o MDSR; 
+xvi. 
+visualização das diversas informações e mapas citados acima em formato de 
+camadas ou layers filtráveis; 
+xvii. 
+possibilitar integração com os modelos BIM gerados pela Concessão; 
+xviii. possibilitar integração com o MDSR; 
+xix. 
+visualização das diversas informações e mapas citados acima em formato de 
+camadas ou layers filtráveis; 
+xx. 
+pesquisa por coordenadas topográficas ou por endereço (código da rodovia, pista, 
+faixa, quilometragem); 
+xxi. 
+possibilidade de rastrear imagens para sobreposição em mapa aéreo; 
+xxii. 
+possibilidade de importação e exportação de linhas vetorizadas para arquivos 
+de softwares de desenho; 
+xxiii. possibilidade de desenvolvimento de interface gerenciadora de todos os elementos 
+e sistemas digitais da CONCESSÃO para fins de gerenciamento de ativos e 
+operação integrada, bem como visualização de informações diversas em formato 
+de mapa aéreo; 
+xxiv. permitir o compartilhamento de informações com outros órgãos provedores de 
+serviços públicos tais como Polícia Rodoviária, Bombeiros, DER/SP etc.; 
+xxv. 
+estabelecer procedimento para indicar/mapear, cadastrar no SISGIS e manter 
+registro atualizado, áreas ao longo da rodovia para serem utilizadas como apoio 
+para 
+abastecimento 
+de 
+água 
+(potenciais 
+reservatórios 
+de 
+água, 
+com 
+disponibilidade de uso), conforme descrito no item Serviço de Combate a Incêndio 
+constante do ANEXO 5; 
+xxvi. Estabelecer um plano de comunicação, via SISGIS, incluindo eventual 
+disponibilização de pares de usuário/senha, ou outra forma alternativa (a ser 
+avaliada pela ARTESP) para comunicação automática de eventos de incêndio e 
+monitoramento das áreas no entorno da CONCESSÃO via foto aérea ou imagens 
+de câmeras às autoridades competentes (bombeiros, CETESB, etc.); e 
+xxvii. Estabelecer procedimento para cadastro no SISGIS das ocorrências de incêndio, 
+de modo a gerar um banco de dados de eventos críticos. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 9
+
+
+ 
+Folha 10 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+6.2. 
+O SISGIS consistirá em interface web (serviço de plataforma GIS aberta ou equivalente) 
+que permita a navegação em mapa aéreo e visualização/sobreposição e acesso rápido às 
+imagens históricas coletadas e devidamente armazenadas em bancos de dados. Esta 
+plataforma também deverá possibilitar a navegação e acesso às imagens históricas dos 
+levantamentos de vídeo-registro realizados pela CONCESSIONÁRIA, conforme obrigação 
+prevista no ANEXO 6 do CONTRATO. 
+6.2.1. 
+Os dados serão incorporados ao sistema utilizado pela ARTESP mediante 
+restituição digital. Desta maneira, será obtida a base de dados primária do 
+SISTEMA RODOVIÁRIO, incluindo, mas não se limitando a arquivos gráficos 
+(contendo as informações espaciais cadastradas) e os arquivos tabulares 
+(contendo os atributos de cada elemento cadastrado). 
+6.2.2. 
+Os dados provenientes da monitoração das estruturas físicas deverão ser 
+catalogados por meio de fichas, as quais já deverão possuir o endereço geográfico 
+do ponto observado, de maneira que sua introdução no banco de dados já 
+pressuporá sua ligação com os dados gráficos georreferenciados. Em caso de 
+elementos não cadastrados, deverá ser utilizado equipamento do sistema de 
+posicionamento global (GPS – Global Position System), de modo a prover os dados 
+de localização com aproximação suficiente para sua perfeita definição. 
+6.2.3. 
+As informações correspondentes aos atributos georreferenciados, assim como os 
+dados provenientes da monitoração, comporão tabelas do banco de dados do 
+sistema. Unicamente, essas tabelas terão índice para ligação com os dados 
+armazenados na base gráfica, permitindo acesso duplo a esses dados (acessos dos 
+atributos por consulta à base gráfica e acesso aos elementos gráficos por consulta 
+ao banco de dados). 
+6.3. 
+Ainda no primeiro ano de CONCESSÃO, a CONCESSIONÁRIA deverá submeter para 
+aprovação da ARTESP um cronograma de publicação das diversas camadas de 
+informações relativas à CONCESSÃO elaboradas pela CONCESSIONÁRIA, resultante de 
+cada uma de suas obrigações contratuais. A cada nova informação incluída, o cronograma 
+deverá ser revisado e enviado para o conhecimento e aprovação da ARTESP. Neste 
+documento, a CONCESSIONÁRIA também deverá prever quais informações ficarão 
+visíveis para os diversos setores interessados: informações para o público em geral, 
+informações para USUÁRIOS do SISTEMA RODOVIÁRIO, informações para provedores 
+de serviços públicos, informações para a ARTESP etc. A ARTESP se reserva ao direito de 
+anuir ou solicitar alterações. 
+6.4. 
+A ARTESP se reserva ao direito de, a qualquer tempo, solicitar o cadastro e publicação de 
+novas informações no SISGIS, desde que no âmbito das obrigações contratuais da 
+CONCESSIONÁRIA. Neste caso, deverá ser fornecido prazo hábil adequado ao nível de 
+detalhamento das informações solicitadas. Uma vez anuído pela CONCESSIONÁRIA, os 
+prazos acordados deverão ser cumpridos sob a pena da aplicação das sanções previstas 
+em CONTRATO. 
+7. 
+SISTEMA DIGITAL INTEGRADO DE ACOMPANHAMENTO DE OBRAS – SISOBRAS 
+7.1. 
+No primeiro ano da CONCESSÃO, a CONCESSIONÁRIA deverá implantar o SISOBRAS, 
+no qual deverá registrar através de cadastro fotográfico, o andamento de cada uma das 
+frentes de obras no SISTEMA RODOVIÁRIO com atualização online e em tempo real e 
+com pelo menos uma foto por tipo de serviço/intervenção. As fotos devem conter 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 10
+
+
+ 
+Folha 11 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+informação de hora, data, local (georreferenciadas com coordenada latitude e longitude) e 
+comentários básicos sobre o tipo de serviço executado. O sistema deverá dispor de 
+ferramenta para a emissão de relatórios. Deverá dispor de filtros para seleção de item de 
+obra, tipo de intervenção, data, local etc. 
+8. 
+SISTEMA 
+INTEGRADO 
+DE 
+GERENCIAMENTO 
+DIGITAL 
+DE 
+FUNÇÕES 
+DE 
+CONSERVAÇÃO –  SIGECON 
+8.1. 
+No primeiro ano de CONCESSÃO, a CONCESSIONÁRIA deverá implantar SIGECON com 
+acesso, à ARTESP, via web. Deverão ser disponibilizados pares de usuário/senha para a 
+ARTESP para recebimento de comunicados automáticos, consulta e downloads de 
+informações pelas áreas técnicas da ARTESP. 
+8.2. 
+O SIGECON deverá ser capaz de armazenar e gerenciar as não conformidades de 
+conservação de rotina verificadas no SISTEMA RODOVIÁRIO, de acordo com os padrões 
+definidos neste APÊNDICE. O sistema deverá permitir o registro e atualização de fotos, e 
+demais informações pertinentes (descrição, classificação, data, localização etc.), das não 
+conformidades verificadas no SISTEMA RODOVIÁRIO conforme a sua assunção, no que 
+se refere ao atendimento dos padrões indicados no programa de conservação de rotina. A 
+atualização do cadastro das “não conformidades” poderá ser realizada tanto por parte da 
+CONCESSIONÁRIA quanto por parte do  PODER CONCEDENTE. 
+8.3. 
+O sistema deverá permitir ainda o registro da contraprova dos serviços executados por 
+parte da CONCESSIONÁRIA (upload de fotos e demais informações pertinentes). As fotos 
+deverão conter informação de hora, data, local (georreferenciadas com coordenada 
+latitude e longitude) e comentários básicos sobre o tipo de serviço executado. O sistema 
+deverá dispor de ferramenta para emissão de relatórios. Deverá dispor de filtros para 
+seleção de tipo, classe, data, hora, local etc. Deverá ser prevista integração com sistemas 
+digitais da ARTESP para os mesmos fins. 
+8.4. 
+O SIGECON deverá ser capaz de registrar e contabilizar as quantidades de materiais e 
+serviços executados em determinado período, de acordo com o padrão de codificação 
+descrito neste APÊNDICE, configuração de itens constantes na TPU (tabela de preços 
+unitários do DER/SP) ou outro padrão que a ARTESP venha a definir. 
+9. 
+SISTEMA DIGITAL INTEGRADO DE CADASTRO DO INVENTÁRIO RODOVIÁRIO – SIR 
+9.1. 
+A CONCESSIONÁRIA deverá implantar, no primeiro ano da CONCESSÃO, o SIR com 
+acesso via web para cadastro e atualização das imagens e informações coletadas tanto 
+nos levantamentos de campo convencionais quanto nos levantamentos de vídeo-registro. 
+O sistema deverá conter dois módulos sendo (1) módulo de visualização de imagens e (2) 
+módulo de gerenciamento do inventário rodoviário. 
+9.2. 
+No módulo de visualização de imagens, o sistema deverá ser capaz de sincronizar as 
+informações registradas pelos atributos (localização por km, por GPS etc.) ao reproduzir 
+as imagens, bem como possibilitar a pesquisa de imagens por referência quilométrica. As 
+funcionalidades a serem oferecidas por este sistema devem ser semelhantes, equivalentes 
+ou 
+superiores 
+ao 
+sistema 
+de 
+videoteca 
+do 
+DNIT 
+(disponível 
+em 
+https://servicos.dnit.gov.br/videoteca). Para as imagens coletadas com drone e modelos 
+3D restituídos, o sistema deverá incluir funcionalidades de visualização 3D dos elementos 
+e possibilidade de aferição das dimensões dos elementos das imagens. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 11
+
+
+ 
+Folha 12 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+9.3. 
+No módulo de gerenciamento de inventário rodoviário, o sistema deverá ser capaz de 
+manter um cadastro atualizado dos elementos rodoviários inventariados. Com base nos 
+dados cadastrados, o sistema também deverá ser capaz de produzir relatórios gerenciais 
+consolidando e sumarizando informações de acordo com as necessidades do usuário (por 
+exemplo: extensão total de faixas de rolamento ano a ano, extensão total de barreiras 
+rígidas, quantidade de placas por tipo, quantidade de acessos à faixa de domínio e sua 
+situação quanto a regularidade etc.). 
+9.4. 
+O sistema deverá ainda ser capaz de gerar arquivos específicos para visualização dos 
+elementos cadastrados em software de mapas específico (arquivos kmz, kml ou 
+equivalente), bem como gerar diagramas retigráficos que representem elementos 
+cadastrados ao longo da via. Deverá ser prevista a exportação das informações 
+cadastradas em planilhas eletrônicas, bem como o fornecimento, ao final do CONTRATO, 
+de mídia digital de alta capacidade, com cópia de todos os arquivos cadastrados em 
+arquivos padrão planilha eletrônica. Também deverá ser prevista a integração deste 
+sistema com sistemas utilizados pela ARTESP para os mesmos fins, bem como integração 
+com CCI da ARTESP. 
+10. 
+SISTEMA ELETRÔNICO DE GERENCIAMENTO DE ATIVOS DA CONCESSÃO – 
+SISATIVOS 
+10.1. A CONCESSIONÁRIA deverá implementar o SISATIVOS, cujos dados deverão ser 
+gerenciados dentro do SISGIS. 
+10.2. Tal sistema terá a função de manter um registro em banco de dados atualizado, de todos 
+os ativos (lineares e não lineares) da CONCESSÃO, bem como manter o histórico de 
+manutenções, inclusões, exclusões e modificação destes. 
+10.3. Deverá ser prevista a integração total entre os bancos de dados do SISATIVOS e do 
+MDSR, à medida em que este for implementado, de modo que os dados possam ser 
+carregados ou consultados em ambas as plataformas ou interfaces, ou seja, determinadas 
+informações deverão ser passíveis de consulta tanto a partir do MDSR quanto da própria 
+interface do sistema SISATIVOS. 
+10.4. A atualização dos dados no sistema deverá ter periodicidade mínima de 6 (seis) meses, 
+salvo nos casos de elementos específicos em que a ARTESP venha a determinar 
+periodicidade diferente. 
+10.5. A CONCESSIONÁRIA deverá prever a implementação inicial do SISATIVOS no prazo 
+máximo de 2 (dois) anos após a assinatura do TERMO DE TRANSFERÊNCIA INICIAL. 
+Eventuais melhorias poderão ser implementadas durante os demais anos da 
+CONCESSÃO. 
+11. 
+SISTEMA DIGITAL DE GERENCIAMENTO DE PAVIMENTOS – SGP 
+11.1. A CONCESSIONÁRIA deverá prever a implantação, após 1 (um) ano da data de 
+assinatura do TERMO DE TRANSFERÊNCIA INICIAL, o SGP com acesso via web. Este 
+sistema deverá contemplar, no mínimo, os seguintes módulos/funções: 
+i. 
+módulo de cadastro geométrico da malha rodoviária do SISTEMA RODOVIÁRIO – 
+este módulo deverá ser capaz de manter o cadastro geométrico básico atualizado 
+do SISTEMA RODOVIÁRIO do lote em termos de nomenclaturas, quilometragens, 
+extensões de segmentos homogêneos, quantidade de pistas, número de faixas de 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 12
+
+
+ 
+Folha 13 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+rolamento, presença de acostamentos para todas as rodovias e demais 
+dispositivos do sistema viário como alças de trevos e vias marginais; 
+ii. 
+módulo de cadastro de dados de tráfego – o SGP deverá contemplar um módulo 
+de cadastro básico de informações relativas aos dados de tráfego do sistema 
+viário em termos VDMs e dados relativos à pesagem de veículos para subsídio do 
+cálculo dos fatores de veículos de segmentos homogêneos do lote para fins de 
+projeto e/ou caracterização da frota circulante; 
+iii. 
+módulo de cadastro de estruturas de pavimento – este módulo deverá ser capaz de 
+manter um cadastro atualizado relativo às estruturas de pavimento existentes e 
+novas em termos de caracterização de materiais e espessuras; bem como cadastro 
+de dados de sondagens e ensaios realizados com os respectivos materiais; 
+iv. 
+módulo de acompanhamento de obras e registro básico das intervenções 
+realizadas no SISTEMA RODOVIÁRIO – este módulo deverá ser capaz manter um 
+cadastro atualizado das diversas intervenções realizadas no pavimento nos 
+segmentos viários ao longo da CONCESSÃO tais como reparos superficiais e 
+profundos, reconstruções parciais e totais, implantações etc. Deverá ser capaz de 
+ilustrar, através de diagrama retigráfico, as soluções aplicadas em cada trecho e 
+faixa de rolamento. Também deverá ser capaz de registrar e contabilizar as 
+quantidades de materiais e serviços executados em determinado período, de 
+acordo com o padrão de codificação e configuração de itens constantes na TPU 
+(tabela de preços unitários do DER/SP). As intervenções deverão ser atualizadas 
+ao final do dia; 
+v. 
+módulo de cadastro dos levantamentos relativos aos índices de qualidade – este 
+módulo deverá ser capaz de manter cadastro atualizado dos levantamentos 
+relativos aos índices de qualidade do pavimento realizados ao longo da 
+Concessão (monitoramento periódico, extraordinário e de projetos). O banco de 
+dados deverá ser compatível com o utilizado atualmente pelo DER/SP, de modo 
+que seja permitido verificar o estado geral da malha viária sob qualquer dos 
+critérios dos parâmetros de controle. O sistema deverá ser capaz de identificar 
+eventuais e sumarizar eventuais “gaps” (locais da malha cadastrada em que os 
+levantamentos não foram realizados ou foram realizados fora do padrão previsto 
+em edital e/ou em normas vigentes) de modo que a CONCESSIONÁRIA possa 
+manter um cadastro e informar/relatar à ARTESP os problemas ocorridos que 
+inviabilizaram a obtenção dos dados do levantamento do referido segmento no 
+período de apuração (ano da Concessão); 
+vi. 
+módulo de controle gráfico individualizado dos parâmetros de superfície, deflexão, 
+conforto e segurança; 
+vii. 
+módulo “relatório unifilar síntese do monitoramento (online)” – este módulo deverá 
+ser desenvolvido de maneira a processar o documento síntese do monitoramento 
+anual do pavimento de maneira eletrônica e online, de acordo com os padrões 
+estabelecidos pela ARTESP. O documento síntese do monitoramento consiste em 
+um diagrama do tipo retigráfico, que representa, em termos de segmentos 
+homogêneos (trecho normalmente definido entre marcos quilométricos), as faixas 
+de tráfego (inclusive acostamentos) das vias constituintes do SISTEMA 
+RODOVIÁRIO, conforme padrão pré-estabelecido pela ARTESP. Após a 
+atualização dos dados relativos aos levantamentos do monitoramento anual do 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 13
+
+
+ 
+Folha 14 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+pavimento, o sistema deverá ser capaz de determinar os valores médios para cada 
+segmento homogêneo e faixa de tráfego da malha viária e classificar, através de 
+legenda de cores, os locais em que os índices se encontram com as seguintes 
+classificações: bom (verde), regular (amarelo) ou ruim (vermelho), de acordo com 
+critério estabelecido pela ARTESP. A partir daí a CONCESSIONÁRIA irá informar, 
+em campo apropriado, a solução a ser aplicada e sua respectiva data de conclusão 
+para cada segmento homogêneo que apresente seus índices fora dos limites 
+estabelecidos em CONTRATO (prazo de reparação nunca superior a 90 (noventa) 
+dias). Após concluído este processo, a CONCESSIONÁRIA submeterá este 
+cenário salvo, via sistema web, à análise e validação da ARTESP que irá validar 
+e/ou solicitar alterações de acordo com as necessidades detectadas também via 
+sistema. Deverá ser previsto ainda um campo para que a CONCESSIONÁRIA 
+informe o andamento dos serviços em cada trecho crítico. Uma vez aprovados e 
+validados os prazos de reparação por parte da ARTESP, esta poderá acompanhar 
+no sistema a execução do cronograma de reparação proposto, sendo que novas 
+alterações relativas aos levantamentos e/ou aos prazos previstos no cronograma 
+de reparação deverão ser submetidas a uma nova validação por parte da 
+ARTESP; 
+viii. 
+módulo de modelos de desempenho do pavimento – este módulo deverá ser 
+capaz de estimar, com base em modelos matemáticos consagrados na literatura 
+(HDM, MEPDG etc.), a evolução anual dos índices de qualidade do pavimento no 
+prazo remanescente da CONCESSÃO, a partir dos dados atualizados anualmente 
+no SGP, e para segmentos homogêneos pré-definidos (normalmente considerados 
+iguais aos segmentos homogêneos definidos em projeto). Deverá prever a 
+elaboração de gráficos e cálculo de vida remanescente dos segmentos, com base 
+nos limites estabelecidos em CONTRATO para os índices de qualidade; 
+ix. 
+módulo de verificação de projetos de novas estruturas de pavimento 
+(reconstruções e ampliações) – este módulo deverá ser capaz de realizar o cálculo 
+de verificação das espessuras mínimas das camadas propostas para novas 
+estruturas de pavimento em projeto, de acordo com as normas vigentes aplicáveis, 
+com base nos dados de tráfego projetado, dados de ensaios atualizados, bem 
+como outras informações relevantes ao projeto informados pelo USUÁRIO 
+(especificações de materiais, saídas de programas de elementos finitos, etc.); 
+x. 
+módulo de verificação e cadastro de parâmetros de projetos de conservação 
+especial – este módulo deverá ser capaz de realizar o cálculo de verificação de 
+espessura mínima de reforço a ser aplicado nos segmentos homogêneos de 
+projetos de conservação especial de pavimento de acordo com as normas 
+vigentes aplicáveis e com base no levantamento deflectométrico mais atualizado 
+do sistema e dados de tráfego projetado, bem como outras informações relevantes 
+ao projeto informados pelo USUÁRIO (segmentos homogêneos de projeto, reparos 
+profundos e reconstruções previstas etc.); 
+xi. 
+módulo de controle de qualidade de execução de serviços de pavimentação – este 
+módulo deverá manter um cadastro atualizado dos resultados dos ensaios 
+realizados na obra, de acordo com o padrão constante nas normas vigentes 
+aplicáveis (ABNT, DER/SP e ARTESP), bem como o processamento destes dados 
+através de cálculos por procedimentos estatísticos de maneira a verificar o pleno 
+atendimento às disposições normativas e às especificações técnicas vigentes 
+aplicáveis. Os dados deverão ser atualizados no SGP ao final do dia; e 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 14
+
+
+ 
+Folha 15 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+xii. 
+módulo de determinação dos indicadores de desempenho da CONCESSÃO 
+relacionados aos índices de pavimento. 
+11.2. Esses diversos módulos devem colher informações uns dos outros para processamentos. 
+11.3. O sistema deverá contemplar possibilidade futura de integração do SGP com o sistema de 
+gerenciamento de projetos da ARTESP, de modo que as informações cadastradas e 
+validadas do 
+SGP 
+referentes 
+aos 
+levantamentos 
+periódicos 
+possam 
+atualizar 
+automaticamente o sistema de controle de documentação de projeto (relatórios de 
+monitoramento do pavimento). 
+11.4. A CONCESSIONÁRIA deverá manter um cadastro atualizado dos dados referentes à 
+estrutura de pavimento e tráfego no formato de entrada para o software HDM-4 e 
+disponibilizá-lo anualmente à ARTESP. 
+12. 
+SISTEMA ELETRÔNICO DE GERENCIAMENTO DE OAE E PASSARELAS – SISOAES 
+12.1. A CONCESSIONÁRIA deverá implementar o SISOAES. O sistema deverá prever 
+acesso via web. A CONCESSIONÁRIA deverá disponibilizar pares de usuário/senha para 
+uso da ARTESP. 
+12.2. A implementação deverá ser realizada no primeiro ano de CONCESSÃO e deverá seguir o 
+regramento previsto para os demais sistemas eletrônicos de gerenciamento previstos 
+neste APÊNDICE. 
+12.3. O programa de monitoração e gerenciamento deverá estar disponível e atualizado. Seu 
+banco de dados deverá conter, logo após a execução da recuperação de OAE e 
+passarela, fotos de reconhecimento das patologias e das respectivas terapias executadas 
+e datadas com metodologia e materiais empregados. 
+12.4. Deverão ser apresentados, também, no programa de monitoração e gerenciamento, as 
+condições atualizadas com classificações dos aspectos estruturais, funcionais e de 
+durabilidade das OAE e passarelas, com arquivos eletrônicos contendo os relatórios das 
+inspeções especiais e projetos que foram utilizados, incluindo os projetos que vierem a 
+alterar cadastros geométricos originais como alargamentos, prolongamentos, implantações 
+de defensas rígidas ou substituições de OAE e passarelas. 
+12.5. O banco de dados deverá ser atualizado com informações adicionais de obras de 
+implantações e alargamentos, com dados de geotecnia e de propriedades mecânicas dos 
+materiais constituintes das estruturas dessas obras, acidentes e informações sobre a 
+passagem de cargas especiais. 
+12.6. A CONCESSIONÁRIA deverá sempre apresentar arquivos eletrônicos completos das 
+inspeções de todas as OAE com as fotos, inclusive, das recuperações, identificando os 
+serviços e datas. 
+13. 
+SISTEMA ELETRÔNICO DE GERENCIAMENTO DE DADOS DE RADARES – SIS-RAD 
+13.1. A CONCESSIONÁRIA deverá disponibilizar, no primeiro ano de CONCESSÃO, sistema 
+digital integrado, via web, para consulta dos dados coletados pelos radares (SIS-RAD). 
+13.2. Deverão ser fornecidos pares de usuário/senha para consulta, pesquisa e auditoria das 
+informações diretamente no sistema – acesso às informações brutas e consolidadas de 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 15
+
+
+ 
+Folha 16 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+velocidade e de contagens/volumes dos veículos. 
+14. 
+SISTEMA ELETRÔNICO DE GERENCIAMENTO DE DADOS DE ACIDENTES – SIS-
+ACIDENTES 
+14.1. A CONCESSIONÁRIA deverá disponibilizar à ARTESP um banco de dados de acidentes 
+contendo todos os acidentes ocorridos no SISTEMA RODOVIÁRIO, com indicações sobre 
+sua 
+natureza, 
+tipo 
+de 
+veículo 
+envolvido, 
+horário, 
+consequências 
+geradas, 
+georreferenciamento e outras informações, conforme modelo indicado pela ARTESP. Para 
+montagem do Banco de Dados, a CONCESSIONÁRIA deverá levantar, junto ao DER, as 
+informações dos últimos 05 (cinco) anos anteriores ao início da CONCESSÃO. 
+14.2. A disponibilização da base de dados de acidentes deverá ser feita através de envio digital 
+dos dados desde a data de assinatura do TERMO DE TRANSFERENCIA INICIAL, bem 
+como encaminhado ao CCI da ARTESP de forma online. 
+14.3. Para esta obrigação, a CONCESSIONÁRIA deverá disponibilizar, no primeiro ano de 
+Concessão, sistema digital integrado, via web, para consulta dos dados de acidentes (SIS-
+ACIDENTES). 
+14.4. Deverão ser fornecidos pares de usuário/senha para consulta, pesquisa e auditoria das 
+informações diretamente no sistema – acesso às informações brutas e consolidadas dos 
+acidentes. 
+15. 
+MÓDULO DE GERENCIAMENTO DE DADOS DE PESAGEM DO SISTEMA 
+ELETRÔNICO DE  PESAGEM EM MOVIMENTO – SISPESMOV 
+15.1. O sistema eletrônico de aquisição dos dados do SISPESMOV deverá contar com 
+módulo/plataforma de acesso web, em tempo real, de todos os dados relativos à pesagem 
+de veículos. 
+15.2. Deverão ser fornecidos pares de usuário/senha para uso e consulta da ARTESP. 
+16. 
+SISTEMA DE EQUIPAMENTOS – SIS-EQP 
+16.1. A CONCESSIONÁRIA deverá, no primeiro ano de CONCESSÃO, dispor do SIS-EQP, um 
+sistema de controle central, a ser instalado no CCO, que será responsável pelo 
+gerenciamento dos sensores de tráfego, PMVs, CFTVs e equipamentos de comunicação 
+com o USUÁRIO via rede sem fio, bem como dispor de todos os recursos necessários para 
+acompanhar a operação, com consulta em tempo real aos dados coletados pelos referidos 
+equipamentos. 
+16.1.1. O SIS-EQP deve permitir a identificação de falhas nos equipamentos indicados no 
+item acima e a emissão de alarmes aos operadores. 
+16.2. O SIS-EQP deverá disponibilizar sistema digital integrado, via web, para consulta dos 
+dados coletados. 
+16.3. Deverão ser fornecidos pares de usuário/senha para consulta, pesquisa e auditoria das 
+informações diretamente no sistema – acesso às informações brutas e consolidadas. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 16
+
+
+ 
+Folha 17 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+17. 
+SISTEMA DIGITAL INTEGRADO DE GESTÃO AMBIENTAL – SGA 
+17.1. A CONCESSIONÁRIA deverá em até 24 (vinte quatro) meses contados da data de 
+assinatura do TERMO DE TRANSFERÊNCIA INICIAL implantar um Sistema de Gestão 
+Integrado, incluindo um Sistema de Gestão Ambiental conforme requisitos e orientações da 
+NBR ISO 14.001 e 14.004, e um Sistema de Saúde e Segurança Ocupacional, conforme a 
+NBR ISO 45.001. Nesse prazo, o Sistema de Gestão Ambiental e o Sistema de Saúde e 
+Segurança Ocupacional deverão estar 100% (cem por cento) operacionais e aptos à sua 
+certificação, sendo comprovada a contratação da empresa certificadora. 
+18. 
+SISTEMA DIGITAL INTEGRADO DE NOTIFICAÇÕES – SISNOT 
+18.1. A CONCESSIONÁRIA deverá em até 12 (doze) meses contados da data de assinatura do 
+TERMO DE TRANSFERÊNCIA INICIAL implantar um sistema digital via web específico 
+para gerenciamento das informações, dados e documentos relacionados às penalidades 
+aplicadas pela ARTESP e respectivos procedimentos ou processos administrativos 
+instaurados. 
+19. 
+SISTEMA DIGITAL INTEGRADO DOS PÓRTICOS DO SISTEMA AUTOMÁTICO LIVRE 
+– SISFREEFLOW 
+19.1. A Concessionária deverá, 30 dias antes da data prevista para início da operação dos 
+PÓRTICOS, implantar e disponibilizar um sistema digital via web específico para 
+gerenciamento das informações, dados e documentos relacionados à operação do sistema 
+de PÓRTICOS. 
+19.2. Este sistema ficará responsável por registrar, de forma automática, os dados das 
+passagens veiculares de cada um dos PÓRTICOS, bem como consolidar resumos de 
+informações conforme padrões definidos pela ARTESP. 
+19.2.1. A princípio, deverão ser coletados e armazenados, pelo menos, os seguintes 
+dados dos veículos, sem prejuízo de dados complementares que possam ser 
+solicitados pela ARTESP: (i) fotografias das vistas frontal, traseira, superior e 
+lateral do veículo; (ii) identificação automática da placa do veículo; (iii) identificação 
+automática da cor do veículo; (iv) modelo do veículo; (v) classe de veículo; (vi) 
+quantidade de eixos; (vii) categoria de pedagiamento; 
+19.2.2. Deletados ou alterados; podendo contar com campos adicionais de validação 
+manual da informação coletada; 
+19.2.3. A princípio, deverão ser gerados os seguintes resumos, sem prejuízo de outros 
+que possam ser requeridos pela ARTESP: (i) lista mensal e resumo de todos os 
+veículos que passaram pelo PÓRTICO e não foi realizado o pagamento 
+automático, contendo características dos veículos, quantidade de eixos, valor de 
+tarifa etc.; (ii) lista mensal e resumo de todos os veículos que passaram pelo 
+PÓRTICO e que foi configurada a evasão contendo características dos veículos, 
+quantidade de eixos, valor de tarifa etc; 
+19.3. Deverão ser fornecidos pares de usuário/senha para consulta, pesquisa e auditoria das 
+informações diretamente no sistema – acesso às informações brutas e consolidadas de 
+contagens/volumes classificados de veículos. 
+19.4. Também deverá ser previsto no sistema uma possível integração com outros bancos de 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 17
+
+
+ 
+Folha 18 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+dados. Neste caso, o sistema deverá contar com um módulo onde possa ser possível 
+armazenar os dados de consulta a esses bancos externos, bem como também um 
+possível cruzamento destes dados com aqueles que foram capturados pelo pórtico para 
+possibilitar validação automática ou não das informações coletadas, para apuração de 
+eventuais fraudes (placas clonadas, placas adulteradas, entre outros), entre outros fins 
+igualmente relevantes. 
+19.5. A ARTESP realizará auditoria nos softwares de controle empregados para controlar e 
+gerenciar as transações efetuadas nos PÓRTICOS. Para tanto, o sistema a ser 
+implementado pela CONCESSIONÁRIA deverá ser preferencialmente com acesso via web 
+e atualização de dados em tempo real, com disponibilização de pares de usuário/senha 
+para consulta da ARTESP. 
+19.6. A CONCESSIONÁRIA deverá realizar anualmente auditoria com empresa independente, 
+idônea e de notória especialização e comunicar a ARTESP quando solicitado, 
+apresentando os resultados ou dados sobre o avanço da auditoria. A auditoria com 
+empresa independente deverá ser realizada de forma a contemplar, no mínimo: 
+(i) 
+Auditoria amostral de resultados: a auditoria deverá selecionar, de forma 
+amostral e aleatória, imagens de veículos que passaram no pórtico ao longo do 
+ano, e verificar se as informações contidas no banco de dados estão corretas 
+(placa, tipo de veículo, quantidade de eixos; presença de TAG; etc.) ou se há 
+alguma 
+inconsistência 
+no 
+cadastro. 
+Deverão 
+ser 
+apontadas 
+todas 
+as 
+inconsistências verificadas e calculado qual seria o percentual de erro, para cada 
+um dos elementos, além do percentual global, diante do total de amostras 
+coletadas. Também poderão ser consultados outros equipamentos extra-pórticos 
+para realização da auditoria (imagens das câmeras do CFTV, entre outros). 
+Detecção de atitudes fraudulentas por parte dos usuários também devem ser 
+relatadas (exemplo: placa visivelmente adulterada etc.), bem como contabilizadas 
+para fins de estatística. 
+19.7. Os relatórios resultantes das auditorias deverão ser disponibilizados à ARTESP, por meio 
+eletrônico, preferencialmente por meio do SISPROJ. 
+(ii) 
+O Sistema deverá contar ainda com um Sistema de Telemetria, atendendo às 
+funcionalidades básicas e operacionais dos equipamentos de arrecadação com 
+informações disponibilizadas nos PÓRTICOS. 
+20. 
+SISTEMA ELETRÔNICO DE SERVIÇO DE ATENDIMENTO AO USUÁRIO – SIS-SAU 
+20.1. A CONCESSIONÁRIA deverá, no primeiro ano de CONCESSÃO, dispor do SIS-SAU, um 
+sistema eletrônico que terá a função de monitorar os tempos de atendimento, do momento 
+em que o CCO ficou ciente da ocorrência até o momento da chegada do serviço de apoio 
+ao usuário (guincho, APH, inspeção de tráfego e socorro mecânico) no local do evento, 
+utilizando dados de geoposicionamento. Serão expurgadas as ocorrências previstas na 
+especificação técnica vigente, naquele mês considerado para fiscalização. 
+20.2. O SIS-SAU deverá disponibilizar sistema digital integrado, via web, para consulta dos 
+dados coletados. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 18
+
+
+ 
+Folha 19 de 19 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+21. 
+SISTEMA ELETRÔNICO DE CÁLCULO DOS INDICADORES DE DESEMPENHO – 
+SIS- CSP 
+21.1. A CONCESSIONÁRIA deverá, no primeiro ano de CONCESSÃO, dispor do SIS-CSP, um 
+sistema eletrônico que terá a função de reunir e apresentar à ARTESP as notas dos 
+indicadores apresentados no ANEXO 3, integrando todos os sistemas que sejam 
+necessários para o cálculo dos indicadores. 
+21.2. O SIS-CSP deverá disponibilizar sistema digital integrado, via web, para consulta dos 
+dados coletados. 
+21.3. O SIS-CSP deverá ser capaz de ser alimentado pela ARTESP para a inclusão da medição 
+de indicadores que só podem ser avaliados manualmente. 
+21.4. A partir da alimentação do SIS-CSP pela ARTESP nos moldes indicados no item 21.3, o 
+SIS-CSP deverá emitir nota do CSP e do IQD, levando em consideração todos os 
+indicadores, nos termos do ANEXO 3 e do APÊNDICE C. 
+Documento Apêndice F - Sistemas Digitais (0059823518)         SEI 134.00005927/2024-51 / pg. 19

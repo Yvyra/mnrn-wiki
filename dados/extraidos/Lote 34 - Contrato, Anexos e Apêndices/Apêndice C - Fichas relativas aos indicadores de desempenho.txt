@@ -1,0 +1,1969 @@
+ 
+ 
+Folha 1 de 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APÊNDICE C 
+ 
+FICHAS RELATIVAS AOS INDICADORES DE DESEMPENHO 
+ 
+ 
+ 
+CONCESSÃO DOS SERVIÇOS PÚBLICOS DE AMPLIAÇÃO, OPERAÇÃO, MANUTENÇÃO E 
+REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A EXPLORAÇÃO DO SISTEMA 
+RODOVIÁRIO DO LOTE NOVA RAPOSO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 1
+
+
+Folha 2 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+A CONCESSIONÁRIA deverá realizar os ensaios/verificações/levantamentos em campo para coleta dos dados referentes à conservação especial do pavimento conforme 
+definições e periodicidade constantes no ANEXO 61. 
+Após a realização do levantamento integral em campo das condições especiais do pavimento, a CONCESSIONÁRIA deverá atualizar todos os dados coletados 
+(referentes às condições de superfície, conforto, deformabilidade, segurança, ruído) no SGP. Estes dados devem apresentar uma defasagem entre a coleta em campo e 
+a atualização no SGP de, no máximo, 45 dias (observadas as exceções previstas no ANEXO 3). 
+Descrição 
+A CONCESSIONÁRIA deverá realizar um levantamento integral das condições de conservação especial do pavimento em toda a via, devendo obedecer, para cada 
+um: 
+Controle das condições deflectométricas (ou de deformabilidade): 
+Realizado uma vez ao ano. O período de levantamento e entrega dos dados deverá ser contabilizado a partir da data que marca o início da Segunda Fase de
+Acompanhamento dos INDICADORES DE DESEMPENHO (conforme diretrizes do ANEXO 3). Logo, 1 ano após a data que marca o fim do PII, a
+CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados relativos aos ensaios deflectométricos realizados, com uma defasagem máxima entre o
+levantamento em campo e a entrega/atualização dos dados de até 45 dias. A partir da entrega destes dados à ARTESP, será contabilizado mais 1 ano, sendo
+esta a referência para a nova entrega dos dados. O processo permanecerá neste ciclo até o final do CONTRATO. Para o SISTEMA REMANESCENTE os
+levantamentos começarão a ser realizados a partir do exaurimento dos prazos previstos no PAI (conforme diretrizes do ANEXO 3) seguindo os mesmos períodos
+de referência para as coletas de dados do SISTEMA EXISTENTE descritos anteriormente.  
+ 
+Observações e considerações 
+ 
+ 
+Indicador 
+1.1 
+Indicador de Conformidade da Atualização Periódica do Sistema de Gerenciamento de Pavimentos (ICASGP) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Sistema de Gerenciamento de 
+Pavimentos (SGP) 
+Composição 
+Realização das atualizações dos indicadores de conservação especial do pavimento conforme periodicidade de aferição de cada um. 
+ 
+ 
+Fórmula do Indicador 
+Faixas de performance 
+Indicador Binário 
+Nota 
+Não se aplica 
+Se a CONCESSIONÁRIA cumpriu com todas as atualizações dos indicadores no SGP previstas 
+no período. 
+1 
+Em casos de descumprimento total ou parcial das atualizações previstas. 
+0 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 2
+
+
+Folha 3 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+• 
+Controle das condições superficiais:  
+ 
+Realizado uma vez por semestre, nos primeiros 20 anos de CONTRATO e, uma vez por trimestre, do 21º ano em diante. O período de levantamento e entrega 
+dos dados deverá ser contabilizado a partir da data que marca o início da Segunda Fase de Acompanhamento dos INDICADORES DE DESEMPENHO 
+(conforme diretrizes do ANEXO 3). Logo, 6 meses após a data que marca o fim do PII, a CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados 
+relativos às condições de superfície do pavimento, com uma defasagem máxima entre a coleta de campo e a entrega/atualização dos dados de até 45 dias. A 
+partir da entrega destes dados à ARTESP será contabilizado mais 6 meses, sendo esta a referência para a nova entrega dos dados. O processo permanecerá 
+neste ciclo até o 20º ano de CONTRATO. A partir do 21º ano, o período entre as entregas de dados deverá ser de 3 meses. Para o SISTEMA 
+REMANESCENTE, os levantamentos começarão a ser realizados a partir do exaurimento dos prazos previstos no PAI (conforme diretrizes do ANEXO 3), 
+seguindo os mesmos períodos de referência para as coletas de dados do SISTEMA EXISTENTE descritos anteriormente.  
+ 
+• 
+Controle das condições de conforto:  
+Realizado uma vez por semestre, nos primeiros 20 anos de CONTRATO e, uma vez por trimestre, do 21º ano em diante. O período de levantamento e entrega 
+dos dados deverá ser contabilizado a partir da data que marca o início da Segunda Fase de Acompanhamento dos INDICADORES DE DESEMPENHO 
+(conforme diretrizes do ANEXO 3). Logo, 6 meses após a data que marca o fim do PII, a CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados 
+relativos às condições de conforto do pavimento, com uma defasagem máxima entre a coleta de campo e a entrega/atualização dos dados de 45 dias. A partir da 
+entrega destes dados à ARTESP, será contabilizado mais 6 meses, sendo esta a referência para a nova entrega dos dados. O processo permanecerá neste ciclo 
+até o 20º ano de CONTRATO. A partir do 21º ano o período entre as entregas de dados deverá ser de 3 meses. Para o SISTEMA REMANESCENTE, os 
+levantamentos começarão a ser realizados a partir do exaurimento dos prazos previstos no PAI (conforme diretrizes do ANEXO 3), seguindo os mesmos 
+períodos de referência para as coletas de dados do SISTEMA EXISTENTE descritos anteriormente. 
+ 
+• 
+Controle das condições de segurança (escaneamento laser e grip tester): 
+Realizado uma vez ao ano, nos primeiros 20 anos de CONTRATO e, uma vez por semestre, do 21º ano em diante. O período de levantamento e entrega dos 
+dados deverá ser contabilizado a partir da data que marca o início da Segunda Fase de Acompanhamento dos INDICADORES DE DESEMPENHO (conforme 
+diretrizes do ANEXO 3). Logo, 1 ano após a data que marca o fim do PII, a CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados relativos às 
+condições de segurança do pavimento, com uma defasagem máxima entre a coleta de campo e a entrega dos dados de 45 dias. A partir da entrega destes 
+dados à ARTESP, será contabilizado mais 1 ano, sendo esta a referência para a nova entrega dos dados. O processo permanecerá neste ciclo até o 20º ano de 
+CONTRATO. A partir do 21º ano, o período entre as entregas de dados deverá ser de 6 meses. Para o SISTEMA REMANESCENTE, os levantamentos 
+começarão a ser realizados a partir do exaurimento dos prazos previstos no PAI (conforme diretrizes do ANEXO 3), seguindo os mesmos períodos de referência 
+para as coletas de dados do SISTEMA EXISTENTE descritos anteriormente. 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 3
+
+
+Folha 4 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Controle das condições de ruído ao rolamento:  
+ 
+Realizado uma vez ao ano. O período de levantamento e entrega dos dados deverá ser contabilizado a partir da data que marca o início da Segunda Fase 
+de Acompanhamento dos INDICADORES DE DESEMPENHO (segundo diretrizes do ANEXO 3). Logo, 1 ano após a data que marca o fim do PII, a 
+CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados relativos às condições de ruído do pavimento, com uma defasagem máxima entre 
+o levantamento em campo e a entrega/atualização dos dados de 45 dias. A partir da entrega destes dados à ARTESP, será contabilizado mais 1 ano, 
+sendo esta a referência para a nova entrega dos dados. O processo permanecerá neste ciclo até o final do CONTRATO. Para o SISTEMA 
+REMANESCENTE, os levantamentos começarão a ser realizados a partir do exaurimento dos prazos previstos no PAI (conforme diretrizes do ANEXO 3), 
+seguindo os mesmos períodos de referência para as coletas de dados do SISTEMA EXISTENTE descritos anteriormente. 
+ 
+Apesar do INDICADOR possuir periodicidade mensal, a verificação da atualização do SGP ocorrerá logo após o período programado para o levantamento das
+condições especiais do pavimento, entrega e atualização dos dados (considerando uma defasagem máxima de 45 dias da coleta em campo). Logo, a nota do 
+ICASGP será apurada no período programado e valerá para os meses subsequentes até o próximo período programado de levantamento dos dados. Em caso 
+da não atualização dos dados previstos para o período, a nota para o INDICADOR será zero e permanecerá para cada mês posterior como zero até o próximo 
+período de coleta de dados previsto.  
+Para efeito de acompanhamento e apuração do INDICADOR, nos primeiros meses posteriores ao início da Segunda Fase de Acompanhamento (que 
+antecedem a entrega dos primeiro Relatório de Monitoramento do Pavimento) a nota do ICASGP será 1, até o primeiro levantamento das condições 
+especiais do pavimento e atualizações previstas.  
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 4
+
+
+Folha 5 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+As condições de conforto do rolamento serão determinadas através da medição de irregularidades obedecendo os procedimentos descritos no ANEXO 6, item 4.2 - 
+Descrição e Padrões dos Serviços e as especificações das Normas Rodoviárias vigentes1 e/ou que vieram sucedê-las 
+O valor a ser considerado será a média dos valores de medição de Irregularidade no segmento homogêneo de no máximo, 1km (um quilômetro). Valores individuais de 
+medição muito discrepantes da média deverão ser tratados conforme especificado no ANEXO 6, item 4.2 – Parâmetros mínimos exigidos. 
+Para a aferição, a via será dividida longitudinalmente em segmentos homogêneos de no máximo 1km (um quilômetro) conforme descrição e detalhamento estabelecidos 
+no ANEXO 6, item 4.2. O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “Segmento é conforme se”. Da mesma forma, o segmento 
+será considerado “não conforme” se não atender a este mesmo critério. 
+Descrição 
+ 
+ 
+Indicador 
+1.2 
+Indicador das Condições de Conforto do Pavimento (ICCP) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Levantamento in loco / SGP / 
+Relatório 
+entregue 
+pela 
+CONCESSIONÁRIA 
+Composição 
+Valores de IRI (International Roughness Index) ou de QI (Quociente de Irregularidade) dos segmentos. 
+ 
+ 
+Fórmula do Indicador 
+Faixas de performance 
+Nota 
+Forma de avaliação – Conforme ANEXO 6, item 4.2 
+Ano 
+Tipo de via1 
+Segmento é conforme se: 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+𝑄𝑡𝑑𝑎. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 
+𝑋 100 
+𝑐𝑜𝑛𝑠𝑖𝑑𝑒𝑟𝑎𝑑𝑜𝑠 𝑛𝑜 𝐿𝑜𝑡𝑒 𝑝𝑎𝑟𝑎 𝑎𝑣𝑎𝑙𝑖𝑎çã𝑜 
+ICCP ≥ 95% 
+1 
+Até o 15º ano * 
+SP, SPAs, SPIs e Vias Marginais 
+- Pavimentadas 
+IRI ≤ 2,69 m/km ou QI ≤ 
+35 contagens/km 
+SP, SPAs, SPIs e Vias Marginais 
+- Em terra /revestimento primário 
+IRI ≤ 6 m/km ou QI ≤ 78 
+contagens/km 
+90% ≤ ICCP < 95% 
+0,8 
+A partir do 16º ano 
+SP, SPAs, SPIs e Vias Marginais 
+- Pavimentadas 
+IRI ≤ 2,46 m/km ou QI ≤ 
+32 contagens/km 
+SP, SPAs, SPIs e Vias Marginais 
+- Em terra /revestimento primário 
+IRI ≤ 6 m/km ou QI ≤ 78 
+contagens/km 
+85% ≤ ICCP < 90% 
+0,6 
+Durante 
+Concessão 
+toda 
+a 
+Ramos 
+e 
+Pavimentados 
+Dispositivos 
+- IRI ≤ 3,46 m/km ou QI ≤ 
+45 contagens/km 
+Ramos e Dispositivos – Em terra 
+/revestimento primário 
+IRI ≤ 6 m/km ou QI ≤ 78 
+contagens/km 
+ 
+1 Deverão ser expurgadas da medição do indicador as marginais onde a velocidade praticada for inferior à necessária para a mensuração do IRI. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 5
+
+
+Folha 6 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+80% ≤ ICCP < 85% 
+0,4 
+ICCP < 80% 
+0 
+ 
+ 
+Observações e considerações 
+* Para o SISTEMA RODOVIÁRIO, após a conclusão da implementação de todos os investimentos e serviços integrante do PII até a primeira intervenção programada no 
+sistema, o segmento será conforme se IRI ≤ 3,46 m/km ou QI ≤ 45 contagens/km. Após a primeira intervenção programada no SISTEMA EXISTENTE deve ser 
+considerado o parâmetro de IRI conforme o ano em questão. 
+ 
+Após a realização dos levantamentos, a CONCESSIONÁRIA deverá atualizar no SGP todos os resultados e entregar para a ARTESP, até o 5º dia útil do mês, o 
+Relatório de Monitoramento do Pavimento, considerando uma defasagem máxima entre o levantamento em campo e a entrega/atualização dos dados de 45 dias, 
+conforme descrição no ANEXO 6, item 4.2. O INDICADOR poderá ser analisado, conforme descrito acima nesta ficha, a partir do Relatório entregue pela 
+CONCESSIONÁRIA referente aos levantamentos em campo ou através de um extrato do SGP contendo todos os registros dos resultados da verificação realizada pela 
+CONCESSIONÁRIA. O Relatório deve ser suficiente para o cálculo deste INDICADOR. 
+ 
+Conforme descrição no ANEXO 6, item 4.2, o levantamento integral das condições de conforto do pavimento deverá ocorrer em toda a via pelo menos uma vez por 
+semestre, nos primeiros 20 anos de CONTRATO, e uma vez por trimestre, do 21º ano em diante. O período de levantamento e entrega dos dados deverá ser 
+contabilizado a partir da data que marca o início da Segunda Fase de Acompanhamento dos INDICADORES DE DESEMPENHO (conforme diretrizes do ANEXO 3). 
+Logo, 6 meses após a data que marca o fim do PII, a CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados relativos às condições de conforto do 
+pavimento, com uma defasagem máxima entre a coleta de campo e a entrega/atualização dos dados de 45 dias. A partir da entrega destes dados à ARTESP, será 
+contabilizado mais 6 meses, sendo esta a referência para a nova entrega dos dados. O processo permanecerá neste ciclo até o 20º ano de CONTRATO. A partir do 21º 
+ano o período entre as entregas de dados deverá ser de 3 meses. Para o SISTEMA REMANESCENTE, os levantamentos começarão a ser realizados a partir do 
+exaurimento dos prazos previstos no PAI (conforme diretrizes do ANEXO 3), seguindo os mesmos períodos de referência para as coletas de dados do SISTEMA 
+EXISTENTE descritos anteriormente. 
+ 
+Para efeito de acompanhamento e apuração do INDICADOR, como o mesmo possui periodicidade mensal, nos primeiros meses posteriores ao início da Segunda Fase 
+de Acompanhamento dos INDICADORES DE DESEMPENHO (conforme diretrizes do ANEXO 3), e que antecedem o primeiro levantamento programado das condições 
+de conforto do pavimento no período, os valores considerados para as mensurações do ICCP serão aqueles apresentados no “Relatório de Conclusão de PII 
+(Pavimento)”, para o SISTEMA EXISTENTE e os valores apresentados no "Relatório de Conclusão e PAI (Pavimento)” para o SISTEMA REMANESCENTE. 
+ 
+Caso a CONCESSIONÁRIA sinta a necessidade de realizar outros levantamentos em campo além daqueles já exigidos e planejados, a fim de tentar melhorar a sua nota 
+no INDICADOR por exemplo, poderá realizá-los nos segmentos em que forem necessários, desde que informe a ARTESP sobre o procedimento, que atualize o SGP 
+com os novos dados colhidos e que encaminhe o novo Relatório de Monitoramento do Pavimento, com os resultados até o 5º dia útil do mês, respeitando o prazo 
+máximo para a defasagem dos dados (45 dias, observadas as exceções previstas no ANEXO 3). Eventuais atualizações de parâmetros serão consideradas somente em 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 6
+
+
+Folha 7 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+avaliações de períodos posteriores à entrega dos dados, ou seja, INDICADORES anteriormente calculados não serão alterados. 
+ 
+A ‘Quantidade total de segmentos considerados no Lote para avaliação’ será, por definição, a quantidade total de segmentos homogêneos considerados válidos pela 
+equipe técnica da ARTESP no âmbito da análise dos Relatórios do Monitoramento periódico do pavimento e das atualizações e projeções do SGP. O segmento não será 
+considerado neste total quando, por motivo justo e reconhecido pelos técnicos da Agência, tenha sido dispensado* do levantamento (exemplo: segmento efetivamente 
+em obras quando da realização dos levantamentos de campo). 
+ 
+*Eventualmente, se houver dados de levantamentos anteriores válidos para o segmento dispensado, deverão ser considerados os valores relativos ao último 
+levantamento válido. 
+ 
+Figura ilustrativa para exemplificar a delimitação do segmento a ser avaliado/fiscalizado para cálculo do ICCP entre os km 1 e 2 de uma via: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1: Normas rodoviárias específicas, segundo o ANEXO 6, item 4.2, sem prejuízo daquelas que vieram sucedê-las: 
+ 
+• 
+DNER PRO-159/85 - Projeto de Restauração de Pavimentos Flexíveis e Semirrígidos, capítulos referentes aos procedimentos de avaliação das irregularidades. 
+• 
+DNER PRO-164/94 - Calibração e Controle de Sistemas Medidores de Irregularidades de Superfície de Pavimento (Sistemas Integradores IPR/USP e Maysmeter). 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 7
+
+
+Folha 8 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+Os trechos de calibração deverão ser aprovados pela ARTESP. 
+• 
+DNER ES-173/86 - Método de Nível e Mira para Calibração de Sistemas Medidores de Irregularidades Tipo Resposta. 
+• 
+DNER PRO-182/94 - Medição de Irregularidades de Superfície de Pavimento com Sistemas Integradores IPR/USP e Maysmeter. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 8
+
+
+Folha 9 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Para a determinação das condições de segurança do pavimento serão empregados métodos e equipamentos de medidas de textura e resistência ao deslizamento 
+conforme especificação no ANEXO 6, item 4.2 - Descrição e Padrões dos Serviços. 
+O valor a ser considerado para cada condição analisada será a média dos valores das medições no quilômetro. 
+Para a aferição, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), conforme descrição e detalhamento estabelecidos no ANEXO 6, item 4.2 – 
+Parâmetros mínimos exigidos. O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “Segmento é conforme se”. Da mesma forma, o 
+segmento será considerado “não conforme” se não atender a este mesmo critério. 
+Descrição 
+Observações e considerações 
+ 
+ 
+Indicador 
+1.3 
+Indicador das Condições de Segurança do Pavimento (ICSP) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Levantamento in loco / SGP / 
+Relatório 
+entregue 
+pela 
+CONCESSIONÁRIA 
+Composição 
+Valores de Macrotextura (HS*) e Coeficiente de Atrito (VRD** ou GN*** e IFI****) dos segmentos. 
+ 
+ 
+Fórmula do Indicador 
+Faixas de performance 
+Nota 
+Forma de avaliação – Conforme ANEXO 6, item 4.2 
+Segmento é conforme se: 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+𝑄𝑡𝑑𝑎. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 
+𝑋 100 
+𝑐𝑜𝑛𝑠𝑖𝑑𝑒𝑟𝑎𝑑𝑜𝑠 𝑛𝑜 𝐿𝑜𝑡𝑒 𝑝𝑎𝑟𝑎 𝑎𝑣𝑎𝑙𝑖𝑎çã𝑜 
+ICSP ≥ 95% 
+1 
+• 
+0,6mm < HS < 1,2mm 
+• 
+Valor da resistência à derrapagem medido por ensaio com o 
+90% ≤ ICSP < 95% 
+0,8 
+Pêndulo Britânico = VRD > 55 ou Valor da resistência à derrapagem 
+medido por equipamento tipo Grip Tester = GN > 0,42 
+• 
+IFI ≥ 0,22 para obras rodoviárias novas 
+• 
+IFI ≥ 0,15 para pavimentos restaurados 
+85% ≤ ICSP < 90% 
+0,6 
+80% ≤ ICSP < 85% 
+0,4 
+Todas as condições devem ser atendidas para que o segmento seja 
+considerado conforme. 
+ICSP < 80% 
+0 
+Nota: para os segmentos em que os índices VRD, GN e IFI não forem 
+aferidos (considerando que a verificação destes índices é amostral), será 
+considerado apenas o critério do índice HS. 
+ 
+ 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 9
+
+
+Folha 10 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+*HS: Altura de Areia, medido com equipamento de escaneamento de superfície (laser) e/ou Ensaio de Mancha de Areia. 
+**VRD: Valor da resistência à derrapagem medido por ensaio com o Pêndulo Britânico. 
+***GN: Valor da resistência à derrapagem medido por equipamento tipo Grip Tester. 
+****IFI: índice internacional de atrito (International Friction Index). 
+Após a realização dos levantamentos, a CONCESSIONÁRIA deverá atualizar no SGP todos os resultados e entregar para a ARTESP, até o 5º dia útil do mês, o 
+Relatório de Monitoramento do Pavimento, considerando uma defasagem máxima entre o levantamento em campo e a entrega/atualização dos dados de 45 dias, 
+conforme descrição no ANEXO 6, item 4.2. O INDICADOR poderá ser analisado, conforme descrito acima nesta ficha, a partir do Relatório entregue pela 
+CONCESSIONÁRIA referente aos levantamentos em campo ou através de um extrato do SGP contendo todos os registros dos resultados da verificação realizada pela 
+CONCESSIONÁRIA. O Relatório deve ser suficiente para o cálculo deste INDICADOR. 
+ 
+Conforme descrição no ANEXO 6, item 4.2, o levantamento integral das condições de segurança do pavimento deverá ocorrer em toda a via pelo menos uma vez ao 
+ano, nos primeiros 20 anos de CONTRATO, e uma vez por semestre, do 21º ano em diante. O período de levantamento e entrega dos dados deverá ser contabilizado a 
+partir da data que marca o início da Segunda Fase de Acompanhamento dos INDICADORES DE DESEMPENHO (conforme diretrizes do ANEXO 3). Logo, 1 ano após a 
+data que marca o fim do PII, a CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados relativos às condições de segurança do pavimento, com uma 
+defasagem máxima entre a coleta de campo e a entrega dos dados de 45 dias. A partir da entrega destes dados à ARTESP, será contabilizado mais 1 ano, sendo esta a 
+referência para a nova entrega dos dados. O processo permanecerá neste ciclo até o 20º ano de CONTRATO. A partir do 21º ano o período entre as entregas de dados 
+deverá ser de 6 meses. Para o SISTEMA REMANESCENTE, os levantamentos começarão a ser realizados a partir do exaurimento dos prazos previstos no PAI 
+(conforme diretrizes do ANEXO 3), seguindo os mesmos períodos de referência para as coletas de dados do SISTEMA EXISTENTE descritos anteriormente. 
+ 
+Para efeito de acompanhamento e apuração do INDICADOR, como o mesmo possui periodicidade mensal, nos primeiros meses posteriores ao início da Segunda Fase 
+de Acompanhamento dos Indicadores de Desempenho (conforme diretrizes do ANEXO 3), e que antecedem o primeiro levantamento programado das condições de 
+segurança do pavimento no período, os valores considerados para as mensurações do ICSP serão aqueles apresentados no “Relatório de Conclusão de PII 
+(Pavimento)”, para o SISTEMA EXISTENTE e os valores apresentados no "Relatório de Conclusão e PAI (Pavimento)” para o SISTEMA REMANESCENTE.. 
+ 
+Caso a CONCESSIONÁRIA sinta a necessidade de realizar outros levantamentos em campo além daqueles já exigidos e planejados, a fim de tentar melhorar a sua nota 
+no INDICADOR por exemplo, a mesma poderá realizá-los nos segmentos em que forem necessários, desde que informe a ARTESP sobre o procedimento, que atualize 
+o SGP com os novos dados colhidos e que encaminhe o novo Relatório de Monitoramento do Pavimento, com os resultados até o 5º dia útil do mês, respeitando o 
+prazo máximo para a defasagem dos dados (45 dias, observadas as exceções previstas no ANEXO 3). Eventuais atualizações de parâmetros serão consideradas 
+somente em avaliações de períodos posteriores à entrega dos dados, ou seja, Indicadores anteriormente calculados não serão alterados. 
+ 
+A ‘Quantidade total de segmentos considerados no Lote para avaliação’ será, por definição, a quantidade total de segmentos homogêneos considerados válidos pela 
+equipe técnica da ARTESP no âmbito da análise dos relatórios do monitoramento periódico do pavimento e das atualizações e projeções do SGP. O segmento não será 
+considerado neste total quando, por motivo justo e reconhecido pelos técnicos da Agência, tenha sido dispensado* do levantamento (exemplo: segmento efetivamente em 
+obras quando da realização dos levantamentos de campo). 
+*Eventualmente, se houver dados de levantamentos anteriores válidos para o segmento dispensado, deverão ser considerados os valores relativos ao último 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 10
+
+
+Folha 11 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+levantamento válido. 
+Figura ilustrativa para exemplificar a delimitação do segmento a ser avaliado/fiscalizado para cálculo do ICSP entre os km 1 e 2 de uma via: 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 11
+
+
+Folha 12 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Para a determinação das condições de superfície do pavimento serão empregados métodos e equipamentos obedecendo os procedimentos descritos no ANEXO 6, item 
+4.2 - Descrição e Padrões dos Serviços e as especificações das Normas Rodoviárias vigentes1. e/ou que vierem sucedê-las. 
+O valor a ser considerado para cada condição analisada será a média dos valores das medições no quilômetro. 
+Para a aferição, a via (inclusive o acostamento) será dividida longitudinalmente em segmentos de 1km (um quilômetro) conforme descrição e detalhamento estabelecidos 
+no ANEXO 6, item 4.2 – Parâmetros mínimos exigidos. O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “Segmento é conforme 
+se”. Da mesma forma, o segmento será considerado “não conforme” se não atender a este mesmo critério. 
+Descrição 
+ 
+ 
+Indicador 
+1.4 
+Indicador das Condições de Superfície do Pavimento (ICSPP) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Levantamento in loco / SGP / 
+Relatório 
+entregue 
+pela 
+CONCESSIONÁRIA 
+Composição 
+Valores calculados de IGG*/ICP**/URCI*** para os segmentos. 
+ 
+ 
+Fórmula do Indicador 
+Faixas de performance 
+Nota 
+Forma de avaliação – Conforme ANEXO 6, item 4.2 
+Tipo do pavimento 
+Segmento é conforme se: 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+𝑄𝑡𝑑𝑎. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 
+𝑋 100 
+𝑐𝑜𝑛𝑠𝑖𝑑𝑒𝑟𝑎𝑑𝑜𝑠 𝑛𝑜 𝐿𝑜𝑡𝑒 𝑝𝑎𝑟𝑎 𝑎𝑣𝑎𝑙𝑖𝑎çã𝑜 
+ICSPP ≥ 95% 
+1 
+Pavimentos flexíveis e semirrígidos**** 
+IGG ≤ 30***** 
+90% ≤ ICSPP < 95% 
+0,8 
+85% ≤ ICSPP < 90% 
+0,6 
+Pavimentos com revestimento de Concreto de 
+Cimento Portland 
+ICP ≥ 75***** 
+80% ≤ ICSPP < 85% 
+0,4 
+ICSPP <80% 
+0 
+Vias em terra ou revestimento primário 
+URCI ≥ 75 
+Observações e considerações 
+*IGG: Índice de Gravidade Global. 
+**ICP: Índice de Condição do Pavimento. 
+***URCI: Unsurfaced Road Condition Index. 
+****Para o Sistema Existente, após a conclusão da implementação de todos os investimentos e serviços integrante do PII até a primeira intervenção programada no 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 12
+
+
+Folha 13 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+Sistema existente, o segmento será conforme se IGG ≤ 40. Após a primeira intervenção programada no sistema existente deve ser considerado o parâmetro de IGG ≤ 30. 
+*****Após a conclusão das obras do primeiro ciclo de conservação especial, o pavimento, inclusive acostamentos e faixas de segurança, deverá apresentar IGG ≤ 5 no 
+caso de pavimentos asfálticos, ICP ≥ 75 no caso de pavimentos de Concreto de Cimento Portland. 
+ 
+Após a realização dos levantamentos, a CONCESSIONÁRIA deverá atualizar no SGP todos os resultados e entregar para a ARTESP, até o 5º dia útil do mês, o 
+Relatório de Monitoramento do Pavimento, considerando uma defasagem máxima entre o levantamento em campo e a entrega/atualização dos dados de 45 dias, 
+conforme descrição no ANEXO 6, item 4.2. O INDICADOR poderá ser analisado, conforme descrito acima nesta ficha, a partir do Relatório entregue pela 
+CONCESSIONÁRIA referente aos levantamentos em campo ou através de um extrato do SGP contendo todos os registros dos resultados da verificação realizada pela 
+CONCESSIONÁRIA. O Relatório deve ser suficiente para o cálculo deste INDICADOR. 
+ 
+Conforme descrição no ANEXO 6, item 4.2, o levantamento integral das condições de superfície do pavimento deverá ocorrer pelo menos uma vez por semestre, nos 
+primeiros 20 anos de CONTRATO, e uma vez por trimestre, do 21º ano em diante. O período de levantamento e entrega dos dados deverá ser contabilizado a partir da 
+data que marca o início da Segunda Fase de Acompanhamento dos INDICADORES DE DESEMPENHO (conforme diretrizes do ANEXO 3). Logo, 6 meses após a data 
+que marca o fim do PII, a CONCESSIONÁRIA deverá apresentar para a ARTESP todos os dados relativos às condições de superfície do pavimento, com uma 
+defasagem máxima entre a coleta de campo e a entrega/atualização dos dados de até 45 dias. A partir da entrega destes dados à ARTESP será contabilizado mais 6 
+meses, sendo esta a referência para a nova entrega dos dados. O processo permanecerá neste ciclo até o 2 0º ano de CONTRATO. A partir do 21º ano o período entre 
+as entregas de dados deverá ser de 3 meses. Para o SISTEMA REMANESCENTE, os levantamentos começarão a ser realizados a partir do exaurimento dos prazos 
+previstos no PAI (conforme diretrizes do ANEXO 3), seguindo os mesmos períodos de referência para as coletas de dados do SISTEMA EXISTENTE descritos 
+anteriormente. 
+ 
+Para efeito de acompanhamento e apuração do INDICADOR, como o mesmo possui periodicidade mensal, nos primeiros meses posteriores ao início da Segunda Fase 
+de Acompanhamento dos INDICADORES DE DESEMPENHO (conforme diretrizes do ANEXO 3), e que antecedem o primeiro levantamento programado das condições 
+de superfície do pavimento no período, os valores considerados para as mensurações do ICSPP serão aqueles apresentados no “Relatório de Conclusão de PII 
+(Pavimento)”, para o SISTEMAEXISTENTE e os valores apresentados no "Relatório de Conclusão e PAI (Pavimento)” para o SISTEMA REMANESCENTE. 
+ 
+ 
+Caso a CONCESSIONÁRIA sinta a necessidade de realizar outros levantamentos em campo além daqueles já exigidos e planejados, a fim de tentar melhorar a sua nota 
+no INDICADOR por exemplo, poderá realizá-los nos segmentos em que forem necessários, desde que informe a ARTESP sobre o procedimento, que atualize o SGP com 
+os novos dados colhidos e que encaminhe o novo Relatório de Monitoramento do Pavimento, com os resultados até o 5º dia útil do mês, respeitando o prazo máximo 
+para a defasagem dos dados (45 dias, observadas as exceções previstas no ANEXO 3). Eventuais atualizações de parâmetros serão consideradas somente em 
+avaliações de períodos posteriores à entrega dos dados, ou seja, Indicadores anteriormente calculados não serão alterados. 
+ 
+A ‘Quantidade total de segmentos considerados no Lote para avaliação’ será, por definição, a quantidade total de segmentos homogêneos considerados válidos pela 
+equipe técnica da ARTESP no âmbito da análise dos relatórios do monitoramento periódico do pavimento e das atualizações e projeções do SGP. O segmento não será 
+considerado neste total quando, por motivo justo e reconhecido pelos técnicos da Agência, tenha sido dispensado* do levantamento (exemplo: segmento efetivamente em 
+obras quando da realização dos levantamentos de campo). 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 13
+
+
+Folha 14 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+*Eventualmente, se houver dados de levantamentos anteriores válidos para o segmento dispensado, deverão ser considerados os valores relativos ao último 
+levantamento válido. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 14
+
+
+Folha 15 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+Figura ilustrativa para exemplificar a delimitação do segmento a ser avaliado/fiscalizado para cálculo do ICSPP entre os km 1 e 2 de uma via: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1: Normas rodoviárias específicas, segundo ANEXO 6, item 4.2, sem prejuízo daquelas que vierem sucedê-las: 
+• 
+DNIT 006/2003-PRO – “Avaliação objetiva da superfície de pavimentos flexíveis e semirrígidos”. 
+• 
+DNIT 062/2004-PRO – “Pavimento Rígido – Avaliação Objetiva”. 
+• 
+DNIT 007/2003-PRO – “Levantamento para avaliação da condição de superfície de subtrecho homogêneo de rodovias de pavimentos flexíveis e semirrígidos 
+para gerência de pavimentos e estudos e projetos”. 
+• 
+Manual de Pavimento Rígido – DNIT 2005 para pavimentos de concreto de cimento Portland dos Pedágios, Balanças, Obras de Arte Especiais, Pistas, 
+Acostamentos, Acessos e Marginais. 
+• 
+USDA TM 5-626 / 1995 – “Unsurfaced Road Maintenance Management” para vias em terra ou revestimento primário dentro dos limites da FAIXA DE DOMÍNIO 
+das rodovias do sistema 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 15
+
+
+Folha 16 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+São averiguados todos os tempos de chegada referentes aos atendimentos realizados pelo serviço de Guincho no mês da seguinte maneira: 
+Serão expurgados os eventos previstos em EDITAL e nas Especificações Técnicas; 
+Os eventos restantes do mês serão ordenados por tempo de atendimento de maneira crescente; 
+Do grupo ordenado anteriormente será separado um subgrupo, chamado de subgrupo 01, contendo os 90% menores tempos de chegada; 
+Deve-se então realizar a análise do subgrupo 01, contabilizando todas as ocorrências que ultrapassem 30 minutos. Estas ocorrências serão chamadas de 
+Excedentes; 
+Verificar a proporção de Excedentes com relação a quantidade total de atendimentos realizados, conforme detalhamento abaixo: 
+Descrição 
+Para cada chamado único registrado, deve ser obrigatoriamente contabilizado minimamente a data e horário de início, que corresponde ao acionamento do serviço pelo 
+usuário, e o horário de atendimento, que corresponde ao horário de chegada do veículo para atendimento ao usuário. A partir dos Sistemas de Telecomunicações e 
+Monitoramento / Geoposicionamento integrados entre CCO, usuários, veículos operacionais e ARTESP, será possível a abertura de chamados pelos usuários (e o 
+compartilhamento de sua localização, em caso de utilização do aplicativo para o acionamento dos serviços), a mobilização do veículo pelo CCO e acompanhamento do 
+trajeto do veículo por todas as partes (ARTESP, CCO e usuário – caso a abertura do chamado tenha sido efetuada pelo aplicativo). Para chamados que tenham sido 
+abertos por outros meios, os mesmos dados relacionados ao atendimento devem ser registrados e contabilizados pelo CCO. Todos os dados devem ser compartilhados 
+em tempo real com a ARTESP conforme diretrizes do ANEXO 5. 
+Observações e considerações 
+ 
+ 
+Indicador 
+2.1. 
+Indicador de Tempo de Chegada do Serviço de Guincho (ITCSG) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Sistema MITS – B.I / SIS-SAU/ Verificação 
+local ou remota 
+Composição 
+Todos os tempos de chegada do serviço de Guincho ao local de atendimento no mês. 
+ 
+ 
+Fórmula 
+Faixas de performance 
+Nota 
+𝑄𝑡𝑑. 𝑑𝑒 𝐸𝑥𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑠 
+𝑥 100 
+𝑄𝑡𝑑. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑎𝑡𝑒𝑛𝑑𝑖𝑚𝑒𝑛𝑡𝑜𝑠 𝑑𝑒 𝐺𝑢𝑖𝑛𝑐ℎ𝑜 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 𝑛𝑜 𝑚ê𝑠 
+ITCSG = 0% 
+1 
+0% < ITCSG ≤ 0,5% 
+0,5 
+0,5% < ITCSG ≤ 1% 
+0,4 
+1% < ITCSG ≤ 3% 
+0,3 
+ITCSG > 3% 
+0 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 16
+
+
+Folha 17 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+Para cálculo do INDICADOR, na segunda semana do mês subsequente ao mês analisado, será extraído dos sistemas da ARTESP um relatório contendo o extrato de 
+todos os chamados registrados e com vencimento do prazo entre 00:00:00 hrs do 1º dia do mês e 23:59:59 hrs do último dia do m ês. Esse relatório poderá ser 
+complementado por dados obtidos por meio de atividades de fiscalização local ou remota, quando disponíveis. 
+A CONCESSIONÁRIA deverá também enviar para a ARTESP, até o 5º (quinto) dia útil do mês subsequente ao analisado, um relatório contendo os mesmos dados 
+relacionados aos tempos dos atendimentos realizados no mês. Este relatório poderá ser utilizado pela Equipe da ARTESP para verificação. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 17
+
+
+Folha 18 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+São averiguados todos os tempos de chegada referentes aos atendimentos realizados pelo serviço de Socorro Mecânico no mês da seguinte maneira: 
+Serão expurgados os eventos previstos em Edital e nas Especificações Técnicas; 
+Os eventos restantes do mês serão ordenados por tempo de atendimento de maneira crescente; 
+Do grupo ordenado anteriormente será separado um subgrupo, chamado de subgrupo 01, contendo os 90% menores tempos de chegada; 
+Deve-se então realizar a análise do subgrupo 01, contabilizando todas as ocorrências que ultrapassem 30 minutos. Estas ocorrências serão chamadas de 
+Excedentes. 
+Verificar a proporção de Excedentes com relação a quantidade total de atendimentos realizados, conforme detalhamento abaixo: 
+Descrição 
+Para cada chamado único registrado deve ser obrigatoriamente contabilizado minimamente a data e horário de início, que corresponde ao acionamento do serviço pelo 
+usuário, e o horário de atendimento, que corresponde ao horário de chegada do veículo para atendimento ao USUÁRIO. A partir dos Sistemas de Telecomunicações e 
+Monitoramento / Geoposicionamento integrados entre CCO, USUÁRIOS, veículos operacionais e ARTESP, será possível a abertura de chamados pelos usuários (e o 
+compartilhamento de sua localização, em caso de utilização do aplicativo para o acionamento dos serviços), a mobilização do veículo pelo CCO e acompanhamento do 
+trajeto do veículo por todas as partes (ARTESP, CCO e usuário – caso a abertura do chamado tenha sido efetuada pelo aplicativo). Para chamados que tenham sido 
+abertos por outros meios, os mesmos dados relacionados ao atendimento devem ser registrados e contabilizados pelo CCO. Todos os dados devem ser compartilhados 
+em tempo real com a ARTESP conforme diretrizes do ANEXO 5. 
+Observações e considerações 
+ 
+ 
+Indicador 
+2.2 
+Indicador de Tempo de Chegada do Serviço de Socorro Mecânico (ITCSM) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Sistema 
+MITS 
+– 
+B.I 
+/ 
+SIS-SAU/ 
+Verificação local ou remota 
+Composição 
+Todos os tempos de chegada do serviço de Socorro Mecânico ao local de atendimento no mês. 
+ 
+ 
+Fórmula 
+Faixas de performance 
+Nota 
+𝑄𝑡𝑑. 𝑑𝑒 𝐸𝑥𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑠 
+𝑥 100 
+𝑄𝑡𝑑. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑎𝑡𝑒𝑛𝑑𝑖𝑚𝑒𝑛𝑡𝑜𝑠 𝑑𝑒 𝑆𝑜𝑐𝑜𝑟𝑟𝑜 𝑀𝑒𝑐â𝑛𝑖𝑐𝑜 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 𝑛𝑜 𝑚ê𝑠 
+ITCSM = 0% 
+1 
+0% < ITCSM ≤ 0,5% 
+0,5 
+0,5% < ITCSM ≤ 1% 
+0,4 
+1% < ITCSM ≤ 3% 
+0,3 
+ITCSM > 3% 
+0 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 18
+
+
+Folha 19 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+Para cálculo do INDICADOR, na segunda semana do mês subsequente ao mês analisado, será extraído dos sistemas da ARTESP um relatório contendo o extrato de 
+todos os chamados registrados e com vencimento do prazo entre 00:00:00 hrs do 1º dia do mês e 23:59:59 hrs do último dia do m ês. Esse relatório poderá ser 
+complementado por dados obtidos por meio de atividades de fiscalização local ou remota, quando disponíveis. 
+A CONCESSIONÁRIA deverá também enviar para a ARTESP, até o 5º (quinto) dia útil do mês subsequente ao analisado, um relatório contendo os mesmos dados 
+relacionados aos tempos dos atendimentos realizados no mês. Este relatório poderá ser utilizado pela Equipe da ARTESP para verificação. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 19
+
+
+Folha 20 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+São averiguados todos os tempos de chegada referentes aos atendimentos realizados pelo serviço de Atendimento Pré-Hospitalar (APH) no mês da seguinte maneira: 
+Serão expurgados os eventos previstos em EDITAL e nas Especificações Técnicas; 
+Os eventos restantes do mês serão ordenados por tempo de atendimento de maneira crescente; 
+Do grupo ordenado anteriormente será separado um subgrupo, chamado de subgrupo 01, contendo os 90% menores tempos de chegada; 
+Deve-se então realizar a análise do subgrupo 01, contabilizando todas as ocorrências que ultrapassem 10 minutos. Estas ocorrências serão chamadas de 
+Excedentes. 
+Verificar a proporção de Excedentes com relação a quantidade total de atendimentos realizados, conforme detalhamento abaixo: 
+Descrição 
+Para cada chamado único registrado deve ser obrigatoriamente contabilizado minimamente a data e horário de início, que corresponde ao acionamento do serviço pelo 
+usuário, e o horário de atendimento, que corresponde ao horário de chegada do veículo para atendimento ao usuário. A partir dos Sistemas de Telecomunicações e 
+Monitoramento / Geoposicionamento integrados entre CCO, usuários, veículos operacionais e ARTESP, será possível a abertura de chamados pelos usuários (e o 
+compartilhamento de sua localização, em caso de utilização do aplicativo para o acionamento dos serviços), a mobilização do veículo pelo CCO e acompanhamento do 
+trajeto do veículo por todas as partes (ARTESP, CCO e usuário – caso a abertura do chamado tenha sido efetuada pelo aplicativo). Para chamados que tenham sido 
+abertos por outros meios, os mesmos dados relacionados ao atendimento devem ser registrados e contabilizados pelo CCO. Todos os dados devem ser compartilhados 
+em tempo real com a ARTESP conforme diretrizes do ANEXO 5. 
+Para cálculo do INDICADOR, na segunda semana do mês subsequente ao mês analisado, será extraído dos sistemas da ARTESP um relatório contendo o extrato de 
+Observações e considerações 
+ 
+ 
+Indicador 
+2.3 
+Indicador de Tempo de Chegada dos Serviços de Atendimento Pré-Hospitalar (ITCSAPH) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Sistema MITS – B.I/ SIS-SAU/ 
+Verificação local ou remota 
+Composição 
+Todos os tempos de chegada do serviço de Atendimento Pré-Hospitalar ao local de atendimento no mês. 
+ 
+ 
+Fórmula 
+Faixa de performance 
+Nota 
+𝑄𝑡𝑑. 𝑑𝑒 𝐸𝑥𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑠 
+𝑥 100 
+𝑄𝑡𝑑. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑎𝑡𝑒𝑛𝑑𝑖𝑚𝑒𝑛𝑡𝑜𝑠 𝑑𝑒 𝐴𝑃𝐻 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 𝑛𝑜 𝑚ê𝑠 
+ITCSAPH = 0% 
+1 
+0% < ITCSAPH ≤ 0,5% 
+0,5 
+0,5% < ITCSAPH ≤ 1% 
+0,4 
+1% < ITCSAPH ≤ 3% 
+0,3 
+ITCSAPH > 3% 
+0 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 20
+
+
+Folha 21 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+todos os chamados registrados e com vencimento do prazo entre 00:00:00 hrs do 1º dia do mês e 23:59:59 hrs do último dia do m ês. Esse relatório poderá ser 
+complementado por dados obtidos por meio de atividades de fiscalização local ou remota, quando disponíveis. 
+A CONCESSIONÁRIA deverá também enviar para a ARTESP, até o 5º (quinto) dia útil do mês subsequente ao analisado, um relatório contendo os mesmos dados 
+relacionados aos tempos dos atendimentos realizados no mês. Este relatório poderá ser utilizado pela Equipe da ARTESP para verificação. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 21
+
+
+Folha 22 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+É observada a recuperação tempestiva das não conformidades ambientais que ocorreram no mês, como, por exemplo: não conformidades de obras, de meio ambiente, 
+entre outras, conforme descritas no ANEXO 6. A verificação de tal INDICADOR é feita in loco em toda a via. 
+Descrição 
+Para a aferição deste INDICADOR, serão realizadas verificações mensais in loco pelas Equipes de Apoio e/ou por técnicos da ARTESP, em todo e qualquer segmento da 
+extensão concedida. As não conformidades serão identificadas a partir das visitas, e encaminhadas à CONCESSIONÁRIA e à ARTESP. Para o cálculo do ISA, o prazo 
+para resolução de cada não conformidade ambiental identificada será no máximo de 15 dias ou outro acordado entre as partes, conforme as diretrizes estabelecidas no 
+ANEXO 6 – Capítulo 5. As condições para determinar a conclusão do tratamento das não conformidades envolvem o envio de evidências de reparação pela 
+CONCESSIONÁRIA à ARTESP e/ou outras formas estabelecidas pela ARTESP, como visitas locais se achar necessário. Especificamente para o cálculo do Indicador 
+Socioambiental, não conformidades apontadas como Em Recuperação (ER e CV) serão consideradas como Recuperação Executada. Entretanto, caso voltem ao status 
+de Não Recuperadas em outros períodos, as mesmas serão incluídas no denominador da fórmula. 
+São exemplos de Não Conformidades Ambientais, conforme o documento sobre a Avaliação de Desempenho Ambiental (ADA) da ARTESP: 
+Não conformidade de obras (exemplos: ruídos, emissões atmosféricas, sinalização de obra, erosão, escorregamento, assoreamento e efluentes líquidos); 
+Não conformidade de meio ambiente (exemplos: assoreamentos, erosões, escorregamentos, ausência de cobertura vegetal e contaminação de solo); 
+Não conformidade de conservação (exemplos: focos de formigas, cupins e pragas em geral na FAIXA DE DOMÍNIO); 
+Observações e considerações 
+ 
+ 
+Indicador 
+3.1 
+Indicador Socioambiental: Recuperação de Não Conformidades Ambientais (ISA) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Verificação local 
+Composição 
+Recuperações executadas de Não Conformidades Ambientais no mês. 
+ 
+ 
+Fórmula: 
+Faixa de performance 
+Nota 
+𝑁º 𝑑𝑒 𝑟𝑒𝑐𝑢𝑝𝑒𝑟𝑎çõ𝑒𝑠 𝑒𝑥𝑒𝑐𝑢𝑡𝑎𝑑𝑎𝑠 𝑛𝑜 𝑚ê𝑠  × 100 
+𝑄𝑡𝑑𝑒. 𝑑𝑒 𝑛ã𝑜 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑖𝑑𝑎𝑑𝑒𝑠 𝑎𝑚𝑏𝑖𝑒𝑛𝑡𝑎𝑖𝑠 
+𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑎𝑑𝑎𝑠 𝑝𝑎𝑟𝑎 𝑒𝑥𝑒𝑐𝑢çã𝑜 𝑛𝑜 𝑚ê𝑠(∗) 
+(*) O termo “não conformidades ambientais programadas para 
+execução no mês” contemplam todas aquelas originalmente 
+programadas para o mês (prazo de vencimento), adicionadas 
+aquelas acumuladas em função de eventuais atrasos ou não 
+cumprimento de prazos estabelecidos para os meses anteriores. 
+ISA ≥ 70% 
+1 
+60% ≤ ISA < 70% 
+0,75 
+50% ≤ ISA < 60% 
+0,5 
+ISA < 50% 
+0 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 22
+
+
+Folha 23 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+• 
+Não conformidade de depósito inadequado de resíduo na FAIXA DE DOMÍNIO; 
+• 
+Não conformidade de gestão inadequada de material fresado; 
+• 
+Não conformidade de aplicação de herbicida. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 23
+
+
+Folha 24 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+A CONCESSIONÁRIA deverá cumprir todas as atividades descritas no ANEXO 6, Item 3.3.a, programa “Pavimento”, a fim de garantir a qualidade e a conservação do 
+ativo. Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não conformidade” para fins de cálculo do ICRP.  
+Cabe ressaltar que a mera constatação de uma "não conformidade", ainda que se tratando de item programável, será suficiente para a contabilização no cálculo deste 
+índice,  salvo se aregularização/correção/reparação da "não conformidade", ocorrer dentro do prazo estabelecido pelo ANEXO 6 no correspondente item. Toda a via 
+concedida, bem como as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por 
+técnicos da ARTESP. As informações coletadas nestas verificações serão apuradas mensalmente. 
+Para efeito de alocação da “não conformidade” constatada, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), delimitados pelos marcos 
+quilométricos, e transversalmente pela FAIXA DE DOMÍNIO. Constatações nas áreas centrais, onde as houver, serão alocadas no seguimento correspondente à 
+constatação do fiscal em campo. Na eventual situação em que um trecho se inicie ou termine entre dois marcos quilométricos, mas não exatamente neles, o trecho que 
+compõe o segmento em questão terá extensão inferior a 1km. 
+O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “O segmento está conforme se”. Da mesma forma, o segmento será considerado 
+“não conforme” se não atender a este mesmo critério. Ademais, se, além de considerado “não conforme”, o segmento atingir o critério estabelecido na coluna “será 
+incidido fator agravante se”, uma unidade será deduzida do “total de segmentos conformes” (numerador da fórmula). 
+Descrição - Índice de Conservação de Rotina de Pavimento (ICRP) 
+ 
+Indicador 
+4.1 
+Indicador de Conformidade dos Programas de Conservação de Rotina (ICPCR) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Verificação local / SIGECON 
+Composição 
+Formado por 7 Índices de Conservação de Rotina que compreende os seguintes programas: Pavimento, Faixa de Domínio, Drenagem, Dispositivos 
+de Contenção Viária, Estruturas, Prédios e Pátios e Iluminação. 
+ 
+ 
+Fórmula: Índice de Conservação de Rotina de 
+Pavimento (ICRP) 
+Faixas de performance 
+Nota 
+Forma de avaliação 
+O segmento está conforme 
+se 
+Será incidido fator agravante se 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+ICRP ≥ 99% 
+1 
+Nº de não conformidades por 
+segmento < 3 
+Nº de não conformidades por 
+segmento ≥ 6 
+98% ≤ ICRP < 99% 
+0,8 
+97% ≤ ICRP < 98% 
+0,6 
+96% ≤ ICRP < 97% 
+0,4 
+ICRP < 96% 
+0 
+ 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 24
+
+
+Folha 25 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Descrição - Índice de Conservação de Rotina de Drenagem (ICRD) 
+A CONCESSIONÁRIA deverá cumprir todas as atividades descritas no ANEXO 6, Item 3.3.c, programa “Drenagem”, a fim de garantir a qualidade e a conservação do 
+ativo. Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não conformidade” para fins de cálculo do ICRD. Cabe ressaltar que a 
+mera constatação de uma "não conformidade", ainda que se tratando de item programável, será suficiente para a contabilização no cálculo deste índice, 
+independentemente de regularização/correção/reparação da "não conformidade", dentro ou fora do prazo estabelecido pelo ANEXO 6 no correspondente item. Toda a via 
+concedida, bem como as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por 
+ 
+ 
+ 
+ 
+Fórmula: Índice de Conservação de Rotina de Faixa de 
+Domínio (ICRFD) 
+Faixa de performance 
+Nota 
+Forma de avaliação 
+O segmento está conforme 
+se 
+Será incidido fator agravante se 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+ICRFD ≥ 99% 
+1 
+Nº de não conformidades por 
+segmento < 4 
+Nº de não conformidades por 
+segmento ≥ 8 
+98% ≤ ICRFD < 99% 
+0,8 
+97% ≤ ICRFD < 98% 
+0,6 
+96% ≤ ICRFD < 97% 
+0,4 
+ICRFD < 96% 
+0 
+ 
+A CONCESSIONÁRIA deverá cumprir todas as atividades descritas no ANEXO 6, Item 3.3.b, programa “Faixa de Domínio”, a fim de garantir a qualidade e a conservação 
+do ativo. Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não conformidade” para fins de cálculo do ICRFD.  
+Cabe ressaltar que a mera constatação de uma "não conformidade", ainda que se tratando de item programável, será suficiente para a contabilização no cálculo deste 
+índice, independentemente de regularização/correção/reparação da "não conformidade", dentro ou fora do prazo estabelecido pelo ANEXO 6 no correspondente item. 
+Toda a via concedida, bem como as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de 
+Apoio e/ou por técnicos da ARTESP. As informações coletadas nestas verificações serão apuradas mensalmente. 
+Para efeito de alocação da “não conformidade” constatada, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), delimitados pelos marcos 
+quilométricos, e transversalmente pela FAIXA DE DOMÍNIO. Constatações nas áreas centrais, onde as houver, serão alocadas no seguimento correspondente à 
+constatação do fiscal em campo. Na eventual situação em que um trecho se inicie ou termine entre dois marcos quilométricos, mas não exatamente neles, o trecho que 
+compõe o segmento em questão terá extensão inferior a 1km. 
+O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “O segmento está conforme se”. Da mesma forma, o segmento será considerado 
+“não conforme” se não atender a este mesmo critério. Ademais, se, além de considerado “não conforme”, o segmento atingir o critério estabelecido na coluna “será 
+incidido fator agravante se”, uma unidade será deduzida do “total de segmentos conformes” (numerador da fórmula). 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 25
+
+
+Folha 26 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+ 
+Fórmula: Índice de Conservação de Rotina de 
+Drenagem (ICRD) 
+Faixa de performance 
+Nota 
+Forma de avaliação 
+O segmento está conforme 
+se 
+Será incidido fator agravante se 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+ICRD ≥ 99% 
+1 
+Nº de não conformidades por 
+segmento < 3 
+Nº de não conformidades por 
+segmento ≥ 5 
+98% ≤ ICRD < 99% 
+0,8 
+97% ≤ ICRD < 98% 
+0,6 
+96% ≤ ICRD < 97% 
+0,4 
+ICRD < 96% 
+0 
+ARTESP. As informações coletadas nestas verificações serão apuradas mensalmente. 
+Para efeito de alocação da “não conformidade” constatada, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), delimitados pelos marcos 
+quilométricos, e transversalmente pela FAIXA DE DOMÍNIO. Constatações nas áreas centrais, onde as houver, serão alocadas no seguimento correspondente à 
+constatação do fiscal em campo. Na eventual situação em que um trecho se inicie ou termine entre dois marcos quilométricos, mas não exatamente neles, o trecho que 
+compõe o segmento em questão terá extensão inferior a 1km. 
+O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “O segmento está conforme se”. Da mesma forma, o segmento será considerado 
+“não conforme” se não atender a este mesmo critério. Ademais, se, além de considerado “não conforme”, o segmento atingir o critério estabelecido na coluna “será 
+incidido fator agravante se”, uma unidade será deduzida do “total de segmentos conformes” (numerador da fórmula). 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 26
+
+
+Folha 27 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+A CONCESSIONÁRIA deverá cumprir todas as atividades descritas no ANEXO 6, Item 3.3.f, programa “Estruturas” e Especificação Técnica da ARTESP ET-00.000.000- 
+0-C21/002, a fim de garantir a qualidade e a conservação do ativo. Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não 
+conformidade” para fins de cálculo do ICRE. Cabe ressaltar que a mera constatação de uma "não conformidade", ainda que se tratando de item programável, será 
+suficiente para a contabilização no cálculo deste índice, independentemente de regularização/correção/reparação da "não conformidade", dentro ou fora do prazo 
+Descrição - Índice de Conservação de Rotina de Estruturas (ICRE) 
+ 
+ 
+ 
+ 
+Fórmula: Índice de Conservação de Rotina de 
+Dispositivos de Contenção Viária (ICRDCV) 
+Faixa de performance 
+Nota 
+Forma de avaliação 
+O segmento está conforme 
+se 
+Será incidido fator agravante se 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+ICRDCV ≥ 99% 
+1 
+Nº de não conformidades por 
+segmento = 0 
+Nº de não conformidades por 
+segmento ≥ 2 
+98% ≤ ICRDCV < 99% 
+0,8 
+97% ≤ ICRDCV < 98% 
+0,6 
+96% ≤ ICRDCV < 97% 
+0,4 
+ICRDCV < 96% 
+0 
+ 
+A CONCESSIONÁRIA deverá cumprir todas as atividades descritas no ANEXO 6, Item 3.3.d, programa “Dispositivos de contenção viária”, a fim de garantir a qualidade e 
+a conservação do ativo. Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não conformidade” para fins de cálculo do ICRDCV.  
+ 
+Cabe ressaltar que a mera constatação de uma "não conformidade", ainda que se tratando de item programável, será suficiente para a contabilização no cálculo deste 
+índice, salvo se a regularização/correção/reparação da "não conformidade", ocorrer dentro  do prazo estabelecido pelo ANEXO 6 no correspondente item. Toda a via 
+concedida, bem como as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por 
+técnicos da ARTESP. As informações coletadas nestas verificações serão apuradas mensalmente. 
+Para efeito de alocação da “não conformidade” constatada, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), delimitados pelos marcos 
+quilométricos, e transversalmente pela FAIXA DE DOMÍNIO. Constatações nas áreas centrais, onde as houver, serão alocadas no seguimento correspondente à 
+constatação do fiscal em campo. Na eventual situação em que um trecho se inicie ou termine entre dois marcos quilométricos, mas não exatamente neles, o trecho que 
+compõe o segmento em questão terá extensão inferior a 1km. 
+O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “O segmento está conforme se”. Da mesma forma, o segmento será considerado 
+“não conforme” se não atender a este mesmo critério. Ademais, se, além de considerado “não conforme”, o segmento atingir o critério estabelecido na coluna “será 
+Descrição - Índice de Conservação de Rotina de Dispositivos de Contenção Viária (ICRDCV) 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 27
+
+
+Folha 28 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+A CONCESSIONÁRIA deverá cumprir todas as atividades descritas no ANEXO 6, Item 3.3.g, programa “Prédios e Pátios”, a fim de garantir a qualidade e a conservação 
+do ativo. Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não conformidade” para fins de cálculo do ICRPP. Cabe ressaltar que a 
+mera constatação de uma "não conformidade", ainda que se tratando de item programável, será suficiente para a contabilização no cálculo deste índice, 
+independentemente de regularização/correção/reparação da "não conformidade", dentro ou fora do prazo estabelecido pelo ANEXO 6 no correspondente item. Toda a via 
+concedida, bem como as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por 
+técnicos da ARTESP. As informações coletadas nestas verificações serão apuradas mensalmente. 
+Para efeito de alocação da “não conformidade” constatada, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), delimitados pelos marcos 
+quilométricos, e transversalmente pela FAIXA DE DOMÍNIO. Constatações nas áreas centrais, onde as houver, serão alocadas no seguimento correspondente à 
+Descrição - Índice de Conservação de Rotina de Prédios e Pátios (ICRPP) 
+ 
+ 
+ 
+ 
+Fórmula: Índice de Conservação de Rotina de 
+Estruturas (ICRE) 
+Faixa de performance 
+Nota 
+Forma de avaliação 
+O segmento está conforme 
+se 
+Será incidido fator agravante se 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+ICRE ≥ 99% 
+1 
+Nº de não conformidades por 
+segmento < 2 
+Nº de não conformidades por 
+segmento ≥ 3 
+98% ≤ ICRE < 99% 
+0,8 
+97% ≤ ICRE < 98% 
+0,6 
+96% ≤ ICRE < 97% 
+0,4 
+ICRE < 96% 
+0 
+ 
+estabelecido pelo ANEXO 6 no correspondente item. Toda a via concedida, bem como as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO, em ambos os 
+sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por técnicos da ARTESP. As informações coletadas nestas verificações serão apuradas 
+mensalmente. 
+Para efeito de alocação da “não conformidade” constatada, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), delimitados pelos marcos 
+quilométricos, e transversalmente pela FAIXA DE DOMÍNIO. Constatações nas áreas centrais, onde as houver, serão alocadas no seguimento correspondente à 
+constatação do fiscal em campo. Na eventual situação em que um trecho se inicie ou termine entre dois marcos quilométricos, mas não exatamente neles, o trecho que 
+compõe o segmento em questão terá extensão inferior a 1km. 
+O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “O segmento está conforme se”. Da mesma forma, o segmento será considerado 
+“não conforme” se não atender a este mesmo critério. Ademais, se, além de considerado “não conforme”, o segmento atingir o critério estabelecido na coluna “será 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 28
+
+
+Folha 29 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+A CONCESSIONÁRIA deverá cumprir todas as atividades descritas no ANEXO 6, Item 3.3.l, programa “Iluminação”, a fim de garantir a qualidade e a conservação do 
+ativo. Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não conformidade” para fins de cálculo do ICRI. Cabe ressaltar que a mera 
+constatação de uma "não conformidade", ainda que se tratando de item programável, será suficiente para a contabilização no cálculo deste índice, independentemente de 
+regularização/correção/reparação da "não conformidade", dentro ou fora do prazo estabelecido pelo ANEXO 6 no correspondente item. Toda a via concedida, bem como 
+as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por técnicos da ARTESP. 
+As informações coletadas nestas verificações serão apuradas mensalmente. 
+Para efeito de alocação da “não conformidade” constatada, a via será dividida longitudinalmente em segmentos de 1km (um quilômetro), delimitados pelos marcos 
+quilométricos, e transversalmente pela FAIXA DE DOMÍNIO. Constatações nas áreas centrais, onde as houver, serão alocadas no seguimento correspondente à 
+constatação do fiscal em campo. Na eventual situação em que um trecho se inicie ou termine entre dois marcos quilométricos, mas não exatamente neles, o trecho que 
+compõe o segmento em questão terá extensão inferior a 1km. 
+O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “O segmento está conforme se”. Da mesma forma, o segmento será considerado 
+Descrição - Índice de Conservação de Rotina de Iluminação (ICRI) 
+ 
+ 
+ 
+ 
+Fórmula: Índice de Conservação de Rotina de Prédios 
+e Pátios (ICRPP) 
+Faixa de performance 
+Nota 
+Forma de avaliação 
+O segmento está conforme 
+se 
+Será incidido fator agravante se 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+ICRPP ≥ 99% 
+1 
+Nº de não conformidades por 
+segmento < 5 
+Nº de não conformidades por 
+segmento ≥ 10 
+98% ≤ ICRPP < 99% 
+0,8 
+97% ≤ ICRPP < 98% 
+0,6 
+96% ≤ ICRPP < 97% 
+0,4 
+ICRPP < 96% 
+0 
+ 
+constatação do fiscal em campo. Na eventual situação em que um trecho se inicie ou termine entre dois marcos quilométricos, mas não exatamente neles, o trecho que 
+compõe o segmento em questão terá extensão inferior a 1km. 
+O segmento será considerado “conforme” se atender ao critério estabelecido na coluna “O segmento está conforme se”. Da mesma forma, o segmento será considerado 
+“não conforme” se não atender a este mesmo critério. Ademais, se, além de considerado “não conforme”, o segmento atingir o critério estabelecido na coluna “será 
+incidido fator agravante se”, uma unidade será deduzida do “total de segmentos conformes” (numerador da fórmula). 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 29
+
+
+Folha 30 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+𝑁𝑜𝑡𝑎 𝐹𝑖𝑛𝑎𝑙𝐼𝐶𝑃𝐶𝑅 = (𝑃𝑒𝑠𝑜𝐼𝐶𝑅𝑃 × 𝑁𝑜𝑡𝑎 𝑑𝑒 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒𝐼𝐶𝑅𝑃 ) + (𝑃𝑒𝑠𝑜𝐼𝐶𝑅𝐹𝐷 × 𝑁𝑜𝑡𝑎 𝑑𝑒 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒𝐼𝐶𝑅𝐹𝐷 ) + (𝑃𝑒𝑠𝑜𝐼𝐶𝑅𝐷 × 𝑁𝑜𝑡𝑎 𝑑𝑒 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒𝐼𝐶𝑅𝐷 ) 
++ (𝑃𝑒𝑠𝑜𝐼𝐶𝑅𝐷𝐶𝑉 × 𝑁𝑜𝑡𝑎 𝑑𝑒 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒𝐼𝐶𝑅𝐷𝐶𝑉 ) + (𝑃𝑒𝑠𝑜𝐼𝐶𝑅𝐸 × 𝑁𝑜𝑡𝑎 𝑑𝑒 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒𝐼𝐶𝑅𝐸 ) 
++ (𝑃𝑒𝑠𝑜𝐼𝐶𝑅𝑃𝑃 × 𝑁𝑜𝑡𝑎 𝑑𝑒 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒𝐼𝐶𝑅𝑃𝑃 ) + (𝑃𝑒𝑠𝑜𝐼𝐶𝑅𝐼 × 𝑁𝑜𝑡𝑎 𝑑𝑒 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒𝐼𝐶𝑅𝐼 ) 
+Para fins de cálculo do ICPCR, os índices possuem os seguintes pesos: 
+PesoICRP = 0,45 
+PesoICRFD = 0,20 
+PesoICRD = 0,10 
+ 
+PesoICRE = 0,05 
+PesoICRPP = 0,05 
+PesoICRI = 0,10 
+Fórmula: Indicador Conformidade dos Programas de Conservação de Rotina (ICPCR) 
+ 
+ 
+ 
+ 
+Fórmula: Índice de Conservação de Rotina de 
+Iluminação (ICRI) 
+Faixa de performance 
+Nota 
+Forma de avaliação 
+O segmento está conforme 
+se 
+Será incidido fator agravante se 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+ICRI ≥ 99% 
+1 
+Nº de não conformidades por 
+segmento = 0 
+Nº de não conformidades por 
+segmento ≥ 2 
+98% ≤ ICRI < 99% 
+0,8 
+97% ≤ ICRI < 98% 
+0,6 
+96% ≤ ICRI < 97% 
+0,4 
+ICRI < 96% 
+0 
+ 
+“não conforme” se não atender a este mesmo critério. Ademais, se, além de considerado “não conforme”, o segmento atingir o critério estabelecido na coluna “será 
+incidido fator agravante se”, uma unidade será deduzida do “total de segmentos conformes” (numerador da fórmula). 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 30
+
+
+Folha 31 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+Observações e considerações 
+Para a aferição deste INDICADOR, poderão ser realizadas verificações locais pelas Empresas de Apoio e/ou técnicos da ARTESP em todos os segmentos da extensão 
+concedida, em ambos os sentidos, bem como as demais áreas e estruturas dentro da FAIXA DE DOMÍNIO. As não conformidades se referem ao não atendimento de 
+qualquer atividade relacionada aos programas indicados, conforme descrição no ANEXO 6, item 2.2 e subitens. Neste caso, é contabilizada em cada índice a constatação 
+da não conformidade durante as verificações, ainda que se tratando de item programável, independentemente do tempo de reparo/correção que estiver estabelecido no 
+ANEXO 6. 
+Cada não conformidade distinta constatada durante as verificações deverá ser evidenciada com fotos e, então, todas serão armazenadas e gerenciadas através do 
+Sistema Integrado de Gerenciamento Digital de Funções de Conservação (SIGECON) 
+Para cálculo do INDICADOR, na segunda semana do mês subsequente ao mês analisado, será extraído pela ARTESP um relatório do SIGECON contendo o extrato de 
+todas as não conformidades registradas em cada segmento de análise entre 00:00:00 hrs do 1º dia do mês e 23:59:59 hrs do últi mo dia do mês. O relatório extraído deve 
+ser suficiente para o cálculo dos índices e do indicador conforme detalhamento nesta ficha. Esse relatório poderá ser complementado por dados obtidos por meio de 
+atividades de fiscalização local ou remota, quando disponíveis. As Empresas de Apoio enviarão à ARTESP um relatório com os resultados das verificações em campo 
+para cálculo do INDICADOR. 
+ 
+Para casos de segmentos não conformes que possuírem o número de não conformidades distintas identificadas nas vistorias realizadas no mês, igual ou superior ao 
+valor indicado na coluna “Será incidido fator agravante se” para cada índice avaliado, haverá a dedução de uma unidade para cada segmento no total de segmentos 
+conformes. Se, por exemplo, ao final da análise foram constatados que em um universo de 100 segmentos, 90 deles são conformes e 10 não conformes, sendo 3 deles 
+com o número de não conformidades iguais ao maior ao estipulado na coluna “Será incidido fator agravante se”, o número de segmentos conformes que deverá ser 
+considerado para cálculo é 87. 
+ 
+Notas 
+ 
+(1) O termo "não conformidades distintas" caracteriza todas aquelas não conformidades não idênticas, ou seja, de natureza e localização distintas. A título de 
+exemplo, nessa definição, um mesmo buraco verificado 2 (duas) vezes no mesmo segmento, não pode ser contabilizado duas vezes para fins de mensuração do 
+INDICADOR. No entanto, caso um mesmo segmento possua dois buracos distintos, ambos devem ser contabilizados. 
+ 
+(2) Os Índices previstos neste INDICADOR somente serão considerados válidos quando, no mínimo, 141 (cento e quarenta e um) segmentos da via tenham sido 
+fiscalizados. Caso determinado índice seja considerado inválido, seu peso deverá ser redistribuído entre os demais, mantendo-se a proporcionalidade 
+originalmente prevista. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 31
+
+
+Folha 32 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Deverá ser medido o tempo de percurso dos veículos nos segmentos homogêneos através da utilização de tecnologias (sistemas, câmeras, wifi, dentre outras) que 
+possibilitem a mensuração deste dado. O mesmo será utilizado para calcular e verificar o tempo de atraso característico causado pelo conjunto de intervenções dentro do 
+trecho. Esta informação deverá ser enviada na forma de relatório mensal elaborado pela CONCESSIONÁRIA e será confrontada com as estimativas previstas no Plano 
+de Intervenções no Sistema Rodoviário (PISR), entregue pela CONCESSIONÁRIA à ARTESP, segundo diretrizes do ANEXO 5, Item 7.3. Será estabelecida uma nota de 
+performance para cada segmento e, posteriormente, será realizada uma média das notas dos segmentos com intervenções para o INDICADOR final, conforme descrito 
+abaixo. A tecnologia escolhida pela CONCESSIONÁRIA para realizar a medição dos tempos nas intervenções deverá ser auditável e previamente validada pela ARTESP. 
+Descrição: Índice de Tempo de Atraso em Função de Intervenções (por segmento homogêneo) (ITAFIPI) 
+ 
+ 
+Indicador 
+5.1 
+Indicador de Tempo de Atraso em Função de Intervenções (ITAFI) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+PISR / Relatório entregue pela 
+CONCESSIONÁRIA 
+Composição 
+Composto por Índices de Tempo de Atraso em Função de Intervenções, por segmento homogêneo. 
+ 
+ 
+Fórmula: Índice de Tempo de Atraso em Função de Intervenções (por segmento 
+homogêneo) (ITAFIPI) 
+Faixas de performance 
+Nota 
+Atraso previsto no PISR / Atraso mensurado em campo 
+(*) O atraso do INDICADOR corresponde à média aritmética, durante o período de 
+intervenções no segmento homogêneo, dos atrasos em uma hora. 
+(**) Se forem observadas intervenções dentro de um segmento homogêneo que não foram 
+observadas no PISR, a nota do segmento homogêneo será automaticamente zero. 
+ITAFIPI ≥ 95% 
+1 
+90% ≤ ITAFIPI < 95% 
+0,8 
+85% ≤ ITAFIPI < 90% 
+0,6 
+80% ≤ ITAFIPI < 85% 
+0,4 
+ITAFIPI < 80% 
+0 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 32
+
+
+Folha 33 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Fórmula: Indicador de Tempo de Atraso em Função de Intervenções (ITAFI) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Onde: 
+n = Número de segmentos homogêneos sob intervenção viária. 
+𝑁𝑜𝑡𝑎 𝐹𝑖𝑛𝑎𝑙𝐼𝑇𝐴𝐹𝐼 = 
+∑𝑛 𝑁𝑜𝑡𝑎𝑠 𝐼𝑇𝐴𝐹𝐼𝑃𝐼 
+𝑛 
+ 
+Observações e considerações 
+Define-se como segmento homogêneo o trecho com características físicas e operacionais semelhantes na sua extensão, que deverão ser definidos pela 
+CONCESSIONÁRIA e aprovados pela ARTESP. 
+Para cada segmento homogêneo, a CONCESSIONÁRIA deverá utilizar uma tecnologia (câmeras, wifi, sistemas, dentre outras) em pontos específicos anteriores e 
+posteriores, a serem determinados pela CONCESSIONÁRIA e aprovados pela ARTESP, que consigam mensurar o tempo médio de viagem dentro do segmento 
+homogêneo. 
+Deve ser contabilizado o tempo de percurso dos veículos que percorrem o trecho e estes dados devem ser abrigados em banco de da dos para a verificação do tempo de 
+atraso e comparação com o estimado no PISR. Este banco de dados deve ser disponibilizado à ARTESP. 
+Para cálculo do INDICADOR, até o 5º dia útil do mês subsequente ao mês analisado, a ARTESP deve receber da CONCESSIONÁRIA um relatório contendo o extrato de 
+todos os tempos de percurso registrados pelas câmeras no trecho, entre 00:00:00 hrs do 1º dia do mês e 23:59:59 hrs do último dia do mês. O relatório deve compilar os 
+dados para cada segmento homogêneo e gerar informações suficientes para o cálculo deste INDICADOR conforme detalhamento nesta ficha. O relatório entregue pela 
+CONCESSIONÁRIA poderá ser complementado por dados obtidos por meio de atividades de fiscalização local ou remota, quando disponíveis. 
+A análise técnica de dispensa ou não do plano PISR fica a cargo da equipe técnica da ARTESP. Caso não haja nenhuma intervenção regida por um PISR no mês de 
+análise o INDICADOR será máximo no período. 
+Notas gerais: 
+(1) Obras e intervenções que são objeto de planos de intervenções - PISR: 
+Operação pare e siga em pistas simples; 
+Interdição parcial ou total de faixas de rolagem e obras dentro da FAIXA DE DOMÍNIO que afetem o nível de serviço. 
+(2) Deverão ser expurgadas as horas nas quais houve interferência na operação exclusiva pela PMRv. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 33
+
+
+Folha 34 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Será verificado por meio de inspeção visual e/ou de medição de retrorrefletância, realizadas em campo, o estado de conservação da sinalização vertical em todas as vias em 
+relação ao número total de placas cadastradas no sistema conforme cadastro atualizado (número de placas indisponíveis). Serão consideradas como placas indisponíveis 
+no mês placas no trecho concedido que não estão em conformidade com especificações técnicas, normas e manuais vigentes, conforme detalhado no ANEXO 6, item 3.3 
+“e”, programa “Sinalização e Dispositivos Auxiliares”. Qualquer não atendimento em qualquer dessas especificações/atividades será considerado como uma “não 
+conformidade” e indisponibilidade da sinalização para fins de cálculo do IICSV. Cabe ressaltar que a mera constatação durante as verificações em campo de uma "não 
+conformidade" será suficiente para a contabilização da disponibilidade de placas no cálculo deste INDICADOR, independentemente de regularização/correção/reparação da 
+"não conformidade", dentro ou fora do prazo estabelecido pelo ANEXO 6 no correspondente item. Para a composição desse INDICADOR serão considerados todos os tipos 
+de sinais verticais, de regulamentação, de advertência, educativa, institucional e de indicação, e os dispositivos auxiliares do tipo marcadores de perigo e de alinhamento. 
+Descrição 
+A CONCESSIONÁRIA deve cumprir todos os programas de conservação de rotina para sinalização vertical e dispositivos de sinalização auxiliar conforme descrição no 
+ANEXO 6, item 3.3 e, a fim de garantir a qualidade e conservação do ativo além de estar em conformidade com especificações técnicas, normas, manuais, editais vigentes 
+para o trecho. O descumprimento de algum desses padrões caracteriza uma indisponibilidade da sinalização para fins de cálculo do IICSV, independentemente do tempo de 
+reparo/correção que estiver estabelecido para cada item no ANEXO 6. 
+Observações e considerações 
+ 
+ 
+Indicador 
+6.1 
+Indicador de Integridade e Conservação da Sinalização Vertical (IICSV) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Verificação local / Cadastro de placas 
+Composição 
+Disponibilidade da sinalização vertical prevista em condições adequadas para operação das vias concedidas. 
+ 
+ 
+Fórmula: 
+Faixas de performance 
+Nota 
+𝑁º 𝑑𝑒 𝑝𝑙𝑎𝑐𝑎𝑠 𝑑𝑖𝑠𝑝𝑜𝑛í𝑣𝑒𝑖𝑠 𝑑𝑢𝑟𝑎𝑛𝑡𝑒 𝑡𝑜𝑑𝑜 𝑜 𝑚ê𝑠 
+= 𝑄𝑡𝑑𝑒. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑝𝑙𝑎𝑐𝑎𝑠 𝑑𝑜 𝑠𝑖𝑠𝑡𝑒𝑚𝑎 − 𝑁º 𝑑𝑒 𝑝𝑙𝑎𝑐𝑎𝑠 𝑖𝑛𝑑𝑖𝑠𝑝𝑜𝑛í𝑣𝑒𝑖𝑠 𝑑𝑢𝑟𝑎𝑛𝑡𝑒 𝑡𝑜𝑑𝑜 𝑜 𝑚ê𝑠 
+𝑁º 𝑑𝑒 𝑝𝑙𝑎𝑐𝑎𝑠 𝑑𝑖𝑠𝑝𝑜𝑛í𝑣𝑒𝑖𝑠 𝑑𝑢𝑟𝑎𝑛𝑡𝑒 𝑡𝑜𝑑𝑜 𝑜 𝑚ê𝑠 × 100 
+𝑄𝑡𝑑𝑒. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑝𝑙𝑎𝑐𝑎𝑠 𝑑𝑜 𝑠𝑖𝑠𝑡𝑒𝑚𝑎 
+* Caso a CONCESSIONÁRIA não envie o cadastro atualizado, conforme diretrizes estabelecidas pela 
+ARTESP, a nota no INDICADOR será 0. 
+IICSV ≥ 99% 
+1 
+97% ≤ IICSV < 99% 
+0,8 
+95% ≤ IICSV < 97% 
+0,6 
+93% ≤ IICSV < 95% 
+0,4 
+IICSV < 93% 
+0 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 34
+
+
+Folha 35 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+Toda a via concedida, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por técnicos da ARTESP. As Empresas de Apoio enviarão à 
+ARTESP um relatório com os resultados das verificações em campo, para cálculo do INDICADOR. As informações coletadas nestas verificações serão apuradas 
+mensalmente (na segunda semana do mês subsequente ao mês analisado), determinando a somatória de placas indisponíveis, e posteriormente será comparada a 
+quantidade de placas disponíveis durante todo o mês com o número de placas cadastradas em todo o sistema viário. As vistorias ocorrerão durante o mês de análise. 
+Considerar-se-á que cadastro está atualizado quando 100% das placas existentes no SISTEMA RODOVIÁRIO estiverem cadastradas, após o decurso do prazo 
+estabelecido para sua implantação. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 35
+
+
+Folha 36 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Será verificado por meio de inspeção visual e/ou de medição de retrorrefletância, realizadas em campo, a integridade da sinalização horizontal considerando aspectos 
+como existência, precisão, limpeza e visibilidade da pintura e das tachas, conforme descrito no ANEXO 6, item 3.3e, programa “Sinalização e Dispositivos Auxiliares”. 
+Qualquer não atendimento em qualquer dessas atividades será considerado como uma “não conformidade” para fins de cálculo do I ICSH. Cabe ressaltar que a mera 
+constatação durante as verificações em campo de uma "não conformidade" será suficiente para a contabilização da conformidade dos segmentos no cálculo deste 
+INDICADOR, independentemente de regularização/correção/reparação da "não conformidade", dentro ou fora do prazo estabelecido pelo ANEXO 6 no correspondente 
+item. Para este INDICADOR, será considerada a disponibilidade da análise da sinalização horizontal e das tachas em toda a via dividida em segmentos de 1 km (um 
+quilômetro), delimitados longitudinalmente pelos marcos quilométricos. O segmento será considerado conforme se não possuir nenhuma “não conformidade” relacionada 
+à sinalização horizontal e às tachas. 
+Descrição 
+A CONCESSIONÁRIA deve cumprir todos os programas de conservação de rotina para sinalização horizontal e tachas conforme descrição no ANEXO 6, item 3.3 ”e”, a 
+fim de garantir a qualidade e conservação do ativo. O descumprimento de algum dos padrões que venha a gerar problemas na sinalização horizontal da via serão 
+considerados “não conformidades” para fins de cálculo do IICSH, independentemente do tempo de reparo/correção que estiver estabelecido para cada item no ANEXO 6. 
+Toda a via concedida, em ambos os sentidos, será avaliada rotineiramente pelas Equipes de Apoio e/ou por técnicos da ARTESP. As Empresas de Apoio enviarão à 
+ARTESP um relatório com os resultados das verificações em campo, para cálculo do INDICADOR. As informações coletadas nestas verificações serão apuradas 
+ 
+ 
+Indicador 
+6.2 
+Indicador de Integridade e Conservação da Sinalização Horizontal (IICSH) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Verificação local 
+Composição 
+Disponibilidade da sinalização horizontal prevista em condições adequadas para operação das vias concedidas. 
+ 
+ 
+Fórmula: 
+Faixas de performance 
+Nota 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 𝑛𝑜 𝑚ê𝑠 
+= 𝑄𝑡𝑑𝑒. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 − 𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 não conformes 𝑛𝑜 𝑚ê𝑠 
+𝑁º 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑐𝑜𝑛𝑓𝑜𝑟𝑚𝑒𝑠 𝑛𝑜 𝑚ê𝑠 
+× 100 
+𝑄𝑡𝑑𝑒. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 
+IICSH ≥ 97% 
+1 
+95% ≤ IICSH < 97% 
+0,8 
+93% ≤ IICSH < 95% 
+0,6 
+90% ≤ IICSH < 93% 
+0,4 
+IICSH < 90% 
+0 
+Observações e Considerações 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 36
+
+
+Folha 37 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+mensalmente (na segunda semana do mês subsequente ao mês analisado). As vistorias ocorrerão durante o mês de análise. 
+ 
+As vias serão divididas em segmentos de 1 km (um quilômetro), delimitado longitudinalmente entre marcos quilométricos. Será considerado um segmento não conforme 
+aquele que possuir qualquer “não-conformidade” relacionada à sinalização horizontal ou tachas no mês em análise, acarretando na dedução de uma unidade no total de 
+segmentos conformes (numerador da fórmula). 
+ 
+A quantidade de segmentos será calculada conforme a fórmula abaixo: 
+ 
+𝑄𝑡𝑑𝑒. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑠𝑐𝑎𝑙𝑖𝑧𝑎𝑑𝑜𝑠 = (1 × 𝑒𝑥𝑡𝑒𝑛𝑠ã𝑜 𝑑𝑎 𝑝𝑖𝑠𝑡𝑎 𝑠𝑖𝑚𝑝𝑙𝑒𝑠) + (2 × 𝑒𝑥𝑡𝑒𝑛𝑠ã𝑜 𝑑𝑎 𝑝𝑖𝑠𝑡𝑎 𝑑𝑢𝑝𝑙𝑎) + 𝑒𝑥𝑡𝑒𝑛𝑠ã𝑜 𝑑𝑒 𝑝𝑖𝑠𝑡𝑎 𝑚𝑎𝑟𝑔𝑖𝑛𝑎𝑙(*) 
+(*) Pistas marginais são vias de trânsito local que permitem que os veículos circulem paralelamente à rodovia sem necessidade de adentrá-la. 
+Figura ilustrativa para exemplificar a delimitação do segmento a ser avaliado/fiscalizado para cálculo do IICSH entre os km 1 e km 2 de uma via: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota: Para o INDICADOR ser válido deve ter sido fiscalizado, no mínimo, 60% (sessenta por cento) do SISTEMA RODOVIÁRIO. Em caso negativo, o peso do 
+INDICADOR em questão deve ser redistribuído entre os demais, mantendo a proporcionalidade devida. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 37
+
+
+Folha 38 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+0 
+IOPMV < 97% 
+1 
+IOPMV ≥ 97% 
+Nota 
+Faixas de performance 
+Verifica-se a operacionalidade do Sistema de Painéis de Mensagens Variáveis Fixos (PMV) por meio do percentual de horas em que os equipamentos ficaram 
+operacionais em determinado mês, conforme descrição no ANEXO 5. Nos casos em que a solicitação de desativação do equipamento for aceita, não serão 
+contabilizadas na base de cálculo as horas em que o mesmo ficou desativado, a partir do momento da solicitação da desativação pela CONCESSIONÁRIA até o 
+momento previsto para a reativação do equipamento, nos termos da referida solicitação. 
+Descrição 
+ 
+ 
+Indicador 
+7.1 
+Indicador de Operacionalidade de PMV Fixos (IOPMV) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Sistemas eletrônicos - Sistema de 
+Telemetria / SIS-EQP /Verificação 
+local ou remota 
+Composição 
+Horas em que todos os equipamentos PMVs fixos do Sistema Rodoviário Concedido permaneceram operacionais e total de horas previstos no 
+mês. 
+ 
+ 
+Fórmula: Indicador Operacionalidade de PMV (IOPMV) 
+ 
+𝑄𝑡𝑑. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 ℎ𝑜𝑟𝑎𝑠 𝑒𝑚 𝑞𝑢𝑒 𝑜𝑠 𝑒𝑞𝑢𝑖𝑝𝑎𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑐𝑎𝑟𝑎𝑚 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑖𝑠 
+𝑄𝑡𝑑. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 ℎ𝑜𝑟𝑎𝑠 𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑎𝑠 𝑑𝑒 𝑜𝑝𝑒𝑟𝑎çã𝑜 𝑛𝑜 𝑚ê𝑠 
+ 
+ 
+ 
+𝑥 100 
+ 
+Índice Binário 
+ 
+ 
+Para fins de apuração dos indicadores descritos neste item, a verificação se o equipamento operacional (ativo) ou inoperante (inativo) será realizada exclusivamente por 
+meio de dados de telemetria que a Concessionária deve disponibilizar em sistemas eletrônicos, ou via integração de sistemas (conforme for determinado pela ARTESP). 
+Esses dados de telemetria devem possibilitar à Agência a consulta do estado operacional desses equipamentos em tempo real, tal como prevê o ANEXO 5 e 
+especificações técnicas vigentes. 
+A ausência de dados de telemetria para um equipamento em determinado momento para o qual é calculado o Índice de Disponibilidade implica considerar tal 
+equipamento como inoperante naquele momento, embora tal equipamento seja considerado na base de cálculo (quantidade total de equipamentos) do Índice de 
+Disponibilidade. 
+Para o cálculo do INDICADOR, na segunda semana do mês subsequente ao mês analisado, será extraído dos sistemas da ARTESP um relatório contendo o extrato de 
+todo o funcionamento dos equipamentos entre 00:00:00 hrs do 1° dia do mês e 23:59:59 hrs do último dia do mês. Esse relatório poderá ser complementado por dados 
+obtidos por meio de atividades de fiscalização local ou remota, quando disponíveis. 
+O valor calculado para o INDICADOR representa um melhor caso (ou valor máximo), ou seja, é possível evidenciar que a operacionalidade não foi superior ao valor 
+representado pelo INDICADOR. 
+Observações e considerações 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 38
+
+
+Folha 39 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+Define-se equipamento operacional como aquele que atende integralmente e simultaneamente todos os requisitos funcionais estabelecidos para esse tipo de 
+equipamento no CONTRATO, ANEXOS e APÊNDICES e em especificações técnicas vigentes. Define-se como inoperante o equipamento que não está operacional em 
+determinado momento. 
+Será somada à base de cálculo do Índice de Disponibilidade (total de equipamentos do trecho), a quantidade de equipamentos ainda não implantados e/ou que não 
+iniciaram a operação, cujo prazo contratual ou acordado com a ARTESP para que estivessem implantados e/ou em operação já tenha sido superado. Esses 
+equipamentos são considerados como inoperantes nesse período em que não estiverem implantados. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 39
+
+
+Folha 40 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+0 
+IOCFTV < 97% 
+1 
+IOCFTV ≥ 97% 
+Nota 
+Faixas de performance 
+Verifica-se a operacionalidade do Sistema de CFTV por meio do percentual de horas em que os equipamentos CFTV ficaram operacionais em determinado mês, 
+conforme descrição no ANEXO 5. Nos casos em que a solicitação de desativação do equipamento for aceita, não serão contabilizadas na base de cálculo as hor as que o 
+mesmo ficou desativado, desde o momento da solicitação da desativação pela CONCESSIONÁRIA até o momento previsto para a reativação do equipamento, nos 
+termos da referida solicitação. 
+Descrição 
+ 
+ 
+Indicador 
+7.2 
+Indicador de Operacionalidade de CFTV (IOCFTV) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Sistemas eletrônicos - Sistema de 
+Telemetria/ SIS-EQP/ Verificação 
+local ou remota 
+Composição 
+Horas em que todos os equipamentos CFTV do SISTEMA RODOVIÁRIO permaneceram operacionais e total de horas previstos no mês. 
+ 
+ 
+Fórmula: Indicador Operacionalidade de CFTV (IOCFTV) 
+ 
+𝑄𝑡𝑑. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 ℎ𝑜𝑟𝑎𝑠 𝑒𝑚 𝑞𝑢𝑒 𝑜𝑠 𝑒𝑞𝑢𝑖𝑝𝑎𝑚𝑒𝑛𝑡𝑜𝑠 𝑓𝑖𝑐𝑎𝑟𝑎𝑚 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑖𝑠 
+𝑄𝑡𝑑. 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 ℎ𝑜𝑟𝑎𝑠 𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑎𝑠 𝑑𝑒 𝑜𝑝𝑒𝑟𝑎çã𝑜 𝑛𝑜 𝑚ê𝑠 
+ 
+ 
+ 
+𝑥 100 
+ 
+Índice Binário 
+ 
+ 
+Para fins de apuração dos indicadores descritos neste item, a verificação se o equipamento operacional (ativo) ou inoperante (inativo) será realizada exclusivamente por 
+meio de dados de telemetria que a CONCESSIONÁRIA deve disponibilizar em sistemas eletrônicos, ou via integração de sistemas (conforme for determinado pela 
+ARTESP). Esses dados de telemetria devem possibilitar à Agência a consulta do estado operacional desses equipamentos em tempo real, tal como prevê o ANEXO 5 e 
+especificações técnicas vigentes. 
+A ausência de dados de telemetria para um equipamento em determinado momento para o qual é calculado o Índice de Disponibilidade implica considerar tal 
+equipamento como inoperante naquele momento, embora tal equipamento seja considerado na base de cálculo (quantidade total de equipamentos) do Índice de 
+Disponibilidade. 
+Para o cálculo do INDICADOR, na segunda semana do mês subsequente ao mês analisado, será extraído dos sistemas da ARTESP um relatório contendo o extrato de 
+todo o funcionamento dos equipamentos entre 00:00:00 hrs do 1° dia do mês e 23:59:59 hrs do último dia do mês. Esse relatório poderá ser complementado por dados 
+obtidos por meio de atividades de fiscalização local ou remota, quando disponíveis. 
+O valor calculado para o INDICADOR representa um melhor caso (ou valor máximo), ou seja, é possível evidenciar que a operacionalidade não foi superior ao valor 
+representado pelo INDICADOR. 
+Observações e considerações 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 40
+
+
+Folha 41 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+Define-se equipamento operacional como aquele que atende integralmente e simultaneamente todos os requisitos funcionais estabelecidos para esse tipo de 
+equipamento no CONTRATO, ANEXOS e APÊNDICES e em especificações técnicas vigentes. Define-se como inoperante o equipamento que não está operacional em 
+determinado momento. 
+Será somada à base de cálculo do Índice de Disponibilidade (total de equipamentos do trecho), a quantidade de equipamentos ainda não implantados e/ou que não 
+iniciaram a operação, cujo prazo contratual ou acordado com a ARTESP para que estivessem implantados e/ou em operação já tenha sido superado. Esses 
+equipamentos são considerados como inoperantes nesse período em que não estiverem implantados. 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 41
+
+
+Folha 42 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+O Índice de Disponibilidade do Sistema em um determinado instante consiste no percentual de equipamentos Pontos de Acesso que permaneceram operacionais 
+naquele instante. Verifica-se a operacionalidade do Sistema de Comunicação com o Usuário via Rede de Dados Sem Fio por meio do cálculo de seu Índice de 
+Disponibilidade em intervalos regulares de tempo no mês de apuração. Será atribuída Nota 1 se, no mês de apuração, nenhuma amostra de cálculo do Índice de 
+Disponibilidade (operacionalidade do Sistema) tiver sido inferior a 90% (noventa por cento). Será atribuída Nota 0 se, no mês de apuração, ao menos uma amostra de 
+cálculo do Índice de Disponibilidade for inferior a 90% (noventa por cento) 
+Descrição 
+Para o cálculo do INDICADOR, na segunda semana do mês subsequente ao mês analisado, será extraído dos sistemas da ARTESP um relatório contendo o extrato de 
+todo o funcionamento dos equipamentos entre 00:00:00 hrs do 1° dia do mês e 23:59:59 hrs do último dia do mês. Esse relatório poderá ser complementado por dados 
+obtidos por meio de atividades de fiscalização local ou remota, quando disponíveis. 
+Para fins de apuração dos indicadores descritos neste item, a verificação se o equipamento operacional (ativo) ou inoperante (inativo) será realizada exclusivamente por 
+meio de dados de telemetria que a CONCESSIONÁRIA deve disponibilizar em sistemas eletrônicos, ou via integração de sistemas (conforme for determinado pela 
+ARTESP). Esses dados de telemetria devem possibilitar à Agência a consulta do estado operacional desses equipamentos em tempo real, tal como prevê o ANEXO 5 e 
+especificações técnicas vigentes. 
+A ausência de dados de telemetria para um equipamento em determinado momento para o qual é calculado o Índice de Disponibilidade implica considerar tal 
+equipamento como inoperante naquele momento, embora tal equipamento seja considerado na base de cálculo (quantidade total de equipamentos) do Índice de 
+Disponibilidade. 
+Observações e considerações 
+ 
+ 
+Indicador 
+7.3 
+Indicador de Operacionalidade do Sistema de Comunicação com o Usuário via Rede de Dados Sem Fio (IORD) 
+Periodicidade 
+Mensal 
+Fonte de dados 
+Sistemas eletrônicos - Sistema 
+de Telemetria/SIS-EQP 
+Composição 
+Índice de Disponibilidade do Sistema de Comunicação com o Usuário via Rede de Dados Sem Fio, calculado em intervalos regulares de tempo durante o mês de 
+apuração 
+ 
+ 
+Fórmula: Indicador Conformidade de Disponibilidade do Sistema de 
+Faixas de performance 
+Comunicação com o Usuário com a Rede Sem Fio (ICDRD) 
+Índice Binário 
+Nota 
+∑ 𝐻𝑜𝑟𝑎𝑠 𝑒𝑚 𝑞𝑢𝑒 𝑜 𝑆𝑖𝑠𝑡𝑒𝑚𝑎 𝑝𝑒𝑟𝑚𝑒𝑛𝑒𝑐𝑒𝑢 𝑐𝑜𝑚 𝑑𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒 𝑚𝑎𝑖𝑜𝑟 𝑜𝑢 𝑖𝑔𝑢𝑎𝑙 𝑎 90% IORD ≥ 90% durante todo o mês 
+1 
+∑ 𝐻𝑜𝑟𝑎𝑠 𝑣á𝑙𝑖𝑑𝑎𝑠 𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑎𝑠 𝑝𝑎𝑟𝑎 𝑜 𝑚ê𝑠 
+IORD < 90% em ao menos uma amostra de disponibilidade no mês 
+0 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 42
+
+
+Folha 43 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+O valor calculado para o INDICADOR representa um melhor caso (ou valor máximo), ou seja, é possível evidenciar que a operacionalidade não foi superior ao valor 
+representado pelo INDICADOR. 
+Define-se equipamento operacional como aquele que atende integralmente e simultaneamente todos os requisitos funcionais estabelecidos para esse tipo de 
+equipamento no CONTRATO, ANEXOS e APÊNDICES e em especificações técnicas vigentes. Define-se como inoperante o equipamento que não está operacional em 
+determinado momento. 
+Será somada à base de cálculo do Índice de Disponibilidade (total de equipamentos do trecho), a quantidade de equipamentos ainda não implantados e/ou que não 
+iniciaram a operação, cujo prazo contratual ou acordado com a ARTESP para que estivessem implantados e/ou em operação já tenha sido superado. Esses 
+equipamentos são considerados como inoperantes nesse período em que não estiverem implantados. 
+Conforme regramento contido na especificação técnica ET-DOP-GOE-C-OPE-FOE, equipamentos podem ser desativados em situações de força maior e caso fortuito 
+conforme procedimento estabelecido na mesma. Será eliminada da base de cálculo do Índice de Disponibilidade (total de equipam entos do trecho) de um determinado 
+instante, a quantidade de equipamentos que estiverem desativados naquele instante conforme solicitação de desativação aceita pela ARTESP. . 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 43
+
+
+Folha 44 de 44 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/(11) 3465-2000 
+ 
+ 
+Para usuários Ciclistas e Pedestres, considerar-se-ão, no denominador, os trechos homogêneos preconizados na metodologia, com adição de trechos sempre que for 
+identificada a presença destes usuários. 
+Caso o índice obtido na primeira apuração (Ano 3 da Concessão) da metodologia pela CONCESSIONÁRIA seja igual ou superior ao índice previsto na Tabela para o 
+mesmo ano, novas metas serão definidas para os períodos subsequentes, por meio da aplicação, sobre o resultado obtido, das taxas de crescimento originalmente 
+observadas na Tabela, até que o INDICADOR atinja 95%. 
+caso a ARTESP determine a adoção de contramedida, nos termos do relatório de ISR, com aplicação do procedimento de SISDEMANDA previsto no APÊNDICE 
+F, o(s) trecho(s) homogêneos com esta ocorrência ficam automaticamente excluídos das 2 (duas) próximas avaliações do INDICADOR de ISR; e 
+trechos ainda sob intervenção nos termos descritos no POI e cronograma físico-executivo elaborados pela CONCESSIONÁRIA. 
+(i) 
+(ii) 
+Para o cálculo deste INDICADOR, a CONCESSIONÁRIA deve considerar os segmentos rodoviários. Entretanto, as seguintes situações não deverão ser consideradas 
+para fins de cálculo do INDICADOR: 
+Observações e considerações 
+ 
+Indicador 
+8.1 
+Indicador de Metodologia de Inspeção de Segurança Viária 
+Periodicidade 
+Quadrienal 
+Fonte de dados 
+Relatório final de ISR 
+Composição 
+75 % (setenta e cinco por cento) dos trechos homogêneos com 3 ou mais estrelas (conforme metodologia de Segurança Viária) em relação 
+aos trechos aplicáveis do SISTEMA RODOVIÁRIO 
+ 
+Descrição 
+Verifica-se a segurança viária dos trechos homogêneos do SISTEMA RODOVIÁRIO por meio de requisitos mínimos para inspeção/ auditoria dispostos no ANEXO 5. 
+Tabela – Percentual trechos homogêneos com 3 (três) estrelas ou mais na metodologia ISR de segurança viária 
+Usuários 
+ANO 0 ANO 2 ANO 6 ANO 10 ANO 14 ANO 18 ANO 22 ANO 26 ANO 30 
+Ocupante de veículos 93% 100% 100% 100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+Motociclistas 
+43% 
+43% 
+ 
+43% 
+ 
+43% 
+ 
+43% 
+ 
+43% 
+ 
+43% 
+ 
+43% 
+ 
+43% 
+ 
+Pedestres 
+29% 100% 100% 100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+Ciclistas 
+20% 
+20% 
+29% 
+40% 
+40% 
+ 
+40% 
+ 
+40% 
+ 
+40% 
+ 
+40% 
+ 
+ 
+Documento Apêndice C - Fichas relativas aos indicadores de d (0059822437)         SEI 134.00005927/2024-51 / pg. 44

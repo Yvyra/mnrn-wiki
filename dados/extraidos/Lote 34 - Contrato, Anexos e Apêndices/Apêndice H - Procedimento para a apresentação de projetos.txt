@@ -1,0 +1,886 @@
+Folha 1 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APÊNDICE H 
+PROCEDIMENTO PARA A APRESENTAÇÃO, REVISÃO E APROVAÇÃO DE PROJETOS, INÍCIO E 
+RECEBIMENTO DE OBRAS 
+CONCESSÃO DOS SERVIÇOS PÚBLICOS DE AMPLIAÇÃO, OPERAÇÃO, CONSERVAÇÃO, 
+MANUTENÇÃO E REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A EXPLORAÇÃO DO 
+SISTEMA RODOVIÁRIO DENOMINADO LOTE NOVA RAPOSO 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 1
+
+
+Folha 2 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+ 
+ 
+ÍNDICE 
+1. INTRODUÇÃO ................................................................................................................................... 3 
+2. DAS REGRAS GERAIS DA MODELAGEM BIM (Building Information Model) ................................. 4 
+3. DA CERTIFICAÇÃO ........................................................................................................................... 6 
+4. DOS PROJETOS FUNCIONAIS ........................................................................................................ 7 
+5. DOS PROJETOS EXECUTIVOS ..................................................................................................... 11 
+6. DA DOCUMENTAÇÃO AS BUILT ................................................................................................... 13 
+7. DAS CONDIÇÕES PARA INÍCIO DAS OBRAS .............................................................................. 13 
+8. DO ACOMPANHAMENTO DAS OBRAS COM USO DA TECNOLOGIA BIM ................................ 14 
+9. DA NOTIFICAÇÃO DE CONCLUSÃO DAS OBRAS ....................................................................... 15 
+10. DAS CONDIÇÕES PARA O RECEBIMENTO DAS OBRAS PELA ARTESP ............................... 16 
+ 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 2
+
+
+Folha 3 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+1. 
+INTRODUÇÃO 
+1.1. 
+Todos os projetos de engenharia devem ser alimentados no SISPROJ, a partir da sua 
+implementação pela CONCESSIONÁRIA, e deverão ser elaborados atendendo às 
+especificações e normas técnicas aplicáveis, com base nas normas, instruções de projeto, 
+portarias e padrões vigentes à época da elaboração (ARTESP, DER/SP, DNIT, ABNT, e, na 
+falta destes, observando-se normas internacionalmente consagradas), bem como às formas 
+de desenvolvimento e disponibilização, conforme descrito nos ANEXOS 5, 6 e 7. 
+1.2. 
+Os PROJETOS FUNCIONAIS deverão ser entregues pela CONCESSIONÁRIA à ARTESP 
+em até 390 (trezentos e noventa) dias antes da data de início da execução física das obras 
+previstas no PLANO ORIGINAL DE INVESTIMENTOS. 
+1.2.1. Para serviços, obras e demais eventos cuja data de início de execução física ocorra 
+nos primeiros 18 (dezoito) meses contados da data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL, os PROJETOS FUNCIONAIS deverão ser entregues 
+pela CONCESSIONÁRIA à ARTESP em até 150 (cento e cinquenta) dias contados 
+da data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL, conforme 
+aplicável. 
+1.3. 
+Os PROJETOS FUNCIONAIS deverão ser entregues com base no CRONOGRAMA 
+FÍSICO- EXECUTIVO apresentado no PLANO DE INVESTIMENTOS vigente e aprovado 
+pela ARTESP. 
+1.4. 
+A aprovação dos PROJETOS FUNCIONAIS pela ARTESP ou a obtenção do CERTIFICADO 
+DE QUALIDADE dos PROJETOS EXECUTIVOS, não isentam a responsabilidade da 
+empresa projetista ou da CONCESSIONÁRIA pela elaboração dos respectivos projetos, 
+sem prejuízo das penalidades aplicáveis à CONCESSIONÁRIA. 
+1.5. 
+Para a tramitação dos projetos de engenharia da CONCESSÃO, prevalece o disposto no 
+CONTRATO e ANEXOS em caso de divergência com os normativos da ARTESP. 
+1.6. 
+Salvo disposição expressa, os prazos previstos neste APÊNDICE são contados em dias 
+corridos, excluindo-se o dia de início e incluindo-se o dia de vencimento. 
+1.7. 
+Além do compartilhamento dos documentos via SISPROJ, a partir da sua implementação, a 
+CONCESSIONÁRIA fornecerá à ARTESP, desde que solicitado, 01 (um) exemplar completo 
+das peças escritas e desenhadas dos estudos, plano funcional e projetos em material, que 
+permita a sua reprodução e com suporte de informática, em até 5 (cinco) dias contados do 
+recebimento da solicitação. 
+1.8. 
+Até que a plataforma SISPROJ esteja implementada, a CONCESSIONÁRIA deverá 
+apresentar à ARTESP toda a documentação para os PROJETOS FUNCIONAIS e 
+EXECUTIVOS em pranchas impressas – e respectivas cópias digitais em formato pdf ou 
+equivalente – contemplando todo o detalhamento das obras, conforme procedimentos 
+previstos nas instruções de projeto vigentes do DER/SP e ARTESP à época da elaboração 
+do projeto. 
+1.9. 
+O procedimento previsto neste APÊNDICE, com exceção de eventuais prazos de 
+antecedência de entrega dos projetos, que serão definidos por meio de acordo entre a  
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 3
+
+
+Folha 4 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+ARTESP e a CONCESSIONÁRIA, se aplica à tramitação e ao conteúdo dos PROJETOS 
+FUNCIONAIS e EXECUTIVOS a serem elaborados pela CONCESSIONÁRIA no âmbito da 
+implementação de novos investimentos, nos termos do CONTRATO. 
+2. 
+DAS REGRAS GERAIS DA MODELAGEM BIM (Building Information Model) 
+2.1. 
+A partir do primeiro ano da CONCESSÃO, contado a partir da data de assinatura do TERMO 
+DE TRANSFERÊNCIA INICIAL, toda a documentação referente aos PROJETOS 
+FUNCIONAIS e EXECUTIVOS deverá ser concebida e elaborada utilizando-se a tecnologia 
+em modelagem BIM. Os modelos gerados deverão ser georreferenciados – sistema de 
+coordenadas global SIRGAS2000 ou outro que venha a ser adotado oficialmente por parte 
+da ARTESP. 
+2.2. 
+Para as obras com início a partir do segundo ano da CONCESSÃO, contado a partir da data 
+de assinatura do TERMO DE TRANSFERÊNCIA INICIAL, toda a documentação referente à 
+documentação As Built deverá ser concebida e elaborada utilizando-se a tecnologia em 
+modelagem BIM. Os modelos gerados deverão ser georreferenciados – sistema de 
+coordenadas global SIRGAS2000 ou outro que venha a ser adotado oficialmente por parte 
+da ARTESP. 
+2.3. 
+Os projetos e modelos BIM deverão ser disponibilizados no SISPROJ a cada entrega. Uma 
+vez disponibilizados, não haverá possibilidade de alteração de versões no sistema por parte 
+da CONCESSIONÁRIA sem o devido registro e controle de versionamento ativado através 
+de workflow de alerta, aviso, comunicado e/ou ciência para com os USUÁRIOS cadastrados 
+por parte da ARTESP. Deverão ser mantidos os padrões de codificação (Id de obra) de itens 
+de obra/serviço e codificação de documento de projeto em vigência e definidos pela 
+ARTESP. 
+2.4. 
+Os arquivos finais gerados em modelagem BIM e pranchas deverão ser integralmente 
+disponibilizados à ARTESP por meio do SISPROJ, em formato IFC, sem perda de 
+informações e propriedades dos elementos, em relação ao modelo original. Enquanto não 
+for possível a disponibilização sem perda de dados, a CONCESSIONÁRIA deverá 
+disponibilizar, no SISPROJ, o modelo no formato original, editável - em formato compatível 
+com a(s) plataforma(s) utilizada(s) pela ARTESP - além do modelo IFC. 
+2.5. 
+As informações e atributos gerados nos modelos elaborados em BIM deverão ser 
+integrados, sempre que possível, e sempre que solicitado pela ARTESP, aos sistemas 
+eletrônicos de gerenciamento a serem implementados por parte da CONCESSIONÁRIA, em 
+especial o SISGIS. 
+2.6. 
+Tais modelos também deverão servir de base para a manutenção e atualização do MDSR, 
+descrito com maiores detalhes no ANEXO 6. 
+2.7. 
+A CONCESSIONÁRIA deverá apresentar um PD-BIM no prazo de 6 (seis) meses, contados 
+a partir da data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL, para a aprovação 
+da ARTESP. Tal documento deverá contemplar: 
+i. 
+cronograma de implementação faseada e evolução gradual dos níveis de 
+desenvolvimento (LOD – Level Of Development) dos modelos BIM, para cada uma 
+das disciplinas de projetos, a ser contemplada nos projetos a serem implementados 
+em cada ano da CONCESSÃO, com base nas normativas e instruções vigentes; e 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 4
+
+
+Folha 5 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+ii. 
+cronograma de implementação faseada e evolução gradual das dimensões dos 
+modelos BIM (3D, 4D, 5D etc.) para cada uma das disciplinas de projetos, a ser 
+contemplada nos projetos a serem implementados em cada ano da CONCESSÃO, 
+com base nas normativas e instruções vigentes. 
+2.8. 
+A CONCESSIONÁRIA deverá revisar o PD-BIM anualmente, apresentando-o para 
+aprovação da ARTESP. O documento será analisado considerando-se as seguintes 
+premissas: 
+i. 
+compatibilidade do PD-BIM com as tecnologias disponíveis no Brasil; e 
+ii. 
+compatibilidade do PD-BIM com as normativas vigentes e melhores práticas 
+nacionais e internacionais. 
+2.9. 
+O PD-BIM inicialmente apresentado deverá permitir evolução gradual dos níveis de 
+desenvolvimento (LOD – Level of Development) dos modelos BIM, exigindo-se como 
+parâmetro mínimo LOD 400 no prazo de 6 (seis) anos. Para fins de referência para o 
+presente CONTRATO, o quadro a seguir apresenta as definições qualitativas iniciais de 
+LOD. Tais definições poderão ser mais bem detalhadas e especificadas através de 
+instruções de projeto editadas pela ARTESP. 
+Quadro - Definições qualitativas de LOD (Level of Development) para o presente 
+CONTRATO 
+ 
+ 
+Obs.: As classificações ‘baixa’, ‘média’, ‘alta’ e ‘muito alta’ são termos genéricos que se referem 
+em termos relativos ao grau de detalhamento, em relação às possibilidades da tecnologia 
+disponível, no momento da atualização do documento PD-BIM. 
+2.10. Para toda e qualquer documentação de projeto, enquanto não for possível o alcance do LOD 
+400, ou o alcance do nível de detalhamento adequado para análise ou construção de 
+determinado elemento construtivo, deverão ser gerados desenhos/pranchas adicionais 
+(tantas quantas forem necessárias), mesmo que em formato 2D (duas dimensões) e não 
+vinculados ao modelo BIM, para complementação da documentação de projeto. Esta 
+obrigação não ensejará ônus ao PODER CONCEDENTE. 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 5
+
+
+Folha 6 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+3. 
+DA CERTIFICAÇÃO 
+3.1. 
+A CONCESSIONÁRIA deverá obter para todas as obras de ampliação, demais 
+melhoramentos e conservação especial previstas na CONCESSÃO, às suas expensas, 
+CERTIFICADO DE QUALIDADE do PROJETO EXECUTIVO e CERTIFICADO DE 
+QUALIDADE das obras. O certificado deverá ser emitido por organismo de inspeção 
+acreditado pelo INMETRO, nos termos da Portaria n.º 367/2017 (alterada pela Portaria nº 
+39/2020) ou outra que vier a substituí-la, ou certificadora previamente homologada pela 
+ARTESP. 
+3.1.1. 
+Na impossibilidade, devidamente justificada, da CONCESSIONÁRIA obter 
+CERTIFICAÇÃO DE QUALIDADE nos termos previstos no item 3.1, a 
+CONCESSIONÁRIA poderá obter certificação perante entidade que não seja 
+acreditada pelo INMETRO ou homologada pela ARTESP. Neste caso, deverá 
+apresentar lista tríplice para a escolha da ARTESP, observando-se os critérios 
+de ampla reputação técnica e inexistência de proibições para contratar com a 
+ADMINISTRAÇÃO PÚBLICA. 
+3.1.2. 
+O critério de reputação técnica será considerado satisfeito se um dos candidatos da 
+lista tríplice, com profissionais ou empresas de notória especialização, for 
+reconhecido pela ARTESP e/ou por outra entidade de capacidade reconhecida, no 
+que se refere ao escopo da certificação. 
+3.1.3. 
+Em até 5 (cinco) dias contados da apresentação da lista tríplice, a ARTESP deverá 
+se manifestar quanto à escolha, podendo, no mesmo prazo, solicitar a elaboração de 
+nova lista tríplice. 
+3.1.4. 
+Em até 7 (sete) dias contados da solicitação mencionada no item 3.1.3, a 
+CONCESSIONÁRIA deverá apresentar nova lista tríplice à ARTESP, com a 
+substituição dos três candidatos. 
+3.1.5. 
+A ARTESP deverá se manifestar em até 5 (cinco) dias do recebimento da nova lista 
+tríplice de que trata o item 3.1.4 acima. 
+3.1.6. 
+A CONCESSIONÁRIA deverá apresentar a lista tríplice prevista no item 3.1.1 acima 
+com antecedência compatível ao cumprimento dos prazos para a apresentação 
+tempestiva dos PROJETOS EXECUTIVOS. 
+3.1.7. 
+A certificadora será responsável técnica, para todos os fins de direito, pela inspeção 
+acreditada dos projetos e obras. 
+3.1.8. 
+Todos os custos e eventuais responsabilidades relacionados à contratação da 
+certificadora serão exclusivamente atribuídos à CONCESSIONÁRIA, não cabendo 
+qualquer espécie de ônus à ARTESP ou ao PODER CONCEDENTE. 
+3.2. 
+A CONCESSIONÁRIA deverá, nos termos dispostos no item 3.1 acima, obter as 
+certificações aplicáveis para a infraestrutura civil dos PGF. 
+3.3. 
+Para a obtenção do CERTIFICADO DE QUALIDADE do PROJETO EXECUTIVO de 
+qualquer intervenção no âmbito desta CONCESSÃO, não será admitida a CERTIFICAÇÃO 
+DE QUALIDADE por amostragem, devendo a INSPEÇÃO ACREDITADA ser realizada na 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 6
+
+
+Folha 7 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+totalidade dos documentos. 
+4. 
+DOS PROJETOS FUNCIONAIS 
+4.1. 
+Com antecedência mínima de 30 (trinta) dias da data programada para o envio dos 
+PROJETOS FUNCIONAIS, inclusive no caso de novos investimentos, a CONCESSIONÁRIA 
+deverá enviar à ARTESP a GRID. 
+4.2. 
+Os PROJETOS FUNCIONAIS somente poderão ser encaminhados à ARTESP após a 
+aceitação da GRID, cujo prazo para manifestação da ARTESP é de até 15 (quinze) dias 
+contados do envio pela CONCESSIONÁRIA. 
+4.2.1. 
+Caso seja solicitado pela ARTESP, a CONCESSIONÁRIA deverá promover ajustes 
+na GRID e submetê-la à ARTESP em até 10 (dez) dias contados da solicitação, que 
+deverá se manifestar sobre a GRID ajustada em até 10 (dez) dias contados do 
+recebimento. 
+4.2.2. 
+Caso a CONCESSIONÁRIA entenda necessário, após o envio ou aprovação do 
+GRID, poderá gerar ou encaminhar à ARTESP a GAID (Guia de Alteração de Índice 
+de Documento). O prazo transcorrido entre o envio ou aprovação da GRID e o envio 
+da GAID será acrescido àquele inicialmente previsto para a ARTESP se manifestar 
+em relação à GRID. 
+4.3. 
+ Os 
+PROJETOS 
+FUNCIONAIS 
+deverão 
+contemplar 
+o 
+equacionamento 
+de 
+INTERFERÊNCIAS com os sistemas de infraestrutura e de serviços públicos existentes e 
+futuros, de acordo com as informações disponíveis, especialmente os sistemas viários e o 
+estabelecimento de acessos a sistemas de transporte, bem como a compatibilização da 
+nova infraestrutura com quaisquer acessos existentes. 
+4.4. 
+Os PROJETOS FUNCIONAIS deverão contemplar contramedidas apontadas pela 
+inspeção/auditoria de segurança viária (regrado no ANEXO 5) de forma a mitigar locais de 
+risco e melhorar a classificação de segurança do SISTEMA RODOVIÁRIO. Os PROJETOS 
+FUNCIONAIS deverão ainda ser analisados e aprovados pelo profissional responsável pela 
+segurança viária da CONCESSIONÁRIA, que deverá garantir que a proposição apontada 
+no PROJETO FUNCIONAL atende todos os parâmetros de segurança viária. 
+4.5. 
+Os PROJETOS FUNCIONAIS deverão ser elaborados tendo como referência mínima o 
+Estudo de Viabilidade Técnico-Econômico e Ambiental – EVTEA, sempre que aplicável, e 
+os estudos funcionais orientativos publicados junto à documentação do EDITAL. Os 
+PROJETOS FUNCIONAIS somente serão considerados entregues se contemplarem: 
+i. 
+Classe da Rodovia: a rodovia deverá ser classificada conforme item 5.1 
+(Classificação Técnica de Vias) da Instrução para a elaboração de projetos 
+geométricos do DER (IP- DE- F00/001 – 2005); 
+ii. 
+Velocidade do Projeto: a velocidade do projeto, antes e depois da execução do 
+investimento; 
+iii. 
+Características da Região: a característica da região em que a obra estará situada 
+analisada em um raio mínimo de 1km a mais sobre a abrangência da obra em 
+questão, que deverá levar em conta dois critérios básicos: (a) a média ponderada 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 7
+
+
+Folha 8 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+das rampas da pista existente e (b) a classificação das rampas e curvas da pista 
+existente conforme manual HCM (2000) considerando os índices IGV e IGH, sendo 
+que o IGV classificará a região em plano, ondulado ou montanhoso, e o IGH 
+classificará segundo a sua sinuosidade. 
+iv. 
+Imagem/Foto Aérea 1:2000: todo o projeto deverá ser apresentado com imagem ou 
+foto aérea atualizada (mínimo de 6 (seis) meses); 
+v. 
+Norte Magnético: deverá ser representado no projeto o norte magnético, bem como 
+as cidades mais próximas; 
+vi. 
+Faixa de Domínio: FAIXA DE DOMÍNIO atual e projetada. Indicação na área de 
+influência da obra da circunscrição da CONCESSIONÁRIA, viário municipal, viário 
+federal, outras concessões, dentre outros; 
+vii. 
+Situação dos ACESSOS: indicação dos ACESSOS em toda a área de influência das 
+obras, com a listagem dos seguintes dados: 
+• 
+Identificação do ACESSO; 
+• 
+Localização (km e sentido da pista); 
+• 
+Nome do proprietário; 
+• 
+Atividade; 
+• 
+Se o ACESSO é autorizado ou não; 
+• 
+Se autorizado, deve ser apresentada a cópia do Termo de Autorização 
+emitida pelo DER 
+• 
+Se atende às normas vigentes; 
+• 
+Se será mantido aberto ou se será fechado; 
+• 
+Informar se o proprietário foi notificado; 
+• 
+Para os ACESSOS que serão fechados ou para os acessos municipais, 
+apresentar cópia da correspondência ou Notificação emitida (extrajudicial); 
+• 
+Indicar os limites de todas as propriedades e suas respectivas matrículas; 
+• 
+Para os ACESSOS que irão permanecer abertos, deve ser indicado os 
+respectivos encaixes nas pistas projetadas e certificar que nenhuma 
+propriedade ficará em condições de encravamento; 
+• 
+Para os ACESSOS que serão fechados, deve ser apresentada a solução 
+que foi adotada para cada um deles, e o novo itinerário deve ser indicado 
+em planta através de tarja grossa na cor azul. O fechamento deve ser 
+indicado em tarja grossa na cor vermelha (junto ao limite da faixa de 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 8
+
+
+Folha 9 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+domínio); 
+• 
+Nas alças de dispositivos e faixas de aceleração/desaceleração não deve 
+permanecer ACESSO para nenhuma propriedade, de forma a evitar o 
+entrelaçamento do fluxo veicular; 
+• 
+Indicar todas as áreas que serão desapropriadas; 
+• 
+Todos esses itens deverão ser representados na legenda do projeto. 
+• 
+No caso de a CONCESSIONÁRIA prever servidão de passagem para 
+garantir o desencravamento de propriedades, esta deve ser averbada nas 
+matrículas antes de iniciadas as obras. 
+viii. 
+Raios utilizados e larguras adotadas: a adoção de raios e larguras de acordo com o 
+veículo tipo de projeto WB-20, WB30T e WB-33D, bem como a simulação de giro e 
+a correspondente velocidade considerada; 
+ix. 
+Aderência 
+da 
+obra 
+(configuração 
+e 
+localização): 
+equacionamento 
+de 
+INTERFERÊNCIAS com os sistemas de infraestrutura e de serviços públicos 
+existentes e futuros, especialmente os sistemas viários e o estabelecimento de 
+acessos aos sistemas de transporte. Relatório justificativo caso haja alteração na 
+localização da obra em relação a sua posição nos termos do CONTRATO e 
+ANEXOS, sendo desnecessária a apresentação caso a alteração seja por conta da 
+mudança de tipologia, desde que atendidos todos os movimentos do projeto exigido 
+pelo EDITAL e que seja validado pelo estudo de tráfego; 
+x. 
+Estudo de tráfego: estudo de tráfego para a validação das tipologias apresentadas, 
+análise dos entrelaçamentos, convergências e divergências, embasamento técnico 
+para ampliação da obra e definição do veículo tipo de projeto, tendo como base nos 
+documentos técnicos da ARTESP, do HCM, AASHTO, DER e DNIT. Contagens / 
+pesquisas declaradas e estudos pertinentes para os casos de tráfego não 
+motorizados e pontos de parada de coletivos, de forma a identificar a demanda, 
+origem / destino, etc.; 
+xi. 
+Perfis Longitudinais, Seções Transversais Típicas, Gabaritos Verticais, Seções de 
+OAE: 
+xii. 
+Os perfis, seções e gabaritos deverão atender as características técnicas exigidas 
+nos ANEXOS; 
+xiii. 
+Indicação de mãos de direção: a indicação das mãos de direção de acordo com a 
+classificação da via projetada; 
+xiv. 
+Comprimento das Faixas de Aceleração e Desaceleração e tapers em conformidade 
+com o IP.DIN.002: o comprimento das faixas de aceleração e desaceleração e dos 
+tapers em conformidade com o IP.DIN.002. O projeto de SAU, PGF, Área de 
+Descanso, Paradas de Cargas Excepcionais e outras obras do Sistema Rodoviário 
+deverão ser dimensionados pela IP.DIN.002; 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 9
+
+
+Folha 10 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+xv. 
+Movimentos de tráfego previstos nos estudos funcionais orientativos; 
+xvi. 
+Atendimento às Instruções de Projeto do DER/SP, incluindo para os modelos BIM: 
+IP-DE- A00/001 (Elaboração e Apresentação de Documentos Técnicos), IP-DE-
+A00/002 (Codificação de Documentos Técnicos) e IP-DE-A00/003 (Elaboração e 
+Apresentação de Desenhos de Projetos em Meio Digital), em suas revisões mais 
+recentes, além da IP.DIN/001 – Projeto Funcional da ARTESP e demais normas 
+vigentes aplicáveis; 
+xvii. 
+Relatório Síntese contendo o memorial descritivo da obra, relação de todos os 
+documentos produzidos (LD) e rastreabilidade destes, plano de implantação de obra 
+(segmentação e prazos), todas as premissas, diretrizes e critérios que nortearão o 
+detalhamento do PROJETO EXECUTIVO, além da relação das principais 
+especificações técnicas a serem seguidas; 
+xviii. Conforme o caso, a identificação de pontos de tráfego não motorizados com 
+presença de pedestre, ciclistas e pontos/paragens de ônibus (regular e/ou irregular), 
+pontos de paradas de coletivos (regulares e irregulares) com contagens e estudos 
+pertinente de forma a identificar demanda, origem e destino, infraestrutura atual, 
+etc.; 
+xix. 
+Identificação de todos os investimentos futuros previstos no CONTRATO e na área 
+de influência da obra; e 
+xx. 
+Apresentar check-list com o atendimento a todos os itens acima. 
+4.6. 
+A ARTESP deverá se pronunciar sobre a admissibilidade dos PROJETOS FUNCIONAIS em 
+até 45 (quarenta e cinco) dias do seu recebimento, manifestando a sua aceitação formal ou 
+eventuais ajustes, se necessário. 
+4.6.1. A manifestação da ARTESP pela inadmissibilidade do PROJETO FUNCIONAL em 
+decorrência do não atendimento aos requisitos previstos nos itens 4.4 e 4.5, acima, 
+não altera o prazo previsto no item 1.3 para que sejam caracterizados como 
+entregues os referidos PROJETOS FUNCIONAIS. 
+4.7. 
+Os ajustes solicitados nos termos do item 4.6 acima deverão ser apresentados pela 
+CONCESSIONÁRIA em até 20 (vinte) dias contados do recebimento da solicitação da 
+ARTESP, que deverá se manifestar sobre os ajustes realizados no prazo de até 30 (trinta) 
+dias contados do envio pela CONCESSIONÁRIA. 
+4.8. 
+Caso a ARTESP entenda, justificadamente, que os ajustes promovidos pela 
+CONCESSIONÁRIA não permitem que o PROJETO FUNCIONAL seja considerado 
+admitido, nos termos dos itens 4.4 e 4.5 e supra, a controvérsia deverá ser apreciada pela 
+Diretoria de Assuntos Institucionais para emissão de parecer sobre a admissibilidade, no 
+prazo de 10 (dez) dias, sujeitando-se a Concessionária à aplicação de penalidade pela não 
+entrega do PROJETO FUNCIONAL, nos termos do ANEXO 11. 
+4.9. 
+Uma vez admitido o PROJETO FUNCIONAL, a ARTESP deverá se manifestar, de forma 
+consolidada e não fragmentada, sobre a sua aprovação no prazo de até 90 (noventa) 
+dias contados da admissão, prorrogável por igual período, desde que por ato devidamente 
+motivado, podendo solicitar correções e ajustes à CONCESSIONÁRIA. 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 10
+
+
+Folha 11 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+4.9.1. 
+Caso a ARTESP solicite correções no PROJETO FUNCIONAL nos termos do item 
+4.9 acima, a CONCESSIONÁRIA deverá implementá-las no prazo de até 30 (trinta) 
+dias. 
+4.10. Diante das correções apresentadas pela CONCESSIONÁRIA nos termos item 4.9 acima, a 
+ARTESP deverá se pronunciar, de forma consolidada e não fragmentada, no prazo de até 
+45 (quarenta e cinco) dias contados do recebimento, podendo solicitar derradeiras correções 
+que devem ser implementadas pela CONCESSIONÁRIA no prazo de 7 (sete) dias, contados 
+do recebimento da solicitação. 
+4.11. Sobre as correções previstas no item 4.10 acima, a ARTESP deverá se manifestar no prazo 
+de até 45 (quarenta e cinco) dias contados do recebimento, prorrogável por igual período, 
+desde que por ato devidamente motivado. 
+4.12. Caso a ARTESP entenda, justificadamente, que os ajustes promovidos pela 
+CONCESSIONÁRIA não permitem que o PROJETO FUNCIONAL seja considerado 
+aprovado, a controvérsia deverá ser apreciada pela Diretoria de Assuntos Institucionais, para 
+emissão de parecer sobre a aprovação, no prazo de 10 (dez) dias, sujeitando-se a 
+CONCESSIONÁRIA à aplicação de penalidade pela não entrega do PROJETO 
+FUNCIONAL, nos termos do ANEXO 11. A não aprovação do projeto funcional, devido a 
+necessidade de correção pela CONCESSIONÁRIA, não a exime das penalidades previstas 
+por atrasos de obra. 
+4.13. Ao final do processo de aprovação, a CONCESSIONÁRIA deverá disponibilizar uma versão 
+final do Modelo BIM Integrado do PROJETO FUNCIONAL (MBIM – PF) no SISPROJ. 
+4.14. Considerando a alocação de riscos disposta no CONTRATO, sem prejuízo da avaliação da 
+extensão das consequências de cada evento, não serão objeto de reequilíbrio as seguintes 
+adequações do PROJETO FUNCIONAL elaborado por parte da CONCESSIONÁRIA, em 
+relação ao estudo funcional orientativo do EDITAL: 
+i. 
+Ampliação do escopo da obra prevista no PLANO ORIGINAL DE INVESTIMENTOS 
+para a adequação às novas demandas de tráfego detectadas à época da elaboração 
+do PROJETO FUNCIONAL por parte da CONCESSIONÁRIA, desde que a ampliação 
+não decorra de risco alocado ao PODER CONCEDENTE; 
+ii. 
+Ajuste do escopo da obra para adequação às interferências detectadas à época da 
+elaboração do projeto funcional por parte da CONCESSIONÁRIA (exemplos: 
+interferências com vias locais, com OAEs locais, com outras Concessionárias de 
+serviços, sistemas de infraestrutura e serviços públicos de transporte), desde que a 
+ampliação não decorra de risco alocado ao PODER CONCEDENTE; e 
+iii. 
+Ampliação do escopo de obra para adequação às exigências dos órgãos ambientais 
+no âmbito do licenciamento para a execução dos serviços. 
+5. 
+DOS PROJETOS EXECUTIVOS 
+5.1. 
+Os PROJETOS EXECUTIVOS deverão seguir as premissas, conceitos e eventuais ressalvas 
+do PROJETO FUNCIONAL previamente aprovado. 
+5.2. 
+Os PROJETOS EXECUTIVOS deverão ainda contemplar o equacionamento de 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 11
+
+
+Folha 12 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+interferências com os sistemas de infraestrutura e de serviços públicos existentes e futuros, 
+de acordo com as informações disponíveis, especialmente os sistemas viários e o 
+estabelecimento de acessos a sistemas de transporte. 
+5.3. 
+Os PROJETOS EXECUTIVOS deverão ser entregues à ARTESP por meio do SISPROJ, a 
+partir da sua implementação, para cadastrar na íntegra, toda a documentação referente à 
+tramitação dos referidos projetos, com antecedência mínima de 30 (trinta) dias antes da data 
+programada para o início das obras, devidamente certificados. 
+5.3.1. A GRID deverá ser entregue com antecedência mínima de 30 (trinta) dias para a 
+entrega dos PROJETOS EXECUTIVOS, conforme prazo inicialmente estabelecido. 
+5.3.2. Caso durante o desenvolvimento do PROJETO EXECUTIVO, por qualquer motivo, 
+haja impedimento de implementação de solução conforme os conceitos, premissas, 
+diretrizes e eventuais ressalvas estabelecidas no PROJETO FUNCIONAL 
+previamente aprovado pela ARTESP, a CONCESSIONÁRIA poderá apresentar o 
+eventual problema, suas justificativas, e eventuais soluções sugeridas para nova 
+análise da ARTESP, anteriormente à emissão do PROJETO EXECUTIVO para 
+análise da certificadora. 
+5.3.3. Para os projetos executivos de sinalização e dispositivos de contenção viária, deve 
+ser feita análise e certificação de todas as pranchas, não sendo admitidas análises 
+de forma amostral. 
+5.3.4. Após o envio da GRID, a CONCESSIONÁRIA poderá enviar a GAID à ARTESP, 
+sempre que for necessário. 
+5.4. 
+A CONCESSIONÁRIA deverá disponibilizar a versão final do Modelo BIM Integrado do 
+Projeto Executivo (MBIM-PE) antes do início das obras. 
+5.5. 
+A ARTESP poderá solicitar esclarecimentos ou correções no PROJETO EXECUTIVO 
+certificado apresentado em até 30 (trinta) dias. A solicitação, pela ARTESP, de 
+esclarecimentos ou correções nos projetos apresentados, terá como consequência o reinício 
+da contagem do prazo para a aprovação. 
+5.6. 
+Na documentação do PROJETO EXECUTIVO, deverá constar o estudo de pelo menos duas 
+áreas alternativas (por tipo) com potencial para serem utilizadas como áreas de apoio de 
+obra. Tal condição torna-se especialmente importante para as seguintes áreas de apoio: 
+áreas de bota-fora; áreas de empréstimo e áreas para instalação de canteiros. 
+5.7. 
+Sem prejuízo da obtenção do CERTIFICADO DE QUALIDADE do PROJETO EXECUTIVO, 
+a CONCESSIONÁRIA deverá submeter os PROJETOS EXECUTIVOS necessários para a 
+obtenção da LICENÇA AMBIENTAL DE INSTALAÇÃO para as Ampliações Principais à 
+Autoridade Ambiental competente, observando os prazos limites que devem ser cumpridos 
+para que seja possível o devido atendimento aos prazos previstos no CRONOGRAMA 
+FÍSICO-EXECUTIVO do PLANO ORIGNAL DE INVESTIMENTOS aprovado pela ARTESP. 
+5.8. 
+A CONCESSIONÁRIA deverá inserir, em até 12 (doze) meses após a implementação do 
+SISPROJ, todos os projetos de engenharia previamente submetidos à ARTESP. 
+6. 
+DA DOCUMENTAÇÃO AS BUILT 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 12
+
+
+Folha 13 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+6.1. 
+A CONCESSIONÁRIA deverá emitir documentação As built de todas as obras previstas no 
+PLANO DE INVESTIMENTOS. 
+6.2. 
+A documentação As built deverá ser gerada a partir da atualização final dos modelos 
+MBBIM-AB e MBIM-COMP Integrado Comparativo (MBIM COMP). A documentação deverá 
+conter uma análise comparativa baseada no modelo BIM Integrado Comparativo (MBIM-
+COMP). Tal análise deverá atestar que a obra foi realizada em conformidade com o que estava 
+previsto no PROJETO EXECUTIVO. 
+6.3. 
+A CONCESSIONÁRIA é responsável por toda e qualquer informação contida na 
+documentação As built e poderá ser penalizada se forem detectadas omissões de 
+informações relevantes ou inconsistências injustificadas entre o PROJETO EXECUTIVO e 
+a obra executada, que possam vir a comprometer o bom desempenho da CONCESSÃO. 
+6.4. 
+A documentação As Built deverá ser enviada à ARTESP em até 45 (quarenta e cinco) dias 
+da conclusão das obras, assim entendida a sua aferição pela ARTESP nos termos do item 
+10 abaixo, devendo ser disponibilizada no SISPROJ se este sistema digital já estiver 
+implementado pela CONCESSIONÁRIA, sendo que a GRID ou GAID devem ser 
+disponibilizadas em até 15 (quinze) dias da conclusão das obras. 
+6.5. 
+Caso o SISPROJ ainda não tenha sido implementado ou, mesmo que já o tenha sido, haja 
+solicitação expressa da ARTESP, a documentação As built final deverá ser entregue à 
+ARTESP pela CONCESSIONÁRIA, conforme regramento da ARTESP: 
+Nome da CONCESSIONÁRIA Rodovia Obra Item de serviço 
+6.6. 
+A documentação As Built será considerada conforme se atender minimamente aos 
+seguintes requisitos: 
+i. 
+Entrega de Documentação completa, incluindo Certificado de Conclusão de Obras 
+emitido por CERTIFICADORA nos termos do presente Contrato; 
+ii. 
+Entrega dos Modelos BIM devidamente atualizados (MBIM-AB e MBIM-COMP) e 
+com o nível de detalhamento de informações requerido pela ARTESP; 
+iii. 
+Comprovação de atualização das informações de cadastro viário e cadastro de 
+ativos nos Sistemas digitais da CONCESSÃO (SISATIVOS e SIR); 
+iv. 
+Comprovação de atualização/consolidação final de informações nos sistemas 
+digitais da CONCESSÃO (SISOBRAS, SIGECON, SISQUALI, SGP etc.); 
+v. 
+Comprovação de atualização do MDSR; e 
+vi. 
+Comprovação de atualização das informações no SISGIS. 
+7. 
+DAS CONDIÇÕES PARA INÍCIO DAS OBRAS 
+7.1. 
+As obras de responsabilidade da CONCESSIONÁRIA, que envolvam a apresentação de 
+projetos de engenharia, poderão ser iniciadas, observadas as seguintes condições: 
+i. 
+Obtenção e manutenção da aprovação do PROJETO FUNCIONAL perante a 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 13
+
+
+Folha 14 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+ARTESP; 
+ii. 
+Obtenção e manutenção de LICENÇA AMBIENTAL PRÉVIA e de LICENÇA 
+AMBIENTAL DE INSTALAÇÃO perante os órgãos ambientais responsáveis; 
+iii. 
+Apresentação do PROJETO EXECUTIVO e de seu respectivo CERTIFICADO 
+DE QUALIDADE à ARTESP, conforme disposto no item 5; 
+iv. 
+Emissão de Decreto de Utilidade Pública; e 
+v. 
+Desapropriações necessárias ou reassentamentos, conforme aplicável. 
+7.2. 
+A apresentação do CERTIFICADO DE QUALIDADE do PROJETO EXECUTIVO não exclui 
+a responsabilidade funcional do Engenheiro Responsável Técnico da CONCESSIONÁRIA, 
+nem isenta a CONCESSIONÁRIA de reparar toda e qualquer inconformidade nas obras 
+iniciadas, sendo certo que todo o ônus do refazimento da obra será responsabilidade da 
+CONCESSIONÁRIA. 
+7.3. 
+O atraso na entrega do PROJETO EXECUTIVO certificado não será tido como justificativa 
+apta para o atraso das obras, sendo que a CONCESSIONÁRIA estará sujeita à aplicação 
+de penalidades também pelo atraso do início das obras neste caso, nos termos do ANEXO 
+11. 
+8. 
+DO ACOMPANHAMENTO DAS OBRAS COM USO DA TECNOLOGIA BIM 
+8.1. 
+Para as obras previstas para o segundo ano da CONCESSÃO em diante, deverão ser 
+inseridas e atualizadas, mensalmente, informações sobre o andamento das obras no modelo 
+BIM inicialmente elaborado no PROJETO EXECUTIVO (MBIM-PF), com nível de 
+detalhamento a ser definido em especificação técnica da ARTESP. Este procedimento irá 
+ensejar no desenvolvimento do Modelo BIM Integrado do Acompanhamento de Obras/As 
+Built (MBIM-AB). 
+8.2. 
+O acompanhamento mensal deverá contar com o registro e manutenção em banco de dados 
+de imagens aéreas de alta definição georreferenciadas a serem disponibilizadas para 
+visualização no SISGIS para as obras lineares (duplicações, faixas adicionais, 
+prolongamentos etc.). 
+8.3. 
+Para os elementos rodoviários que requeiram maior detalhamento ou detalhamento 
+complementar (OAEs, túneis, passarelas, edificações etc.) para registro e determinação do 
+status de andamento das obras, deverão ser realizados levantamentos topográficos 
+complementares, com uso de instrumentos de captura de realidade georreferenciado (foto 
+levantamento de alta definição com uso de drones ou tecnologia equivalente ou superior) 
+que forneçam nível de detalhamento adequado (em termos de imagem e nuvem de pontos), 
+para registro e determinação do andamento de cada frente de obra e contemplando 
+integralmente a área da referida obra em andamento. 
+8.4. 
+Independentemente do disposto no item 8.3, a CONCESSIONÁRIA deverá realizar coleta 
+de imagens com drones, mensalmente, para todas as obras em andamento do SISTEMA 
+CONCEDIDO. As imagens deverão ser passíveis de serem transmitidas em tempo real para 
+o CCO da CONCESSIONÁRIA, bem como posteriormente integradas ao CCI da ARTESP. 
+Nas fotos deverão ser registrados data, hora e posicionamento geográfico (latitude e 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 14
+
+
+Folha 15 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+longitude em graus decimais). A CONCESSIONÁRIA deverá alimentar as informações 
+coletadas (fotos e modelo 3D restituído) no sistema eletrônico SIR da CONCESSÃO. A 
+ARTESP poderá solicitar, na quantidade máxima de doze vezes por ano, vistoria 
+extraordinária, com gravação de imagens, armazenamento e disponibilização das imagens 
+no sistema eletrônico SIR da CONCESSÃO, e eventualmente restituição 3D dos elementos, 
+além das vistorias ordinárias citadas, de quaisquer elementos do sistema viário contendo 
+obras em andamento. Neste caso, o trajeto e os elementos a serem vistoriados poderão ser 
+definidos pela própria ARTESP. A disponibilização das imagens no sistema SIR deverá ter 
+prazo não superior a 5 dias após a coleta, podendo ser, preferencialmente, em tempo real. 
+8.5. 
+A captura de realidade deverá ser apresentada em formato de modelos digitais de elevação 
+(modelos tridimensionais) dos elementos da obra com detalhamento suficiente para 
+verificação dimensional e qualitativa dos elementos. Os resultados dos levantamentos 
+complementares 
+deverão 
+ser 
+retroalimentados 
+no 
+Modelo 
+BIM 
+Integrado 
+do 
+Acompanhamento de Obras/As Built, bem como no SISGIS com periodicidade quinzenal. 
+8.6. Tal acompanhamento também deverá ensejar obrigatoriamente na geração do Modelo BIM 
+Comparativo (MBIM-COMP) entre o projeto executivo inicialmente elaborado no PROJETO 
+EXECUTIVO (MBIM-PE) e o Modelo BIM do Acompanhamento de Obras / As Built (MBIM-
+AB). Todos os modelos comparativos (MBIM-COMP) gerados deverão ser disponibilizados 
+no SISPROJ, a partir da sua implementação, também em periodicidade quinzenal. 
+8.7. 
+Na entrega da obra, deverá ser realizado um levantamento topográfico com escaneamento 
+laser ou tecnologia equivalente ou superior contemplando todos os elementos da obra, 
+inclusive elementos de sinalização e segurança. Para os elementos rodoviários que 
+requeiram maior detalhamento ou detalhamento complementar (OAEs, túneis, passarelas, 
+edificações etc.), deverão ser realizados levantamentos topográficos complementares, com 
+uso de instrumentos de captura de realidade georreferenciados (foto levantamento de alta 
+definição com drone ou tecnologia equivalente ou superior). 
+8.8. Tal levantamento deverá conter informações suficientes (em termos de imagens e nuvem de 
+pontos) para que possa ser gerada a versão final do Modelo BIM Integrado do 
+Acompanhamento de Obras/As Built (MBIM-AB), bem como para que possa ser gerada a 
+versão final do modelo BIM Comparativo (MBIM-COMP). Tanto os levantamentos 
+topográficos quanto os modelos BIM gerados a partir do procedimento indicado deverão 
+conter informações qualitativas e quantitativas suficientes para que a equipe de Fiscalização 
+de Obras da ARTESP possa atestar a conclusão adequada das obras. 
+9. 
+DA NOTIFICAÇÃO DE CONCLUSÃO DAS OBRAS 
+9.1. 
+A CONCESSIONÁRIA deverá comunicar à ARTESP sobre a conclusão da obra, por meio 
+de uma “Notificação de Conclusão”, a ser enviada em até 30 (trinta) dias antes da data 
+estipulada para respectiva conclusão. Este documento, que deverá ser aprovado pela 
+ARTESP em até 30 (trinta) dias contados do recebimento da Notificação de Conclusão 
+encaminhada pela CONCESSIONÁRIA, após as competentes vistorias que atestem a 
+liberação da via para entrada em operação em segurança, servirá como parâmetro para 
+estipulação da data de finalização das obras 
+9.1.1. 
+A CONCESSIONÁRIA deverá apresentar à ARTESP todos os documentos 
+comprobatórios de solicitação para obtenção da LICENÇA DE OPERAÇÃO. 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 15
+
+
+Folha 16 de 16 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+  
+ 
+9.2. 
+Se durante as vistorias forem identificadas “não conformidades” (com referência aos 
+projetos, atendimento às normas e especificações e obrigações contratuais), a ARTESP 
+emitirá relatório técnico notificando a CONCESSIONÁRIA sobre as irregularidades 
+constatadas. Mediante esse relatório, a CONCESSIONÁRIA, às suas expensas, deverá 
+providenciar as devidas correções e emitir uma nova “Notificação de Conclusão”. Após envio 
+da referida notificação, a ARTESP realizará novas vistorias para atestar a liberação da via. 
+9.2.1. 
+A liberação provisória segura ao tráfego da via aos USUÁRIOS poderá ocorrer antes 
+do aceite da obra, sempre mediante autorização da ARTESP, mediante 
+compromisso da CONCESSIONÁRIA de superação das “não conformidades” 
+identificadas em até 30 (trinta) dias, prorrogáveis a critério da ARTESP, sob pena 
+de aplicação das penalidades dispostas no ANEXO 11.  
+9.2.2. 
+Em nenhuma hipótese poderá a CONCESSIONÁRIA proceder à liberação da via 
+sem a prévia autorização da ARTESP. 
+9.3. 
+Após a conclusão das obras de ampliação e concomitantemente com a elaboração da 
+documentação As Built, a CONCESSIONÁRIA deverá realizar novo levantamento 
+topográfico detalhado contemplando a nova conformação física de toda a área modificada 
+pelo projeto até os limites da FAIXA DE DOMÍNIO. Com base neste levantamento, deverão 
+ser atualizadas, nos Sistemas de Gerenciamento Digitais da CONCESSIONÁRIA, 
+informações relevantes à análise da segurança da via (declividades da pista e outras 
+informações relevantes que venham a ser solicitadas pela ARTESP). 
+10. 
+DAS CONDIÇÕES PARA O RECEBIMENTO DAS OBRAS PELA ARTESP 
+10.1. As obras somente poderão ser consideradas plenamente concluídas quando: 
+i. 
+a CONCESSIONÁRIA apresentar o respectivo CERTIFICADO DE QUALIDADE 
+das Obras à ARTESP; e 
+ii. 
+a ARTESP reconhecer, de forma expressa, a conclusão dos investimentos 
+previstos, em conformidade com os PROJETOS FUNCIONAIS e EXECUTIVOS. 
+10.2. Subsiste a responsabilidade da CONCESSIONÁRIA com relação aos projetos mesmo 
+após o recebimento das obras pela ARTESP. 
+Documento Apêndice H - Procedimento para a apresentação de p (0059824056)         SEI 134.00005927/2024-51 / pg. 16

@@ -1,0 +1,3129 @@
+ 
+ 
+Folha 1 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 07 
+ 
+ 
+SERVIÇOS CORRESPONDENTES ÀS FUNÇÕES DE AMPLIAÇÃO 
+ 
+ 
+CONCESSÃO DOS SERVIÇOS PÚBLICOS DE AMPLIAÇÃO, OPERAÇÃO, MANUTENÇÃO E 
+REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A EXPLORAÇÃO DO SISTEMA 
+RODOVIÁRIO DO LOTE DENOMINADO NOVA RAPOSO 
+ 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 1
+
+
+ 
+ 
+Folha 2 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+1. 
+INTRODUÇÃO 
+ 
+Este ANEXO apresenta o regramento pertinente às funções de ampliação e deverá ser observado 
+pela CONCESSIONÁRIA ao longo de todo o PRAZO DA CONCESSÃO. Como condição para a 
+assinatura do CONTRATO, a CONCESSIONÁRIA deverá apresentar o POI, contendo obras e 
+investimentos previstos e os respectivos CRONOGRAMAS FÍSICO-EXECUTIVOS, com marcos 
+iniciais, intermediários e finais. A CONCESSIONÁRIA deverá implementar o POI após sua aprovação 
+pela ARTESP e a partir da data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL.  
+ 
+De acordo com o pertinente regramento contratual, o POI poderá ser readequado e a necessidade 
+de realização de novos investimentos poderá ser revista durante as REVISÕES ORDINÁRIAS, de 
+acordo com os trâmites e as normas estabelecidas no CONTRATO. 
+ 
+Com exceção daqueles que não estiverem vinculados a marcos contratuais fixos, os prazos para o 
+cumprimento das obrigações deste ANEXO estão consolidados no Quadro de Prazos previsto no 
+item 5. 
+ 
+Os sistemas digitais deverão ser implantados pela CONCESSIONÁRIA nos prazos e termos 
+previstos no APÊNDICE F. 
+ 
+O ANEXO 21 é vinculante para os seguintes propósitos: (i) valor total de cada item de investimento 
+para fins de aferição de desequilíbrio; (ii) ano de fim para apresentação do POI em relação a cada 
+item de investimento; e (iii) descrição de cada item de investimento relacionado à ampliação 
+principal, demais ampliações e melhoramentos e conservação especial, salvo indicação contrária nos 
+ANEXOS e/ou APÊNDICES. 
+ 
+A distribuição dos valores nos anos em que serão realizados os investimentos, proposta no ANEXO 
+21, é meramente referencial e não vinculativa, devendo a CONCESSIONÁRIA apresentar no POI a 
+data de fim dos investimentos, dentro do ano previsto no EVTE. 
+ 
+O POI deverá também observar o agrupamento de investimentos correlatos, especialmente as 
+verbas de projeto e certificação de projeto e obra, bem como implantação de canteiro de obras. 
+ 
+(a) 
+Disposições Gerais 
+ 
+A CONCESSIONÁRIA é responsável pela elaboração e obtenção da aprovação dos PROJETOS 
+FUNCIONAIS junto a ARTESP, que deverão ser entregues nos prazos e termos previstos no 
+APÊNDICE H. 
+ 
+A elaboração e apresentação dos PROJETOS EXECUTIVOS, bem como a sua certificação, deverão 
+seguir os termos do APÊNDICE H. 
+ 
+A CONCESSIONÁRIA deverá apresentar um Plano de Implementação e Desenvolvimento de 
+Projetos em Modelagem BIM (PD-BIM) conforme os termos e prazos constantes do APÊNDICE H. 
+ 
+Os parâmetros geométricos de implantação das pistas novas e a adequação das pistas existentes, 
+nos casos de trechos sujeitos à duplicação, deverão estar em conformidade com os parâmetros 
+mínimos previstos nos ANEXOS, bem como com o Manual de Projetos Geométricos do DER-SP. 
+ 
+Caso a CONCESSIONÁRIA opte pela implantação de solução alternativa da periodicidade prevista 
+para os serviços de conservação, manutenção e revitalização, conforme disposto no ANEXO 21, 
+poderá apresentar para aprovação da ARTESP programa distinto, não ensejando reequilíbrio 
+econômico-financeiro, sem prejuízo da necessidade do atendimento integral dos IQD e Indicadores 
+de Desempenho previstos no ANEXO 3, ANEXO 5 e no ANEXO 6. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 2
+
+
+ 
+ 
+Folha 3 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+(b) 
+Ciclo Inicial de Ampliações Previstas e Adequação de Cronograma de Investimentos 
+ 
+O Ciclo Inicial de Ampliações Previstas contempla as intervenções para ampliação de capacidade e 
+melhorias do SISTEMA RODOVIÁRIO. Os investimentos especificados neste ANEXO deverão ser 
+contemplados no POI a ser apresentado pela ADJUDICATÁRIA e aprovado pela ARTESP, como 
+condição para assinatura do CONTRATO, conforme o regramento estabelecido pelo EDITAL. 
+ 
+A aprovação do POI se dará após a apresentação do documento por parte da CONCESSIONÁRIA e 
+a análise deste por parte da ARTESP até a data marcada para a assinatura do CONTRATO, 
+conforme regramento do EDITAL. As condições para sua aprovação são: (i) a CONCESSIONÁRIA 
+deverá considerar todos os investimentos obrigatórios e (ii) deverão ser respeitados os marcos finais 
+estabelecidos neste ANEXO e no ANEXO 21, sendo que a distribuição dos marcos iniciais e 
+intermediários será de livre disposição da CONCESSIONÁRIA. 
+ 
+O POI, a ser apresentado pela ADJUDICATÁRIA, deverá conter detalhamento do cronograma de 
+cada um dos investimentos planejados, bem como o detalhamento da data prevista para a 
+implantação de todos os equipamentos, veículos, sistemas e edificações operacionais previstos 
+neste período, respeitando os prazos finais apresentados neste ANEXO, e apresentando o avanço 
+físico esperado. O POI será vinculante para a CONCESSIONÁRIA. 
+ 
+O PLANO DE SEGUROS e a GARANTIA DE EXECUÇÃO prestada pela CONCESSIONÁRIA 
+deverão refletir, no mínimo, a necessidade de assegurar o cumprimento das atividades necessárias à 
+conclusão de cada investimento apresentado no POI, conforme o regramento estabelecido no 
+CONTRATO. 
+ 
+A antecipação de obra prevista em POI ou PLANO DE INVESTIMENTO vigente, por proposição da 
+CONCESSIONÁRIA, deverá ser apresentada para a ARTESP, que deverá deliberar se a 
+implementação e o consequente reequilíbrio econômico-financeiro será realizado em sede de 
+REVISÃO ORDINÁRIA ou de REVISÃO EXTRAORDINÁRIA, se for o caso. 
+ 
+Nos casos de antecipação de obra de duplicação em áreas adjacentes a investimentos já em 
+execução, bem como a antecipação do(s) respectivo(s) dispositivo(s) daquele(s) trecho(s) que 
+seja(m) essencial(is) à liberação da via para entrada em operação com segurança, por iniciativa da 
+CONCESSIONÁRIA, estes dependerão apenas de anuência prévia da ARTESP. Nestas hipóteses, a 
+CONCESSIONÁRIA poderá dar início às obras imediatamente após a obtenção da anuência prévia e 
+não se configurará EVENTO DE DESEQUILÍBRIO.  
+ 
+Nos casos previstos no parágrafo acima, o pedido de anuência prévia deverá ser apresentado à 
+ARTESP de forma isolada, separadamente de qualquer outro pleito de antecipação ou postergação 
+de investimento, e instruído com a identificação do(s) item(ns) no CRONOGRAMA FÍSICO e 
+documentação pertinentes ao(s) investimento(s) que se pretenda antecipar, inclusive o(s) 
+respectivo(s) dispositivo(s), se houver. 
+ 
+A CONCESSIONÁRIA deverá comunicar por escrito e justificadamente os eventuais atrasos iniciais e 
+finais de obra conforme PLANO DE INVESTIMENTOS, sem prejuízo da análise e validação pela 
+ARTESP, quanto ao mérito, e da aplicação das penalidades próprias e da recomposição do equilíbrio 
+econômico-financeiro decorrente do atraso. 
+ 
+(c) 
+Instrumentação de Pista 
+ 
+Deverá ser prevista, concomitantemente à implantação da ampliação principal, a instrumentação 
+completa (instrumentação do pavimento e posto de aquisição de dados climáticos) de duas seções 
+do pavimento da nova pista, preferencialmente em local próximo a seção de pesagem de veículos 
+comerciais. A instrumentação deverá seguir as especificações constantes na publicação “Projeto de 
+Instrumentação para Medição de Deformação do Pavimento (DNIT, 2008)”. Deverão ser fornecidos 
+para a ARTESP pares de usuário/senha para acesso ao sistema de aquisição automática e registro 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 3
+
+
+ 
+ 
+Folha 4 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+de dados de campo (obrigatoriamente em plataforma web). Deverá ser prevista integração com o 
+CCI da ARTESP e com os demais sistemas eletrônicos de gerenciamento da CONCESSÃO (em 
+especial o SISGIS). O cronograma para a execução desta obrigação deve obedecer aos prazos 
+estabelecidos no Item 5 (Quadro de Prazos) deste ANEXO. Deverá ser apresentado o PROJETO 
+EXECUTIVO desta obrigação quando da sua implantação, juntamente com o PROJETO 
+EXECUTIVO do respectivo trecho de duplicação, nos termos e prazos previstos no APÊNDICE H. 
+ 
+(d) 
+Pré-requisitos para início e continuidade das Obras 
+ 
+As obras só poderão ser iniciadas e ter sua continuidade plenamente garantida nos termos do 
+APÊNDICE H. 
+ 
+No caso de revogação ou alteração do status de algum dos documentos previstos no APÊNDICE H, 
+a CONCESSIONÁRIA poderá ser notificada pela ARTESP para proceder à paralisação das obras. 
+Neste caso, a CONCESSIONÁRIA deverá tomar todas as providências para regularização 
+tempestiva da documentação e retomada das obras, sob pena das sanções previstas no 
+CONTRATO, EDITAL e ANEXOS. 
+ 
+(e) 
+Pré-requisitos para recebimento das obras 
+ 
+As obras só poderão ser consideradas plenamente concluídas se a CONCESSIONÁRIA comprovar 
+atendimento às exigências previstas no APÊNDICE H. 
+ 
+(f) 
+Parâmetros técnicos mínimos 
+ 
+Os parâmetros técnicos mínimos a serem atendidos quando da elaboração dos projetos estão 
+indicados no item 3.2.2020 do presente ANEXO. 
+ 
+1.1. 
+PROJETOS FUNCIONAIS 
+ 
+(a) 
+Disposições Gerais 
+ 
+A apresentação do PROJETO FUNCIONAL deverá atender ao disposto no APÊNDICE H. 
+ 
+(b) 
+Licenciamento Ambiental 
+ 
+Sem prejuízo da obtenção da anuência prévia da ARTESP, a CONCESSIONÁRIA deverá submeter 
+os PROJETOS FUNCIONAIS necessários para a obtenção da LP e LI, para todas as obras de 
+ampliação, à autoridade ambiental competente, observando os prazos limites que devem ser 
+cumpridos para que seja possível o devido atendimento aos prazos previstos no CRONOGRAMA 
+FÍSICO-EXECUTIVO aprovado pela ARTESP. 
+ 
+(c) 
+Tramitação da Documentação 
+ 
+A tramitação dos PROJETOS FUNCIONAIS seguirá a tramitação prevista no APÊNDICE H. 
+ 
+1.2. 
+PROJETOS EXECUTIVOS 
+ 
+(a) 
+Disposições Gerais 
+ 
+Os PROJETOS EXECUTIVOS para implantação das obras seguirão os termos previstos no 
+APÊNDICE H. 
+ 
+O PROJETO EXECUTIVO deverá seguir as premissas, conceitos e eventuais ressalvas do 
+PROJETO FUNCIONAL previamente aprovado pela ARTESP.  
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 4
+
+
+ 
+ 
+Folha 5 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+(b) 
+Certificação de Qualidade de PROJETOS EXECUTIVOS 
+ 
+A CONCESSIONÁRIA deverá obter a certificação nos termos do APÊNDICE H e deverá utilizar o 
+SISPROJ, a partir de sua implementação, para cadastrar na íntegra toda a documentação referente à 
+tramitação dos PROJETOS EXECUTIVOS. 
+ 
+Para os projetos executivos de sinalização e dispositivos de contenção viária, deve ser feita análise e 
+certificação de todas as pranchas, não sendo admitidas análises de forma amostral, conforme 
+APÊNDICE H. 
+ 
+(c) 
+Licenciamento Ambiental 
+ 
+Sem prejuízo da obtenção do CERTIFICADO DE QUALIDADE do PROJETO EXECUTIVO, a 
+CONCESSIONÁRIA deverá submeter os PROJETOS EXECUTIVOS necessários para a obtenção da 
+Licença de Instalação para todas as obras de ampliação à autoridade ambiental competente, 
+observando os prazos limites que devem ser cumpridos para que seja possível o devido atendimento 
+aos marcos (inclusive intermediários) e prazos previstos no CRONOGRAMA FÍSICO-EXECUTIVO do 
+POI aprovado pela ARTESP. 
+ 
+1.3. 
+Fiscalização 
+ 
+(a) 
+Disposições Gerais 
+ 
+A CONCESSIONÁRIA deverá estabelecer um programa de fiscalização, acompanhamento da 
+execução, controle tecnológico e da qualidade dos serviços. Os custos do desenvolvimento e 
+aplicação do programa de fiscalização ocorrerão por conta da CONCESSIONÁRIA. 
+ 
+A CONCESSIONÁRIA deverá justificar, por escrito, eventuais atrasos de início e final de obra, 
+inclusive se houver atraso no cumprimento de marcos intermediários apresentado no PLANO DE 
+INVESTIMENTOS vigente, sem prejuízo da análise e validação pela ARTESP quanto ao mérito. 
+ 
+(b) 
+Certificação de Qualidade de Obras 
+ 
+A CONCESSIONÁRIA deverá obter CERTIFICADO DE QUALIDADE para todas as obras previstas 
+na CONCESSÃO, nos termos e prazos do APÊNDICE H. 
+ 
+(c) 
+Gerenciamento do Controle de Qualidade das Obras 
+ 
+A CONCESSIONÁRIA deverá implementar o operacionalizar um Sistema Digital Integrado de 
+Gerenciamento do Controle Tecnológico e da Qualidade das Obras (SISQUALI), nos termos e prazos 
+do APÊNDICE F. 
+ 
+As informações de controle de qualidade deverão ser alimentadas no sistema, concomitantemente 
+ao andamento das obras. 
+ 
+(d) 
+Acompanhamento de Obras com Uso de Tecnologia BIM 
+ 
+A CONCESSIONÁRIA deverá inserir informações relativas ao acompanhamento das obras em 
+modelo BIM adequado, nos termos e prazos constantes do APÊNDICE H. 
+ 
+1.4. 
+Conclusão 
+ 
+Uma vez aprovado o POI e os respectivos CRONOGRAMAS FÍSICO-EXECUTIVOS por parte da 
+ARTESP, as datas para conclusão de cada item de serviço/investimento deverão ser cumpridas pela 
+CONCESSIONÁRIA. O não cumprimento do CRONOGRAMA FÍSICO-EXECUTIVO por parte da 
+CONCESSIONÁRIA, ou o atraso no cumprimento destas datas, etapas, segmentos e marcos 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 5
+
+
+ 
+ 
+Folha 6 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+sujeitarão a CONCESSIONÁRIA às penalidades previstas no EDITAL, no CONTRATO e seus 
+ANEXOS. 
+ 
+1.5. 
+Documentação “As Built” 
+ 
+(a) 
+Disposições Gerais 
+ 
+A CONCESSIONÁRIA deverá apresentar documentação As Built para todas as obras previstas na 
+CONCESSÃO, nos termos e prazos do APÊNDICE H. 
+ 
+2. 
+AMPLIAÇÕES PRINCIPAIS 
+ 
+Os serviços referentes às Ampliações Principais estão descritos nos ANEXOS 12 e 21. Os 
+investimentos contemplados no ANEXO 21, no item de AMPLIAÇÕES PRINCIPAIS, contemplam, 
+mas não se limitam a adequações de dispositivos existentes, bem como adequação de ACESSOS 
+regularizados. 
+ 
+2.1. 
+Implantação das Ampliações Principais 
+ 
+Os parâmetros geométricos de implantação das pistas novas e a adequação das pistas existentes, 
+nos casos de trechos sujeitos à duplicação, faixas adicionais, contornos urbanos e vias marginais 
+deverão estar em conformidade com os parâmetros mínimos previstos nos ANEXOS, bem como com 
+o Manual de Projetos Geométricos do DER/SP. 
+ 
+3. 
+DEMAIS AMPLIAÇÕES E MELHORAMENTOS 
+ 
+3.1. 
+Conceitos básicos 
+ 
+(a) 
+Disposições Gerais 
+ 
+Os melhoramentos visam a elevar o nível de qualidade dos serviços em termos de conforto e 
+segurança do USUÁRIO e possibilitar a prestação dos serviços correspondentes às funções 
+operacionais. 
+ 
+Para tanto, a CONCESSIONÁRIA será responsável por todas as providências relativas à prestação 
+dos serviços correspondentes às funções operacionais, ou seja, estudos de viabilidade, 
+dimensionamento e licenciamento ambiental, estudos e projetos em conformidade com as exigências 
+do licenciamento ambiental, planejamento, execução das obras, instalações e implantação das 
+medidas de compensação e mitigação ambiental, montagem dos equipamentos e sistemas 
+operacionais e testes de início de operação, quando for o caso. 
+ 
+Todos os melhoramentos descritos neste ANEXO deverão ser implantados pela CONCESSIONÁRIA, 
+sob sua responsabilidade e às suas expensas. 
+ 
+Cada uma destas etapas será acompanhada pela ARTESP, devendo a CONCESSIONÁRIA manter 
+um esquema de consulta e aprovação permanente, inclusive com disponibilização digital por meio 
+dos sistemas implementados, observando os necessários processos de licenciamento ambiental 
+junto aos órgãos competentes. 
+ 
+A CONCESSIONÁRIA deverá obter, às suas expensas, Certificado de Qualidade de Obras, 
+conforme regramento disposto no APÊNDICE H. A CONCESSIONÁRIA deverá estabelecer um 
+programa de fiscalização, acompanhamento da execução, controle tecnológico e da qualidade dos 
+serviços. Os custos do desenvolvimento e aplicação do programa de fiscalização ocorrerão por conta 
+da CONCESSIONÁRIA. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 6
+
+
+ 
+ 
+Folha 7 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+As providências jurídico-administrativas para a Declaração de Utilidade Pública (DUP) para 
+desapropriação das áreas necessárias à implantação de qualquer melhoramento serão de 
+responsabilidade da ARTESP e do PODER CONCEDENTE. Caberá à CONCESSIONÁRIA a 
+promoção das ações necessárias à efetivação, nas esferas administrativa e judicial, bem como arcar 
+com os ônus decorrentes de tais procedimentos. 
+ 
+A identificação dos melhoramentos mínimos, constantes deste item, foi desenvolvida tendo como 
+base os dados, as projeções e a situação atual do SISTEMA RODOVIÁRIO, sendo, portanto, 
+passível de complementações após análise integral que a CONCESSIONÁRIA deverá fazer para 
+apresentação de sua Proposta durante a LICITAÇÃO.  
+ 
+Ao longo da CONCESSÃO poderão ser dimensionados novos melhoramentos, solicitados pela 
+ARTESP em função das necessidades ou quando o nível de serviço exigir. O POI e cada PLANO DE 
+INVESTIMENTOS vigente poderão ser revistos, preferencialmente, durante as REVISÕES 
+ORDINÁRIAS, observando os trâmites e procedimentos descritos no CONTRATO de CONCESSÃO, 
+momento em que poderá haver readequação do planejamento para realização das obras e/ou 
+avaliação da necessidade de execução de novos investimentos. 
+ 
+A necessidade de eventuais ampliações decorrentes da manutenção do nível de serviço deverá ser 
+avaliada pela CONCESSIONÁRIA e submetida à prévia aprovação da ARTESP, inclusive com 
+apresentação de PROJETO EXECUTIVO, conforme regramento estabelecido nos APÊNDICES G e 
+H, e respectivo orçamento, contendo indicação dos custos necessários para implantação, operação e 
+conservação destas ampliações. A CONCESSIONÁRIA deverá apontar à ARTESP a exata medida 
+do eventual desbalanceamento do equilíbrio econômico-financeiro do CONTRATO que porventura 
+seja gerado pela ampliação decorrente da necessidade de manutenção dos níveis de serviços e 
+Indicadores de Desempenho. 
+ 
+(b) 
+REVISÕES ORDINÁRIAS e Plataforma SISDEMANDA 
+ 
+Conforme o regramento estabelecido no CONTRATO, a eventual readequação do PLANO DE 
+INVESTIMENTOS e a necessidade de realização de novos investimentos, ampliações e 
+melhoramentos, poderão ser realizadas durante as REVISÕES ORDINÁRIAS.  
+ 
+Observando o quanto estabelecido no CONTRATO de CONCESSÃO e na regulamentação 
+pertinente da ARTESP, o documento de Consolidação de Demandas para REVISÃO ORDINÁRIA, 
+previsto no APÊNDICE F, deverá ser submetido a um processo de consulta e audiência públicas, 
+conduzido e coordenado pela ARTESP em conjunto com a CONCESSIONÁRIA, nos termos do 
+CONTRATO. 
+ 
+Com a conclusão deste processo de consulta e audiência públicas, a ARTESP autorizará a 
+CONCESSIONÁRIA a elaborar e apresentar os PROJETOS EXECUTIVOS para os investimentos, 
+ampliações e melhoramentos selecionados, devendo a CONCESSIONÁRIA, no prazo previsto no 
+item 5 do ANEXO (Quadro de Prazos) contados da autorização e atendendo às especificações de 
+PROJETOS EXECUTIVOS apresentadas neste ANEXO, no APÊNDICE H e nos normativos da 
+ARTESP, concluir por apresentar tais PROJETOS EXECUTIVOS, bem como os orçamentos 
+correspondentes. Após o processo de aprovação dos PROJETOS EXECUTIVOS e dos orçamentos, 
+será revisado o PLANO DE INVESTIMENTOS. 
+ 
+Em sendo verificado evento que desencadeie o desequilíbrio econômico-financeiro do CONTRATO 
+da CONCESSÃO, em função de readequação ou replanejamento do PLANO DE INVESTIMENTOS 
+vigente e/ou identificação da necessidade de novos investimentos, quando devidamente autorizada 
+pela ARTESP, as Partes deverão observar e seguir o procedimento para recomposição do equilíbrio 
+econômico-financeiro descrito no CONTRATO de CONCESSÃO. 
+ 
+Os valores de custos unitários a serem adotados devem ter como base a TPU DER/SP ou Tabela 
+SICRO do DNIT, cujas versões devem ser as mais atualizadas ao momento do investimento em 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 7
+
+
+ 
+ 
+Folha 8 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+questão, inclusive para instalação de eventuais ampliações decorrentes da manutenção do nível de 
+serviço, a não ser nos casos em que, mediante justificativa e prévia autorização da ARTESP, seja 
+necessário utilizar outras referências nacionais e internacionais para preços eventualmente não 
+apresentados ou não compatíveis com estas bases de referência. 
+ 
+Todos os melhoramentos do SISTEMA RODOVIÁRIO deverão atender aos padrões especificados 
+pela ARTESP assim como manuais e normas técnicas vigentes na época da intervenção. Em caso 
+de divergência no conteúdo dos manuais, normas e especificações deverão prevalecer os definidos 
+nos documentos mais atuais, aprovados pela ARTESP, sem que isto seja motivo de pleito de 
+reequilíbrio econômico-financeiro do CONTRATO. 
+ 
+3.1.1. Critérios para Adequação da Capacidade 
+ 
+A CONCESSIONÁRIA realizará, obrigatoriamente, a partir do início do funcionamento dos sensores 
+de tráfego, controles mensais do desempenho operacional observado nos últimos doze meses 
+sequenciais (independentemente do início ou fim de cada ano fiscal ou contratual), visando identificar 
+os trechos do sistema com mais de 50h/ano operando nos níveis de serviço “E” e “F”, ou na 
+iminência de atingir este limite, utilizando para isso as metodologias estabelecidas na IP-00.000.000-
+0-A23_001 e suas revisões. 
+ 
+A CONCESSIONÁRIA deverá identificar todos os trechos que registram mais de 300 (trezentas) 
+horas em nível de serviço “D” nos últimos doze meses, inclusive em seções da via, acessos, 
+entrelaçamentos e dispositivos. Os eventuais investimentos que sejam necessários para ampliação 
+da capacidade de tais trechos deverão ser objeto de estudo (elaboração de PROJETO FUNCIONAL 
+e orçamento referencial). 
+ 
+A apresentação de soluções operacionais para problemas de capacidade identificados nestes 
+trechos independe de prévia aprovação de eventual pleito de equilíbrio econômico-financeiro pela 
+ARTESP. 
+ 
+No caso do controle do nível de serviço operacional e cumprimento dos Indicadores de Desempenho 
+apresentados no ANEXO 3 e APÊNDICE C, a CONCESSIONÁRIA deverá indicar a ocorrência de 
+pontos críticos ou com problemas de capacidade (para qualquer quantidade de horas nos níveis de 
+serviço “E” ou “F”) e tomar as medidas operacionais cabíveis, mesmo que provisórias ou transitórias, 
+no sentido de minimizar os efeitos dos problemas detectados, especialmente quando a ocorrência 
+colocar em risco os USUÁRIOS do sistema ou a população lindeira. 
+ 
+Quando for identificado que algum segmento homogêneo da rodovia integrante do SISTEMA 
+RODOVIÁRIO, nos últimos 12 (doze) meses sequenciais, registrou mais de 50h/ano nos níveis de 
+serviço “E” e “F”, a CONCESSIONÁRIA deverá, como resposta à prévia provocação da ARTESP ou 
+por iniciativa própria, reportar para análise e avaliação da ARTESP durante a REVISÃO ORDINÁRIA, 
+os seguintes dados: 
+ 
+● 
+Os dados de tráfego coletados em campo, os aspectos relativos à sazonalidade do tráfego e 
+as características físicas e operacionais dos componentes do trecho rodoviários em que ocorre 
+o problema; 
+ 
+● 
+Os cálculos de capacidade e de níveis de serviço de todos os componentes do trecho 
+rodoviário a ser analisado, e atendimento aos indicadores de desempenho, acompanhados de 
+estudo técnico específico sobre o problema; 
+ 
+● 
+Problemas operacionais e de segurança registrados no trecho no período considerado; 
+ 
+● 
+Identificação da causa dos problemas de fluidez; e 
+ 
+● 
+Possíveis soluções para os problemas detectados. 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 8
+
+
+ 
+ 
+Folha 9 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+A CONCESSIONÁRIA deverá adotar ações iniciais e medidas operacionais para mitigação dos 
+problemas acima referidos, bem como elaborar parecer técnico sobre o trecho em questão, 
+identificando: 
+ 
+● 
+Motivo que levou o trecho analisado a superar os limites de nível de serviço estabelecidos no 
+CONTRATO e seus ANEXOS; 
+ 
+● 
+Propostas de solução (provisória e definitiva); 
+ 
+● 
+Cronograma das ações a serem tomadas até a solução da questão. 
+ 
+Ampliações de capacidade necessárias, incluindo, mas não se limitando a duplicações, novas faixas 
+de rolamento, vias marginais, OAEs, dispositivos, passarelas, dentre outros, conforme avaliação 
+descrita acima, que não estejam previstas originalmente neste ANEXO ou no ANEXO 21, caso 
+requeridas pelo PODER CONCEDENTE, configurarão EVENTO DE DESEQUILÍBRIO, devendo ser 
+apreciadas em sede de REVISÃO ORDINÁRIA. 
+ 
+Nos casos em que a interferência urbana resultar em superação do padrão de nível de serviço, a 
+CONCESSIONÁRIA deverá elaborar, conjuntamente com os municípios lindeiros, propostas de 
+melhoria a serem analisadas pela ARTESP. Considera-se interferência urbana no âmbito do 
+SISTEMA RODOVIÁRIO o problema de fluidez, observado no segmento homogêneo, que seja o 
+reflexo direto da restrição de capacidade viária verificada fora da FAIXA DE DOMÍNIO. Caberá à 
+CONCESSIONÁRIA arcar com os custos envolvidos com a proposição de alternativas para a solução 
+dos problemas de melhoria. Na proposição de alternativas, a CONCESSIONÁRIA deverá sempre 
+considerar as interferências existentes (passarelas, pontos de ônibus, travessias em nível, 
+equipamento, OAE etc.), contemplando eventuais necessidades de ampliação, remanejamento, 
+remodelação etc. Caso sejam necessárias intervenções para solucionar os referidos problemas, 
+estas deverão ser apreciadas em sede de REVISÃO ORDINÁRIA. 
+ 
+3.1.2. Ampliação / Implantação de Obras de Arte Especiais 
+ 
+A CONCESSIONÁRIA realizará, obrigatoriamente, durante todo o PRAZO DA CONCESSÃO, 
+controles mensais do desempenho operacional observado nos últimos doze meses sequenciais 
+(independente do início ou fim de cada ano fiscal ou contratual), visando identificar os trechos do 
+sistema com mais de 50 horas operando nos níveis de serviço “E” e “F”, ou na iminência de atingir 
+este limite, utilizando para isso as metodologias estabelecidas na IP-00.000.000-0-A23 e suas 
+revisões. 
+ 
+A execução de todas as medidas operacionais para assegurar que o limite de 50h/ano operando nos 
+níveis de serviço “E” e “F” não seja ultrapassado será de responsabilidade da CONCESSIONÁRIA, a 
+não ser nos casos em que sejam necessários investimentos além dos previstos no CONTRATO para 
+adequação da capacidade do SISTEMA RODOVIÁRIO. 
+ 
+A CONCESSIONÁRIA deverá realizar os pertinentes levantamentos e inspeções para identificar as 
+quantidades de serviços relativos à compatibilização da largura de plataforma de rolamento (inclusive 
+acostamentos) das OAEs em relação aos segmentos rodoviários adjacentes e de acordo com o 
+padrão exigido para a via conforme as normas vigentes do DER/SP, considerando ainda o padrão 
+descrito no ANEXO 6. Estas adequações deverão ocorrer às expensas da CONCESSIONÁRIA, 
+sendo certo que sob sua responsabilidade apenas quando previstas no ANEXO 21. 
+ 
+A CONCESSIONÁRIA também deverá considerar, com base nos pertinentes levantamentos e 
+inspeções, as quantidades de serviços relativos a recuperações de OAEs existentes, conforme 
+determinado no ANEXO 6.  
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 9
+
+
+ 
+ 
+Folha 10 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+A necessidade de eventuais ampliações decorrentes da manutenção do nível de serviço acima 
+descrito para atendimento e adequação da capacidade do SISTEMA RODOVIÁRIO deverá ser 
+avaliada pela CONCESSIONÁRIA e contemplada em sede de REVISÃO ORDINÁRIA.  
+ 
+Para a implantação de obras de arte especiais, deverão ser observadas as Normas da Associação 
+Brasileira de Normas Técnicas (ABNT) referentes a projetos e materiais, além das Especificações 
+Técnicas da ARTESP referentes a este assunto. 
+ 
+As novas Obras de Arte Especiais a serem construídas deverão ser incluídas no Plano de 
+Gerenciamento da Manutenção das Obras de Arte Especiais que está descrito no ANEXO 6. 
+ 
+Os alargamentos em Obras de Arte Especiais não deverão ter juntas longitudinais entre a parte nova 
+do tabuleiro com o tabuleiro antigo. 
+ 
+Devem ser previstos espaços para calçamentos longitudinais e transversais à via nas OAEs, 
+conforme item 3.2.155, respeitando-se as normas e especificações vigentes à época de implantação 
+com referência à geometria, segurança e acessibilidade. Nas OAEs existentes, o espaço para 
+calçamento deverá ser previsto conforme regramento constante no ANEXO 6. 
+ 
+3.2. 
+Melhoramentos Mínimos: Descrição, Padrões e Especificações 
+ 
+3.2.1. Sistema de Controle de Fiscalização 
+ 
+ 
+ 
+i. Sistema de Controle de Velocidade 
+ 
+A CONCESSIONÁRIA será responsável pela implantação, homologação, operação e manutenção do 
+Sistema de Controle de Velocidade, atendendo integralmente e simultaneamente a todos requisitos 
+estabelecidos no ANEXO 5.  
+Define-se como “ponto fixo de controle de velocidade” locais especificados por rodovia e quilômetro. 
+Em rodovias de pista simples, se os estudos técnicos indicarem a necessidade de controle de 
+velocidade nos dois sentidos de tráfego, considera-se que se trata de 1 (um) ponto fixo de controle 
+de velocidade.  
+Para fins de dimensionamento, deve ser considerado 1 (um) ponto fixo de controle de velocidade a 
+cada 10 (dez) quilômetros de rodovia, tanto para os trechos em pista simples como para aqueles em 
+pista dupla.  
+Os pontos fixos de controle de velocidade, a serem instalados junto aos PÓRTICOS do SISTEMA 
+AUTOMÁTICO LIVRE, devem ser contabilizados à parte, ou seja, esses equipamentos não integram 
+a quantidade descrita no parágrafo anterior.  
+Para os pontos fixos de controle de velocidade, a serem instalados junto aos PÓRTICOS do 
+SISTEMA AUTOMÁTICO LIVRE, há um prazo específico para a conclusão da implantação, conforme 
+indicado no item 5 deste ANEXO (quadro de prazos).  
+Nos casos em que for observada a ocorrência de veículos utilizando o acostamento para fuga da 
+fiscalização, a CONCESSIONÁRIA deverá implantar o controle de velocidade, inclusive, no 
+acostamento.  
+Com exceção dos equipamentos medidores de velocidade instalados junto aos PÓRTICOS do 
+SISTEMA AUTOMÁTICO LIVRE, a implantação dos pontos fixos de controle de velocidade deve 
+seguir as seguintes etapas:  
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 10
+
+
+ 
+ 
+Folha 11 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+I - Elaboração, correção e ajuste de estudos técnicos: Esta etapa inicia-se com a apresentação inicial 
+dos estudos técnicos, e é finalizada após a concessionária concluir todos os ajustes e revisões que, 
+eventualmente, sejam determinados pela ARTESP.  
+II - Instalação, certificação e homologação dos equipamentos: Esta etapa inicia-se com a aprovação 
+dos pontos fixos de controle de velocidade pelo Departamento de Estradas de Rodagem do Estado 
+de São Paulo – DER/SP, e é finalizada com a publicação da homologação de todos os equipamentos 
+previstos no Diário Oficial do Estado de São Paulo – DOE/SP.  
+As etapas de implantação somente poderão ser consideradas como “concluídas” com a 
+materialização dos eventos descritos como marcos temporais.  
+Para todo o SISTEMA RODOVIÁRIO, a CONCESSIONÁRIA deverá:  
+a. adotar, imediatamente, medidas necessárias para a certificação, manutenção e operação 
+dos pontos fixos de controle de velocidade preexistentes, observando os níveis de serviços e 
+padrões de qualidade estabelecidos no ANEXO 5, que estão associados à possibilidade de 
+descartes de registros pelo DER/SP. Nesta adequação, também devem ser concluídas as 
+ações para o envio dos registros de infração ao DER/SP, de forma remota e automatizada. 
+Tais ações de adequação devem estar concluídas, conforme prazos estabelecidos no item 5 
+deste ANEXO. 
+b. implantar, conforme prazos e etapas estabelecidos no item 5 deste ANEXO (Quadro de 
+Prazos) os pontos fixos de controle de velocidade, de forma a atender o critério de 
+dimensionamento já definido. 
+ 
+Para a definição da localização de implantação dos pontos fixos de controle de velocidade, no 
+SISTEMA RODOVIÁRIO, a CONCESSIONÁRIA, deverá elaborar, às suas expensas, estudos 
+técnicos considerando, no mínimo, os parâmetros geométricos, histórico de acidentes, ocupação 
+lindeira e velocidade praticada, atendendo diretrizes estabelecidas e especificações técnicas da 
+ARTESP.  
+Os prazos para apresentação inicial dos estudos técnicos, bem como o prazo para a concessionária 
+realizar revisões, que eventualmente sejam determinadas pela ARTESP, estão descritos no item 5 
+deste ANEXO (Quadro de Prazos). O descumprimento desses prazos sujeita a CONCESSIONÁRIA 
+às sanções administrativas previstas no ANEXO 11.  
+Os pontos considerados em condição de aprovação pela ARTESP serão encaminhados pela 
+CONCESSIONÁRIA para análise e manifestação do PODER CONCEDENTE, cabendo à 
+CONCESSIONÁRIA atender a quaisquer demandas (ajustes de sinalização ou localização) que 
+eventualmente venham a ser realizadas.  
+Durante todo o PRAZO DA CONCESSÃO, a CONCESSIONÁRIA deve manter em operação, no 
+mínimo, a quantidade de equipamentos componentes do sistema de controle de velocidade definida 
+para implantação neste ANEXO, em condições de atendimento integral e simultâneo a todos os 
+requisitos estabelecidos no ANEXO 5.  
+ 
+ii. Estruturas e viaturas para o Policiamento Rodoviário 
+ 
+Sem prejuízo ao disposto no ANEXO 5 quanto ao Convênio com a Polícia Militar Rodoviária, a 
+CONCESSIONÁRIA deverá atender o seguinte: 
+ 
+Estruturas: A CONCESSIONÁRIA deverá implantar bases operacionais de policiamento rodoviário, 
+conforme previsão no ANEXO 21. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 11
+
+
+ 
+ 
+Folha 12 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+As bases operacionais de policiamento rodoviário devem conter as especificações mínimas abaixo 
+dispostas: 
+ 
+Município 
+Instalação 
+Intervenção 
+Observação 
+Barueri 
+(Latitude: -
+23.505977, 
+Longitude -
+46.855186) 
+Sede 4ª Cia 
+Reforma do prédio 
+administrativo da sede da 
+Companhia, da sede do 1º 
+Pelotão, do refeitório, 
+auditório e implantação do 
+centro de capacitação 
+física Área Construída: 
+1.700 m² 
+Instalação contemplará o 
+prédio da sede da 
+Companhia, sede do 1º 
+Pelotão, refeitório, 
+alojamentos, auditório e 
+centro de capacitação física. 
+Prazo: Até 5 (cinco) anos 
+contados da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Barueri 
+(Latitude: -
+23.505977, 
+Longitude -
+46.855186) 
+BOP 280/1 
+Reforma da Base 
+operacional (218 m²), mais 
+100 m² de cobertura de 
+estacionamento 
+Instalação contemplará a 
+Base Operacional e área 
+coberta para estacionamento 
+e pátio de manobras. 
+Prazo: Até 5 (cinco) anos 
+contados da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Araçariguama 
+(Latitude: -
+23.45823, 
+Longitude-
+47.04653) 
+BOP 280/2 
+Reforma da Base 
+operacional (600m²), 
+Construção de 
+alojamentos (150 m²), 
+implantação do centro de 
+capacitação física mais 
+100m² de cobertura de 
+estacionamento. 
+Fechamento de toda a 
+área com controle de 
+acesso (205 metros 
+lineares x 2,5 m de altura). 
+Instalação contemplará a 
+Base Operacional, 
+alojamentos, centro de 
+capacitação física mais área 
+coberta para estacionamento. 
+Prazo: Até 18 (dezoito) 
+meses contados da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+São Paulo 
+(Latitude: -
+23.58516, 
+Longitude -
+46.76394) 
+BOP 270/1 
+Demolição (360m²), 
+Construção de edificação 
+de 360 m² e área coberta 
+para estacionamento de 
+100 m² (100 metros 
+quadrados) em área a ser 
+definida na SP 270  
+Instalação contemplará Base 
+Operacional mais área 
+coberta para estacionamento 
+e deverá ocorrer quando da 
+instalação das marginais da 
+SP 270, cujo traçado se 
+sobrepõe à BOp 
+Cotia 
+(Latitude: - 
+23.604836. 
+Longitude -
+46.945549) 
+BOP 270/2 
+Demolição (300m²) e 
+Construção de edificação 
+de 300 m² e área coberta 
+para estacionamento de 
+100 m² (100 metros 
+quadrados) em área a ser 
+definida na SP 270 
+Instalação contemplará Base 
+Operacional mais área 
+coberta para estacionamento 
+e deverá ocorrer quando da 
+instalação das marginais da 
+SP 270, cujo traçado se 
+sobrepõe à BOp 
+ 
+ 
+Viaturas. A CONCESSIONÁRIA deve disponibilizar à Polícia Militar Rodoviária 44 viaturas 
+devidamente caracterizadas, no prazo estabelecido no item 5 deste ANEXO, assim tipificadas: 04 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 12
+
+
+ 
+ 
+Folha 13 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+(quatro) viaturas de Comando, tipo sedan médio; 02 (duas) viaturas de supervisão, tipo SUV (CGP); 
+20 (vinte) viaturas de patrulhamento, tipo sedan compacto; 04 (quatro) viaturas de tático ostensivo – 
+TOR, tipo SUV; 02 (duas) viaturas de serviço reservado (descaracterizadas); e 12 (doze) viaturas 
+motocicletas de patrulhamento ROCAM. 
+Salienta-se que a CONCESSIONÁRIA poderá optar pela compra, pela locação, pela terceirização ou 
+pelo leasing destes tipos de viaturas, sendo certo que a vida útil dos respectivos veículos não poderá 
+ser, a qualquer tempo, superior a 2 anos para viaturas de patrulha, 4 anos para veículos de 
+supervisão e 3 anos para os demais.  
+iii. Padrões e Especificações 
+ 
+Os equipamentos destinados ao controle de velocidade e as viaturas para o Policiamento Rodoviário 
+deverão atender ao disposto no ANEXO 5 e APÊNDICES F, G e H. 
+ 
+iv. Diretrizes para supressão das PRAÇAS DE PEDÁGIO 
+ 
+A CONCESSIONÁRIA deverá: 
+ 
+a. 
+apresentar projeto de demolição das PRAÇAS DE PEDÁGIO e de eventuais edifícios 
+adjacentes, nos termos do APÊNDICE I;  
+ 
+b. 
+ apresentar projeto de reconfiguração geométrica do eixo das PRAÇAS DE PEDÁGIO, 
+conforme APÊNDICE I, a fim de preservar a seção transversal da RODOVIA, incluindo o quantitativo 
+e largura existente faixas de rolamento, acostamentos, canteiros, observando a velocidade 
+regulamentar da via. 
+ 
+As áreas impermeabilizadas sem uso remanescente das PRAÇAS DE PEDÁGIO poderão ser 
+utilizadas para fins comerciais ou operacionais. Caso a CONCESSIONÁRIA não dê destinação para 
+as áreas impermeabilizadas sem uso remanescente das PRAÇAS DE PEDÁGIO, deverá ser 
+observado o item 5.1 do ANEXO 6. 
+ 
+Os projetos indicados acima deverão ser entregues à ARTESP nos em conformidade com os prazos 
+previstos no APÊNDICE H. 
+ 
+3.2.2. Sistemas de Comunicação e Relacionamento com o Usuário 
+ 
+i. Sistema de Radiofonia 
+ 
+A CONCESSIONÁRIA será responsável pela implantação, licenciamento, operação e manutenção 
+do Sistema de Radiofonia no SISTEMA RODOVIÁRIO, atendendo integralmente e simultaneamente 
+a todos requisitos estabelecidos no ANEXO 5. 
+  
+Imediatamente após a data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL, a 
+CONCESSIONÁRIA deverá disponibilizar um sistema de radiofonia provisório para comunicação 
+entre os veículos operacionais, o CCO e demais pontos fixos de operação, cumprindo a legislação 
+vigente. 
+  
+A CONCESSIONÁRIA deverá concluir a implantação do sistema de radiofonia no SISTEMA 
+RODOVIÁRIO conforme prazos estabelecidos no item 5 deste ANEXO (Quadro de Prazos), 
+ 
+No SISTEMA RODOVIÁRIO, a CONCESSIONÁRIA será responsável pela implantação, 
+complementação, adequação, revitalização, operação, manutenção e licenciamento do sistema de 
+radiofonia implantado. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 13
+
+
+ 
+ 
+Folha 14 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+A CONCESSIONÁRIA receberá os equipamentos que compõem o sistema de radiofonia implantados 
+no SISTEMA REMANESCENTE. 
+ 
+Para fins de dimensionamento, devem ser observadas as seguintes premissas: 
+ 
+Estações Fixas: 
+ 
+Deverá ser prevista, no mínimo, 1 (uma) estação fixa para cada ponto fixo de operação.  
+ 
+Entende-se como ponto fixo de operação as estruturas utilizadas para coordenação ou que 
+fornecem suporte aos recursos operacionais, tais como: CCO, Postos de Serviços de 
+Atendimento ao Usuário - SAU. 
+ 
+Estações Móveis: 
+ 
+Deverá ser prevista, no mínimo, 1 (uma) estação móvel para cada veículo operacional.  
+ 
+Obrigatoriamente, devem estar equipados com estações móveis os veículos utilizados para 
+prestação dos serviços de guincho, serviço de atendimento pré-hospitalar, serviço de inspeção 
+de tráfego, serviço de apreensão de animais na FAIXA DE DOMÍNIO, serviço de caminhão 
+pipa e serviço de socorro mecânico. 
+ 
+Estações Portáteis: 
+ 
+Deverão ser previstas estações portáteis, na quantidade suficiente para comunicação entre 
+funcionários distantes dos pontos onde existem estações fixas ou móveis. 
+ 
+Estações Repetidoras: 
+ 
+A CONCESSIONÁRIA deve implantar estações repetidoras em quantidade suficiente para 
+garantir comunicação com todos os postos de trabalho, sejam fixos ou móveis, em todo o 
+SISTEMA RODOVIÁRIO, sem apresentação de nenhum ponto com falha de sinal de 
+comunicação.  
+ 
+Durante o PRAZO DA CONCESSÃO, caso sejam identificados locais com falhas na 
+comunicação, a CONCESSIONÁRIA se obriga a adequar o sistema de radiofonia e implantar 
+mais estações repetidoras, se necessário. 
+ 
+Durante todo o PRAZO DA CONCESSÃO, a CONCESSIONÁRIA deve manter em operação, 
+no mínimo, a quantidade de equipamentos definida para implantação neste ANEXO. 
+ 
+ 
+ii. Sistema de Transmissão de Dados (Sistema de Comunicação Óptica) 
+ 
+ 
+No SISTEMA EXISTENTE, a CONCESSIONÁRIA será responsável pela implantação, operação e 
+manutenção do Sistema de Transmissão de Dados. 
+  
+No SISTEMA REMANESCENTE, a CONCESSIONÁRIA será responsável pela complementação, 
+adequação, operação e manutenção do Sistema de Transmissão de Dados recebido da 
+concessionária anterior. 
+  
+A CONCESSIONÁRIA deverá concluir, conforme prazos estabelecidos no item 5 deste ANEXO 
+(Quadro de Prazos), a implantação do sistema de transmissão de dados em toda a extensão das 
+rodovias que compõem o SISTEMA RODOVIÁRIO, respectivamente, atendendo integralmente e 
+simultaneamente a todos os requisitos estabelecidos no ANEXO 5. 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 14
+
+
+ 
+ 
+Folha 15 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+iii. Instalações de Apoio Operacional – CCO e SAU 
+ 
+As instalações de Apoio Operacional compreendem uma administração central, o CCO e o Serviço 
+de Atendimento ao Usuário (SAU). 
+ 
+CCO 
+ 
+Na data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL, a CONCESSIONÁRIA deve 
+possuir um CCO, que deverá observar as obrigações definidas no ANEXO 05. 
+ 
+As atividades de coordenação operacional podem ser iniciadas em um CCO provisório e, 
+posteriormente, evoluir para um CCO definitivo, a ser implantado em local de sua escolha. A 
+implantação do CCO definitivo deve ser nas proximidades do SISTEMA RODOVIÁRIO. 
+ 
+O CCO provisório do SISTEMA RODOVIÁRIO deverá estar adequado para os padrões de CCO 
+definitivo no prazo definido no item 5, concentrando a coordenação da operação de todo o SISTEMA 
+RODOVIÁRIO e atendendo integralmente e simultaneamente a todos os requisitos estabelecidos 
+pelo ANEXO 5.  
+ 
+A implantação do CCO definitivo deverá ser concluída em até 360 (trezentos e sessenta) dias 
+contados da data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL.  
+ 
+Antes da conclusão do CCO definitivo, sem prejuízo das obrigações previstas no ANEXO 5, a 
+ARTESP poderá solicitar modificações, justificadamente.  
+ 
+SAU 
+ 
+A quantidade e localização dos SAUs, provisórios e/ou definitivos serão definidos pela 
+CONCESSIONÁRIA, sob sua responsabilidade única e exclusiva, de modo a garantir o atendimento 
+dos níveis de serviços exigidos no ANEXO 5 e no APÊNDICE G. A quantidade e localização dos 
+SAUs deverá ser distribuída proporcionalmente em ambos os sentidos da rodovia.  
+ 
+A variação nos quantitativos referentes aos Postos SAUs previstos no presente ANEXO e nos 
+ANEXOS 12 e 21 não ensejará o EVENTO DE DESEQUILÍBRIO. Na entrega do POI, a 
+CONCESSIONÁRIA deverá informar a quantidade mensurada de SAUs para atendimento dos níveis 
+de serviço. Para fins de aferição de desequilíbrio decorrentes de atraso de obra, o valor a ser 
+considerado por SAU será igual a: (i) o somatório dos custos estimados para cada posto de SAU 
+previstos no EVTE dividido por (ii) a quantidade de SAUs previstos no POI. 
+ 
+Os projetos de implementação desses SAUs devem ser elaborados pela CONCESSIONÁRIA, 
+levando em consideração que os SAUs não podem inviabilizar a regularização de acessos a 
+propriedades lindeiras (comerciais ou não) ou às vias municipais, nem a interferência dos acessos 
+pode prejudicar o atendimento aos níveis de serviço, observadas também as disposições do 
+APÊNDICE H. 
+ 
+Durante todo o PRAZO DA CONCESSÃO, a CONCESSIONÁRIA deve manter os equipamentos 
+componentes das instalações de apoio operacional em condições de atendimento integral e 
+simultâneo a todos os requisitos estabelecidos no ANEXO 5. 
+ 
+iv. Sistema de Atendimento 0800 
+ 
+Na data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL, a CONCESSIONÁRIA deve 
+disponibilizar aos USUÁRIOS um sistema provisório de telefonia tipo 0800 para comunicação direta 
+com o CCO. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 15
+
+
+ 
+ 
+Folha 16 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+A CONCESSIONÁRIA deve constituir o sistema de telefonia tipo 0800 definitivo, conforme prazos 
+estabelecidos no item 5 deste ANEXO (Quadro de Prazos), atendendo integralmente e 
+simultaneamente a todos os requisitos especificados no ANEXO 5. 
+ 
+v. Sistema de Comunicação com o USUÁRIO tipo Telefone de Emergência (Call box) 
+ 
+A CONCESSIONÁRIA receberá o sistema de comunicação com o USUÁRIO tipo telefone de 
+emergência (call box) implantado e em operação no SISTEMA REMANESCENTE.  
+ 
+Na data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL a CONCESSIONÁRIA deverá 
+adotar as medidas necessárias para manter e operar o sistema de comunicação com o usuário tipo 
+telefone de emergência (call box), atendendo integralmente e simultaneamente a todos os requisitos 
+estabelecidos no ANEXO 5.  
+ 
+Após a conclusão da implantação do sistema de comunicação com o USUÁRIO via rede de dados 
+sem fio no SISTEMA RODOVIÁRIO, conforme prazos estipulados no item 5 deste ANEXO, o sistema 
+de comunicação com o usuário tipo telefone de emergência (call box) poderá ser desativado. Em 
+caso de desativação, quando os dispositivos de contenção viária não forem necessários, estes 
+deverão ser removidos e o local ser adequado de modo a não configurar um obstáculo fixo, em até 
+30 dias após a autorização da ARTESP para desativação. 
+ 
+O sistema de comunicação com o USUÁRIO tipo telefone de emergência (call box) somente poderá 
+ser desativado no SISTEMA RODOVIÁRIO mediante autorização expressa da ARTESP, que será 
+emitida após a realização dos testes de comissionamento que comprovarão a conclusão da 
+implantação do sistema de comunicação com o usuário via rede de dados sem fio e do sistema 
+CFTV. 
+ 
+vi. Sistema de Comunicação com o USUÁRIO via Rede de Dados sem Fio 
+ 
+A CONCESSIONÁRIA será responsável pela implantação, operação e manutenção do Sistema de 
+Comunicação com o USUÁRIO via Rede de Dados Sem Fio, que deverá substituir o sistema de 
+comunicação com o usuário tipo telefone de emergência (call box), atendendo integralmente e 
+simultaneamente a todos requisitos estabelecidos no Anexo 5.  
+ 
+Em até 180 (cento e oitenta) dias a partir da data de assinatura do TERMO DE TRANSFERÊNCIA 
+INICIAL, a CONCESSIONÁRIA deverá apresentar à ARTESP o plano básico de implantação do 
+sistema de comunicação com o usuário via rede de dados sem fio no SISTEMA RODOVIÁRIO. O 
+plano de que trata este parágrafo estará sujeito à análise e aprovação pela ARTESP.  
+ 
+Como condição para análise, o plano deverá indicar claramente a tecnologia a ser adotada, a 
+quantidade de equipamentos e os trechos do SISTEMA RODOVIÁRIO relacionados às etapas de 
+implantação definidas, tendo como parâmetro a data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. A CONCESSIONÁRIA deverá concluir a implantação do Sistema de 
+Comunicação com o USUÁRIO via Rede de Dados Sem Fio, conforme prazos estabelecidos no item 
+5 deste ANEXO (Quadro de Prazos). 
+ 
+Ao concluir cada uma das etapas de implantação, a CONCESSIONÁRIA deverá comunicar a 
+ARTESP que realizará os testes de comissionamento para comprovação do atendimento aos 
+requisitos estabelecidos no ANEXO 5 e nas especificações técnicas vigentes da ARTESP. 
+ 
+Após conclusão da implantação do Sistema de Comunicação com o Usuário via Rede de Dados Sem 
+Fio, e descomissionamento do Sistema de Telefonia de Emergência (call box), a CONCESSIONÁRIA 
+deve remover da FAIXA DE DOMÍNIO todos os equipamentos e infraestrutura relacionada ao 
+Sistema de Telefonia de Emergência (call box), incluindo bases de concreto, dispositivo de 
+contenção não mais necessário (ou adequá-los se ainda necessários) ou qualquer outro tipo de 
+obstáculo. 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 16
+
+
+ 
+ 
+Folha 17 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+Na data de assinatura do Termo de Recebimento Provisório, os equipamentos não deverão 
+apresentar mais de 5 (cinco) anos de utilização, contados a partir da data de aquisição dos mesmos 
+pela CONCESSIONÁRIA. 
+ 
+vii. Painel de Mensagem Variável 
+ 
+A CONCESSIONÁRIA será responsável pela implantação, operação e manutenção do sistema de 
+painéis de mensagens variáveis do SISTEMA RODOVIÁRIO, atendendo integralmente e 
+simultaneamente a todos requisitos estabelecidos no ANEXO 5. 
+ 
+Fixo: 
+ 
+A CONCESSIONÁRIA deverá adquirir 5 novos painéis de mensagens variáveis (PMV) do tipo fixo, 
+que deverão ser implantados em pontos estratégicos do SISTEMA RODOVIÁRIO.  
+ 
+A CONCESSIONÁRIA deverá apresentar à ARTESP a relação dos locais propostos para a 
+implantação dos PMVs do tipo fixo no SISTEMA RODOVIÁRIO, bem como cronograma de 
+implantação, ambos sujeitos à análise e aprovação da ARTESP. 
+ 
+A ARTESP poderá solicitar alterações nos locais e/ou datas propostos pela CONCESSIONÁRIA para 
+a implantação de painéis de mensagens variáveis do tipo fixo, justificadamente. 
+ 
+ 
+3.2.3. Sistema de Monitoração de Tráfego 
+ 
+i. Sistema de Sensoriamento de Tráfego 
+ 
+Para fins de dimensionamento, deve ser considerado 1 (um) sensor de tráfego automático por 
+segmento homogêneo definido em estudo de segmentação homogênea, monitorando todos os 
+sentidos de pistas e todas as faixas de rolamento. 
+ 
+No SISTEMA RODOVIÁRIO, a CONCESSIONÁRIA será responsável pela implantação e 
+homologação do Sistema de Sensoriamento de Tráfego. Para tanto, conforme prazos estabelecidos 
+no item 5 deste ANEXO (Quadro de Prazos), a CONCESSIONÁRIA deverá apresentar os estudos de 
+segmentação homogênea com os respectivos locais de implantação dos sensores e cronograma de 
+implantação.  
+ 
+Na implantação dos sensores de tráfego, deverá ser observada a especificação técnica ET-DOP-
+GOE-C-TRA-RNS-01/02 - Metodologia para Obtenção dos Parâmetros de Tráfego da ARTESP, suas 
+revisões ou outra norma técnica que venha a substitui-la ou alterá-la. O pavimento das áreas de 
+aproximação e afastamento deverá ser adequado aos padrões da especificação citada. 
+ 
+Na data de transferência do SISTEMA REMANESCENTE, a CONCESSIONÁRIA deverá adotar as 
+medidas necessárias para a manutenção e operação dos sensores de tráfego preexistentes no 
+SISTEMA REMANESCENTE, até a troca desses equipamentos, atendendo aos níveis de serviço e 
+padrões de qualidade estabelecidos no ANEXO 5. 
+ 
+ii. Sistema de Monitoração de Tráfego por CFTV 
+ 
+A CONCESSIONÁRIA será responsável pela implantação, complementação, operação e 
+manutenção do Sistema de Monitoração de Tráfego por CFTV, atendendo integralmente e 
+simultaneamente a todos requisitos estabelecidos no Anexo 05. 
+  
+Na data de transferência do SISTEMA REMANESCENTE, a CONCESSIONÁRIA deverá adotar as 
+medidas necessárias para a manutenção e operação dos equipamentos CFTV preexistentes no 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 17
+
+
+ 
+ 
+Folha 18 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+SISTEMA REMANESCENTE, até a eventual troca desses equipamentos, atendendo aos níveis de 
+serviço e padrões de qualidade estabelecidos no ANEXO 5. 
+ 
+A quantidade de câmeras de monitoramento a ser adquirida e implantada pela CONCESSIONÁRIA 
+deve ser suficiente para garantir o atendimento aos requisitos de cobertura e análise inteligente de 
+vídeo estabelecidos no ANEXO 05. 
+ 
+A CONCESSIONÁRIA deverá apresentar à ARTESP o plano básico de implantação do sistema de 
+monitoração de tráfego por CFTV no SISTEMA RODOVIÁRIO. Como condição para análise e 
+aprovação pela ARTESP, o projeto deverá indicar claramente a quantidade de equipamentos CFTV e 
+os trechos do SISTEMA RODOVIÁRIO relacionados às etapas de implantação e operação do 
+sistema de monitoração de tráfego por CFTV.  
+ 
+A configuração e parametrização da funcionalidade de análise inteligente de vídeo deverá ser 
+concluída pela CONCESSIONÁRIA conforme prazos estabelecidos no item 5 deste ANEXO, para 
+cada etapa de implantação do sistema de monitoração de tráfego por CFTV no SISTEMA 
+RODOVIÁRIO. 
+ 
+Ao concluir cada uma das etapas de implantação, a CONCESSIONÁRIA deverá comunicar a 
+ARTESP que realizará os testes de comissionamento para comprovação do atendimento aos 
+requisitos estabelecidos no ANEXO 5 e nas especificações técnicas vigentes da ARTESP. 
+ 
+A apresentação do plano básico, bem como a implantação dos sistemas de monitoração de tráfego 
+por CFTV deverão observar os prazos estabelecidos no item 5 deste ANEXO. 
+ 
+3.2.4. Pontos de Parada de Descanso  
+ 
+A CONCESSIONÁRIA deverá prever a implantação de 2 (dois) Pontos de Parada de Descanso em 
+quilometragens distintas do SISTEMA RODOVIÁRIO, com acessibilidade para ambos os sentidos de 
+tráfego. 
+ 
+A localização destas áreas de descanso deverá ser definida em estudo elaborado pela 
+CONCESSIONÁRIA e submetido à aprovação da ARTESP. O estudo terá como objetivo prever a 
+melhor localização dos pontos de parada de descanso, visando atender ao USUÁRIO e levando em 
+conta a jornada de trabalho do motorista (Lei Federal nº. 13.103/2015).  
+ 
+A partir do estudo aprovado pela ARTESP, caberá à CONCESSIONÁRIA elaborar os projetos 
+completos dos pontos de parada de descanso e submetê-los à aprovação da ARTESP, observadas 
+as regras estabelecidas no ANEXO 5.  
+ 
+3.2.5. Áreas de Parada de Cargas Excepcionais e Produtos Perigosos  
+ 
+A CONCESSIONÁRIA deverá implantar Áreas de Parada de Cargas Excepcionais, conforme 
+previsão nos ANEXOS 12 e 21, medindo 100 (cem) metros de comprimento no sentido do eixo da 
+rodovia por 7 (sete) metros de largura, além das pistas de aceleração e desaceleração. 
+ 
+A CONCESSIONÁRIA deverá elaborar (i) estudo com a localização das áreas de parada e (ii) 
+projetos completos com cronograma de execução, ambos a serem submetidos à aprovação da 
+ARTESP. A CONCESSIONÁRIA ficará responsável pela implantação e conservação destas áreas. 
+ 
+3.2.6. Faixas de Aceleração/Desaceleração 
+ 
+Essas faixas deverão ter características geométricas condizentes com a velocidade diretriz da 
+rodovia integrante do SISTEMA RODOVIÁRIO e seus ramos, devendo ser dimensionadas conforme 
+a IP.DIN/002, ou outra norma técnica que a substitua ou altere.  
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 18
+
+
+ 
+ 
+Folha 19 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+No caso dos equipamentos rodoviários (SAUs, pontos de parada de descanso, paradas de cargas 
+excepcionais etc.), as faixas de aceleração e desaceleração deverão ser dimensionadas seguindo-se 
+os critérios compreendidos no item 5.4 - Trevos e interseções com vias municipais asfaltadas da 
+referida instrução de projeto IP.DIN/002, ou outra norma técnica que a substitua ou altere.  
+ 
+A CONCESSIONÁRIA ficará responsável pela implantação destas faixas às suas expensas e sob 
+sua responsabilidade. 
+ 
+3.2.7. Faixas Adicionais 
+ 
+A CONCESSIONÁRIA ficará responsável pela implantação das faixas adicionais previstas no PLANO 
+ORIGINAL DE INVESTIMENTOS, o qual deverá contemplar todos os investimentos especificados 
+neste ANEXO, às suas expensas e sob sua responsabilidade. Durante a implantação das faixas 
+adicionais a CONCESSIONÁRIA deverá contemplar a adequação de eventuais estruturas e/ou 
+interferências existentes (passarelas, ponto de ônibus, acessos regularizados, OAE’s, travessias em 
+nível etc.). 
+ 
+A CONCESSIONÁRIA deverá garantir boas condições de operação e conforto da via, de acordo com 
+as metodologias preconizadas nas instruções de projeto vigentes, ou outras que as substituem ou 
+alterem. 
+ 
+Durante a implantação das faixas adicionais, a CONCESSIONÁRIA deverá, as suas expensas, 
+contemplar a adequação de eventuais estruturas e/ou interferências existentes (passarelas, ponto de 
+ônibus, acessos regularizados, OAEs, edificações etc.), bem como a implantação de calçamento 
+para pedestre e eventual continuidade de ciclovias, atendendo às normas e especificações vigentes 
+à época da implantação. 
+ 
+ 
+3.2.8. Vias Marginais / Dispositivos de Entroncamento 
+ 
+Vias marginais 
+ 
+A CONCESSIONÁRIA ficará responsável pela implantação das vias marginais previstas nos 
+ANEXOS 12 e 21, as quais deverão contemplar todas as obras e investimentos apresentados neste 
+ANEXO, às suas expensas e sob sua responsabilidade. 
+ 
+Durante a implantação das marginais, a CONCESSIONÁRIA deverá, as suas expensas, contemplar 
+a adequação de eventuais estruturas e/ou interferências existentes (passarelas, ponto de ônibus, 
+acessos regularizados, OAE’s, edificações etc.), bem como a implantação de calçamento para 
+pedestre e eventual continuidade de ciclovias, atendendo às normas e especificações vigentes à 
+época da implantação. 
+ 
+Dispositivos de entroncamento 
+ 
+A CONCESSIONÁRIA ficará responsável pela implantação/remodelação dos dispositivos de 
+entroncamento previstos nos ANEXOS 12 e 21, os quais deverão contemplar todas as obras e 
+investimentos apresentados neste ANEXO, às suas expensas e sob sua responsabilidade.  
+ 
+Durante a intervenção, a CONCESSIONÁRIA deverá, as suas expensas, contemplar a adequação 
+de eventuais estruturas e/ou interferências existentes (como por exemplo ponto de ônibus), bem 
+como a implantação de caminhamento (calçamento) para pedestre e iluminação tanto nos 
+dispositivos novos quanto nas passagens inferiores ou superiores existentes, de forma a conduzi-lo a 
+uma travessia segura e eventual continuidade de ciclovias, atendendo às normas e especificações 
+vigentes à época da implantação. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 19
+
+
+ 
+ 
+Folha 20 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+Durante a intervenção, a CONCESSIONÁRIA deverá tomar todas as providências cabíveis para 
+eliminar/regularizar eventuais acesos lindeiros irregulares. 
+ 
+Nas intervenções que demandarem a implantação de novas OAEs ou a intervenção estrutural de 
+OAEs já existentes, o projeto deverá contemplar gabarito que atenda às larguras mínimas da via 
+(pistas e acostamento), calçamento (longitudinal e transversal) para pedestre e eventual continuidade 
+de ciclovias onde houver a previsão/necessidade desta estrutura.  
+ 
+Nos casos em que as condições operacionais assim exigirem, conforme indicado no item 3.1.1, a 
+CONCESSIONÁRIA deverá implantar, sob sua responsabilidade, vias marginais e/ou dispositivos de 
+entroncamento. Deverão ser seguidos os conceitos do item 3.1, bem como a IP-00.000.000-0-
+A24/001 Rev. 0, ou outra norma técnica que a substitua ou altere. 
+ 
+A implantação dessas marginais e dispositivos deverá ser executada com o objetivo de impedir que 
+qualquer trecho das vias do SISTEMA RODOVIÁRIO venha a superar o nível de Serviço “D” em mais 
+de 50 h/ano, de acordo com os critérios estabelecidos na IP-00.000.000-0-A23/001 ou suas revisões. 
+A necessidade de eventuais ampliações decorrentes da manutenção do nível de serviço acima 
+descrito deverá ser avaliada pela CONCESSIONÁRIA e submetida à prévia aprovação da ARTESP, 
+inclusive com apresentação de PROJETO EXECUTIVO e respectivo orçamento, contendo indicação 
+dos custos necessários para implantação, operação e conservação desta ampliação, apontando à 
+ARTESP a exata medida do eventual desequilíbrio econômico-financeiro do CONTRATO. 
+ 
+Os custos unitários a serem adotados devem ter como base a TPU DER/SP ou tabela SICRO do 
+DNIT, cujas versões devem ser as mais atualizadas no momento da apresentação do projeto para o 
+investimento em questão. Considera-se autorizada a alteração da localização do dispositivo em 
+relação ao previsto nos PROJETOS FUNCIONAIS constantes no ANEXO 12, caso atendidas as 
+seguintes condições: 
+ 
+● 
+respeitar as condições de interfaces dos acessos; 
+ 
+● 
+alteração seja em um raio máximo de 500 metros; 
+ 
+● 
+alteração seja realizada de modo que todos os movimentos originalmente previstos sejam 
+atendidos; e 
+ 
+● 
+seja demonstrado o interesse público na alteração a ser realizada. 
+ 
+3.2.9. Acostamentos 
+ 
+A CONCESSIONÁRIA ficará responsável pela implantação de acostamentos pavimentados conforme 
+previsto nos ANEXOS 12 e 21. Deverá ser realizado de acordo com o padrão de segurança exigido 
+pelas normas vigentes do DER/SP e ARTESP. Estas obras deverão ocorrer às expensas da 
+CONCESSIONÁRIA e sob sua responsabilidade, nos prazos estabelecidos no ANEXO 21. 
+ 
+3.2.10. Passarelas e Passagens em Nível para Travessias de Pedestres 
+ 
+A elaboração do projeto e a implantação desses dispositivos para travessia de pedestres são de 
+responsabilidade da CONCESSIONÁRIA. 
+ 
+Deverão ser observadas as instruções técnicas emitidas pela ARTESP e/ou ABNT (vigentes a época 
+da implantação), referentes a todos os itens que envolvam a execução do projeto e parâmetros para 
+verificação de demanda. 
+ 
+O projeto de implantação de passarelas, além do projeto que envolva a estrutura, deverá prever 
+gabarito vertical mínimo de 5,5m (cinco metros e cinquenta centímetros), sistema de iluminação ao 
+longo de toda passarela e caminhamento do pedestre até acessá-la, instalação de telas de 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 20
+
+
+ 
+ 
+Folha 21 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+fechamento no trecho de transposição da rodovia (dispositivo antiofuscamento), dispositivo de 
+bloqueio longitudinal no canteiro central, do tipo alambrado ou barreira de concreto com altura 
+mínima de 2 (dois) metros de extensão que abranja a área de interesse de travessia conduzindo o 
+pedestre à utilização da passarela (em áreas rurais e sem outros dispositivos em desnível próximos, 
+a extensão mínima é de 300 (trezentos) metros para cada lado da passarela).  
+ 
+A CONCESSIONÁRIA se responsabilizará pela implantação de passarelas nas quantidades 
+estabelecidas nos ANEXOS 12 e 21, devendo analisar os locais mais adequados, priorizando pontos 
+onde: 
+ 
+(i) 
+o fluxo de travessia (soma de ambos os sentidos) exceder 40 (quarenta) pedestres em 1 
+(uma) hora pico no período das 5h às 23h; 
+ 
+(ii) 
+a ocupação lindeira gerar um fluxo de travessia de pedestres constante de no mínimo 5 
+(cinco) pedestres por hora em 80% do período das 5h às 23h; 
+ 
+(iii) 
+a ocupação lindeira gerar um fluxo de travessia de no mínimo 15 (quinze) pedestres em 
+ao menos 4 (quatro) períodos de 1 (hora) entre as 5h e as 23h; 
+ 
+(iv) 
+as circunstâncias especiais, independentes do fluxo de travessia, vierem a causar 
+graves riscos aos pedestres e aos usuários, como por exemplo, extensão de travessia e VDM 
+que inviabilize brechas de travessia em nível segura; 
+ 
+(v) 
+a ocorrência de 2 (dois) atropelamentos (independentemente da severidade) em um 
+segmento de 600 (seiscentos) metros nos últimos 3 (três) anos de análise; 
+ 
+(vi) 
+for detectada condição insegura para travessia de pedestres em nível, a ARTESP 
+poderá solicitar a implantação de passarelas, mesmo que no local não haja as condições 
+especificadas anteriormente. 
+ 
+As passarelas previstas na SP-270 deverão considerar a ligação entre as marginais dos dois lados 
+da rodovia.  
+ 
+Constatada a necessidade de implantação de travessias em nível (sinalizadas, iluminadas, 
+controladas etc.), a CONCESSIONÁRIA deverá apresentar projeto para cada ponto de travessia, 
+contemplando a sinalização, iluminação, dispositivos de contenção viária, radares, ondulações 
+transversais, sonorizadores, linhas de estímulo à redução de velocidade, lombofaixa, semáforo etc., 
+atendendo sempre às normas vigentes à época da implantação. No caso de rodovias de pista dupla, 
+o canteiro central deve possuir área de refúgio (tipo “bullets”) adequada (inclusive para portadores de 
+deficiência) e protegida para os pedestres efetuarem a travessia em duas etapas com conforto e 
+segurança. No caso de rodovias de pista simples deverão ser realizados estudos técnicos para a 
+identificação da necessidade de implantação dos refúgios (“bullets”), os quais necessariamente 
+devem verificar a existência de brechas temporais para a realização das travessias. O cadastro 
+deverá ser atualizado sempre que houver novas inclusões. 
+ 
+As passarelas a serem implantadas devem ser iluminadas e atender à Classe P1 da NBR 5101 ou 
+outra que venha a substitui-la e/ou complementá-la. Toda implantação de passarelas deverá estar 
+em conformidade com a NBR 9050 – Acessibilidade, NBR 5101 – Iluminação Pública e NBR 14744 – 
+Postes de Aço para Iluminação, NBR 6971 – Segurança no Tráfego – Defensas Metálicas – 
+Implantação, NBR 14885 – Segurança no Tráfego – Barreiras de Concreto e NBR 15486 - 
+Segurança no Tráfego – Dispositivos de Contenção Viária – Diretrizes, e demais normas e 
+especificações vigentes à época da implantação. 
+ 
+No projeto, deverá prioritariamente ser considerada a execução (projeção) das rampas de modo 
+empilhado (‘U’), escadaria para acessos em ambas as extremidades, e toda a infraestrutura de 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 21
+
+
+ 
+ 
+Folha 22 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+acessibilidade à passarela, iluminação, ponto de parada de ônibus e monitoração através de sistema 
+de CFTV com imagens centralizadas no CCO em tempo real.  
+ 
+Todo o trajeto de deslocamento dos pedestres das passarelas até os pontos de ônibus ou ao sistema 
+viário local de acesso deve sempre ser realizado por passeio com calçamento e iluminação.  
+ 
+Todas as passarelas existentes sobre as rodovias deverão ter telamento metálico galvanizado. O 
+telamento deverá ser implantado nas vigas principais sobre a rodovia, inclusive acostamentos e vias 
+marginais, estendendo-se suas extremidades em 3,50 (três e meio) metros. Caso as rampas estejam 
+a uma distância inferior ou igual a 3,50 (três e meio) metros, também deverão receber telamento. O 
+telamento deverá ter durabilidade, eficácia e ser resistente a vandalismos. 
+ 
+A CONCESSIONÁRIA deverá mapear todo o SISTEMA RODOVIÁRIO e identificar todos os locais 
+onde há travessia de pedestres, e realizar estudos no máximo a cada 5 (cinco) anos, com no mínimo 
+contagem classificada de pedestres e pesquisa de origem e destino, apontamento de todos os 
+estabelecimentos lindeiros polos geradores de travessia (estabelecimentos educacionais, creches, 
+centros comerciais, hospitais, posto de saúde e outros), de forma a avaliar a existência/surgimento 
+de locais que apresentem a necessidade da implantação de passarela ou travessia em nível. 
+ 
+O primeiro estudo (SISTEMA EXISTENTE e SISTEMA REMANESCENTE) deverá ser realizado no 
+prazo previsto no item 5 deste ANEXO (Quadro de Prazos). Os demais estudos deverão contemplar 
+todo o SISTEMA RODOVIÁRIO, com prazo contado a partir da data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+ 
+Além do mapeamento e estudo previsto neste item, a CONCESSIONÁRIA deverá, ao longo de todo 
+o PRAZO DA CONCESSÃO, realizar às suas expensas, estudos (contagem classificada, origem e 
+destino) em pontos específicos quando tais estudos forem solicitados pela ARTESP. 
+ 
+Quaisquer discrepâncias quanto à quantidade de passarelas prevista nos ANEXOS 12 e 21 deverá 
+ser avaliada pela CONCESSIONÁRIA, seguindo o rito das REVISÕES ORDINÁRIAS, inseridas no 
+SISDEMANDA e submetida à aprovação da ARTESP. 
+ 
+A CONCESSIONÁRIA deverá implantar as travessias em nível identificadas no primeiro estudo de 
+que trata este item às suas expensas nos prazos previstos nos ANEXOS 12 e 21. Caso no âmbito da 
+elaboração periódica dos demais estudos seja constatada a necessidade de implantação de novas 
+travessias em nível, a CONCESSIONÁRIA deverá tratá-las no âmbito das REVISÕES ORDINÁRIAS.  
+ 
+Os parâmetros para verificação da necessidade de passarelas durante todo o PRAZO DA 
+CONCESSÃO, além das previstas no ANEXO 21, são aqueles definidos neste item ou determinados 
+pela ARTESP através de instrução de projeto e/ou especificação técnica.  
+ 
+Sempre que ocorrerem intervenções no trecho concedido como as ampliações principais previstas, a 
+implantação de vias marginais, entre outros, estas ampliações/melhoramentos devem ser realizadas 
+juntamente com a adequação/ampliação de passarela e de travessias melhoradas. Caso os projetos 
+de intervenção acima mencionados não contemplem passarelas ou travessias melhoradas a 
+CONCESSIONÁRIA deve realizar, às suas expensas, estudos para verificar a necessidade de 
+implantação desses melhoramentos, incorporando-as ao projeto. 
+ 
+A CONCESSIONÁRIA deverá realizar, às suas expensas e em prazo definido pela ARTESP, estudos 
+para implantação de travessias de pedestres, quando houver evidências de que possa ser 
+necessário implantar novas estruturas e solicitado pela ARTESP. Os estudos devem estar 
+acompanhados de Anotação de Responsabilidade Técnica, conforme aplicável. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 22
+
+
+ 
+ 
+Folha 23 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+3.2.11. Pontos de Parada de ônibus 
+ 
+A CONCESSIONÁRIA deverá apresentar o cadastro de todos os locais onde for verificado o 
+atendimento ao transporte público (regular ou não) e atualizá-lo sempre que houver alterações, 
+sendo que tal cadastro deverá contar com, no mínimo, registro fotográfico, localização, 
+georreferenciamento, caracterização e contagem de paragens e embarque/desembarque. Esse 
+estudo deverá ser desenvolvido nos prazos previstos no item 5 deste ANEXO, e atualizado (pontos já 
+cadastrados e identificação de novos pontos) a cada 5 (cinco) anos contados a partir da data de 
+assinatura do TERMO DE TRANSFERÊNCIA INICIAL. 
+ 
+A CONCESSIONÁRIA se responsabilizará, às suas expensas, pela adequação dos pontos de parada 
+de ônibus existentes, inclusive após as duplicações e faixas adicionais, e implantação dos novos 
+pontos de parada de ônibus, conforme quantitativos previstos no ANEXO 21.  
+ 
+ 
+Para identificação dos pontos que precisam ser regularizados, a CONCESSIONÁRIA deverá seguir o 
+seguinte critério: parada mínima de 5 (cinco) veículos na hora pico ou o movimento mínimo de 
+embarque/desembarque de 10 (dez) passageiros por hora pico. 
+ 
+Nos casos em que haja necessidade de regularização dos pontos de parada de ônibus, a 
+CONCESSIONÁRIA deverá apresentar o cronograma e o PROJETO FUNCIONAL para avaliação e 
+aprovação da ARTESP nos dois primeiros meses subsequentes ao período da realização dos 
+estudos. O projeto deverá priorizar a implantação dos pontos de ônibus sempre em locais próximos a 
+passarelas de pedestres e dispositivos em desnível que viabilizem a travessia segura do pedestre. O 
+projeto e a execução do ponto de parada de ônibus a ser regularizado, deverá se basear na Portaria 
+SUP-DER-030/2005, do Departamento de Estradas de Rodagem - DER, ou outro regulamento que 
+vier a substitui-la, para se determinar o tamanho da baia, plataforma e cobertura, conforme o tipo de 
+rodovia. O projeto de pontos de parada de ônibus deverá prever também a sua iluminação, bem 
+como a sua acessibilidade, conforme determinam as normas da ABNT (vigentes) NBR 9050 – 
+Acessibilidade e NBR 5101 – Iluminação Pública, NBR 6971 – Segurança no Tráfego – Defensas 
+Metálicas – Implantação, NBR 14885 – Segurança no Tráfego – Barreiras de Concreto e NBR 15486 
+- Segurança no Tráfego – Dispositivos de Contenção Viária – Diretrizes, o Manual de Sinalização do 
+DER/SP, e demais normas e especificações vigentes à época da implantação. 
+ 
+O cadastro deverá ser atualizado sempre que houver novas inclusões. 
+ 
+Sempre que ocorrerem intervenções no trecho concedido (ampliações principais, implantação de vias 
+marginais, entre outros), estas ampliações/melhoramentos devem ser realizadas juntamente com a 
+adequação/implantação de pontos de ônibus. Caso os projetos de intervenção acima mencionados 
+não contemplem pontos de ônibus, a CONCESSIONÁRIA deve realizar, às suas expensas, estudos 
+para verificar a necessidade de implantação desses melhoramentos, incorporando-os ao projeto. 
+ 
+Além do mapeamento e estudo previsto neste item, a CONCESSIONÁRIA deverá, ao longo do 
+PRAZO DA CONCESSÃO, realizar às suas expensas e em prazo definido pela ARTESP, estudos 
+(e.g., contagem, origem e destino) em pontos específicos, quando houver evidências de que possa 
+ser necessário implantar novas estruturas e solicitado pela ARTESP. Os estudos devem estar 
+acompanhados de Anotação de Responsabilidade Técnica, conforme aplicável. 
+ 
+3.2.12. Acessos 
+ 
+Nos casos de ACESSOS regularizados, cabe à CONCESSIONÁRIA, quando e se houver 
+necessidade de modificação, por ocasião de duplicações, faixas adicionais, vias marginais, ou 
+intervenções originalmente previstas no ANEXO 21, recompor, às suas expensas, o acesso 
+conforme suas características e funcionalidades originais. Quanto aos ACESSOS autorizados e 
+ainda não construídos, cuja implantação esteja dentro dos prazos definidos na Portaria SUP/DER-78 
+(ou outra que venha a substitui-la) para início e conclusão das obras, cabe à CONCESSIONÁRIA 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 23
+
+
+ 
+ 
+Folha 24 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+compatibilizar o projeto aprovado do ACESSO com o projeto da obra contratual, permanecendo a 
+execução do respectivo ACESSO por conta do proprietário lindeiro interessado. 
+ 
+Nos casos de ACESSOS pré-existentes e não regularizados, a CONCESSIONÁRIA deverá realizar a 
+regularização dos acessos observando-se a distribuição nos segmentos homogêneos e quantidades 
+estabelecidas no ANEXO 21 e a seguinte ordem de prioridade:  
+• 
+acessos a vias públicas em regiões rurais; 
+• 
+acesso a vias públicas em regiões urbanas, quando não houver vias marginais 
+existentes ou previstas;  
+• 
+acessos a bens ou áreas de interesse público, quando não houver vias marginais 
+existentes ou previstas;  
+• 
+acesso à propriedade privada de uso não comercial, devendo atender os seguintes 
+critérios:  
+o 
+disponibilização de um único acesso por propriedade;  
+o 
+impossibilidade de utilizar acesso secundário, mesmo que indireto à rodovia; 
+e  
+o 
+viabilidade em termos de segurança viária, podendo ser prevista a 
+canalização do fluxo de conjunto de acessos para um único acesso à 
+rodovia.  
+• 
+acesso à propriedade privada de uso comercial para prestação de serviços aos 
+usuários da rodovia, em que se deverá comprovar a hipossuficiência para custeio da 
+regularização por meio da comprovação de adesão ao Microempreendedor Individual 
+(MEI) ou SIMPLES NACIONAL relativo ao serviço principal ofertado; e  
+• 
+acesso à propriedade privada de uso comercial ou industrial, independente do porte, 
+de acordo o índice de ocorrência de sinistros de trânsito para a classificação da via.  
+ 
+A CONCESSIONÁRIA deverá fazer a gestão e adotar as providências necessárias para que todos os 
+proprietários lindeiros regularizem os ACESSOS no prazo máximo de 05 (cinco) anos.  
+ 
+No caso de distâncias para transporte de material fresado com destino a aterros de inertes 
+superiores a 30 km, ou quando o custo de destinação do material for compatível, a 
+CONCESSIONÁRIA poderá substituir o transporte e descarte pela utilização do material fresado para 
+regularização de acessos de menor porte, em conformidade com a legislação ambiental e normas 
+aplicáveis sem a necessidade de reequilíbrio contratual. 
+ 
+No caso da necessidade de regularização ou implantação de novos ACESSOS considerados de 
+interesse público pela ARTESP ou pelo PODER CONCEDENTE no decorrer da CONCESSÃO, estão 
+previstas no ANEXO 21 as verbas de implantação/regularização de ACESSOS por ano que deverão 
+ser realizados pela CONCESSIONÁRIA quando assim solicitado. A cada REVISÃO ORDINÁRIA será 
+verificado o efetivo montante desembolsado pela CONCESSIONÁRIA por ano, considerando a 
+correção monetária, conforme disposto no ANEXO 4. Se forem desembolsados valores inferiores à 
+verba prevista no ano, a diferença será acrescida à verba dos anos subsequentes. Se forem 
+desembolsados valores superiores à verba prevista no ano, esses valores serão descontados da 
+verba prevista para os anos subsequentes.  
+ 
+ 
+3.2.13. Iluminação Pública 
+ 
+A CONCESSIONÁRIA deverá implantar a infraestrutura necessária para a iluminação pública, às 
+suas expensas, em todos os trechos de rodovia integrantes do SISTEMA RODOVIÁRIO que 
+atravessem núcleos urbanos lindeiros e trechos em serra de forma integral; interseções em nível; 
+dispositivos, passarelas, viadutos e passagens inferiores, devendo ser implantado no mínimo o maior 
+fator de iluminamento previsto em norma (atualmente classe de iluminação P1); travessias de 
+pedestres e ciclistas; pontos de ônibus. 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 24
+
+
+ 
+ 
+Folha 25 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+As áreas urbanas e de serra sujeitas à implantação de iluminação pública deverão ser identificadas 
+com base no levantamento do tipo vídeo-registro previsto no ANEXO 6 no âmbito dos programas 
+descritos no item 1 do referido ANEXO. 
+ 
+Se for identificado algum ponto crítico de acidentes, mesmo que esteja fora de trecho urbano ou 
+serra, este também deverá ser iluminado, assim como todas as OAEs que também forem utilizadas 
+por pedestres para transposição da rodovia integrante do SISTEMA RODOVIÁRIO. Deverão ser 
+seguidas as normas e padrões vigentes da ABNT NBR 5101 – Iluminação Pública e NBR 14744 – 
+Postes de Aço para Iluminação e demais normas pertinentes. 
+ 
+A adequação dos trechos, onde a iluminação for inexistente e/ou com classe de iluminação diversa 
+da especificada, deverá ser promovida pela CONCESSIONÁRIA, conforme prazo previsto no item 5 
+deste ANEXO. 
+ 
+A CONCESSIONÁRIA não será responsável por custear o fornecimento de energia elétrica no 
+trecho, sendo responsável apenas pelo pagamento da contribuição para o custeio, a expansão e a 
+melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e 
+preservação de logradouros público, caso aplicável. 
+ 
+A adequação da iluminação nos trechos em que as obras de duplicação ou implantação de faixa 
+adicional ocorrerem até o 4º (quarto) ano de CONCESSÃO poderão ser realizadas quando do 
+momento previsto no ANEXO 21 para o respectivo investimento. Entretanto, para estes trechos, a 
+CONCESSIONÁRIA 
+deverá 
+submeter 
+à 
+ARTESP 
+demonstrativo 
+de 
+que 
+não 
+haverá 
+comprometimento da segurança ao usuário nesses locais. 
+ 
+Em 6 (seis) meses contados da assinatura do TERMO DE TRANSFERÊNCIA INICIAL, a 
+CONCESSIONÁRIA deverá realizar levantamento dos equipamentos de iluminação implantados e 
+apresentar à ARTESP projeto de adequação às normas técnicas aplicáveis. Uma vez aprovado, a 
+CONCESSIONÁRIA deverá executar o projeto em 6 (seis) meses. 
+ 
+3.2.14. Ciclovias 
+ 
+Denomina-se ciclovia a área específica segregada do fluxo de veículos automotores para circulação 
+de ciclistas em duas mãos de direção, pavimentada, sinalizada e segregada dos passeios e 
+calçamentos para circulação de pedestres. Caso não haja espaço físico para implantar a ciclovia e 
+calçamento para circulação de pedestres, a ciclovia poderá ter uso compartilhado, desde que atenda 
+o Manual Brasileiro de Sinalização de Trânsito, ou outro Manual que vier substitui-lo. A 
+CONCESSIONÁRIA se responsabilizará pela implantação da infraestrutura cicloviária prevista nos 
+ANEXOS 12 e 21.  
+ 
+A CONCESSIONÁRIA deverá apresentar levantamento de todos os trechos onde for verificada a 
+circulação de ciclistas, observado o Decreto no 63.881 de 3 de dezembro de 2018 ou norma que 
+venha a alterá-lo ou substituí-lo, referente à implantação de ciclovias em rodovias no Estado de São 
+Paulo. O levantamento deverá conter, no mínimo, (i) registro fotográfico, (ii) localização, (iii) extensão 
+do trecho (km inicial e km final), (iv) caracterização do entorno desse trecho, (v) contagem com 
+origem e destino, (vi) identificação de locais que contribuam para a melhoria da mobilidade da 
+população local, (vii) identificação de locais com 10 ou mais ciclistas em hora pico e/ou locais que 
+apresentem utilização da rodovia como ciclovia, e (viii) identificação de locais que haja riscos de 
+acidentes aos usuários, conforme identificado pela ISR. O levantamento no SISTEMA RODOVIÁRIO 
+deverá ser realizado a cada 5 (cinco) anos contados a partir da data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+ 
+Devem ser apresentadas para cada trecho identificado as condições atuais e ampliações previstas, 
+ou seja, se a ciclovia estará em rodovia de pista dupla ou pista simples, se há ou não vias marginais 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 25
+
+
+ 
+ 
+Folha 26 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+etc. Para as rodovias que não estão previstas obras de ampliações, as ciclovias também deverão ser 
+consideradas. 
+ 
+ 
+O projeto e a execução das ciclovias, deverá se basear no Manual da SENATRAN/CONTRAN, no 
+Manual de Sinalização do DER/SP e as normas da ABNT (vigentes) NBR 9050 – Acessibilidade e 
+NBR 5101 – Iluminação Pública, NBR 6971 – Segurança no Tráfego – Defensas Metálicas – 
+Implantação, NBR 14885 – Segurança no Tráfego – Barreiras de Concreto, NBR 15486 - Segurança 
+no Tráfego – Dispositivos de Contenção Viária – Diretrizes, e demais normas e especificações 
+vigentes à época da implantação e no citado Decreto no 63.881 de 3 de dezembro de 2018. 
+ 
+Além do levantamento e estudo previsto neste item, a CONCESSIONÁRIA deverá, ao longo do 
+PRAZO DA CONCESSÃO, realizar às suas expensas e em prazo definido pela ARTESP, estudos 
+(e.g., contagem, origem e destino) em pontos específicos, quando houver evidências de que possa 
+ser necessário implantar novas estruturas e solicitado pela ARTESP. Os estudos devem estar 
+acompanhados de Anotação de Responsabilidade Técnica, conforme aplicável. 
+ 
+3.2.15. Calçamento para Circulação de Pedestres 
+ 
+A CONCESSIONÁRIA deverá implementar calçamento nas obras que prevejam vias marginais, em 
+todo o trajeto de deslocamento do pedestre, em travessias em nível e desnível, nos acessos a 
+passarelas, a pontos de ônibus ou ao sistema viário local, bem como em localizações definidas em 
+levantamento inicial a ser realizado pela CONCESSIONÁRIA.  
+ 
+Para os itens de investimentos do ANEXO 21, relacionados a intervenções previstas nos ANEXOS 6 
+e 7, e cuja regra contratual determine a obrigatoriedade de calçamento, os valores ali previstos já 
+contemplam, em suas respectivas composições, os custos para implantação de calçamento 
+agregado. 
+ 
+Calçamentos adicionais, cuja necessidade seja identificada por meio dos levantamentos dispostos 
+nesta seção, após a realização do levantamento inicial, serão contemplados no rito das REVISÕES 
+ORDINÁRIAS. 
+ 
+Referidos levantamentos serão realizados, às expensas da CONCESSIONÁRIA, a cada 5 (cinco) 
+anos, sendo o primeiro de acordo com o Item 5 (Quadro de Prazos).  
+ 
+O levantamento deverá ser validado pela ARTESP previamente ao investimento de calçamento, 
+deverá contemplar todos os locais onde for identificada a presença de pedestres e deverá contar 
+com, no mínimo, registro fotográfico, localização, extensão do trecho (km inicial e km final), 
+caracterização do entorno do trecho e contagem com origem e destino. A priorização dos locais para 
+contemplar o calçamento será feita em função da demanda e/ou histórico das ocorrências de 
+acidentes do tipo “atropelamento de pedestre”, sendo conferida a prerrogativa à ARTESP de regular 
+e normatizar os níveis a serem adotados como critério de priorização. 
+ 
+Devem ser apresentadas para cada trecho identificado as condições atuais e ampliações previstas 
+em CONTRATO, ou seja, se a rodovia estará em pista dupla ou pista simples, se há ou não vias 
+marginais ou qualquer outro tipo de intervenção. 
+ 
+Sempre que ocorrerem intervenções no trecho concedido, tais como: ampliações principais, 
+implantação de vias marginais, entre outros; estas deverão ser realizadas juntamente com o 
+calçamento para circulação de pedestres, caso o calçamento já seja disponível na situação original 
+do respectivo trecho. No caso de rodovias que serão ampliadas, com vias marginais, o calçamento 
+se dará apenas nas vias marginais. 
+ 
+O calçamento deverá ser segregado do fluxo de veículos automotores, para circulação de pedestres 
+em duas mãos de direção com proteção por barreiras de concreto e/ou defensas metálicas. 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 26
+
+
+ 
+ 
+Folha 27 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+Os passeios devem ser previstos com, no mínimo 1,50 m (um metro e cinquenta centímetros) de 
+largura e rampas não superiores a 8% (oito por cento). 
+ 
+O projeto e a execução dos calçamentos para circulação de pedestres, deverão se basear nas 
+normas vigentes à época de implantação. 
+ 
+Os requerimentos de autorização de acesso por interessados lindeiros deverá considerar a 
+necessidade de calçamento adicional, paradas de ônibus ou demais itens que favoreçam a 
+segurança dos usuários e pedestres, conforme estudo de indução de tráfego, e serão realizados às 
+expensas do interessado lindeiro, como contrapartida necessária a autorização pleiteada. 
+ 
+Além do levantamento e estudo previsto neste item, a CONCESSIONÁRIA deverá, ao longo do 
+PRAZO DA CONCESSÃO, realizar às suas expensas e em prazo definido pela ARTESP, estudos 
+(e.g., contagem, origem e destino) em pontos específicos, quando houver evidências de que possa 
+ser necessário implantar novas estruturas e solicitado pela ARTESP. Os estudos devem estar 
+acompanhados de Anotação de Responsabilidade Técnica, conforme aplicável. 
+ 
+3.2.16.  Cercas e telamento 
+ 
+A CONCESSIONÁRIA deverá implementar defensas e cercas de forma a atender às normas 
+vigentes e pertinentes na época da implantação e o disposto no ANEXO 6, às suas expensas. 
+ 
+A CONCESSIONÁRIA deverá implantar telamento (dispositivo antiofuscamento) no eixo da 
+RODOVIA nos locais em que há dispositivos em desnível em passagens superiores (OAEs e 
+passarelas, por exemplo) a fim de garantir que o usuário não atravesse as faixas de rolamento. 
+ 
+ 
+3.2.17. Dispositivos de contenção viária 
+ 
+A CONCESSIONÁRIA deverá estimar as quantidades dos serviços necessários e suficientes, 
+relativos à implantação dos dispositivos de contenção viária certificados do tipo flexível e rígido 
+(defensas metálicas, dispositivos certificados, defensas rígidas de concreto, dispositivos 
+atenuadores, dispositivos amortecedores e outros) de forma a atender às normas vigentes e 
+pertinentes na época da implantação e o disposto no ANEXO 6 e ANEXO 12. 
+ 
+Deverá ser prevista a instalação e manutenção, em todo o PRAZO DA CONCESSÃO, de películas 
+retrorrefletivas nos postes de todos os dispositivos de contenção viária flexíveis utilizando o mesmo 
+espaçamento e cores determinadas nos manuais do CONTRAN e DER/SP para a instalação dos 
+balizadores (delineadores). 
+ 
+Em locais nos quais a presença de guias, sarjetas ou qualquer outro elemento, em posição frontal à 
+defensa, que alteram as alturas de impacto nas lâminas de defensa devem ser adequados às 
+normas vigentes. 
+ 
+Em trechos de serra (montanhoso), Áreas de Proteção Ambiental e em Obras de Arte Especial deve 
+ser prevista a instalação de dispositivos com nível de contenção muito alto. 
+ 
+A CONCESSIONÁRIA deverá elaborar e apresentar, nos termos do APÊNDICE H e no prazo 
+previsto no item 5 deste ANEXO, os projetos dos dispositivos de contenção viária (flexível e rígido) 
+que contemplem as implantações previstas neste item e de acordo com as regras estipuladas no 
+CONTRATO, bem como as adequações previstas no ANEXO 6. 
+ 
+Além das regras previstas no APÊNDICE H, o projeto deverá conter, no mínimo: base topográfica 
+contemplando todos os elementos existentes na FAIXA DE DOMÍNIO (árvores, drenagem, 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 27
+
+
+ 
+ 
+Folha 28 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+sinalização etc.) e a indicação/definição dos tipos de dispositivos de contenção viária existentes, a 
+adequar e a implantar. 
+ 
+A CONCESSIONÁRIA deverá apresentar planilha detalhando, para cada elemento a ser implantado, 
+a sua localização (rodovia, km e sentido), serviço a ser realizado, extensão da intervenção, além de 
+cronograma de execução. 
+ 
+Ao término dos serviços de implantação, a CONCESSIONÁRIA deverá apresentar relatório 
+fotográfico que comprove a execução dos serviços. 
+ 
+Cuidados especiais com a drenagem superficial deverão ser tomados nos casos de implantação de 
+dispositivos de contenção viária do tipo rígido (por exemplo, barreiras de concreto). 
+ 
+3.2.18. Sinalização e dispositivos auxiliares 
+ 
+A CONCESSIONÁRIA deverá elaborar, conforme prazo previsto no item 5 deste ANEXO, o projeto 
+completo para adequação da sinalização vertical, horizontal e de dispositivos auxiliares, de forma a 
+adequá-los aos padrões e especificações vigentes no Manual Brasileiro de Sinalização de Trânsito 
+— CONTRAN, no Manual de Sinalização Rodoviária — DER/SP e nas normas técnicas da ABNT 
+pertinentes e vigentes, além do Manual de Sinalização Institucional e demais Especificações 
+Técnicas da ARTESP.  
+ 
+Além de atender aos padrões e especificações vigentes, o projeto de adequação da sinalização 
+deverá contemplar: 
+ 
+(i) 
+sinalização para trechos com incidência de neblina; 
+ 
+(ii) 
+identificação de marginais, dispositivos e ramos/alças conforme especificação técnica na 
+ARTESP; e 
+ 
+(iii) 
+demarcação do estaqueamento horizontal ao longo do acostamento da rodovia, vias de 
+acesso, marginais, ramos/alças, a cada 20 (vinte) metros, indicando com numeração a 
+cada 100 (cem) metros. 
+ 
+(iv) 
+Em todo sistema, a implantação de revestimento com Sinalização horizontal viária em 
+alto-relevo ao longo das linhas limítrofes (linha de borda) e das linhas de fluxos opostos. 
+Caso a inspeção/auditoria de segurança rodoviária (ISR) prevista no ANEXO 5 aponte a 
+necessidade de implantação de revestimento com Sonorizador Longitudinal, a 
+CONCESSIONÁRIA deverá implantá-lo às suas expensas. 
+ 
+A implantação deverá estar concluída no prazo previsto no item 5 deste ANEXO. 
+ 
+Toda sinalização vertical e dispositivos auxiliares pertinentes implantados pela CONCESSIONÁRIA 
+deverá estar contemplada, em seu verso, com o registro ARTESP e a data de fabricação da 
+sinalização, conforme diretrizes da ARTESP. 
+ 
+Não poderá ser implantada sinalização vertical, marcadores de perigo ou marcadores de alinhamento 
+em área pavimentada caracterizada como pista, inclusive ilhas e canteiros fictícios, mesmo em área 
+neutra.  
+ 
+Ao término dos serviços de adequação, a CONCESSIONÁRIA deverá apresentar relatório fotográfico 
+que comprove a execução dos serviços. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 28
+
+
+ 
+ 
+Folha 29 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+3.2.19. Outros Melhoramentos 
+ 
+A CONCESSIONÁRIA, com base nas inspeções realizadas previamente à apresentação do POI, 
+deverá estimar as quantidades de serviços relativos a melhoramentos que não se enquadrem em 
+nenhum dos tópicos anteriores, além dos relacionados abaixo: 
+ 
+● 
+Implantação e/ou adequação de obra de arte corrente; 
+ 
+● 
+Adequação de sistema de drenagem, incluindo a eliminação de elementos de drenagem que 
+se configurem como obstáculo fixo na área livre de segurança, tais como, caixas de inspeção, 
+canaletas etc., implantação de novos bueiros e canais; 
+ 
+● 
+Conservação das melhorias a serem implantadas pelo PODER CONCEDENTE, nos padrões 
+estabelecidos no ANEXO 6. 
+ 
+● 
+Adequações geométricas na pista existente, conforme regramento previsto no APÊNDICE I. 
+ 
+Os melhoramentos descritos neste subitem deverão ser implantados às expensas da 
+CONCESSIONÁRIA e sob sua responsabilidade. 
+ 
+Os projetos para melhoramentos e/ou implantação dos equipamentos ou dispositivos deverão ser 
+elaborados pela CONCESSIONÁRIA, em observância à normas da ABNT vigentes referentes a 
+projetos e materiais, além das Especificações Técnicas da ARTESP referentes aos melhoramentos 
+e/ou implantação dos equipamentos e dispositivos. 
+ 
+3.2.20. Orientações gerais de projeto sobre melhoramentos e ampliações 
+ 
+(a) Trecho entre Cotia e Embu das Artes – implantação de trecho duplicado ligando a SP-270 à 
+BR-116: 
+ 
+• 
+Rampa 
+máxima: 
+a 
+rampa 
+máxima 
+admissível 
+deve 
+ser 
+de 
+8%; 
+e, 
+excepcionalmente, no trecho urbano existente, a rampa máxima admissível deve 
+ser de 10%; 
+ 
+• 
+Para a divisão entre os dois sentidos de tráfego nas obras de duplicação previstas 
+no ANEXO 21, a CONCESSIONÁRIA poderá optar pela implantação de (a) 
+canteiros centrais de acordo com a Classe I-A do Manual de Projeto Geométrico 
+de Rodovias Rurais do DNIT ou (b) a implantação de barreira rígida de concreto, 
+de acordo com as normas aplicáveis, desde que com previsão de com lamelas 
+antiofuscantes.  
+ 
+• 
+Superelevação máxima: 10%; 
+ 
+• 
+Largura mínima de faixa de rolamento: 3,6 metros; 
+ 
+• 
+Largura mínima de acostamento: 2,5 metros.  
+ 
+• 
+Largura de faixa de segurança mínima: 0,6 metro; 
+ 
+• 
+Novas OAEs com gabarito mínimo que atendam às larguras definidas neste item, 
+bem como contemplem calçamento (longitudinal e transversal) para pedestre 
+atendendo às normas técnicas vigentes na época da implantação; 
+ 
+• 
+Apenas com relação à geometria de curvas horizontais e verticais deverá atender 
+as velocidades diretrizes mínimas pré-estabelecidas para os segmentos conforme 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 29
+
+
+ 
+ 
+Folha 30 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+APÊNDICE I, independente da classificação do relevo. Não deverá ser 
+considerada alteração de curvas convexas. 
+ 
+• 
+Em caso de utilização dos viários locais do trecho das Ruas Leon Psanquevich e 
+Benedito Lemos Leite e das Avenidas Nossa Senhora de Fátima e Professor 
+Manoel José Pedroso, na zona urbanizada de Cotia, não é necessária a 
+duplicação de ambas as vias, sendo possível a utilização de uma solução de 
+binário. 
+ 
+• 
+Podem ser propostos trechos em greenfield pela CONCESSIONÁRIA para que 
+sejam atendidas as premissas deste ANEXO.  
+ 
+• 
+Caberá à CONCESSIONÁRIA definir o traçado deste segmento observando os 
+parâmetros acima no âmbito do processo de apresentação dos projetos de 
+engenharia previsto no APÊNDICE H. 
+ 
+• 
+Devem ser respeitados os raios de giro mínimos para o veículo de projeto do item 
+(l). 
+ 
+(b) Trecho da SP-029 entre o km 38,6 e km 43,7: implantação de trecho duplicado: 
+ 
+• 
+Rampa máxima: (a) igual ou inferior a da pista existente no caso de obras de 
+ampliação de capacidade e melhorias adjacentes à pista existente, ou (b) no caso 
+de ampliações descoladas do traçado existente (distâncias de bordo entre a pista 
+nova e existente maiores que 12 metros) a rampa máxima deve ser de 6%; 
+ 
+• 
+Para a divisão entre os dois sentidos de tráfego nas obras de duplicação previstas 
+no ANEXO 21, a CONCESSIONÁRIA poderá optar pela implantação de (a) 
+canteiros centrais de acordo com a Classe MI do Manual de Projeto Geométrico 
+de Rodovias Rurais do DNIT ou (b) a implantação de barreira rígida de concreto, 
+de acordo com as normas aplicáveis, desde que com previsão de com lamelas 
+antiofuscantes.  
+ 
+• 
+Superelevação máxima: 10%; 
+ 
+• 
+Largura mínima de faixa de rolamento: 3,5 metros; 
+ 
+• 
+Largura mínima de acostamento: 2,5 metros.  
+ 
+• 
+Largura de faixa de segurança mínima: 0,6 metro; 
+ 
+• 
+Novas OAEs com gabarito mínimo que atendam às larguras definidas neste item, 
+bem como contemplem calçamento (longitudinal e transversal) para pedestre 
+atendendo às normas técnicas vigentes na época da implantação; 
+ 
+• 
+Em locais onde há a previsão/necessidade de implantação de ciclovias, as novas 
+OAEs deverão contemplar em seu gabarito a continuidade desta ciclovia, 
+atendendo às normas técnicas vigentes na época da implantação; 
+ 
+• 
+Apenas com relação à geometria de curvas horizontais e verticais deverá atender 
+as velocidades diretrizes mínimas pré-estabelecidas para os segmentos conforme 
+APÊNDICE I, independente da classificação do relevo. Não deverá ser 
+considerada alteração de curvas convexas.  
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 30
+
+
+ 
+ 
+Folha 31 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+• 
+No trecho do km 42,6 ao km 43,7 a duplicação do trecho poderá ser substituída 
+por trecho greenfield de conexão direta ao dispositivo do km 33,4 da SP-270. 
+ 
+ 
+(c) Implantação de faixa adicional em pista dupla na SP-280 e na SP-270: 
+ 
+• 
+Rampa máxima: (a) igual ou inferior a da pista existente no caso de obras de 
+ampliação de capacidade e melhorias adjacentes à pista existente, ou (b) no caso 
+de ampliações descoladas do traçado existente (distâncias de bordo entre a pista 
+nova e existente maiores que 12 metros) a rampa máxima deve ser de 6%; 
+ 
+• 
+Superelevação máxima: 10%; 
+ 
+• 
+Largura mínima de faixa de rolamento: 3,5 metros na SP-270 e 3,6 metros na SP-
+280; 
+ 
+• 
+Largura mínima de acostamento: 2,5 metros. Para os trechos com ampliação de 
+capacidade exigida na pista principal da SP-270 entre os km 10,94 e 34,065 não 
+se deve considerar a implantação de acostamentos; 
+ 
+• 
+Largura de faixa de segurança mínima: 0,6 metro; 
+ 
+• 
+Nas vias expressas não é necessária a previsão de calçamento (longitudinal e 
+transversal) para pedestre nas OAEs; 
+ 
+• 
+Em locais onde há a previsão/necessidade de implantação de ciclovias, as novas 
+OAEs deverão contemplar em seu gabarito a continuidade desta ciclovia, 
+atendendo às normas técnicas vigentes na época da implantação; 
+ 
+• 
+Apenas com relação à geometria de curvas horizontais e verticais deverá atender 
+as velocidades diretrizes mínimas pré-estabelecidas para os segmentos conforme 
+APÊNDICE I, independente da classificação do relevo. Não deverá ser 
+considerada alteração de curvas convexas.  
+ 
+• 
+Para quaisquer outros parâmetros geométricos que não sejam calculados 
+diretamente em função da velocidade diretriz e que não estejam definidos neste 
+ANEXO, deverá ser considerado o padrão Classe MI). 
+ 
+ 
+(d) Vias Marginais na SP-270 entre São Paulo e Cotia – Obras objeto de convênio: 
+ 
+d.1. Vias marginais à implantar: 
+ 
+• 
+Velocidade mínima de 60 km/h; 
+ 
+• 
+Rampa máxima de 8%; 
+ 
+• 
+Superelevação máxima de 6%; 
+ 
+• 
+Com passeio de largura mínima de 1,0 metro e ciclofaixa de pelo menos 1 metro 
+ao lado; 
+ 
+• 
+Com sentido único de direção; 
+ 
+• 
+Largura mínima de faixa: 3,5 metros; 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 31
+
+
+ 
+ 
+Folha 32 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+• 
+Não é necessária a implantação de acostamentos; 
+ 
+• 
+Novas OAEs com gabarito mínimo que atendam as larguras definidas neste item, 
+bem como contemplem calçamento (longitudinal e transversal) para pedestre, 
+atendendo às normas técnicas vigentes na época da implantação; e 
+ 
+• 
+Em 
+locais 
+onde 
+há 
+a 
+previsão/necessidade 
+de 
+implantação 
+de 
+ciclovias/ciclofaixas, as novas OAEs deverão contemplar em seu gabarito a 
+continuidade desta ciclovia/ciclofaixa, atendendo às normas técnicas vigentes na 
+época da implantação. 
+ 
+d.2. Vias marginais à adequar: 
+ 
+• 
+Implantação de ciclofaixa de pelo menos 1 metro ao lado; 
+ 
+• 
+Revitalização e adequação de acessibilidade dos passeios; 
+ 
+• 
+Com sentido único de direção; 
+ 
+• 
+Largura mínima de faixa: 3,5 metros; 
+ 
+• 
+Não é necessária a implantação de acostamentos; 
+ 
+• 
+As OAEs devem possuir gabarito mínimo que atendam as larguras definidas 
+neste item, bem como contemplem calçamento (longitudinal e transversal) para 
+pedestre, atendendo às normas técnicas vigentes na época da implantação;  
+ 
+ 
+(e) Intervenções na chegada à cidade de São Paulo: 
+ 
+• 
+Ligações da SP-270 à Marginal Pinheiros, de modo a melhorar o tráfego no bairro 
+Butantã em São Paulo; 
+ 
+• 
+Ligação direta, constituída por vias arteriais, entre a Av. Escola Politécnica e a via 
+expressa da Marginal Pinheiros, sentido oeste;  
+ 
+• 
+Ligação direta que permita retorno entre ambos os sentidos das vias marginais da 
+Marginal do Rio Pinheiros, facilitando acesso/saída da SP-270;  
+ 
+• 
+Velocidade mínima: 40km/h no caso de alças de dispositivos e 60 km/h nas demais 
+vias; 
+ 
+• 
+Rampa máxima: 8% no caso de alças de dispositivos e 6% nas demais vias; 
+ 
+• 
+Superelevação máxima de 10%; 
+ 
+• 
+Largura mínima de faixa de rolamento de acordo com os normativos municipais 
+vigentes; 
+ 
+• 
+Não é necessária a implantação de acostamentos; 
+ 
+• 
+Novas OAEs com gabarito mínimo que atendam as larguras definidas neste item, 
+atendendo às normas técnicas municipais vigentes; e 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 32
+
+
+ 
+ 
+Folha 33 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+(f) Padrão para a pista existente: 
+ 
+• 
+Rampa máxima: não é necessária a adequação de rampas em pistas existentes; 
+ 
+• 
+Largura mínima de faixa de rolamento: 3,5 metros; 
+ 
+• 
+Largura mínima de acostamento: conforme definido no ANEXO 21; 
+ 
+• 
+Largura de faixa de segurança mínima: 0,6 metro; e 
+ 
+• 
+A declividade transversal da seção coroada poderá ser mantida nos trechos onde 
+não houver intervenção, desde que atendidas às exigências normativas de 
+declividade e superelevação. 
+ 
+• 
+A geometria de curvas horizontais e verticais deverá atender as velocidades 
+diretrizes mínimas pré-estabelecidas para os segmentos conforme APÊNDICE I, 
+independente da classificação do relevo. Não deverá ser considerada alteração 
+de curvas convexas. 
+ 
+• 
+A ARTESP poderá avaliar flexibilizações destes valores de acordo com relatório e 
+pedido específico da CONCESSIONÁRIA.  
+ 
+(g) 
+Rotatórias: 
+ 
+• 
+Para as rotatórias em meio rural, dimensionar para Vp = 30 km/h, o que resulta 
+em raio mínimo de 25m (vinte e cinco metros) na ilha central. Em meio urbano, 
+onde houver restrições de ordem técnica (por exemplo, ocupação lindeira, Área 
+de Preservação Permanente, paredões de rocha que necessitem do uso de 
+explosivos) poderão ser adotados raios de menor dimensão. Essa redução deverá 
+necessariamente ser aprovada pela equipe técnica da ARTESP; 
+ 
+• 
+Superelevação com caimento para o bordo interno; 
+ 
+• 
+Largura mínima da plataforma de 10 metros; 
+ 
+• 
+Os eixos dos ramos de entrada devem estar alinhados ao centro ou à esquerda 
+do eixo da ilha central; e 
+ 
+• 
+Rampa máxima de 3%. 
+ 
+(h) 
+Ramos de dispositivos: 
+ 
+• 
+Os elementos dos ramos dos dispositivos devem ser dimensionados, no mínimo, 
+para as seguintes velocidades de projeto: 
+ 
+• 
+Laço: Vp = 40 km/h; 
+ 
+• 
+Semidirecional: Vp = 40 km/h; 
+ 
+• 
+Direcional: Vp= 50 km/h; 
+ 
+• 
+A diferença absoluta entre as velocidades dos ramos diretamente interconectados 
+(sequenciais) deve ser, preferencialmente, de 10 km/h, sendo aceitável diferença 
+de 20 km/h; 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 33
+
+
+ 
+ 
+Folha 34 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ 
+• 
+Rampas máximas de 8%; 
+ 
+• 
+Superelevação máxima de 6%; e 
+ 
+• 
+Largura de faixa de rolamento mínima de 6,5 metros. 
+ 
+(i) 
+Vias Marginais (arteriais): 
+ 
+• 
+Velocidade mínima: Compatível com o trecho onde será implantada, de acordo 
+com o APÊNDICE I; 
+ 
+• 
+Rampa máxima de 8%; 
+ 
+• 
+Superelevação máxima de 6%; 
+ 
+• 
+Largura mínima de faixa de rolamento de 3,5m; 
+ 
+• 
+Sem passeio; 
+ 
+• 
+Novas OAEs com gabarito mínimo que atendam as larguras definidas neste item, 
+bem como contemplem calçamento (longitudinal e transversal) para pedestre 
+atendendo às normas técnicas vigentes na época da implantação; e 
+ 
+• 
+Em locais onde há a previsão/necessidade de implantação de ciclovias, as novas 
+OAEs deverão contemplar em seu gabarito a continuidade desta ciclovia, 
+atendendo às normas técnicas vigentes na época da implantação. 
+ 
+(j) 
+Vias Marginais (coletoras): 
+ 
+• 
+Velocidade mínima de 60 km/h; 
+ 
+• 
+Rampa máxima de 8%; 
+ 
+• 
+Superelevação máxima de 6%; 
+ 
+• 
+Com passeio (largura mínima de 2,0 metros); 
+ 
+• 
+Preferencialmente com sentido único de direção; 
+ 
+• 
+Largura mínima de plataforma de 8,0m (no caso de mão dupla: largura mínima de 
+9,5 metros); 
+ 
+• 
+Novas OAEs com gabarito mínimo que atendam as larguras definidas neste item, 
+bem como contemplem calçamento (longitudinal e transversal) para pedestre, 
+atendendo às normas técnicas vigentes na época da implantação; e 
+ 
+• 
+Em locais onde há a previsão/necessidade de implantação de ciclovias, as novas 
+OAEs deverão contemplar em seu gabarito a continuidade desta ciclovia, 
+atendendo às normas técnicas vigentes na época da implantação. 
+ 
+Obs.: marginais previstas em trechos urbanos, em urbanização, ou em locais cujo 
+objetivo da infraestrutura seja disciplinar o tráfego fora da pista principal, deverão 
+ser projetadas como marginais coletoras. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 34
+
+
+ 
+ 
+Folha 35 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+(k) 
+Disposições gerais para alteração da tipologia/localização dos dispositivos quando da 
+apresentação do PROJETO FUNCIONAL em relação aos estudos referenciais do processo 
+licitatório. 
+ 
+A CONCESSIONÁRIA pode propor dispositivos diversos dos tipos previstos nos 
+PROJETOS FUNCIONAIS de referência, desde que o outro tipo de dispositivo proposto 
+consiga atender de forma igual ou melhor às demandas dos usuários, mantendo ou 
+aumentando os movimentos atendidos e conforme os seguintes parâmetros: 
+ 
+1- A solução proposta deve possuir, no mínimo, a mesma funcionalidade da prevista 
+nos ANEXOS; 
+ 
+2- A solução proposta deve facilitar a tomada de decisão do USUÁRIO, aumentando a 
+segurança; 
+ 
+3- A solução proposta deve ser validada pelos estudos de tráfego; 
+ 
+4- Não devem ser suprimidos movimentos; 
+ 
+5- Não deve gerar impacto maior em relação aos lindeiros; 
+ 
+6- Não deve impedir futuras ampliações da rodovia; 
+ 
+7- Deve atender a todos os veículos de projeto da rodovia; e 
+ 
+8- Deve preferencialmente gerar igual ou menor impacto ambiental. 
+ 
+É importante ressaltar que qualquer proposta de alteração do tipo de dispositivo deve vir 
+corroborada com um estudo técnico para apreciação e necessita de validação da equipe 
+técnica da ARTESP. A proposta de alteração pela CONCESSIONÁRIA nos termos 
+deste item não dará ensejo a reequilíbrio econômico-financeiro do CONTRATO. 
+ 
+(l) 
+Veículos de Projeto  
+ 
+• 
+Os veículos de projeto para o tronco da rodovia devem ser definidos com base 
+nos estudos de tráfego; e 
+ 
+• 
+Para verificação de raios de giro em todas as curvas, devem ser utilizados como 
+veículos de projeto os veículos WB-20, WB30T e WB 33D, sendo que a divisória 
+da passagem sob a obra de arte deverá ser somente com sinalização horizontal. 
+Somente na intervenção prevista na SP-029 indicada no item 3.2.20 (b), a 
+CONCESSIONÁRIA não precisará atender os veículos de projeto indicados 
+acima.  
+ 
+• 
+A passagem de veículos WB-33D deverá ser garantida por meio de soluções 
+operacionais especiais. 
+ 
+(m) 
+Bocas de canaletas de drenagem 
+ 
+• 
+Todas as bocas das canaletas de drenagem devem ser protegidas por 
+dispositivos de contenção viária. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 35
+
+
+ 
+ 
+Folha 36 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+(n) 
+Área de espera para pedestres 
+ 
+• 
+Prever a adequação geométrica da via, sempre que for constatada a necessidade 
+de área de espera para pedestre entre sentidos opostos (tanto para pista simples 
+como para dupla sem canteiro). 
+ 
+(o) 
+Ciclovias existentes a serem revitalizadas, conforme aplicável, nos termos do ANEXO 
+21: 
+ 
+• 
+Pavimentação: 
+ 
+• 
+Correção de placas defeituosas, trincas, buracos e outros defeitos. 
+ 
+• 
+Geometria: 
+ 
+• 
+Atender normas vigentes aplicáveis (CONTRAN – Vol. VII – Sinalização 
+Cicloviária). 
+ 
+• 
+Drenagem: 
+ 
+• 
+Correção e complementação dos elementos de drenagem superficial e 
+subsuperficial. 
+ 
+• 
+Sinalização e Segurança: 
+ 
+Correção e complementação dos elementos conforme as normas vigentes 
+aplicáveis. 
+ 
+No eventual caso de divergência entre os parâmetros estabelecidos neste item e nas normas 
+vigentes aplicáveis à época da implantação dos elementos viários, deverá ser adotado o parâmetro 
+mais restritivo, ou seja, aquele que representa menor risco de acidentes e maior segurança aos 
+usuários e pedestres, sem que isto implique em ônus ao PODER CONCEDENTE. 
+ 
+3.2.21. Melhorias no Viário Urbano em São Paulo, Carapicuíba e Cotia  
+ 
+A CONCESSIONÁRIA ficará responsável, nos municípios de São Paulo e Cotia pela realização de 
+obras de melhorias no viário municipal existente para adaptação das vias locais e construção de 
+marginais contemplando os seguintes serviços: restauração/reabilitação de pavimentos asfálticos 
+(recapeamento) de vias existentes, implantação de novas vias complementares. Em Carapicuíba 
+ficará responsável pela ampliação da OAE sobre o Rio Tietê. Após a realização das obras, os 
+trechos serão devolvidos aos municípios, conforme item 6 do ANEXO 2.  
+ 
+As vias municipais a serem contempladas no programa bem como as melhorias a serem realizadas 
+estão detalhadas nos ANEXOS 12 e 21. 
+ 
+Além das intervenções no viário municipal existente, a CONCESSIONÁRIA deverá implantar novas 
+OAEs nas vias municipais de São Paulo, conforme previsão do ANEXO 12 e 21.  
+ 
+Durante a implantação e/ou adequação das vias municipais contempladas no programa, a 
+CONCESSIONÁRIA deverá realizar a adequação de eventuais estruturas e/ou interferências 
+existentes (passarelas, ponto de ônibus, acessos regularizados, OAEs, edificações etc.), bem como 
+a implantação de iluminação, calçamento para pedestre e implantação de ciclovias, atendendo às 
+normas e especificações vigentes à época da implantação. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 36
+
+
+ 
+ 
+Folha 37 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+Após a conclusão das referidas intervenções, exclusivamente em relação às vias municipais, a 
+CONCESSIONÁRIA será responsável apenas pelos serviços contemplados no programa “b”, Faixa 
+de domínio, conforme disposto no item 3.3 do ANEXO 6. 
+ 
+3.3. 
+Diretrizes para POI 
+ 
+De acordo com estudos efetuados pela ARTESP, tendo como base os dados, projeções e situação 
+atual, o ANEXO 21 contempla os melhoramentos mínimos que deverão ser implantados pela 
+CONCESSIONÁRIA, 
+sendo 
+passível 
+das 
+complementações 
+que 
+forem 
+analisadas 
+pela 
+CONCESSIONÁRIA para efeito de apresentação de Proposta e para formulação de seu POI, 
+apresentado como condição para assinatura do CONTRATO. O PLANO DE INVESTIMENTOS, nos 
+termos 
+do 
+CONTRATO 
+de 
+CONCESSÃO, 
+será 
+passível 
+de 
+adequações 
+e 
+revisões, 
+preferencialmente de acordo com o processo de REVISÃO ORDINÁRIA. 
+ 
+Como condição para a assinatura do CONTRATO, a CONCESSIONÁRIA deverá apresentar o Plano 
+Original de Investimentos, com detalhamento no CRONOGRAMA FÍSICO-EXECUTIVO referente ao 
+SISTEMA RODOVIÁRIO, observando-se os prazos pré-definidos no ANEXO 21. Este cronograma 
+deverá conter o detalhamento dos investimentos já previstos para todo o período de CONCESSÃO, 
+incluindo todas as obras de Ampliação Principal, Demais Ampliações e Melhoramentos. Conforme o 
+regramento contratual, o Plano Original de Investimentos poderá ser periodicamente revisto, de 
+forma a viabilizar a identificação das necessidades e das demandas por investimentos não previstos 
+inicialmente. 
+ 
+Os melhoramentos mínimos apresentados no POI, baseado nos ANEXOS 12 e 21, deverão ser 
+executados pela CONCESSIONÁRIA nos prazos previstos no CRONOGRAMA FÍSICO-EXECUTIVO 
+inicial que trata dos investimentos necessários para todo o SISTEMA RODOVIÁRIO, contando como 
+marco inicial a data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL. Nas hipóteses de não 
+cumprimento ou de cumprimento 
+intempestivo dos serviços apresentados 
+no 
+POI, 
+a 
+CONCESSIONÁRIA ficará sujeita à incidência de um fator relativo ao atendimento, pela 
+CONCESSIONÁRIA, dos Indicadores de Desempenho, bem como às penalidades estabelecidas no 
+CONTRATO e seus ANEXOS, especialmente no ANEXO 11. 
+ 
+Na apresentação do POI, a CONCESSIONÁRIA deverá contemplar as datas efetivas de início e 
+conclusão de serviços relacionados à fase executiva da obra, excluídos os prazos relativos às 
+atividades de projetos, licenciamentos, desapropriações, orçamentos, contratações ou outras 
+atividades administrativas. 
+ 
+ 
+ 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 37
+
+
+ 
+ 
+Folha 38 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+3.4. 
+Classificação de dispositivos 
+ 
+ 
+4. 
+NOVOS INVESTIMENTOS 
+ 
+Em face das revisões contratuais previstas no CONTRATO, sejam elas ORDINÁRIAS ou 
+EXTRAORDINÁRIAS, novos investimentos, não previstos no POI, poderão ser incorporados às 
+responsabilidades da CONCESSIONÁRIA, conforme regramento estabelecido no CONTRATO e 
+ANEXOS. Ao final do processo das revisões, quando da decisão de se implementar novos 
+investimentos, estes devem ser detalhados em um PLANO DE INVESTIMENTOS que trará, também, 
+um CRONOGRAMA FÍSICO-FINANCEIRO, que deve apresentar os prazos de início e fim de cada 
+obra, além de marcos intermediários de cada etapa construtiva, que deverão ser dispostos no 
+cronograma em periodicidade, pelo menos, semestral. 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 38
+
+
+ 
+ 
+Folha 39 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+A CONCESSIONÁRIA é responsável pela obtenção da aprovação dos PROJETOS FUNCIONAIS 
+junto à ARTESP (quando solicitado), que deverão ser entregues nos prazos determinados pela 
+ARTESP quando dos estudos referentes aos novos investimentos. 
+ 
+Os PROJETOS EXECUTIVOS para implantação das obras somente poderão ser entregues à 
+ARTESP após a aprovação dos PROJETOS FUNCIONAIS, sendo que ambos deverão ser 
+elaborados pela CONCESSIONÁRIA, nos termos do APÊNDICE H.  
+ 
+A CONCESSIONÁRIA deverá comunicar por escrito e justificadamente os eventuais atrasos finais de 
+obra, apresentados no PLANO DE INVESTIMENTOS dos novos investimentos, sem prejuízo da 
+análise e validação pela ARTESP quanto ao mérito. 
+ 
+Antes da aprovação definitiva dos projetos, a ARTESP poderá emitir recomendações e orientar a 
+CONCESSIONÁRIA durante o processo de desenvolvimento e elaboração dos projetos, inclusive 
+com base nas informações, dados e documentos de que tenha conhecimento por meio do acesso ao 
+SISPROJ, sempre observada a sistemática prevista no APÊNDICE H. 
+ 
+5. 
+QUADRO DE PRAZOS 
+ 
+ATIVIDADE 
+ITEM DO 
+ANEXO 
+PRAZO 
+Apresentação 
+do 
+Plano 
+de 
+Implementação 
+e 
+Desenvolvimento de Projetos em 
+Modelagem 
+BIM 
+para 
+a 
+aprovação da ARTESP 
+1.1 (a) 
+Até 6 (seis) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Cronograma de Instrumentação 
+de Pistas 
+1.1 (c) 
+Até 6 (seis) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Implantação 
+e 
+operação 
+do 
+Sistema 
+de 
+Pesagem 
+no 
+SISTEMA RODOVIÁRIO 
+3.2.1 (i) 
+Até 24 (vinte e quatro) meses contados da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Implantação e/ou Reforma das 
+Bases Operacionais da PMRv 
+3.2.1 (iii) 
+Até 18 (dezoito) meses contados da data 
+de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Implantação 
+e 
+operação 
+dos 
+SAUs definitivos 
+3.2.2 (iii) 
+Até 12 (doze) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Estudos para definição dos locais 
+para implantação de pontos de 
+parada de descanso 
+3.2.4 
+Até 6 (seis) meses a contar da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL  
+Projeto completo para 
+implantação e adequação de 
+pontos de parada de descanso  
+3.2.4 
+Até 9 (nove) meses a contar da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL  
+Implantação e adequação de 
+pontos de parada de descanso  
+3.2.4 
+Até 24 (vinte e quatro) meses contados da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL  
+Mapeamento 
+e 
+estudo 
+de 
+travessias 
+de 
+pedestres 
+no 
+SISTEMA RODOVIÁRIO 
+3.2.10 
+Até 12 (doze) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Cadastro e estudo dos locais de 
+atendimento de transporte público 
+no SISTEMA RODOVIÁRIO 
+3.2.11 
+Até 12 (doze) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Regularização da iluminação no 
+SISTEMA RODOVIÁRIO 
+3.2.13 
+Até 24 (vinte e quatro) meses contados da 
+data de assinatura do TERMO DE 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 39
+
+
+ 
+ 
+Folha 40 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ATIVIDADE 
+ITEM DO 
+ANEXO 
+PRAZO 
+TRANSFERÊNCIA INICIAL. 
+Levantamento sobre a circulação 
+de 
+ciclistas 
+no 
+SISTEMA 
+RODOVIÁRIO 
+3.2.14 
+Até 12 (doze) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Levantamento onde há circulação 
+de 
+pedestres 
+no 
+SISTEMA 
+RODOVIÁRIO 
+3.2.15 
+Até 12 (doze) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+PROJETO 
+FUNCIONAL 
+e 
+Cronograma para implantação de 
+calçamento para circulação de 
+pedestres 
+para 
+o 
+SISTEMA 
+RODOVIÁRIO 
+3.2.15 
+Até 14 (quatorze) meses contados da data 
+de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Projeto completo (implantação e 
+adequação) dos dispositivos de 
+contenção viária no SISTEMA 
+RODOVIÁRIO 
+3.2.17 
+Até 180 (cento e oitenta) dias contados da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Implantação dos dispositivos de 
+contenção viária no SISTEMA 
+RODOVIÁRIO 
+3.2.17 
+Até 48 (quarenta e oito) meses contados 
+da data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Projeto 
+de 
+adequação 
+da 
+sinalização 
+no 
+SISTEMA 
+RODOVIÁRIO 
+3.2.18 
+Até 12 (doze) meses contados da data de 
+assinatura 
+do 
+TERMO 
+DE 
+TRANSFERÊNCIA INICIAL. 
+Implantação das adequações de 
+sinalização 
+no 
+SISTEMA 
+RODOVIÁRIO 
+3.2.18 
+Até 36 (trinta e seis) meses contados da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Encaminhar para análise e 
+manifestação da ARTESP, o 
+estudo técnico com a proposição 
+do local de instalação de todos os 
+equipamentos fixos de controle de 
+velocidade, devidamente 
+justificados. 
+3.2.1(i) 
+ 
+Até 4 (quatro) meses contados da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Caso necessário, apresentar 
+revisão de estudos técnicos para 
+implantação de equipamentos 
+fixos de controle de velocidade. 
+3.2.1(i) 
+Até 45 (quarenta e cinco) dias após 
+recebimento de manifestação da ARTESP 
+que indique a necessidade de revisão dos 
+estudos técnicos. 
+Concluir a implantação de 
+medidores de velocidade do tipo 
+fixo no SISTEMA RODOVIÁRIO.  
+3.2.1(i) 
+Até 18 (dezoito) meses contados da data 
+de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL, se os locais 
+de implantação forem aprovados até o 12º 
+mês de concessão, ou até 6 (seis) meses 
+contados da data de aprovação dos locais 
+pelo DER/SP.  
+Concluir a implantação de 
+medidores de velocidade do tipo 
+“fixo controlador” nos PÓRTICOS 
+do SISTEMA AUTOMÁTICO 
+LIVRE  
+3.2.1(i) 
+Mesmo prazo para a implantação dos 
+PÓRTICOS  
+Disponibilizar Sistema de 
+Radiofonia Provisório, para 
+comunicação entre o CCO, 
+veículos operacionais e demais 
+pontos fixos de operação.  
+3.2.2 (i) 
+Imediatamente após a assinatura do 
+TERMO DE TRANSFERÊNCIA INICIAL.  
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 40
+
+
+ 
+ 
+Folha 41 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ATIVIDADE 
+ITEM DO 
+ANEXO 
+PRAZO 
+Concluir a implantação do 
+Sistema de Radiofonia Definitivo, 
+atendendo às especificações e 
+requisitos dos Anexos 5 e 7 ao 
+Contrato.  
+3.2.2 (i) 
+Até 12 (doze) meses contados da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Concluir a implantação do 
+Sistema de Transmissão de 
+Dados no SISTEMA 
+RODOVIÁRIO.  
+3.2.2 (ii)  
+Até 18 (dezoito) meses contados da data 
+de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Disponibilizar CCO provisório 
+com, no mínimo, Sistema de 
+Radiofonia Provisório e Sistema 
+de Telefonia para atendimento 
+0800 provisório.  
+3.2.2 (iii)  
+Imediatamente após a assinatura do 
+TERMO DE TRANSFERÊNCIA INICIAL. 
+Disponibilizar no CCO provisório, 
+no mínimo, os seguintes recursos: 
+Sistema de Radiofonia provisório; 
+Sistema de Monitoramento e 
+Geoposicionamento de Veículos 
+operacionais; Sistema 
+Automatizado de Controle de 
+Eventos; Painéis/Monitores de 
+auxílio aos operadores e Sistema 
+de Comunicação com o Usuário 
+por meio do telefone 0800  
+ 3.2.2 (iii)  
+Até 6 (seis) meses contados a partir da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Concluir a implantação do CCO 
+definitivo  
+3.2.2 (iii)  
+Até 12 (doze) meses contados a partir da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Apresentar à ARTESP o plano 
+básico de implantação do sistema 
+de comunicação com o usuário 
+via rede de dados sem fio no 
+SISTEMA RODOVIÁRIO  
+3.2.2 (vi)  
+Até 6 (seis) meses contados a partir da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Implantar Sistema de 
+Comunicação com Usuário via 
+Rede de Dados Sem Fio no 
+SISTEMA RODOVIÁRIO  
+3.2.2 (vi)  
+100% da extensão das rodovias em até 
+18 (dezoito) meses contados da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Apresentar relação de locais e 
+cronograma de implantação de 
+Painéis Eletrônicos para 
+Mensagens Variáveis do Tipo 
+Fixo  
+3.2.2 (vii)  
+Até 6 (seis) meses contados a partir da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Implantação e operação de 
+Painéis Eletrônicos para 
+Mensagens Variáveis do Tipo 
+Fixo no SISTEMA RODOVIÁRIO  
+3.2.2 (vii)  
+Até 12 (doze) meses contados a partir da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Estudos de segmentação 
+homogênea com locais propostos 
+para implantação dos SATs e 
+cronograma de implantação no 
+SISTEMA RODOVIÁRIO  
+3.2.3 (i)  
+Até 6 (seis) meses contados a partir da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Implantação e operação do 
+Sistema de Sensoriamento de 
+ 3.2.3 (i) 
+Até 12 (doze) meses contados a partir da 
+data de assinatura do TERMO DE 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 41
+
+
+ 
+ 
+Folha 42 de 42 
+ 
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105 Itaim Bibi. 11º andar . CEP 01451-011. São Paulo. SP. FONE/FAX/ (11) 3465-2000 
+ATIVIDADE 
+ITEM DO 
+ANEXO 
+PRAZO 
+Tráfego no SISTEMA 
+RODOVIÁRIO  
+TRANSFERÊNCIA INICIAL. 
+Apresentar à ARTESP o plano 
+básico de implantação do Sistema 
+de Monitoração de Tráfego por 
+CFTV no SISTEMA 
+RODOVIÁRIO 
+ 
+3.2.3 (ii) 
+Até 6 (seis) meses contados a partir da 
+data de assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+ 
+Implantação e operação do 
+Sistema de Monitoração de 
+Tráfego CFTV no SISTEMA 
+RODOVIÁRIO  
+ 3.2.3 (ii) 
+100% da extensão das rodovias em até 
+18 (dezoito) meses contados da data de 
+assinatura do TERMO DE 
+TRANSFERÊNCIA INICIAL. 
+Conclusão da configuração e 
+parametrização da funcionalidade 
+de análise inteligente de vídeo  
+3.2.3 (ii)  
+Em até 90 (noventa) dias após o término 
+da implantação dos equipamentos CFTV 
+no SISTEMA RODOVIÁRIO. 
+Remoção de infraestrutura do 
+Sistema de Telefonia de 
+Emergência (totens, bases de 
+concreto, muros de arrimo, 
+rampas de acesso, etc), e 
+adequação ou remoção de 
+dispositivos de contenção 
+ 
+3.2.2 (ix) e 3.2.2 
+(x) 
+Até 6 (seis) meses após a autorização da 
+ARTESP para remoção do Sistema de 
+Telefonia de Emergência do SISTEMA 
+REMANESCENTE. 
+ 
+ 
+Anexo 07 - Serviços correspondentes a funções de ampliaç (0059807900)         SEI 134.00005927/2024-51 / pg. 42

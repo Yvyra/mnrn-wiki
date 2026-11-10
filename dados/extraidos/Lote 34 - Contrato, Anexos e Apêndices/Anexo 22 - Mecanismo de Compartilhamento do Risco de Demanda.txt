@@ -1,0 +1,623 @@
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 1 de 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 22  
+MECANISMO DE COMPARTILHAMENTO DO RISCO DE DEMANDA 
+CONCESSÃO DOS SERVIÇOS PÚBLICOS DE AMPLIAÇÂO, OPERAÇÃO, CONSERVAÇÃO, 
+MANUTENÇÃO E REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A EXPLORAÇÃO 
+DO SISTEMA RODOVIÁRIO DENOMINADO LOTE NOVA RAPOSO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 1
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 2 de 12 
+1. DO MECANISMO DE COMPARTILHAMENTO DO RISCO DE DEMANDA 
+1.1. 
+Constituirá EVENTO DE DESEQUILÍBRIO a DEMANDA OBSERVADA, auferida pela 
+CONCESSIONÁRIA no SISTEMA RODOVIÁRIO nos termos deste ANEXO, inferior a 98% 
+(noventa e oito por cento) ou superior a 108% (cento e oito por cento) da DEMANDA 
+ESTIMADA no SISTEMA RODOVIÁRIO. 
+1.2. 
+A aplicação do mecanismo de mitigação previsto neste ANEXO independe do fato gerador 
+da variação na demanda da CONCESSÃO, salvo para os casos de atuação 
+flagrantemente dolosa da CONCESSIONÁRIA com vistas a assegurar patamar de 
+aplicação do mecanismo ora referido. 
+1.3. 
+O mecanismo de mitigação previsto neste ANEXO se sobrepõe a quaisquer pleitos 
+adicionais ou complementares de recomposição do equilíbrio econômico-financeiro 
+decorrentes do impacto, direto ou indireto, de qualquer EVENTO DE DESEQUILÍBRIO na 
+demanda da CONCESSÃO, tais como: 
+(i) 
+criação, aprimoramento, ou ainda a extinção de rotas concorrentes; 
+(ii) 
+alteração das condições socioeconômicas; 
+(iii) 
+surgimento de outros modais de transporte concorrentes;  
+(iv) 
+eventos caracterizáveis como caso fortuito ou força maior; 
+(v) 
+alterações nas condições de circulação de veículos no viário contíguo ou na área 
+de influência do SISTEMA RODOVIÁRIO;  
+(vi) 
+atos de vandalismo que destruam, alterem ou de qualquer forma impeçam o 
+pleno funcionamento dos PÓRTICOS, inviabilizando a identificação de 
+USUÁRIOS e a arrecadação da TARIFA DE PEDÁGIO;  
+(vii) 
+em caso de EVENTO CLIMÁTICO EXTREMO; e 
+(viii) 
+outros EVENTOS DE DESEQUILÍBRIO que possam impactar, direta ou 
+indiretamente, a demanda da CONCESSÃO, ressalvados os eventos que 
+possuam tratamento distinto expressamente previsto no CONTRATO e 
+ANEXOS. 
+1.4. 
+O mecanismo de mitigação previsto neste ANEXO não altera a alocação dos demais riscos 
+previstos no CONTRATO e, portanto, os demais impactos causados pelos EVENTOS DE 
+DESEQUILÍBRIO, que não sobre a demanda da CONCESSÃO, deverão ser avaliados nos 
+termos do regramento aplicável à manutenção de seu equilíbrio econômico-financeiro, 
+caso aplicável. 
+1.5. 
+A DEMANDA ESTIMADA para o SISTEMA RODOVIÁRIO a ser considerada para fins do 
+mecanismo disposto no presente ANEXO tem os seguintes valores, para cada ano de 
+CONTRATO, considerando os prazos de operação comercial indicados no ANEXO 20. 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 2
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 3 de 12 
+ 
+ 
+Ano de CONTRATO 
+DEMANDA ESTIMADA (1) (R$) 
+TOTAL 
+Osasco 
+Barueri 
+Itapevi 
+P01 
+P02 
+P03 
+P04 
+P05 
+P06 
+P07 
+P08 
+P09 
+P10 
+P11 
+P12 
+P13 
+1 
+626.057.633,05  181.423.496,35  222.907.611,61  221.726.525,09  
+5.083.830,64  34.574.067,86  43.904.995,43  62.662.091,71  55.420.570,70  67.017.384,61  114.641.156,03  
+97.796.043,68  
+79.835.574,53  223.078.963,27  18.652.584,92  
+8.460.654,30  
+6.714.910,33  
+2 
+627.210.856,99  176.930.392,45  222.200.782,98  228.079.681,56  20.410.998,21  35.163.171,08  44.560.316,31  63.710.950,39  56.384.623,11  64.171.654,57  114.277.634,79  100.303.509,18  
+82.500.391,62  229.470.871,32  18.085.175,72  
+8.203.219,90  
+6.688.072,04  
+3 
+633.006.708,99  180.319.664,70  229.230.502,62  233.652.371,70  20.772.091,33  35.840.493,82  45.357.775,30  64.885.257,08  57.169.644,20  65.141.389,06  117.893.012,39  103.491.112,88  
+84.666.987,57  235.077.552,51  18.372.406,51  
+8.364.248,08  
+6.683.049,48  
+4 
+640.392.089,04  183.297.601,48  232.912.455,25  235.427.082,28  21.267.401,90  36.625.245,84  46.384.114,30  66.509.505,06  58.714.533,16  66.073.288,09  119.786.636,85  104.852.050,06  
+85.648.414,40  236.863.088,08  18.676.267,96  
+8.492.343,60  
+6.945.696,86  
+5 
+674.577.265,37  186.023.939,44  236.346.166,73  236.933.476,18  21.674.801,18  40.992.394,49  47.228.132,16  67.782.754,98  59.972.574,72  66.949.985,21  121.552.591,14  106.046.000,26  
+86.408.289,53  266.035.277,67  18.951.087,70  
+8.634.033,85  
+7.161.043,91  
+6 
+684.998.425,23  190.510.139,00  239.624.429,18  240.280.206,69  21.951.006,14  41.533.353,66  55.026.913,51  68.960.525,78  61.015.617,45  68.754.763,19  123.238.598,16  107.180.368,92  
+87.521.088,88  269.793.076,67  19.387.508,50  
+9.123.020,92  
+9.401.168,73  
+7 
+808.445.209,68  197.204.526,46  240.249.656,96  241.086.350,92  21.989.381,29  41.678.853,86  55.321.114,75  79.569.460,40  61.839.623,37  71.777.063,08  123.560.152,17  106.260.433,58  
+87.160.898,79  270.698.237,09  19.735.996,73  10.263.078,34  15.949.047,45  
+8 
+837.656.184,42  199.513.544,84  240.498.542,15  241.659.658,24  22.301.502,16  42.252.493,89  56.459.190,21  76.427.497,69  61.201.711,60  72.487.643,44  123.688.153,56  105.457.912,97  
+86.729.973,35  271.341.961,96  19.542.795,37  14.560.063,97  22.834.493,54  
+9 
+988.290.020,95  202.509.755,49  243.237.074,60  243.517.550,02  22.660.407,65  43.032.319,08  57.774.418,24  77.008.315,94  65.937.111,61  73.434.792,57  125.096.577,99  106.571.752,79  
+87.590.554,34  273.428.052,81  19.710.557,85  14.642.688,65  21.402.471,43  
+10 
+1.005.479.672,74  205.469.133,70  247.497.807,80  248.549.349,07  23.041.679,98  43.651.617,45  58.742.709,72  78.306.174,91  65.664.057,76  74.377.824,70  127.287.868,71  108.600.254,98  
+89.562.700,16  279.077.892,08  20.231.389,20  15.018.520,35  21.916.982,75  
+11 
+1.021.012.770,17  208.512.655,38  251.315.279,32  252.281.283,57  23.399.669,89  44.264.980,46  59.600.027,68  79.519.319,82  66.743.253,35  75.458.238,78  129.251.190,39  110.299.150,38  
+90.954.764,22  283.268.208,48  20.605.966,05  15.289.273,24  22.358.727,44  
+12 
+1.035.914.371,95  211.510.257,04  254.961.973,59  256.038.559,89  23.728.504,22  44.886.553,78  60.436.436,18  80.644.371,75  67.696.034,07  76.551.742,91  131.126.681,52  111.949.089,59  
+92.323.961,37  287.486.979,36  20.902.794,97  15.505.509,81  22.675.712,43  
+13 
+1.050.529.796,86  214.441.053,63  258.533.734,08  259.736.581,73  24.048.842,65  45.491.969,46  61.251.316,48  81.742.194,23  68.627.081,15  77.622.493,55  132.963.634,27  113.574.318,23  
+93.674.189,77  291.639.217,71  21.193.115,59  15.716.423,23  22.985.000,51  
+14 
+1.064.841.182,14  217.301.126,12  262.026.010,05  263.371.274,83  24.360.218,32  46.080.341,46  62.043.487,35  82.811.257,37  69.535.140,74  78.669.116,30  134.759.708,22  115.173.092,01  
+95.004.054,47  295.720.348,85  21.476.543,48  15.921.715,52  23.286.158,04  
+15 
+1.078.801.648,68  220.080.473,40  265.427.156,25  266.929.168,08  24.661.595,11  46.649.693,91  62.810.871,23  83.848.902,34  70.417.633,38  79.688.335,99  136.508.914,23  116.740.413,62  
+96.309.265,30  299.715.247,06  21.751.943,34  16.120.759,82  23.578.073,34  
+16 
+1.092.333.416,81  222.762.638,90  268.717.984,83  270.386.778,60  24.951.333,19  47.196.895,87  63.550.438,93  84.851.268,72  71.270.565,79  80.674.855,19  138.201.383,99  118.267.812,83  
+97.582.436,59  303.597.545,11  22.017.382,61  16.312.579,00  23.858.918,98  
+17 
+1.105.506.421,91  225.362.178,41  271.915.459,27  273.768.219,69  25.230.713,95  47.724.408,39  64.263.816,44  85.820.357,03  72.096.765,51  81.633.078,41  139.845.841,81  119.763.315,48  
+98.830.851,21  307.394.318,09  22.274.747,22  16.497.888,79  24.130.319,58  
+18 
+1.118.304.240,22  227.875.530,43  275.015.416,67  277.069.697,55  25.499.317,77  48.231.435,70  64.949.939,06  86.754.781,02  72.895.093,33  82.561.747,86  141.440.146,73  121.225.285,95  100.053.194,37  311.101.306,19  22.523.688,21  16.676.420,23  24.391.883,79  
+19 
+1.130.710.884,95  230.299.240,48  278.013.811,19  280.287.502,45  25.756.739,19  48.717.208,95  65.607.777,71  87.653.198,75  73.664.444,93  83.459.641,36  142.982.217,95  122.652.122,61  101.248.176,38  314.714.344,06  22.763.867,07  16.847.913,11  24.643.232,88  
+20 
+1.142.710.844,54  232.629.969,86  280.906.723,96  283.418.016,99  26.002.587,92  49.180.988,25  66.236.341,67  88.514.316,12  74.403.753,73  84.325.575,37  144.470.040,02  124.042.261,26  102.414.535,32  318.229.369,96  22.994.956,55  17.012.116,60  24.884.001,76  
+ 
+ 
+Observação: Em azul as seções de cobrança em operação de acordo com o Anexo 20.
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 3
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 4 de 10 
+ 
+Nota (1): Os valores consideram a Receita Total esperada sem a consideração do 
+Desconto de Usuários Frequentes, conforme regrado no ANEXO 4. 
+1.5.1. 
+Sempre que houver modificação do valor da TARIFA DE PEDÁGIO, quer em 
+decorrência de reajustes efetuados na TARIFA QUILOMÉTRICA nos termos do 
+ANEXO 4, quer em decorrência de modificações da TARIFA DE PEDÁGIO 
+ocasionadas em razão de reequilíbrio econômico-financeiro ou medidas de 
+política tarifária, ou das reclassificações decorrentes de obras de duplicação e 
+faixas adicionais, os valores indicados na tabela disposta no item 1.5 deverão ser 
+reajustados na mesma data e segundo os mesmos critérios. 
+ 
+1.5.2. 
+A DEMANDA ESTIMADA corresponderá à somatória da projeção de arrecadação, 
+indicada na tabela acima, para os PÓRTICOS e PRAÇAS DE PEDÁGIO que 
+efetivamente estiverem em operação no ano respectivo, não se computando a 
+estimativa daquele que não estiverem em operação, mesmo que superado o prazo 
+indicado no item 1.5.3 para o início de operação. 
+1.5.2.1. Nos anos em que houver CONVERSÃO, a DEMANDA ESTIMADA deverá 
+considerar a ponderação indicada no item 1.14 para definição da 
+DEMANDA ESTIMADA do PÓRTICO ou PRAÇA DE PEDÁGIO para o 
+ano contratual próprio. 
+1.5.3. 
+A data de referência para a operação comercial das PRAÇAS DE PEDÁGIO ou 
+PÓRTICOS para aplicação do presente mecanismo será: 
+(i) 
+A data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL para as 
+PRAÇAS DE PEDÁGIO P07, P08 e P11; 
+(ii) 
+25º mês contando data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL 
+para os PÓRTICOS P06, P07, P08, P09, P10, P11 e P12; 
+(iii) 
+73º mês contando data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL 
+para os PÓRTICOS P01, P02, P03 e P13; 
+(iv) 
+97º mês contando data de assinatura do TERMO DE TRANSFERÊNCIA INICIAL 
+para o PÓRTICO P04 e P05; 
+1.6. 
+A DEMANDA ESTIMADA foi estipulada com base na arrecadação projetada do SISTEMA 
+RODOVIÁRIO, e deverá ser apurada, para efeitos da aplicação do presente mecanismo, 
+com base no conjunto de todos os PÓRTICOS do SISTEMA RODOVIÁRIO, bem como 
+das PRAÇAS DE PEDÁGIO em operação. 
+1.7. 
+A aferição do eventual desequilíbrio contratual considerará, a cada medição, sempre a 
+DEMANDA OBSERVADA no período da medição, com base na fórmula do item 1.7.1, em 
+comparação com a DEMANDA ESTIMADA para o mesmo período. 
+1.7.1. 
+A DEMANDA OBSERVADA no período da medição será calculada de acordo com 
+as seguintes fórmulas e definições: 
+𝐷𝑂𝑖= (𝑅𝑇𝑖+ 𝐶𝐴𝑖+ 5% × 𝑇𝑉𝑖+ 𝑇𝐼𝑖+ 𝐷𝑈𝐹) 
+Onde, 
+𝐷𝑂𝑖 
+É a DEMANDA OBSERVADA, com base na arrecadação 
+de RECEITA TARIFÁRIA, na COMPENSAÇÃO DA 
+INADIMPLÊNCIA, em 5% das TRANSAÇÕES VÁLIDAS de 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 4
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 5 de 10 
+USUÁRIOS 
+INADIMPLENTES, 
+nas 
+TRANSAÇÕES 
+INVÁLIDAS 
+e 
+no 
+DESCONTO 
+DE 
+USUÁRIO 
+FREQUENTE, para o ano contratual i, no conjunto de 
+PÓRTICOS e PRAÇAS DE PEDÁGIO em operação. 
+𝑅𝑇𝑖 
+É 
+a 
+arrecadação 
+de 
+RECEITA 
+TARIFÁRIA 
+da 
+CONCESSIONÁRIA, para o ano contratual i, no conjunto de 
+PÓRTICOS e PRAÇAS DE PEDÁGIO. 
+𝐶𝐴𝑖 
+É a COMPENSAÇÃO DA INADIMPLÊNCIA, para o ano 
+contratual i, conforme disposto no ANEXO 20. 
+𝑇𝑉𝑖 
+É o valor de arrecadação que a CONCESSIONÁRIA teria 
+auferido em razão de USUÁRIOS INADIMPLENTES que 
+trafegaram 
+pelo 
+SISTEMA 
+RODOVIÁRIO 
+e 
+foram 
+contabilizados como TRANSAÇÕES VÁLIDAS, para o ano 
+contratual i, conforme previsto no ANEXO 20. 
+𝑇𝐼𝑖 
+É o valor de arrecadação que a CONCESSIONÁRIA teria 
+auferido em razão de USUÁRIOS que trafegaram pelo 
+SISTEMA RODOVIÁRIO, mas foram contabilizados como 
+TRANSAÇÕES INVÁLIDAS, excluídas as TRANSAÇÕES 
+INVÁLIDAS FRAUDULENTAS, para o ano contratual i, 
+conforme previsto no ANEXO 20. 
+𝐷𝑈𝐹𝑖 
+Valores acumulados, para o ano contratual i, do 
+DESCONTO DE USUÁRIO FREQUENTE, conforme 
+regrado no ANEXO 4.  
+ 
+ 
+1.8. 
+O AJUSTE DE DEMANDA será calculado de acordo com as seguintes fórmulas e 
+definições: 
+ 
+Hipótese 1: Se, 𝐷𝑂𝑖≥108% × 𝐷𝐸𝑖∶  𝐴𝐷𝑖= ([108% × 𝐷𝐸𝑖] −𝐷𝑂𝑖) × 𝐹𝐶 
+Hipótese 2: Se, 𝐷𝑂𝑖< 98% × 𝐷𝐸𝑖∶  𝐴𝐷𝑖= (98% × 𝐷𝐸𝑖−𝐷𝑂𝑖) 
+Hipótese 3: Se, 98% × 𝐷𝐸𝑖≤𝐷𝑂𝑖< 108% × 𝐷𝐸𝑖∶  𝐴𝐷𝑖= 0 
+Onde, 
+𝐷𝑂𝑖 
+É a DEMANDA OBSERVADA, para o ano contratual i, 
+calculada na forma do item 1.7.1. 
+𝐷𝐸𝑖 
+É a DEMANDA ESTIMADA, para o ano contratual i, 
+conforme item 1.5. 
+𝐴𝐷𝑖 
+É o AJUSTE DE DEMANDA, para o ano contratual i. 
+𝐹𝐶 
+É 
+o 
+fator 
+de 
+compartilhamento 
+com 
+o 
+PODER 
+CONCEDENTE equivalente à 50% (cinquenta por cento). 
+1.8.1. 
+Caso, após a aferição do valor de AJUSTE DE DEMANDA, nos termos do item 
+1.8 seja verificada a condição abaixo: 
+98% × 𝐷𝐸𝑖> 𝑅𝑇𝑖+ 𝐶𝐴𝑖+ 𝐷𝑈𝐹𝒊+ 𝑇𝐼𝑖 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 5
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 6 de 10 
+O AJUSTE DE DEMANDA deverá ser recalculado da seguinte forma: 
+ 𝐴𝐷𝑖= (98% × 𝐷𝐸𝑖−𝑅𝑇𝑖−𝐶𝐴𝑖−𝐷𝑈𝐹𝒊−𝑇𝐼𝑖 ) 
+Onde, 
+𝐷𝐸𝑖 
+Possui o significado atribuído no item 1.7.1. 
+𝐶𝐴𝑖 
+Possui o significado atribuído no item 1.7.1. 
+𝑅𝑇𝑖 
+Possui o significado atribuído no item 1.7.1. 
+𝐴𝑈𝐼𝑖 
+Possui o significado atribuído no item 1.7.1. 
+𝑇𝐼𝑖 
+Possui o significado atribuído no item 1.7.1. 
+𝐷𝑈𝐹 
+Possui o significado atribuído no item 1.7.1. 
+ 
+1.8.2. 
+Caso (a) se materialize a hipótese “1” prevista no item 1.8 acima, e (b) haja 
+recomposições decorrentes do DESCONTO DE USUÁRIOS FREQUENTES e/ou 
+da COMPENSAÇÃO DA INADIMPLÊNCIA, referidas recomposições limitar-se-ão, 
+em conjunto, ao montante necessário para, no respectivo período de referência, 
+que a CONCESSIONÁRIA tenha remuneração equivalente a 108% (cento e oito 
+por cento) da DEMANDA ESTIMADA.  
+1.8.2.1. Exemplos são apresentados no final do ANEXO;  
+1.9. Caso o AJUSTE DE DEMANDA seja negativo, será constituído um crédito em favor do 
+PODER CONCEDENTE, a ser automaticamente utilizado para o pagamento do montante 
+dos anos subsequentes. 
+ 
+1.9.1. 
+Caso não se faça necessária a utilização do crédito nos anos subsequentes, o 
+crédito em favor do PODER CONCEDENTE deverá ser considerado na REVISÃO 
+ORDINÁRIA subsequente, conforme regramento do CONTRATO. 
+ 
+1.9.2. 
+Sem prejuízo do disposto no item 1.9.1, o crédito em favor do PODER 
+CONCEDENTE poderá, mediante concordância da CONCESSIONÁRIA, ser 
+vertido pela CONCESSIONÁRIA para a CONTA DE AJUSTE DA CONCESSÃO, 
+em periodicidade a ser definida pelas PARTES. 
+ 
+1.10. A cada REVISÃO ORDINÁRIA, será avaliada a ocorrência de eventual EVENTO DE 
+DESEQUILÍBRIO favorável ao PODER CONCEDENTE, nas seguintes condições: 
+1.11. Caso: 
+𝐷𝑂𝐴𝐴𝑖≥108% × 𝐷𝐸𝐴𝐴𝑖 
+E 
+𝐴𝐷𝐴𝑖≥([108% × 𝐷𝐸𝐴𝐴𝑖] −𝐷𝑂𝐴𝐴𝑖) × 𝐹𝐶 
+Onde, 
+𝐷𝑂𝐴𝐴𝑖 
+É a DEMANDA OBSERVADA, conforme definição do item 
+1.7.1, no conjunto de PÓRTICOS e PRAÇAS DE PEDÁGIO 
+em operação, acumulada até o ano contratual i. 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 6
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 7 de 10 
+𝐷𝐸𝐴𝐴𝑖 
+É a DEMANDA ESTIMADA, no conjunto de PÓRTICOS e 
+PRAÇAS DE PEDÁGIO em operação, acumulada até o ano 
+contratual i. 
+𝐴𝐷𝐴𝑖 
+É o AJUSTE DE DEMANDA, conforme item 1.8, acumulado 
+até o ano contratual i. 
+𝐹𝐶 
+É 
+o 
+fator 
+de 
+compartilhamento 
+com 
+o 
+PODER 
+CONCEDENTE, conforme item 1.8. 
+Será reconhecido EVENTO DE DESEQUILÍBRIO, a ser reequilibrar em prol do PODER 
+CONCEDENTE, equivalente a: 
+𝐷𝑃𝐶𝑖= −{([108% × 𝐷𝐸𝐴𝐴𝑖] −𝐷𝑂𝐴𝐴𝑖) × 𝐹𝐶−𝐴𝐷𝐴𝑖} −𝐷𝑃𝐶𝐴 
+Onde, 
+𝐷𝑃𝐶𝑖 
+Desequilíbrio 
+decorrente 
+do 
+mecanismo 
+de 
+compartilhamento do risco de demanda, no ano contratual 
+i. 
+𝐷𝑃𝐶𝐴 
+Valor referente a eventuais desequilíbrios favoráveis ao 
+PODER CONCEDENTE, decorrentes do mecanismo de 
+compartilhamento do risco de demanda, efetivados em 
+REVISÕES ORDINÁRIAS anteriores. 
+𝐷𝑂𝐴𝐴𝑖 
+Possui o significado atribuído acima. 
+𝐷𝐸𝐴𝐴𝑖 
+Possui o significado atribuído acima 
+𝐴𝐷𝐴𝑖 
+Possui o significado atribuído acima 
+𝐹𝐶 
+É 
+o 
+fator 
+de 
+compartilhamento 
+com 
+o 
+PODER 
+CONCEDENTE, conforme item 1.8. 
+1.12. Caso: 
+𝐷𝑂𝐴𝐴𝑖< 98% × 𝐷𝐸𝐴𝐴𝑖 
+E 
+𝐴𝐷𝐴𝑖≥([98% × 𝐷𝐸𝐴𝐴𝑖] −𝐷𝑂𝐴𝐴𝑖)  
+Onde, 
+𝐷𝑂𝐴𝐴𝑖 
+Possui o significado atribuído no item 1.11. 
+𝐷𝐸𝐴𝐴𝑖 
+Possui o significado atribuído no item 1.11. 
+𝐴𝐷𝐴𝑖 
+Possui o significado atribuído no item 1.11. 
+Será reconhecido EVENTO DE DESEQUILÍBRIO, a se reequilibrar em prol do PODER 
+CONCEDENTE, equivalente a: 
+𝐷𝑃𝐶𝑖= −{([98% × 𝐷𝐸𝐴𝐴𝑖] −𝐷𝑂𝐴𝐴𝑖)−𝐴𝐷𝐴𝑖} −𝐷𝑃𝐶𝐴 
+Onde, 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 7
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 8 de 10 
+𝐷𝑃𝐶𝑖 
+Possui o significado atribuído no item 1.11. 
+𝐷𝑃𝐶𝐴 
+Possui o significado atribuído no item 1.11. 
+𝐷𝑂𝐴𝐴𝑖 
+Possui o significado atribuído no item 1.11. 
+𝐷𝐸𝐴𝐴𝑖 
+Possui o significado atribuído no item 1.11. 
+𝐴𝐷𝐴𝑖 
+Possui o significado atribuído no item 1.11. 
+1.13. Todos os USUÁRIOS que transitarem pelo SISTEMA RODOVIÁRIO, incluindo os 
+USUÁRIOS INADIMPLENTES e os USUÁRIOS que sejam identificados para fins de 
+contabilização das TRANSAÇÕES INVÁLIDAS, deverão ter seus respectivos valores 
+aplicáveis de TARIFA DE PEDÁGIO computados na DEMANDA OBSERVADA, na forma 
+do item 1.7, com exceção dos beneficiários de isenções, nos termos do ANEXO 4.  
+1.13.1. A CONCESSIONÁRIA não poderá receber, por meio do mecanismo de mitigação 
+do risco de demanda, valores de TARIFA DE PEDÁGIO por ela já percebidos, 
+inclusive por meio da COMPENSAÇÃO DE INADIMPLÊNCIA.  
+1.13.2. O mecanismo de mitigação do risco de demanda também não se prestará à 
+recomposição de perdas de receita decorrentes de regimes de tarifação 
+diferenciada, 
+descontos 
+tarifários 
+ou 
+isenções 
+propostas 
+pela 
+CONCESSIONÁRIA, devendo o valor total da renúncia tarifária decorrente destes 
+regimes, descontos ou isenções, ser incorporado ao cálculo da DEMANDA 
+OBSERVADA da CONCESSIONÁRIA. 
+1.14. Para o cálculo de 𝐷𝐸𝑚, a seguinte fórmula deverá ser considerada: 
+𝐷𝐸𝑚= 𝐷𝐸𝐴𝑖× 𝐷𝐷𝑚
+365
+ 
+Onde, 
+𝐷𝐸𝑚  
+É a DEMANDA ESTIMADA para os 12 (doze) meses 
+anteriores até o mês contratual m. 
+𝐷𝐸𝐴𝑖  
+é a DEMANDA ESTIMADA do ano contratual i, conforme 
+item 1.5. 
+𝐷𝐷𝑚  
+é o número de dias do ano contratual referente ao período 
+de aferição. 
+ 
+1.14.1. A DEMANDA ESTIMADA do ano contratual i deverá ser ajustada de modo a 
+contemplar os ajustes aplicados à TARIFA DE PEDÁGIO segundo os mesmos 
+critérios e quando da sua efetiva implementação, conforme disposto no item 1.5.1.  
+1.15. 
+Caso a operação comercial das PRAÇAS DE PEDÁGIO ou dos PÓRTICOS seja 
+iniciada após o prazo previsto no item 1.5.3, eventual desequilíbrio econômico-financeiro 
+referente à diferença de receita decorrente da operação da PRAÇA DE PEDÁGIO e/ou da 
+CONVERSÃO, bem como outros impactos, deverá ser apurado em processo próprio, não 
+sendo considerado no mecanismo de que trata este ANEXO. 
+1.16. 
+Os demais impactos decorrentes do EVENTO DE DESEQUILÍBRIO serão tratados na 
+REVISÃO ORDINÁRIA subsequente e deverão observar o regramento geral do 
+CONTRATO.   
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 8
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 9 de 10 
+1.17. Deverão ser considerados, conforme o caso, os tributos aplicáveis, bem como descontos 
+relativos ao IQD, ao ÔNUS DE FISCALIZAÇÃO e OUTORGA VARIÁVEL, e demais 
+impactos incidentes no fluxo de caixa da CONCESSIONÁRIA, observada a modalidade 
+de recomposição escolhida nos termos da Cláusula Vigésima Terceira do CONTRATO, 
+de modo a garantir que os efeitos dos tributos diretos e indiretos efetivamente incidentes 
+e demais impactos no fluxo de caixa da CONCESSIONÁRIA sejam contemplados no 
+cálculo, conforme disposto na Cláusula 22.4.6 do CONTRATO. 
+1.17.1. A apuração do AJUSTE DE DEMANDA previsto neste ANEXO ocorrerá 
+anualmente.  
+1.17.2. A recomposição dos valores ocorrerá trimestralmente em parcelas iguais, 
+tomando como base o AJUSTE DE DEMANDA do ano contratual anterior, 
+observando o regramento de atualização monetária que consta do ANEXO 4.  
+1.17.3. O AJUSTE DE DEMANDA referente ao último ano de CONTRATO deverá ser 
+integralmente recomposto em até 3 (três) meses do encerramento do 
+CONTRATO. 
+1.17.4. A recomposição será realizada nos termos do APÊNDICE D, em conjunto com a 
+recomposição pelo DUF, originando a COMPOSIÇÃO DUF E AJUSTE DE 
+DEMANDA.  
+1.17.5. Na hipótese de não haver crédito favorável ao PODER CONCEDENTE nos termos 
+do item 1.9, a COMPOSIÇÃO DUF E AJUSTE DE DEMANDA deverá ser realizada 
+preferencialmente de acordo com as seguintes modalidades em ordem de 
+prioridade: 
+i) 
+CONTA DUF E DEMANDA 
+ii) 
+CONTA DE AJUSTE DA CONCESSÃO 
+iii) 
+Redução da OUTORGA VARIÁVEL 
+iv) 
+Redução do ÔNUS DE FISCALIZAÇÃO  
+v) 
+Outras modalidades, preferencialmente na modalidade prevista na 
+Cláusula 23.1 (ii) do CONTRATO. 
+1.18. Para apuração do AJUSTE DE DEMANDA do respectivo ano contratual de apuração, a 
+CONCESSIONÁRIA deverá, até 5 (cinco) dias do ano subsequente, enviar para a 
+ARTESP: (i) documento anual indicando o número do CONTRATO e o período de 
+apuração; (ii) memória de cálculo que indique o valor de cada componente do AJUSTE 
+DE DEMANDA, nos termos deste ANEXO; (iii) relatório indicando o número de passagens 
+por cada PÓRTICO, bem como o número de USUÁRIOS INADIMPLENTES, nos termos 
+do ANEXO 20, destacando o número de e o valor monetário correspondente de 
+TRANSAÇÕES VÁLIDAS, TRANSAÇÕES INVÁLIDAS e TRANSAÇÕES INVÁLIDAS 
+FRAUDULENTAS, bem como tarifas eventualmente processadas após o período de 15 
+(quinze) dias da passagem pelo respectivo PÓRTICO, ou outro previsto na regulação, ou 
+ainda após realizadas medidas coercitivas.  
+1.19. Em até 30 (trinta) dias do recebimento do material indicado no item 1.18 acima, a ARTESP 
+deverá: avaliar a documentação recebida e calcular os valores indicados para cada 
+componente do AJUSTE DE DEMANDA; encaminhando ao BANCO DEPOSITÁRIO a 
+NOTIFICAÇÃO DUF E AJUSTE DE DEMANDA, nos termos do APÊNDICE D, com cópia 
+à CONCESSIONÁRIA, informando o valor apresentado pela CONCESSIONÁRIA ou 
+indicando a parcela incontroversa a título de AJUSTE DE DEMANDA. 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 9
+
+
+ 
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folhas 10 de 10 
+1.20. Em até 4 (quatro) meses do final do 20º ano, ou quando da extinção antecipada do 
+CONTRATO, a CONCESSIONÁRIA deverá encaminhar à ARTESP relatório contendo as 
+informações indicadas no item 1.18 contemplando as memórias relativas ao cálculo das 
+variáveis do AJUSTE DE DEMANDA ainda não cobertas na documentação dos anos 
+anteriores, a fim de demonstrar saldos, em favor do PODER CONCEDENTE ou da 
+CONCESSIONÁRIA, ainda não quitados.  
+1.21. A partir do recebimento do relatório de que trata o item 1.20 acima, aplicam-se os prazos 
+disciplinados nos itens 1.18 e 1.19. 
+1.22. Na ocasião de haver saldo em favor do PODER CONCEDENTE ou da 
+CONCESSIONÁRIA no âmbito da apuração dos saldos AJUSTE DE DEMANDA, este 
+deverá ser quitado pelas PARTES como condição prévia à assinatura do TERMO DE 
+RECEBIMENTO DEFINITIVO. 
+EXEMPLOS DE APLICAÇÃO DO MECANISMO DE DEMANDA: 
+1. Caso 1: 𝑫𝑶𝒊≥𝟏𝟎𝟖% × 𝑫𝑬𝒊∶  𝑨𝑫𝒊= ([𝟏𝟎𝟖% × 𝑫𝑬𝒊] −𝑫𝑶𝒊) × 𝑭𝑪 
+Ou seja: (𝑅𝑇𝑖+ 𝐶𝐴𝑖+ 5% × 𝑇𝑉𝑖+ 𝑇𝐼𝑖+ 𝐷𝑈𝐹𝑖) ≥108% × 𝐷𝐸𝑖 
+a. 
+Caso (𝑅𝑇𝑖+ 5% × 𝑇𝑉𝑖+ 𝑇𝐼𝑖) ≥108% × 𝐷𝐸𝑖  
+Então: 𝐶𝐴𝑖+ 𝐷𝑈𝐹𝑖= 0 
+ 𝐴𝐷𝑖= ([108% × 𝐷𝐸𝑖] −(𝑅𝑇𝑖+ 5% × 𝑇𝑉𝑖+ 𝑇𝐼𝑖)) × 𝐹𝐶 
+b. 
+Caso (𝑅𝑇𝑖+ 5% × 𝑇𝑉𝑖+ 𝑇𝐼𝑖 + 𝐶𝐴𝑖+ 𝐷𝑈𝐹𝑖) ≥108% × 𝐷𝐸𝑖 e (𝑅𝑇𝑖+ 5% × 𝑇𝑉𝑖+ 𝑇𝐼𝑖) ≤
+108% × 𝐷𝐸𝑖 
+Então: 𝐶𝐴𝑖+ 𝐷𝑈𝐹𝑖= [108% × 𝐷𝐸𝑖] −(𝑅𝑇𝑖+ 5% × 𝑇𝑉𝑖+ 𝑇𝐼𝑖) 
+𝐴𝐷𝑖= 0 
+ 
+ 
+Anexo 22 - Mecanismo de Compartilhamento do Risco de Dem (0059818647)         SEI 134.00005927/2024-51 / pg. 10

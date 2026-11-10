@@ -1,0 +1,1284 @@
+ 
+ 
+ 
+APÊNDICE B 
+CONCESSÃO DOS SERVIÇOS PÚBLICOS DE AMPLIAÇÂO, OPERAÇÃO, CONSERVAÇÃO, MANUTENÇÃO E REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A 
+EXPLORAÇÃO DO SISTEMA RODOVIÁRIO DENOMINADO LOTE NOVA RAPOSO 
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 1
+
+
+ 
+Caracterização do Passivo 
+ 
+Rodovia: SP280 
+ 
+Código do Passivo: SP280-45+660-PO-ER 
+ 
+Localização do Passivo  
+SRE: N/A 
+Quilometragem: 45+660 
+Município: Araçariguama 
+Estado: SP 
+Coordenadas:  292.029,73 m E; 7.403.807,84 m S 
+Fuso: 23 
+Datum: Sirgas 2000 
+Pista: Oeste 
+Data: 02/02/2024 
+Total de Eventos: 1 
+ 
+Causa Geradora 
+Rodovia 
+X 
+Terceiros 
+ 
+ 
+Local do Passivo 
+Faixa de Domínio 
+ 
+Talude de Aterro 
+ 
+Talude de Corte 
+X 
+Fora da FD 
+ 
+ 
+Centro de Custo 
+1º Ano da Concessão 
+ 
+Até 5º Ano de Concessão 
+X 
+Monitoramento 
+ 
+ 
+Tipologia de Passivo 
+Potencial de Contaminação (AC) 
+ 
+Deposição de Resíduos (RE) 
+ 
+Assoreamento de Curso d’Água (AS) 
+ 
+Processo Erosivo (ER) 
+X 
+Solo Exposto (SE) 
+ 
+Outros (OT) 
+ 
+ 
+Gravidade da Situação 
+Em Relação à Rodovia 
+Em Relação ao Meio Ambiente 
+Não Oferece Perigo 
+ 
+Sem Risco Aparente 
+ 
+Evolução Pode Oferecer Perigo 
+X 
+Não Emergencial 
+X 
+Oferece Perigo 
+ 
+Emergencial 
+ 
+ 
+Dimensões da Ocorrência 
+Comprimento (m): 20 
+Largura (m):  
+Profundidade/Altura (m): 3,5 
+Número:  
+Volume (m³):  
+ 
+Observações Relevantes: 
+ 
+Talude de corte com processo erosivo. Há o risco de queda de árvore 
+ 
+Diretrizes Técnicas para Recuperação/ Remediação 
+Estabilização 
+ 
+Recomposição 
+X 
+Outros 
+ 
+Necessidade de Intervenção além da FD 
+ 
+Projeto-Tipo 
+1; 2; 6 
+ 
+Registro Fotográfico 
+Foto Geral do Passivo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Imagem de Satélite da Localização do Passivo 
+ 
+ 
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 2
+
+
+ 
+Caracterização do Passivo 
+ 
+Rodovia: SP270 
+ 
+Código do Passivo: SP270-13+085-PL-ER 
+ 
+Localização do Passivo  
+SRE: N/A 
+Quilometragem: 13+085 
+Município: São Paulo 
+Estado: SP 
+Coordenadas:  323.510,37 m E; 7.391.093,94 m S 
+Fuso: 23 
+Datum: Sirgas 2000 
+Pista: Leste 
+Data: 02/02/2024 
+Total de Eventos: 1 
+ 
+Causa Geradora 
+Rodovia 
+X 
+Terceiros 
+ 
+ 
+Local do Passivo 
+Faixa de Domínio 
+ 
+Talude de Aterro 
+ 
+Talude de Corte 
+X 
+Fora da FD 
+ 
+ 
+Centro de Custo 
+1º Ano da Concessão 
+ 
+Até 5º Ano de Concessão 
+X 
+Monitoramento 
+ 
+ 
+Tipologia de Passivo 
+Potencial de Contaminação (AC) 
+ 
+Deposição de Resíduos (RE) 
+ 
+Assoreamento de Curso d’Água (AS) 
+ 
+Processo Erosivo (ER) 
+X 
+Solo Exposto (SE) 
+ 
+Outros (OT) 
+ 
+ 
+Gravidade da Situação 
+Em Relação à Rodovia 
+Em Relação ao Meio Ambiente 
+Não Oferece Perigo 
+ 
+Sem Risco Aparente 
+ 
+Evolução Pode Oferecer Perigo 
+X 
+Não Emergencial 
+X 
+Oferece Perigo 
+ 
+Emergencial 
+ 
+ 
+Dimensões da Ocorrência 
+Comprimento (m): 2,5 
+Largura (m):  
+Profundidade/Altura (m): 1,5 
+Número:  
+Volume (m³):  
+ 
+Observações Relevantes: 
+ 
+Talude de corte com processo erosivo. 
+ 
+Diretrizes Técnicas para Recuperação/ Remediação 
+Estabilização 
+ 
+Recomposição 
+X 
+Outros 
+ 
+Necessidade de Intervenção além da FD 
+ 
+Projeto-Tipo 
+1; 2; 6 
+ 
+Registro Fotográfico 
+Foto Geral do Passivo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Imagem de Satélite da Localização do Passivo 
+ 
+ 
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 3
+
+
+ 
+Caracterização do Passivo 
+ 
+Rodovia: SP270 
+ 
+Código do Passivo: SP270-23+535-PL-ER 
+ 
+Localização do Passivo  
+SRE: N/A 
+Quilometragem: 23+535 
+Município: Cotia 
+Estado: SP 
+Coordenadas:  313.755,18 m E; 7.389.911,32 m S 
+Fuso: 23 
+Datum: Sirgas 2000 
+Pista: Leste 
+Data: 02/02/2024 
+Total de Eventos: 1 
+ 
+Causa Geradora 
+Rodovia 
+X 
+Terceiros 
+ 
+ 
+Local do Passivo 
+Faixa de Domínio 
+ 
+Talude de Aterro 
+ 
+Talude de Corte 
+X 
+Fora da FD 
+ 
+ 
+Centro de Custo 
+1º Ano da Concessão 
+ 
+Até 5º Ano de Concessão 
+X 
+Monitoramento 
+ 
+ 
+Tipologia de Passivo 
+Potencial de Contaminação (AC) 
+ 
+Deposição de Resíduos (RE) 
+ 
+Assoreamento de Curso d’Água (AS) 
+ 
+Processo Erosivo (ER) 
+X 
+Solo Exposto (SE) 
+ 
+Outros (OT) 
+ 
+ 
+Gravidade da Situação 
+Em Relação à Rodovia 
+Em Relação ao Meio Ambiente 
+Não Oferece Perigo 
+ 
+Sem Risco Aparente 
+ 
+Evolução Pode Oferecer Perigo 
+X 
+Não Emergencial 
+X 
+Oferece Perigo 
+ 
+Emergencial 
+ 
+ 
+Dimensões da Ocorrência 
+Comprimento (m): 10 
+Largura (m):  
+Profundidade/Altura (m): 1,8 
+Número:  
+Volume (m³):  
+ 
+Observações Relevantes: 
+ 
+Talude de corte com processo erosivo. 
+ 
+Diretrizes Técnicas para Recuperação/ Remediação 
+Estabilização 
+ 
+Recomposição 
+X 
+Outros 
+ 
+Necessidade de Intervenção além da FD 
+ 
+Projeto-Tipo 
+1; 2; 6 
+ 
+Registro Fotográfico 
+Foto Geral do Passivo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Imagem de Satélite da Localização do Passivo 
+ 
+ 
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 4
+
+
+ 
+Caracterização do Passivo 
+ 
+Rodovia: SP270 
+ 
+Código do Passivo: SP270-29+040-PL-ER 
+ 
+Localização do Passivo  
+SRE: N/A 
+Quilometragem: 29+040 
+Município: Cotia 
+Estado: SP 
+Coordenadas:  308.848,44 m E; 7.389.338,97 m S 
+Fuso: 23 
+Datum: Sirgas 2000 
+Pista: Leste 
+Data: 02/02/2024 
+Total de Eventos: 1 
+ 
+Causa Geradora 
+Rodovia 
+X 
+Terceiros 
+ 
+ 
+Local do Passivo 
+Faixa de Domínio 
+ 
+Talude de Aterro 
+ 
+Talude de Corte 
+X 
+Fora da FD 
+ 
+ 
+Centro de Custo 
+1º Ano da Concessão 
+ 
+Até 5º Ano de Concessão 
+X 
+Monitoramento 
+ 
+ 
+Tipologia de Passivo 
+Potencial de Contaminação (AC) 
+ 
+Deposição de Resíduos (RE) 
+ 
+Assoreamento de Curso d’Água (AS) 
+ 
+Processo Erosivo (ER) 
+X 
+Solo Exposto (SE) 
+ 
+Outros (OT) 
+ 
+ 
+Gravidade da Situação 
+Em Relação à Rodovia 
+Em Relação ao Meio Ambiente 
+Não Oferece Perigo 
+ 
+Sem Risco Aparente 
+ 
+Evolução Pode Oferecer Perigo 
+X 
+Não Emergencial 
+X 
+Oferece Perigo 
+ 
+Emergencial 
+ 
+ 
+Dimensões da Ocorrência 
+Comprimento (m): 100 
+Largura (m):  
+Profundidade/Altura (m): 3 
+Número:  
+Volume (m³):  
+ 
+Observações Relevantes: 
+ 
+Talude de corte com processo erosivo. 
+ 
+Diretrizes Técnicas para Recuperação/ Remediação 
+Estabilização 
+ 
+Recomposição 
+X 
+Outros 
+ 
+Necessidade de Intervenção além da FD 
+ 
+Projeto-Tipo 
+1; 2; 6 
+ 
+Registro Fotográfico 
+Foto Geral do Passivo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Imagem de Satélite da Localização do Passivo 
+ 
+ 
+ 
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 5
+
+
+Caracterização do Passivo
+Data: 6/25/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 34+715
+Centro de Custo: Até 5º ano de concessão
+Município: Itapevi
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Não Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-34+715-PS-ER
+Comprimento (m): 100
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 3
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de blocos de rocha
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.531555, -46.9356089
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+302391 m E
+7396296 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 6
+
+
+Caracterização do Passivo
+Data: 6/25/2024
+Rodovia: Avenida Doutor Odair Pacheco Pedroso
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 1+935
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Não Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: Avenida Doutor Odair Pacheco Pedroso-2+935-PS-ER
+Comprimento (m): 80
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 2
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de árvores
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.6134137, -46.9157586
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+304542 m E
+7387288 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 7
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 34+455
+Centro de Custo: Até 5º ano de concessão
+Município: Itapevi
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Não Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-34+455-PS-ER
+Comprimento (m): 40
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 2
+Número: 
+Volume (m³): 
+Observações Relevantes: 
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5295746, -46.9359315
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+302352 m E
+7396520 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 8
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 42+765
+Centro de Custo: 1º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Oferece Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-42+765-PS-ER
+Comprimento (m): 20
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 6
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de árvores
+Diretrizes - Técnicas para Recuperação/Remediação: Recomposição
+Total de Eventos: 1
+Projeto-Tipo: 
+11
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5893992, -46.9201858
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303990 m E
+7389893 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 9
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 43+080
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Sem Risco Aparente
+Pista: N,S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-43+080-PNS-ER
+Comprimento (m): 50
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 1
+Número: 
+Volume (m³): 
+Observações Relevantes: 
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5924415, -46.9206768
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+304006 m E
+7389575 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 10
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 43+295
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Não Emergencial
+Pista: N
+Dimensão da Ocorrência
+Código do Passivo: SP-029-43+295-PN-ER
+Comprimento (m): 50
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 2
+Número: 
+Volume (m³): 
+Observações Relevantes: 
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5939528, -46.9208257
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303997 m E
+7389412 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 11
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 43+625
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Oferece Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Não Emergencial
+Pista: N
+Dimensão da Ocorrência
+Código do Passivo: SP-029-43+625-PN-ER
+Comprimento (m): 10
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 3
+Número: 
+Volume (m³): 
+Observações Relevantes: Acúmulo de entulhos e possível queda de árvores
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 2
+Projeto-Tipo: 
+1,2,6, 14
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5969921, -46.9204892
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+304038 m E
+7389078 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 12
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 43+960
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Sem Risco Aparente
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-43+960-PS-ER
+Comprimento (m): 5
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 3
+Número: 
+Volume (m³): 
+Observações Relevantes: 
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5992368, -46.918587
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+304236 m E
+7388827 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 13
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 44+075
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Sem Risco Aparente
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-44+075-PS-ER
+Comprimento (m): 30
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 1
+Número: 
+Volume (m³): 
+Observações Relevantes: 
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.600035, -46.918034
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+304291 m E
+7388741 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 14
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 39+995
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Sem Risco Aparente
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-39+995-PS-ER
+Comprimento (m): 30
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 1
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de árvore
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,7
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5670531, -46.9275367
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303267 m E
+7392387 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 15
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 40+135
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Não Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-40+135-PS-ER
+Comprimento (m): 120
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 2
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de poste de energia
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5681065, -46.9267734
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303353 m E
+7392265 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 16
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 40+425
+Centro de Custo: 1º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Oferece Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-40+425-PS-ER
+Comprimento (m): 140
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 4
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de árvores e poste
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,11
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5702355, -46.9249203
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303525 m E
+7392023 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 17
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 40+685
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Sem Risco Aparente
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-40+685-PS-ER
+Comprimento (m): 100
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 1
+Número: 
+Volume (m³): 
+Observações Relevantes: 
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5725103, -46.9247373
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303549 m E
+7391765 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 18
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 40+985
+Centro de Custo: 1º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Oferece Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-40+985-PS-ER
+Comprimento (m): 60
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 3
+Número: 
+Volume (m³): 
+Observações Relevantes: 
+Diretrizes - Técnicas para Recuperação/Remediação: Recomposição
+Total de Eventos: 1
+Projeto-Tipo: 
+11
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5748435, -46.9232991
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303716 m E
+7391518 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 19
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 41+485
+Centro de Custo: 1º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Oferece Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-41+485-PS-ER
+Comprimento (m): 20
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 4
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de edificações
+Diretrizes - Técnicas para Recuperação/Remediação: Recomposição
+Total de Eventos: 1
+Projeto-Tipo: 
+11
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5792701, -46.9226198
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303762 m E
+7391039 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 20
+
+
+Caracterização do Passivo
+Data: 6/25/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 41+710
+Centro de Custo: Até 5º ano de concessão
+Município: Cotia
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Sem Risco Aparente
+Pista: N
+Dimensão da Ocorrência
+Código do Passivo: SP-029-41+710-PN-ER
+Comprimento (m): 150
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 4
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de árvores e construções. Presença de entulhos
+Diretrizes - Técnicas para Recuperação/Remediação: Estabilização
+Total de Eventos: 1
+Projeto-Tipo: 
+1,2,6
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5805807788, -46.9211838593
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+303943 m E
+7390888 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 21
+
+
+Caracterização do Passivo
+Data: 6/24/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 35+215
+Centro de Custo: Até 5º ano de concessão
+Município: Itapevi
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Evolução Pode Oferecer Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Não Emergencial
+Pista: S
+Dimensão da Ocorrência
+Código do Passivo: SP-029-35+215-PS-ER
+Comprimento (m): 120
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 3
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de árvores
+Diretrizes - Técnicas para Recuperação/Remediação: Recomposição
+Total de Eventos: 1
+Projeto-Tipo: 
+11
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5350745, -46.9390492
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+302042 m E
+7395914 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 22
+
+
+Caracterização do Passivo
+Data: 6/25/2024
+Rodovia: SP029
+Causa Geradora: Rodovia
+Localização do Passivo
+Local do Passivo: Talude de Corte
+Quilometragem: 39+175
+Centro de Custo: 1º ano de concessão
+Município: Itapevi
+Tipologia de Passivo: Processo Erosivo (ER)
+Estado: SP
+Gravidade da Situação
+Fuso: 23 S
+Em relação à Rodovia: Oferece Perigo
+Datum: WGS-84
+Em relação ao Meio Ambiente: Emergencial
+Pista: N
+Dimensão da Ocorrência
+Código do Passivo: SP-029-39+175-PN-ER
+Comprimento (m): 240
+Coordenadas:
+Largura (m): 
+Profundidade/Altura (m): 6
+Número: 
+Volume (m³): 
+Observações Relevantes: Possível queda de árvores e blocos de rocha
+Diretrizes - Técnicas para Recuperação/Remediação: Recomposição
+Total de Eventos: 1
+Projeto-Tipo: 
+11
+Apêndice B - Lote Nova Raposo
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO
+R. Iguatemi, 105. Itaim Bibi, São Paulo, SP. CEP: 01451-011. FONE/FAX: (11) 3465-2000
+-23.5608110939, -46.9314104418
+Tipologia
+ER
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, 
+© 2024 TomTom, © 2024 Maxar, © 2024 Microsoft Corporation, © OpenStreetMap
+© OpenStreetMap
+Imagem de Satélite da Localização do Passivo
+Registro Fotográfico do Passivo
+302776 m E
+7393236 m S
+Documento Apêndice B - Cadastro de Passivos (0059821984)         SEI 134.00005927/2024-51 / pg. 23

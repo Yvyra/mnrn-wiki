@@ -1,0 +1,145 @@
+Quais áreas de São Paulo têm mais risco de enchente ou afundamento? Mapa interativo revela
+Priscila Mengue, Lucas Thaynan18-22 minutes 19/06/2024
+Trinta anos depois, a cidade de São Paulo tem uma nova Carta Geotécnica de Aptidão à Urbanização. O material expõe características e vulnerabilidades da capital paulista, com a classificação de que 23,9% do território tem baixa ou nenhuma “aptidão” a novas construções, enquanto a “alta aptidão” abrange cerca de 16,8% — a grande maioria já ocupado, a exemplo da região da Avenida Paulista.
+
+Essa recomendação considera graus de suscetibilidade a inundações, afundamentos, deslizamentos, alagamentos, erosão e mais problemas geológicos e hidrológicos, dentre outras características. Para tanto, a carta divide a cidade em 20 unidades geotécnicas — as quais podem ser consultadas em mapa interativo do Estadão abaixo.
+
+Segundo a carta, apresentada em maio, a maioria do território paulistano (59,2%) é de locais com “média aptidão” para a expansão urbana — como em trechos de Perdizes, na zona oeste, e no entorno da Estação Tatuapé do Metrô, na zona leste.
+
+Isto é, que podem receber mais mudanças, com recomendação de que passem por estudos geológicos e hidrológicos antes do projeto para avaliar adaptações necessárias e se há vulnerabilidades significativas.
+
+Já os locais de “baixa” e nenhuma aptidão têm maior potencial para incidentes, como em parte das várzeas dos principais rios, como Tietê e Pinheiros, a exemplo de trechos da Vila Leopoldina, da Barra Funda e do Alto de Pinheiros. Nessas situações, o documento prevê avaliação ainda mais detalhada, com sugestão de não ocupação caso haja “alta suscetibilidade” a problemas.
+
+No caso desses locais, as áreas mais próximas dos rios costumam ter “solos moles”. Também chamados de “solos compressíveis”, são formados de sedimentos transportados por cursos hídricos, com alta porcentagem de material orgânico, elevado teor de umidade e com resistência pouco satisfatória para suportar cargas, conforme a classificação da carta geotécnica.
+
+imagem newsletter
+newsletter
+
+Estadão Conectado
+
+Comece o dia com as principais notícias, além de colunas e links selecionados, de segunda a sexta.
+
+Grande parte do entorno do Rio Tietê está na Unidade Geotécnica I, uma das duas com baixa ou nenhuma aptidão à urbanização
+
+Grande parte do entorno do Rio Tietê está na Unidade Geotécnica I, uma das duas com baixa ou nenhuma aptidão à urbanização Foto: Daniel Teixeira/Estadão
+
+A aceleração das mudanças climáticas vai aumentar nos próximos anos a ocorrência de eventos climáticos extremos como as tempestades que arrasaram Porto Alegre e grande parte do Rio Grande do Sul. Como o Estadão mostrou, São Paulo também deve ver o agravamento das chuvas e secas diante da piora do aquecimento global.
+
+A carta foi desenvolvida pelo Instituto de Pesquisas Tecnológicas do Estado de São Paulo (IPT) em parceria com a Prefeitura. É voltada a embasar o planejamento territorial, políticas públicas urbanas e a gestão de risco, com o objetivo de orientar um desenvolvimento urbano adequado, seguro e sustentável.
+
+A veiculação da carta fomenta debates sobre a possibilidade de mais restrições e exigências para transformações na cidade. O debate foi levantado em audiências públicas da “minirrevisão da revisão” da Lei de Parcelamento, Uso e Ocupação do Solo (a Lei de Zoneamento), que ocorre na Câmara Municipal, com mudanças aprovadas em 1.ª votação na terça-feira, 18.
+
+O que foi mapeado na carta geotécnica de São Paulo?
+Com base nos microdados públicos da nova carta geotécnica, o mapa interativo abaixo permite identificar o zoneamento geotécnico de cada área. Cabe ressaltar que a carta geotécnica abrange uma escala macro, de modo que um local não é necessariamente suscetível a inundação por estar em uma unidade geotécnica com essa propensão.
+
+Entre os dados de cada unidade geotécnica, estão a classificação sobre aptidão à urbanização (inapta, baixa, média e alta) e a indicação de eventos mais suscetíveis (como inundação, alagamento, erosão, afundamento e outros).
+
+A ferramenta também permite a busca por endereço. No caso dos locais com “solos moles”, essa indicação é uma característica ligada a algumas unidades geotécnicas. Para visualizar a unidade específica do local com essa marcação, é preciso desmarcar a opção na legenda à esquerda do mapa.
+
+Após a visualização da ferramenta, há um resumo sobre algumas das principais características de cada unidade geotécnica. Confira o mapa interativo abaixo:
+
+Unidade geotécnica I
+Formada por áreas com sedimentos aluviais (ligados à ação das águas). Em geral, abrange locais com “baixa aptidão” à urbanização ou inaptas, com suscetibilidade alta a inundação, alagamento, enxurrada, erosão fluvial, solapamento de taludes e assoreamento.
+
+Também há tendência a recalques acentuados e movimentos de massa (deslocamento de solo e fragmentos, como em desmoronamentos) em obras e aterros construídos sobre solo mole (geralmente mais próximas de rio). Vulnerabilidade alta a poluição e contaminação de aquífero subterrâneo.
+
+A carta geotécnica indica não ocupar os locais de maior suscetibilidade a inundação e alagamento. Em áreas de média suscetibilidade e/ou com solos moles, sugere avaliação por meio de “estudos geológico-geotécnicos e hidrológico-hidráulicos em nível de detalhe”.
+
+Para locais com construções existentes, recomenda a análise de perigo e setorização de risco, a atenuação da impermeabilização do solo, dentre outros.
+
+Unidade geotécnica II
+Formada por áreas com sedimentos aluviais. Em geral, considerada de “média aptidão” para a urbanização, com suscetibilidade média a inundações e alagamentos eventuais e alta para poluição/contaminação de aquíferos.
+
+Também há tendência a recalques acentuados e movimentos de massa (deslocamento de solo e fragmentos, como em desmoronamentos) em obras e aterros construídos sobre solo mole (geralmente mais próximas de rio).
+
+A carta geotécnica indica que novas construções nas áreas de média aptidão mediante estudos geológico-geotécnicos e hidrológico-hidráulicos em nível de detalhe. Para locais com construções existentes, são recomendadas análise de perigo e setorização de risco, atenuação da impermeabilização do solo, dentre outras.
+
+Unidade geotécnica III
+Formada por áreas de arenitos, siltitos e argilitos e de solos residuais maduros. Em geral, considerada de “alta aptidão” para a urbanização, com baixa suscetibilidade a deslizamentos, recalque e afins e suscetibilidade média a erosão pluvial localizada. Vulnerabilidade média a poluição e contaminação de aquífero subterrâneo.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível básico. Em áreas já ocupadas, uma recomendação é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica IV
+Formada por áreas de lamitos e arenitos e de solos residuais maduros. Em geral, considerada de “alta aptidão” para a urbanização, predominantemente com suscetibilidades baixas a deslizamento, recalque e afins e suscetibilidades de média a alta para erosão pluvial localizada. Vulnerabilidade média a poluição/contaminação de aquífero subterrâneo.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível básico. Em áreas já ocupadas, são recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica V
+Formada por áreas de granitos e granitoides e de solos residuais maduros, em colinas. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidades baixa a deslizamentos e alta para erosão pluvial. Pode ter queda de rocha (em encostas naturais e taludes de corte) e recalques (associado a blocos/matacões no subsolo) em trechos localizados.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, recomenda-se análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica VI
+Formada por áreas de gnaisses e migmatitos (tipos de rochas) e de solos residuais maduros, em colinas. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidades baixa a deslizamento e de média a alta para erosão pluvial. Pode ter queda de rocha (em encostas naturais e taludes de corte) e recalques (associado a blocos/matacões no subsolo) em trechos localizados.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, recomenda-se análise de perigo e setorização de risco se identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica VII
+Formada por áreas de xistos e quartzitos e de solos residuais maduros em colinas. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidades baixa a deslizamento e de média a alta para erosão pluvial. Pode ter queda de rocha localizada (em encostas naturais e taludes de corte).
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, recomenda-se análise de perigo e setorização de risco se identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica VIII
+Formada por áreas de filitos e metabásicas (tipos de rocha) e de solos residuais maduros, em colinas. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidades baixa a deslizamento e média a erosão pluvial. Pode ter queda de rocha localizada (em encostas naturais e taludes de corte).
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, recomenda-se análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica IX
+Formada por áreas de metacarbonatos e solos residuais maduros argilosos, em relevo variado. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidades de baixa a média para deslizamento, além de média para erosão pluvial e de médias a alta para subsidência (afundamento lento) e colapsos de solo. Pode ter queda de rocha localizada (em encostas naturais e taludes de corte).
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica X
+Formada por áreas de arenitos, siltitos e argilitos e de solos residuais maduros, em morrotes. Em geral, considerada de “alta aptidão” para a urbanização, predominantemente com suscetibilidade baixa a deslizamento, recalque e outros processos, enquanto tem suscetibilidade de média a alta a erosão pluvial localizada.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível básico. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XI
+Formada por áreas de lamitos e arenitos e de solos residuais maduros, em relevo variado. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade baixa a deslizamento, recalque e outros processos (desagregação superficial/empastilhamento e recalque), enquanto tem suscetibilidade de baixa a alta para erosão pluvial.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XII
+Formada por áreas de granitos e granitóides e de solos residuais maduros, em relevo variado. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade baixa a deslizamento e alta para erosão pluvial. Pode ter queda de rocha (em encostas naturais e taludes de corte) e recalques (associado a blocos/matacões no subsolo) em trechos localizados.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XIII
+Formada por áreas de gnaisses e migmatitos e de solos residuais maduros, em relevo variado. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade baixa a deslizamento e de média a alta para erosão pluvial. Pode ter queda de rocha (em encostas naturais e taludes de corte) e recalques (associado a blocos/matacões no subsolo) em trechos localizados.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XIV
+Formada por áreas de gnaisses e migmatitos e de solos residuais maduros, em relevo variado. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade baixa a deslizamento e de média a alta para erosão pluvial. Pode ter queda de rocha (em encostas naturais e taludes de corte) e recalques (associado a blocos/matacões no subsolo) em trechos localizados.
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XV
+Formada por áreas de filitos e metabásicas e de solos residuais maduros, em relevo variado. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade baixa a deslizamento e média a erosão pluvial. Pode ter queda de rocha localizada (em encostas naturais e taludes de corte).
+
+A carta geotécnica diz que novas construções tendem a ser viáveis, mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XVI
+Formada por áreas de granitos e granitóides e de solos jovens, em morros altos. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade de média a alta para deslizamento e alta para erosão pluvial. Pode ter queda de rocha (em encostas naturais e taludes de corte) e recalques (associado a blocos/matacões no subsolo) em trechos localizados.
+
+A carta geotécnica diz que novas construções não são recomendadas em áreas de alta suscetibilidade a deslizamentos e afins, enquanto podem ser viáveis nas demais mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XVII
+Formada por áreas de gnaisses e migmatitos e de solos residuais jovens, em morros altos. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade de médias a alta para deslizamento e erosão pluvial. Pode ter queda de rocha (em encostas naturais e taludes de corte) e recalques (associado a blocos/matacões no subsolo) em trechos localizados.
+
+A carta geotécnica diz que novas construções não são recomendadas em áreas de alta suscetibilidade a deslizamentos e afins, enquanto podem ser viáveis nas demais mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XVIII
+Formada por áreas de xistos e quartzitos e de solos residuais jovens, em morros altos. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade de média a alta para deslizamento e erosão pluvial. Pode ter queda de rocha localizada (em encostas naturais e taludes de corte).
+
+A carta geotécnica diz que novas construções não são recomendadas em áreas de alta suscetibilidade a deslizamentos e afins, enquanto podem ser viáveis nas demais mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XIX
+Formada por áreas de filitos e metabásicas e de solos residuais jovens, em morros altos. Em geral, considerada de “média aptidão” para a urbanização, predominantemente com suscetibilidade de média a alta para deslizamento e média para erosão pluvial. Pode ter queda de rocha localizada (em encostas naturais e taludes de corte).
+
+A carta geotécnica diz que novas construções não são recomendadas em áreas de alta suscetibilidade a deslizamentos e afins, enquanto podem ser viáveis nas demais mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.
+
+Unidade geotécnica XX
+Formada por áreas de litologia cristalina variada (com destaque aos granitos e granitóides) e de solos residuais jovens, em serras. Em geral, considerada de “baixa aptidão” ou inapta para a urbanização, predominantemente com suscetibilidade de média a alta para erosão pluvial e alta para enxurrada e movimentos de massa (deslizamento, queda de rocha etc).
+
+A carta geotécnica diz que novas construções não são recomendadas em áreas de alta suscetibilidade a deslizamentos e afins, enquanto podem ser viáveis nas demais mediante estudos geológico-geotécnicos em nível de detalhe. Em áreas já ocupadas, uma das recomendações é fazer análise de perigo e setorização de risco quando forem identificadas ocorrências ou evidências de instabilidade, dentre outras.

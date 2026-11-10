@@ -1,0 +1,1104 @@
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 1 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 4  
+ESTRUTURA TARIFÁRIA 
+CONCESSÃO 
+DOS 
+SERVIÇOS 
+PÚBLICOS 
+DE 
+AMPLIAÇÂO, 
+OPERAÇÃO, 
+CONSERVAÇÃO, 
+MANUTENÇÃO E REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A EXPLORAÇÃO DO 
+SISTEMA RODOVIÁRIO DENOMINADO LOTE NOVA RAPOSO 
+ 
+ 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 1
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 2 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+1. APRESENTAÇÃO 
+1.1. O presente ANEXO tem por objetivo definir as condições e as normas que deverão reger a 
+ESTRUTURA TARIFÁRIA pertinente à CONCESSÃO. 
+1.2. O modelo de cobrança prevê instalação de 13 (treze) PÓRTICOS, nas localizações dispostas no 
+item 1.3. A partir da assinatura do TERMO DE TRANSFERÊNCIA INICIAL, a CONCESSIONÁRIA 
+passará a operar 3 (três) PRAÇAS DE PEDÁGIO existentes no SISTEMA REMANESCENTE até 
+que seja implantado o SISTEMA AUTOMÁTICO LIVRE, conforme disposto no ANEXO 20, quais 
+sejam: 
+Código 
+Praça de Pedágio 
+Existente 
+Rodovia 
+Cobrança 
+Sentido de 
+Cobrança 
+Localização 
+P07 
+Osasco 
+SP-280 
+Unidirecional 
+Oeste 
+Km 18,920 
+P07 
+Barueri 
+SP-280 
+Unidirecional 
+Leste 
+Km 20,545 
+P10 
+Itapevi 
+SP-280 
+Unidirecional 
+Oeste 
+Km 33,420 
+1.3. Conforme o estabelecido no ANEXO 20, a CONCESSIONÁRIA será responsável por implantar 
+o SISTEMA AUTOMÁTICO LIVRE em todo o SISTEMA RODOVIÁRIO nos termos e prazos ali 
+delimitados, considerando os pórticos nas seguintes localizações: 
+Código 
+Rodovia 
+Cobrança 
+Localização 
+Longitude 
+Latitude 
+P01 
+SP 270 
+Bidirecional 
+11,81 
+-46,7191546 
+-23,5757432 
+P02 
+SP 270 
+Bidirecional 
+15,11 
+-46,7480622 
+-23,5860703 
+P03 
+SP 270 
+Bidirecional 
+19,76 
+-46,7914292 
+-23,5876541 
+P04 
+SP 270 
+Bidirecional 
+24,700 
+-46,8353318 
+-23,5921020 
+P05 
+SP 270 
+Bidirecional 
+29,000 
+-46,8729510 
+-23,5952178 
+P06 
+SP 280 
+Bidirecional 
+14,520 
+-46,7613117 
+-23,5230435 
+P07 (leste) 
+SP 280 
+Unidirecional 
+20,545 
+-46,817198 
+-23,509725 
+P07 (oeste) 
+SP 280 
+Unidirecional 
+18,920 
+-46,801439 
+-23,511820 
+P08 
+SP 280 
+Bidirecional 
+25,200 
+-46,8624619 
+-23,5046144 
+P09 
+SP 280 
+Bidirecional 
+29,180 
+-46,9012250 
+-23,5072716 
+P10 
+SP 280 
+Bidirecional 
+33,420 
+-46,940891 
+-23,518083 
+P11 
+SP 029 
+Bidirecional 
+34,600 
+-46,9386974 
+-23,5346393 
+P12 
+SP-029 
+Bidirecional 
+40,655 
+-46,9248290 
+-23,5722139 
+P13 
+Trecho Cotia – 
+Embu das Artes 
+Bidirecional 
+4,600 
+(1) 
+(1) 
+(1) As coordenadas do PÓRTICO P13 serão definidas com base no traçado final do Trecho Cotia 
+– Embu das Artes. 
+1.4. Até que o SISTEMA AUTOMÁTICO LIVRE seja implantado, as diretrizes em relação à operação 
+das PRAÇAS DE PEDÁGIO devem observar o disposto neste ANEXO.  
+1.5. As diretrizes relacionadas à implantação do SISTEMA AUTOMÁTICO LIVRE, como prazos de 
+implantação, processo de CONVERSÃO, pagamento da TARIFA DE PEDÁGIO estão previstas 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 2
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 3 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+no ANEXO 20. 
+1.6. A cobrança da TARIFA DE PEDÁGIO nas PRAÇAS DE PEDÁGIO e/ou no âmbito do SISTEMA 
+AUTOMÁTICO LIVRE não altera a forma de cálculo da TARIFA DE PEDÁGIO estabelecida neste 
+ANEXO. 
+2. SISTEMA OPERACIONAL DE ARRECADAÇÃO NAS PRAÇAS DE PEDÁGIO 
+2.1. O sistema operacional de arrecadação nas PRAÇAS DE PEDÁGIO será composto de cabines 
+para pagamento manual, semiautomático e automático, com controle e contagem dos veículos, 
+os quais são classificados pelo número de eixos. 
+3. SISTEMA DE PEDÁGIO 
+3.1. Modelo de Pedagiamento 
+3.1.1. O modelo de pedagiamento do SISTEMA RODOVIÁRIO prevê a operação de PRAÇAS DE 
+PEDÁGIO TIPO BARREIRA nos trechos e localizações especificados neste ANEXO, bem 
+como a CONVERSÃO e implantação do SISTEMA AUTOMÁTICO LIVRE, nos termos do 
+ANEXO 20. 
+3.1.2. O USUÁRIO pagará uma TARIFA DE PEDÁGIO, conforme regramento deste ANEXO. 
+3.1.3. A cobrança será realizada nas PRAÇAS DE PEDÁGIO e/ou nos PÓRTICOS que compõem 
+o SISTEMA AUTOMÁTICO LIVRE, nos termos do ANEXO 20. 
+3.1.4. A base para o cálculo das TARIFAS. DE PEDÁGIO está discriminada nas Fórmulas 1, 2 e 3 
+deste ANEXO, considerando a aplicação da TARIFA QUILOMÉTRICA aplicável, o TRECHO 
+DE COBERTURA DE PEDÁGIO (TCP) e o multiplicador relacionado à categoria dos 
+veículos, independentemente de sua cobrança em PRAÇA DE PEDÁGIO ou PÓRTICO. 
+3.2. Início de Operação Comercial das Praças de Pedágio 
+3.2.1. O início da operação da(s) PRAÇA(S) DE PEDÁGIO estará autorizado a partir da assinatura 
+do TERMO DE TRANSFERÊNCIA INICIAL. 
+3.2.2. A CONCESSIONÁRIA deverá transferir integralmente os valores arrecadados por meio da 
+cobrança de TARIFA DE PEDÁGIO, seja nas PRAÇAS DE PEDÁGIO, seja nos PÓRTICOS, 
+à CONTA CENTRALIZADORA, nos termos do APÊNDICE D. 
+3.2.3. A CONCESSIONÁRIA concorda que, caso venha a receber diretamente quaisquer valores 
+provenientes da arrecadação da TARIFA DE PEDÁGIO nas PRAÇAS DE PEDÁGIO e/ou 
+nos PÓRTICOS, deverá providenciar o depósito da totalidade dos valores recebidos na 
+CONTA CENTRALIZADORA no prazo de 2 (dois) dias úteis contados do recebimento, sendo 
+vedada a realização de compensação quanto a quaisquer créditos que possa ter em face do 
+PODER CONCEDENTE ou da ARTESP. 
+3.3. Alterações Futuras 
+3.3.1. Após a implantação do SISTEMA AUTOMÁTICO LIVRE, a CONCESSIONÁRIA poderá 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 3
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 4 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+propor plano o redimensionamento dos TCP e reposicionamento dos PÓRTICOS, conforme 
+regramento do ANEXO 20. 
+3.3.2. Também poderá ser proposto plano de TARIFAS DE PEDÁGIO variáveis ou dinâmicas, 
+sujeito a prévia aprovação da ARTESP e, conforme o caso, do PODER CONCEDENTE, com 
+objetivo de otimizar o uso, induzir demanda e melhorar a fluidez e níveis de serviço do 
+SISTEMA RODOVIÁRIO, observando-se o princípio da isonomia.  
+3.3.3. Os termos dos eventuais planos de TARIFAS DE PEDÁGIO variáveis ou dinâmicas, sejam 
+eles de ordem operacional, de investimentos, econômico-financeira, entre outros, serão 
+acordados entre as PARTES, inclusive quanto a eventual reconhecimento de desequilíbrio 
+econômico-financeiro.  
+3.3.4. O plano de tarifas variáveis ou dinâmicas poderá definir valores diferentes dos previstos em 
+CONTRATO para as TARIFAS DE PEDÁGIO para diferentes CATEGORIAS, dias da 
+semana e horários, bem como apresentar cobranças tarifárias que considerem parâmetros 
+distintos da sistemática de cobranças por eixos, tais como cobrança por categoria, peso e 
+volume, se viável operacionalmente.  
+3.3.5. A avaliação de eventual pleito de reequilíbrio econômico-financeiro decorrente de planos de 
+tarifas variáveis ou dinâmicas levará em conta o volume de veículos por eixos equivalentes 
+e o valor da TARIFA BÁSICA DE PEDÁGIO fixada para CATEGORIA 1.  
+4. CRITÉRIOS PARA DEFINIÇÃO DE TARIFA E ATUALIZAÇÃO MONETÁRIA DO CONTRATO 
+4.1. Modelo de Pedagiamento 
+4.1.1. O modelo de pedagiamento a ser adotado corresponderá à cobrança das TARIFAS DE 
+PEDÁGIO nas PRAÇAS DE PEDÁGIO e/ou nos PÓRTICOS, conforme o caso, nos trechos 
+e nas localizações indicadas neste ANEXO e no ANEXO 20, sem prejuízo do disposto no 
+item 3 acima. 
+4.2. Tarifa Quilométrica de Pedágio 
+4.2.1. As TARIFAS DE PEDÁGIO são definidas tendo como referência uma TARIFA 
+QUILOMÉTRICA base definida para o mês de março/2024 cujos valores foram considerados 
+na elaboração do estudo de viabilidade econômico-financeira e têm como valor de referência 
+o equivalente a R$ 0,1477/km, bidirecional, para pista simples. 
+4.2.2. A cobrança pelo AVI deverá considerar um desconto mínimo de 5% (cinco por cento) em 
+relação ao valor acima indicado, sem prejuízo da aplicação adicional do DUF. 
+4.2.3. O USUÁRIO do SISTEMA AUTOMÁTICO LIVRE que não optar pelo AVI e realizar o 
+pagamento via PLATAFORMA, nos termos do ANEXO 20, não terá direito ao desconto 
+mínimo de 5% (cinco por cento) disposto acima. 
+4.2.4. Até a CONVERSÃO, as TARIFAS DE PEDÁGIO seguirão o disposto no item 4.4.1 deste 
+ANEXO. 
+4.3. Requalificação Tarifária 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 4
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 5 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+4.3.1. A Requalificação Tarifária ocorrerá: 
+4.3.1.1. 
+Após 
+a 
+finalização 
+das 
+obras 
+de 
+duplicação, 
+cenário 
+em 
+que 
+a 
+CONCESSIONÁRIA passará a contabilizar a TARIFA QUILOMÉTRICA com um 
+incremento de 40% para o trecho em que tiverem sido concluídas as obras de 
+duplicação; e/ou 
+4.3.1.2. 
+Após a finalização da implantação de faixas adicionais em pistas simples, 
+momento em que a CONCESSIONÁRIA passará a contabilizar a TARIFA 
+QUILOMÉTRIA com um incremento de 10%; 
+4.3.1.3. 
+Após a finalização da implantação de faixas adicionais em pista dupla, momento 
+em que a CONCESSIONÁRIA passará a contabilizar a TARIFA QUILOMÉTRIA com 
+um incremento de 61%; 
+4.3.1.4. 
+Consideram-se concluídos os investimentos previstos nos itens do ANEXO 21, 
+individualmente. 
+4.3.2. A Requalificação Tarifária, em qualquer de suas modalidades, apenas ocorrerá com a 
+expressa anuência da ARTESP, necessariamente após a competente vistoria, que atestará, 
+conforme o caso e de acordo com o item 9 do APÊNDICE H, a conclusão das duplicações e 
+das faixas adicionais no âmbito dos investimentos em Ampliações, conforme cada um dos 
+itens, individualmente, do ANEXO 21, bem como as condições de segurança da via para o 
+tráfego seguro dos USUÁRIOS. 
+4.3.3. Considera-se segura a liberação do tráfego ao USUÁRIO somente quando implantados 
+todos os dispositivos, equipamentos, Obras de Arte Especiais e sistemas que compõem o 
+trecho duplicado ou as faixas adicionais, que sejam essenciais à entrada em operação em 
+segurança, ainda que a integralidade dos investimentos exigíveis para a Requalificação 
+Tarifária não tenha sido concluída. 
+4.3.3.1. 
+A constatação pela ARTESP de “não conformidades” que não representem risco 
+à liberação segura ao tráfego da via não impedirá a Requalificação Tarifária. 
+4.3.3.2. 
+Na hipótese do item 4.3.3.1, acima, a CONCESSIONÁRIA deverá providenciar as 
+devidas correções em até 30 (trinta) dias após a liberação segura ao tráfego, 
+prorrogáveis a critério da ARTESP, sob pena de aplicação das penalidades dispostas 
+no ANEXO 11. 
+4.3.4. Não obstante o disposto acima, em qualquer caso, caso haja autorização da ARTESP para 
+liberação do tráfego seguro nas vias duplicadas ou nas faixas adicionais, a Requalificação 
+Tarifária será aplicável. 
+4.4. Trecho de Cobertura de Pedágio  
+4.4.1. O TRECHO DE COBERTURA DE PEDÁGIO das PRAÇAS DE PEDÁGIO serão divididos da 
+seguinte forma: 
+ 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 5
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 6 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+Praça de 
+Pedágio 
+existente 
+Localização 
+Km 
+início 
+Km fim 
+TCP Inicial 
+TCP Final 
+Simples 
+Dupla 
+Simples 
+Dupla 
+Osasco 
+SP-280 
+13,29 
+32,25 
+  
+18,955 
+  
+18,955 
+Barueri 
+SP-280 
+13,29 
+32,25 
+  
+18,955 
+  
+18,955 
+Itapevi 
+SP-280 
+32,25 
+54,14 
+  
+21,895 
+  
+21,895 
+4.4.1.1. As praças de pedágio com cobrança unidirecional devem considerar a cobrança de 2 (duas) 
+vezes o valor do TCP indicado no item 4.4.1, com exceção das praças de Osasco e Barueri, que apesar 
+de realizarem cobrança unidirecional, abrangem o mesmo TCP. 
+4.4.2. A partir da implantação integral do SISTEMA AUTOMÁTICO LIVRE, nos termos do ANEXO 20, 
+os Trechos de Cobertura de Pedágio serão divididos da seguinte forma: 
+Código 
+Rodovia 
+km 
+início 
+km 
+fim 
+Extensão 
+Início da Concessão 
+Fim da Concessão 
+Pista 
+Simples 
+Pista 
+Dupla 
+Pista 
+Simples 
+ 
+Implantação 
+de Faixa 
+Adicional 
+em pista 
+simples  
+Pista Dupla 
+Implantação 
+de Faixa 
+Adicional  
+em Pista 
+Dupla 
+P01 
+SP 270 
+10,940 
+14,05 
+3,11 
+ 
+3,11 
+ 
+ 
+3,11 
+ 
+P02 
+SP 270 
+14,05 
+17,65 
+3,6 
+ 
+3,6 
+ 
+ 
+1,22 
+2,38 
+P03 
+SP 270 
+17,65 
+21,83 
+4,18 
+ 
+4,18 
+ 
+ 
+ 
+4,18 
+P04 
+SP 270 
+21,83 
+27,59 
+5,76 
+ 
+5,76 
+ 
+ 
+ 
+5,76 
+P05 
+SP 270 
+27,59 
+34,065 
+6,475 
+ 
+6,475 
+ 
+ 
+ 
+6,475 
+P06 
+SP 280 
+13,29 
+16,14 
+2,85 
+ 
+2,85 
+ 
+ 
+2,85 
+ 
+P07 
+SP 280 
+16,14 
+20,99 
+4,85 
+ 
+4,85 
+ 
+ 
+4,85 
+ 
+P08 
+SP 280 
+20,99 
+26,66 
+5,665 
+ 
+5,665 
+ 
+ 
+5,665 
+ 
+P09 
+SP 280 
+26,66 
+32,25 
+5,59 
+ 
+5,59 
+ 
+ 
+5,59 
+ 
+P10 
+SP 280 
+32,25 
+54,14 
+21,89 
+ 
+21,89 
+ 
+ 
+4,96 
+16,93 
+P11 
+SP 029 
+32,58 
+38,60 
+6,023 
+3,9 
+2,1 
+ 
+ 
+6,02 
+ 
+P12 
+SP 029 
+38,60 
+43,70 
+5,100 
+5,1 
+0 
+ 
+ 
+5,1 
+ 
+P13 
+ Trecho Cotia – 
+Embu das Artes 
+0 
+16,5 
+16,5 
+16,5 
+ 
+ 
+ 
+16,5 
+ 
+ 
+Observações: 
+i. 
+Os TRECHOS DE COBERTURA DE PEDÁGIO serão recalculados após a implantação do 
+SISTEMA AUTOMÁTICO LIVRE, nos termos do ANEXO 20, de acordo com a tabela 
+acima. 
+ii. 
+A PRAÇA DE PEDÁGIO de Osasco localizada no km 16,655 da SP-280 será desativada 
+uma vez que o PÓRTICO P07 for implantado, nos termos do ANEXO 20. 
+iii. 
+Os ACESSOS não são considerados na composição dos TRECHOS DE COBERTURA 
+DE PEDÁGIO. Os PÓRTICOS poderão ser reposicionados em um intervalo de até 200 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 6
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 7 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+(duzentos) metros a partir da localização indicada no item 1.3 (no sentido crescente ou 
+decrescente) sem a necessidade de aprovação da ARTESP, desde que não prejudique a 
+segurança viária.  
+iv. 
+A CONCESSIONÁRIA poderá propor alteração dos TCPs, inclusão de novos PÓRTICOS 
+ou o reposicionamento dos PÓRTICOS fora do intervalo previsto acima, conforme prévia 
+e expressa aprovação do PODER CONCEDENTE, sempre em conformidade com os 
+critérios básicos do presente ANEXO e sem prejuízo do nível dos serviços oferecidos ao 
+USUÁRIO e do cumprimento dos INDICADORES DE DESEMPENHO estabelecidos no 
+ANEXO 3. Os termos dos eventuais reposicionamentos, sejam eles de ordem operacional, 
+de investimentos, econômico-financeira, entre outros, serão acordados entre as PARTES, 
+inclusive quanto a eventual reconhecimento de desequilíbrio econômico-financeiro. 
+v. 
+Nas PRAÇAS DE PEDÁGIO ou PÓRTICOS P06, P07, P08, P9 e P10 a cobrança será 
+realizada no eixo e nas vias marginais. 
+vi. 
+No P13, o TCP da tabela previsto acima será mantido mesmo se a CONCESSIONÁRIA 
+optar por desenvolver traçado com extensão superior ou inferior. 
+4.5. Tarifa de Pedágio 
+4.5.1. A TARIFA DE PEDÁGIO a ser cobrada para cada PRAÇA DE PEDÁGIO e/ou nos 
+PÓRTICOS do SISTEMA RODOVIÁRIO, conforme previsto no EDITAL, no CONTRATO e 
+ANEXOS, considerará o disposto no item 3.1.4 e as TARIFAS QUILOMÉTRICAS conforme 
+item 4.2. 
+4.6. Classificação dos Veículos 
+4.6.1. A TARIFA DE PEDÁGIO que será considerada para fins de atualização monetária do 
+CONTRATO e controle econômico-financeiro pela ARTESP e pelo PODER CONCEDENTE 
+corresponderá à TARIFA BÁSICA DE PEDÁGIO multiplicada pelo multiplicador da TARIFA 
+DE PEDÁGIO correspondente a cada tipo de veículo, conforme estabelece a tabela a seguir, 
+que categoriza os veículos pelo tipo, pelo número de eixos e pela característica de rodagem. 
+CLASSIFICAÇÃO DOS VEÍCULOS 
+CATEGORIA 
+TIPO 
+Nº 
+EIXOS RODAGEM MULTIPLICADOR 
+1 
+AUTOMÓVEL, CAMINHONETA, TRICICLO E 
+FURGÃO 
+2 
+SIMPLES 
+1 
+2 
+CAMINHÃO LEVE, MICROÔNIBUS, ÔNIBUS, 
+CAMINHÃO TRATOR E FURGÃO 
+2 
+DUPLA 
+2 
+3 
+CAMINHÃO TRATOR, CAMINHÃO TRATOR 
+COM SEMI REBOQUE E ÔNIBUS 
+3 
+DUPLA 
+3 
+4 
+CAMINHÃO COM REBOQUE, CAMINHÃO 
+TRATOR COM SEMI REBOQUE 
+4 
+DUPLA 
+4 
+5 
+CAMINHÃO COM REBOQUE, CAMINHÃO 
+TRATOR COM SEMI REBOQUE 
+5 
+DUPLA 
+5 
+6 
+CAMINHÃO COM REBOQUE, CAMINHÃO 
+6 
+DUPLA 
+6 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 7
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 8 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+CATEGORIA 
+TIPO 
+Nº 
+EIXOS RODAGEM MULTIPLICADOR 
+TRATOR COM SEMI REBOQUE 
+7 
+AUTOMÓVEL OU CAMINHONETE COM SEMI 
+REBOQUE 
+3 
+SIMPLES 
+1,5 
+8 
+AUTOMÓVEL OU CAMINHONETE COM 
+REBOQUE 
+4 
+SIMPLES 
+2 
+9 
+MOTOCICLETA, MOTONETA E BICICLETA A 
+MOTOR - ISENTO 
+- 
+- 
+0 
+- 
+VEÍCULOS OFICIAIS DO ESTADO DE SÃO 
+PAULO, FORÇAS ARMADAS E POLÍCIA 
+MILITAR – ISENTOS 
+- 
+- 
+0 
+Observações: 
+i. 
+Rodagem traseira de pneus, do tipo “single” ou “supersingle”, é equivalente à dupla, para 
+efeito da estrutura tarifária aqui definida. 
+ii. 
+Sem prejuízo da Tarifa de pedágio calculada conforme a tabela acima, incidirá adicional 
+equivalente a 2 (duas) vezes a tarifa de pedágio, por tonelada acima de 57 (cinquenta e 
+sete) toneladas do peso total do veículo, excluídos os veículos denominados “rodotrem” 
+ou “treminhão”, enquadrados na Resolução 631-84 do Conselho Nacional de Trânsito - 
+CONTRAN, ou outra que a substitua, desde que atendam aos limites legais de carga por 
+eixo. 
+iii. 
+O cálculo da TARIFA DE PEDÁGIO para veículos com mais de 6 (seis) eixos deverá considerar 
+como multiplicador o número de eixos. 
+ 
+iv. 
+Para fins de contagem do número de eixos, não deverão ser considerados os eixos que trafeguem 
+sem contato com o solo, desde que os veículos circulem vazios, conforme critérios da Resolução 
+Conjunta SPI/SEMIL nº 01/2023. 
+4.7. Cálculo da Tarifa de Pedágio 
+4.7.1. A RECEITA TARIFÁRIA BRUTA utilizada na composição da RECEITA BRUTA deverá 
+considerar a TARIFA DE PEDÁGIO obtida por meio do cálculo exposto na Fórmula 1 a 
+seguir, que resulta na TARIFA DE PEDÁGIO a ser cobrada de cada categoria: 
+FÓRMULA 1: 
+𝐓B𝐏𝐭 = (𝐓𝐐𝐭 × 𝐓𝐂𝐏s,t+ 1,1×𝐓𝐐𝐭 × 𝐓𝐂𝐏sFA,t + 1,4×𝐓𝐐𝐭 × 𝐓𝐂𝐏d,t + 1,61×𝐓𝐐𝐭 × 𝐓𝐂𝐏dFA,t ) 
+𝐓𝐏𝐭 = 𝐓BP𝐭× 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐢𝐜𝐚𝐝𝐨𝐫 
+Onde, 
+TBPt é a TARIFA BÁSICA DE PEDÁGIO a ser cobrada no ano “t”. 
+TQt é a TARIFA QUILOMÉTRICA de pedágio descrita no item 4.2 e atualizada conforme o item 4.8. 
+TCPs,t é o TRECHO DE COBERTURA DE PEDÁGIO em pista simples no ano “t,” conforme o item 4.4. 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 8
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 9 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+TCPsFA,t é o TRECHO DE COBERTURA DE PEDÁGIO em pista simples com intervenção de faixa adicional 
+no ano “t,” conforme o item 4.4 e de acordo com a fórmula 1.1 prevista abaixo.. 
+TCPd,t é o TRECHO DE COBERTURA DE PEDÁGIO em pista dupla no ano “t,” conforme o item 4.4. 
+TCPdFA,t é o TRECHO DE COBERTURA DE PEDÁGIO em pista dupla com intervenção de faixa adicional 
+no ano “t,” conforme o item 4.4 e de acordo com a fórmula 1.1 prevista abaixo.. 
+TPt é a TARIFA DE PEDÁGIO a ser cobrada de cada categoria do item 4.6. 
+Multiplicador é o valor estipulado para cada categoria no item 4.6. 
+ 
+ 
+ 
+FÓRMULA 1.1: 
+𝐓𝐂𝐏FA,t = 50%*(EXTFA,t,C + EXTFA,t,D) 
+TCPFA,t é o TRECHO DE COBERTURA DE PEDÁGIO em pista dupla ou simples com intervenção de 
+faixa adicional no ano “t,” conforme o item 4.4. 
+EXTFA,t,C é a extensão de intervenção em faixa adicional no sentido crescente no ano “t”. 
+EXTFA,t,D é a extensão de intervenção em faixa adicional no sentido decrescente no ano “t”. 
+ 
+4.8. Validade e Atualização Tarifária 
+4.8.1. Preservação das TARIFAS e atualização monetária do CONTRATO 
+4.8.1.1. 
+Os valores das TARIFAS DE PEDÁGIO e o valor monetário do CONTRATO 
+deverão ser preservados pelas regras de reajuste e de revisão previstas neste ANEXO 
+e no CONTRATO. 
+4.8.1.2. 
+Os valores das TARIFAS QUILOMÉTRICAS deverão ser ajustados, utilizando-se 
+a fórmula e os procedimentos explicitados a seguir. 
+FÓRMULA 2: 
+Para o primeiro ano contratual, a TARIFA QUILOMÉTRICA será atualizada por meio da seguinte fórmula: 
+𝐓𝐐𝟎 = 𝐓𝐐 março/2024 × 𝐈𝐏𝐂𝐀𝟎⁄ 
+março/2024 
+Onde, 
+TQ0 é a TARIFA QUILOMÉTRICA no primeiro ano contratual. 
+TQmarço/2024 é a TARIFA QUILOMÉTRICA base em março/2024, conforme disposto no item 4.2. 
+IPCA0 é o número índice1 do IPCA do segundo mês anterior à DATA DE ASSINATURA DO CONTRATO. 
+IPCA março/2024 é o número índice¹ do IPCA referente a março/2024. 
+FÓRMULA 3: 
+A TARIFA QUILOMÉTRICA será reajustada por meio da seguinte fórmula, sendo o primeiro reajuste 
+realizado a partir do segundo ano contratual, e os demais realizados anualmente, a partir da data do 
+reajuste anterior, sem prejuízo da possibilidade de redução desse prazo, nos termos do inciso III do §3º 
+𝐈𝐏𝐂𝐀 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 9
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 10 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+e §5º do artigo 28, conjugados com o §1º do artigo 70 da Lei nº 9.069, de 29 de junho de 1995, ou de 
+ampliação do mesmo prazo, por força de instituto legal superveniente: 
+𝐓𝐐𝐭 = 𝐓𝐐 março/2024 × 𝐈𝐏𝐂𝐀𝐭⁄ 
+março/2024 
+Onde, 
+TQt é a TARIFA QUILOMÉTRICA de pedágio no ano contratual “t”. 
+TQ março/2024 é a tarifa quilométrica base em março/2024, conforme disposto no item 4.2. 
+IPCAt é o número índice1 do IPCA do segundo mês anterior à data de reajuste no ano contratual “t”. 
+IPCA março/2024 é o número índice2 do IPCA referente a março/2024. 
+ 
+4.9. Incidência de Coeficiente de Desempenho dos Serviços Prestados 
+4.9.1. A RECEITA TARIFÁRIA DEVIDA deverá considerar a TARIFA DEVIDA, que será calculada 
+de acordo com a Fórmula 4 deste ANEXO. No primeiro ano contratual, a TARIFA DEVIDA 
+será igual à TARIFA DE PEDÁGIO. 
+4.9.2. A RECEITA TARIFÁRIA DEVIDA à CONCESSIONÁRIA levará em consideração a incidência 
+do ÍNDICE DE QUALIDADE E DESEMPENHO (IQD), composto pelo COEFICIENTE DE 
+DESEMPENHO DOS SERVIÇOS PRESTADOS (CSP) previsto no ANEXO 3. 
+FÓRMULA 4: 
+𝐓B𝐃𝐏𝐭 = (𝟎, 𝟗𝟎 + 𝟎, 𝟏𝟎 𝐈𝐐𝐃) × 𝐓B𝐏𝐭 
+𝐓𝐃𝐏𝐭 = 𝐓B𝐃𝐏𝐭× 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐢𝐜𝐚𝐝𝐨𝐫 
+Onde, 
+TBDPt é a TARIFA BÁSICA DEVIDA, reajustada para o ano t do CONTRATO, com duas casas decimais. 
+IQD é o ÍNDICE DE QUALIDADE E DESEMPENHO (IQD), composto pelo COEFICIENTE DE 
+DESEMPENHO DOS SERVIÇOS PRESTADOS (CSP) previsto no ANEXO 3. 
+TDPt é a TARIFA DEVIDA, para cada categoria conforme disposto no item 4.6. 
+Multiplicador é o valor estipulado para cada categoria, conforme disposto no item 4.6. 
+4.9.3. Os valores pagos pelos USUÁRIOS a título de TARIFA DE PEDÁGIO, que compõem a 
+RECEITA TARIFÁRIA BRUTA, deverão ser depositados na CONTA BANCÁRIA 
+CENTRALIZADORA. O processamento dos recursos transitados pela CONTA BANCÁRIA 
+CENTRALIZADORA está regrado conforme a minuta que figura como APÊNDICE D. 
+4.9.4. A aplicação do ÍNDICE DE QUALIDADE E DESEMPENHO (IQD) poderá ser revista a pedido 
+da CONCESSIONÁRIA, em processo administrativo próprio, visando a comprovar que os 
+índices referentes ao IQD foram impactados pela materialização de algum risco assumido 
+pelo PODER CONCEDENTE ou pela ocorrência de erros na apuração dos referidos índices, 
+ 
+1 Dezembro de 93 = 100 
+2 Dezembro de 93 = 100 
+𝐈𝐏𝐂𝐀 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 10
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 11 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+conforme regramento do CONTRATO. 
+4.9.5. A instauração de processo administrativo com base na disposição acima não suspende a 
+apuração e aplicação dos valores referentes ao IQD para o respectivo ano contratual. Diante 
+de eventual confirmação de que os índices referentes ao IQD foram impactados pela 
+materialização de algum risco assumido pelo PODER CONCEDENTE ou pela ocorrência de 
+erros na apuração dos referidos índices, conforme regramento do CONTRATO, passará a 
+ser aplicado o IQD correto, assegurada a compensação retroativa dos descontos aplicados. 
+4.10. 
+Saldo em Favor da Concessão 
+4.10.1. O SALDO EM FAVOR DA CONCESSÃO será calculado de acordo com a seguinte 
+fórmula: 
+SRPCd = ∑ RTB − RTD 
+Onde: 
+SRPCd é o SALDO EM FAVOR DA CONCESSÃO calculado no dia d.  
+RTB é a RECEITA TARIFÁRIA BRUTA, conforme disposto no item 4.7. 
+RTD é a RECEITA TARIFÁRIA DEVIDA, conforme disposto no item 4.9. 
+4.10.2. O SALDO EM FAVOR DA CONCESSÃO deverá ser apurado na forma que restar definido, 
+conforme disposto no APÊNDICE D, e o valor resultante transferido, pelo BANCO 
+DEPOSITÁRIO, da CONTA BANCÁRIA CENTRALIZADORA para a CONTA DE AJUSTE 
+DA CONCESSÃO, nos termos do APÊNDICE D. 
+4.10.3. Ao final de cada ano contratual, em até 30 dias, serão apurados, pela CONCESSIONÁRIA, 
+os valores finais de SALDO EM FAVOR DA CONCESSÃO. Caso haja diferença entre os 
+valores depositados na CONTA DE AJUSTE DA CONCESSÃO naquele ano e o SALDO EM 
+FAVOR DA CONCESSÃO final calculado para o mesmo ano: 
+i. 
+se positiva, a ARTESP deverá, em até 5 (cinco) dias úteis, transferir o valor excedente 
+para a CONTA DE LIVRE MOVIMENTAÇÃO da CONCESSIONÁRIA; e 
+ii. 
+se negativa, a CONCESSIONÁRIA deverá, em até 5 (cinco) dias úteis, transferir o valor 
+faltante para a CONTA DE AJUSTE DA CONCESSÃO. 
+4.11. 
+Aprovação das Tarifas 
+4.11.1. Os cálculos dos valores atualizados da TARIFA QUILOMÉTRICA e da TARIFA DEVIDA 
+serão elaborados pela CONCESSIONÁRIA em conformidade com a metodologia 
+especificada neste ANEXO e apresentados à apreciação da ARTESP, para verificação de 
+consistência. 
+4.11.2. No caso de atraso na requalificação ou reajuste tarifários, a recomposição do equilíbrio do 
+CONTRATO será realizada preferencialmente mediante utilização de recursos disponíveis 
+na CONTA DE AJUSTE DA CONCESSÃO. 
+4.12. 
+Alteração do Índice de Atualização Monetária Contratual 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 11
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 12 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+4.12.1. Na ausência do índice selecionado para cálculo de reajuste, a ARTESP e a 
+CONCESSIONÁRIA, de comum acordo, escolherão outro índice que melhor reflita a variação 
+indicada atualmente pelo IPCA. 
+4.13. 
+Isenções, privilégios tarifários, promoções e descontos 
+4.13.1. Desconto de Usuário Frequente 
+4.13.2. Os USUÁRIOS que optarem pelo Sistema de Cobrança Eletrônica (AVI) e trafegarem em 
+veículos da Categoria 1, 7 e 8 no SISTEMA RODOVIÁRIO terão direito ao DESCONTO DO 
+USUÁRIO FREQUENTE, de acordo com a quantidade de passagens realizadas no mesmo 
+PÓRTICO ou PRAÇA DE PEDÁGIO, no mesmo sentido de fluxo e dentro de um mesmo mês 
+calendário. 
+4.13.3.  O DESCONTO DO USUÁRIO FREQUENTE incidirá sobre a TARIFA DE PEDÁGIO de 
+cada PÓRTICO ou PRAÇA DE PEDÁGIO da seguinte forma: 
+(i) 
+A partir da 11ª passagem no mesmo PÓRTICO ou PRAÇA DE PEDÁGIO, no 
+mesmo sentido de fluxo e dentro de um mesmo mês calendário será aplicado um 
+desconto de 10% (dez por cento). 
+(ii) 
+A partir da 21ª passagem no mesmo PÓRTICO ou PRAÇA DE PEDÁGIO, no 
+mesmo sentido de fluxo e dentro de um mesmo mês calendário será aplicado um 
+desconto de 20% (vinte por cento). 
+4.13.4. O DESCONTO DO USUÁRIO FREQUENTE será aplicável a todos os PÓRTICOS ou 
+PRAÇA DE PEDÁGIO até o fim da vigência do CONTRATO.  
+4.13.5. O USUÁRIO do SISTEMA AUTOMÁTICO LIVRE que não optar pela utilização do AVI e 
+realizar o pagamento via PLATAFORMA, nos termos do ANEXO 20, não terá direito ao 
+benefício do DUF. 
+4.13.6. A CONCESSIONÁRIA deverá apurar, durante o prazo da CONCESSÃO, a perda de 
+receita decorrente do DUF, que consiste no somatório da diferença entre (i) os valores que 
+seriam auferidos pela CONCESSIONÁRIA por meio da cobrança dos USUÁRIOS 
+beneficiados pelo DUF da tarifa aplicável à cobrança AVI para veículos da Categoria 1,7 e 8  
+e (ii) os valores efetivamente auferidos de Tarifas pagas pelos USUÁRIOS beneficiados pelo 
+DUF. 
+4.13.7. Para fins de cálculo da perda de receita decorrente da incidência do DUF, considera-se a 
+RECEITA TARIFÁRIA BRUTA, e não a RECEITA TARIFÁRIA DEVIDA. 
+4.13.8. Até o 5º dia útil de cada mês, a CONCESSIONÁRIA deverá apurar o DUF acumulado no 
+mês anterior e enviar os relatórios e demonstrativos pertinentes à ARTESP. 
+4.13.9. Trimestralmente, a ARTESP deverá consolidar os valores relativos à perda de receita, 
+para fins de pagamento da COMPENSAÇÃO DUF. 
+4.13.10. 
+A COMPENSAÇÃO DUF será paga nos termos do APÊNDICE D. 
+4.14. 
+Isenções 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 12
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 13 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+4.14.1. Terão trânsito livre e ficam, portanto, isentos do pagamento de TARIFA DE PEDÁGIO os 
+veículos: 
+i. 
+de propriedade do PODER CONCEDENTE e da ARTESP; 
+ii. 
+de uso do Comando de Policiamento Rodoviário da Polícia Militar do Estado de São 
+Paulo; 
+iii. 
+de atendimento público de emergência, tais como, do corpo de bombeiros e 
+ambulâncias, quando em serviço; 
+iv. 
+das forças militares, quando em instrução ou manobra; 
+v. 
+que se enquadrem na categoria de motocicleta, motoneta e bicicleta a motor; e 
+vi. 
+de categoria oficial, integrantes da frota dos Poderes Executivo, Legislativo, Judiciário 
+e do Ministério Público e da Defensoria Pública, todos do Estado de São Paulo, bem 
+como os locados em caráter não eventual, para utilização em serviço público 
+permanente ou de longa duração desde que cadastrados no Grupo Central de 
+Transportes Internos (GCTI), do Estado de São Paulo, devendo todos ser 
+credenciados pela ARTESP, na forma regulamentada. 
+4.14.2. Caberá à CONCESSIONÁRIA tomar as medidas necessárias para a implementação das 
+isenções no âmbito do SISTEMA AUTOMÁTICO LIVRE. 
+4.15. 
+Privilégios Tarifários Específicos 
+4.15.1. É vedado à ARTESP ou ao PODER CONCEDENTE estabelecer privilégios tarifários que 
+beneficiem segmentos específicos de USUÁRIOS, exceto se (i) no cumprimento de lei, 
+preservando-se o equilíbrio econômico-financeiro do CONTRATO, ou (ii) previamente 
+autorizado pela ARTESP, no contexto de Plano de Tarifas Variáveis. 
+4.16. 
+Promoções e Descontos 
+4.16.1. A CONCESSIONÁRIA, a seu único critério, por sua conta e risco, poderá conceder 
+isenções e descontos tarifários, bem como realizar promoções tarifárias de caráter sazonal, 
+não relacionado a Plano de Tarifa Variável, sem que isso possa gerar qualquer direito à 
+recomposição do equilíbrio econômico-financeiro do CONTRATO. Nessa hipótese, para 
+apuração da TARIFA DEVIDA e cálculo das Fórmulas 4 e 5 será considerado o respectivo 
+desconto ou isenção praticados. 
+5. CRITÉRIO DE ARREDONDAMENTO 
+5.1. A TARIFA BÁSICA DE PEDÁGIO será expressa em reais e centavos, sendo arredondada 
+mediante a aplicação do seguinte critério: 
+i. 
+quando o algarismo na casa dos centavos for menor ou igual a 5 (cinco), substituir-se-á 
+por 0 (zero); e 
+ii. 
+quando o algarismo na casa dos centavos for superior a 5 (cinco), substituir-se-á por 0 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 13
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 14 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+(zero) e aumentar-se a de 1 (um) o algarismo da casa das dezenas de centavos. 
+5.2. Para a definição das TARIFAS BÁSICAS DE PEDÁGIO do AVI e do SISTEMA AUTOMÁTICO 
+LIVRE, deverão ser desconsideradas as casas além dos centavos e, em seguida, não deve ser 
+efetuado nenhum arredondamento. 
+6. CONTROLE E OPERAÇÃO DAS PRAÇAS DE PEDÁGIO 
+6.1. Responsabilidades da Concessionária 
+6.1. A CONCESSIONÁRIA responderá pelo controle do Sistema de Controle e Arrecadação de 
+Pedágio e operação de tráfego na área das PRAÇAS DE PEDÁGIO, cabendo-lhe: 
+i. 
+Manter placas informativas com valores atualizados das TARIFAS e das pistas de 
+rolamento com cobrança automática, realizando a sinalização nos termos da 
+regulamentação aplicável; 
+ii. 
+Sinalizar as pistas; 
+iii. 
+Controlar a abertura e o fechamento de pistas e cabines; 
+iv. 
+Fiscalizar a arrecadação; 
+v. 
+Garantir a segurança da circulação de valores e sua transferência para a 
+sede da CONCESSIONÁRIA, ou banco; 
+vi. 
+Elaborar mapas estatísticos de tráfego e receita; 
+vii. 
+Registrar as ocorrências principais e mais significativas; 
+viii. 
+Controlar e manter vigilância sobre os equipamentos, adotando os meios e recursos que 
+considere apropriados para tal; 
+ix. 
+Controlar a arrecadação e o recolhimento de numerário por cabine, por turno de trabalho 
+e por agente arrecadador; 
+x. 
+Prestar atendimento ao USUÁRIO; 
+xi. 
+Garantir o cumprimento das NORMAS OPERACIONAIS aprovadas pela ARTESP; 
+xii. 
+Disponibilizar as seguintes informações de registros físicos e financeiros de tráfego 
+registrado nas PRAÇAS DE PEDÁGIOS, em tempo real (on-line) por meio eletrônico, para 
+a ARTESP ou a quem ela designar, nos três níveis de registro, a saber: 
+a. 
+Informação física do registro da passagem do veículo quando da ocorrência do 
+sensor de pista; 
+b. 
+Informação do registro das imagens das câmeras instaladas nas praças de 
+pedágio e informação do registro físico de tráfego; 
+c. 
+Registro financeiro de arrecadação correspondente gerado pelo operador da 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 14
+
+
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO 
+R. Iguatemi, 105. Itaim Bibi. São Paulo. SP. CEP: 01451-011. FONE/FAX/ (11) 3465-2000 
+Folha 15 de 15 
+ 
+ 
+  
+ 
+  
+  
+ 
+cabine de pedágio; 
+xiii. 
+Permitir a integração das informações com o CCI da ARTESP, conforme os termos 
+estabelecidos no EDITAL e nos ANEXOS. 
+6.2. Normas Operacionais 
+6.1.1. A CONCESSIONÁRIA deverá, no âmbito do PROGRAMA INTENSIVO INICIAL, apresentar 
+à ARTESP, para aprovação, as NORMAS OPERACIONAIS que estabelecerão as instruções 
+para os procedimentos de rotina e para casos excepcionais, como uso de pista livre, tráfego 
+de cargas especiais, evasões, cancelamento de registros indevidos, troco abandonado, falta 
+de dinheiro do USUÁRIO no momento do pagamento, acidentes e outros. 
+ 
+Anexo 04 - Estrutura Tarifária (0059807483)         SEI 134.00005927/2024-51 / pg. 15

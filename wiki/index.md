@@ -50,6 +50,7 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[desapropriacoes-nova-raposo]] — desapropriações/DUPs: prazos, custos e trechos
 - [[indicadores-de-desempenho]] — IQD/CSP e vinculação à tarifa
 - [[penalidades-contratuais]] — multas por grupo/nível (Anexo 11)
+- [[anexos-e-apendices-contrato]] — demais anexos/apêndices (risco de demanda, transição, passivos, níveis de serviço)
 - [[atores-institucionais]] — ARTESP, EcoRodovias, BNDES, IFC, Arcadis, ALESP, MPSP
 - [[edital-lote-1]] — Concorrência Internacional 02/2024, R$ 7,35 bi
 - [[estrutura-tarifaria]] — 13 pórticos free flow bidirecionais, R$ 0,1477/km

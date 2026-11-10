@@ -2,7 +2,7 @@
 import re
 from pathlib import Path
 
-WIKI = Path("wiki")
+WIKI = Path("mnrn")
 files = {p.stem for p in WIKI.rglob("*.md")}
 
 link_re = re.compile(r"\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]")

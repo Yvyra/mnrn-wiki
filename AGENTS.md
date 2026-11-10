@@ -2,7 +2,7 @@
 
 Knowledge wiki about the **Movimento Nova Raposo, NÃO! (MNRN)**, a social movement opposing the 30-year private concession of Rodovia Raposo Tavares (SP-270 + SP-280 + SP-029) in São Paulo. Follows the Andrej Karpathy "LLM Wiki" pattern: short interlinked pages connected by `[[wikilinks]]`, built from primary sources in `raw/`.
 
-This is primarily a **documentation repository**: `raw/` + `wiki/` are Markdown/PDF content written in Brazilian Portuguese (pt-BR). A small `uv`-managed Python environment exists for ingestion/analysis scripts (to live in `scripts/`). Git repo on branch `main` (remote `Yvyra/mnrn-wiki`, SSH via alias `github.com-yvyra`).
+This is primarily a **documentation repository**: `raw/` + `mnrn/` are Markdown/PDF content written in Brazilian Portuguese (pt-BR). A small `uv`-managed Python environment exists for ingestion/analysis scripts (to live in `scripts/`). Git repo on branch `main` (remote `Yvyra/mnrn-wiki`, SSH via alias `github.com-yvyra`).
 
 `contexto_mnrn_wiki.md` is the operational playbook of this project — read it before doing any ingestion work. This file distills it; on conflict, `contexto_mnrn_wiki.md` wins.
 
@@ -11,7 +11,7 @@ This is primarily a **documentation repository**: `raw/` + `wiki/` are Markdown/
 ```
 raw/              Immutable primary sources (PDFs, press clippings). Never modified.
   descartes/      Quarantine for unreadable files
-wiki/             Markdown pages maintained by the AI agent
+mnrn/             Markdown pages maintained by the AI agent
   index.md        Master index: ingested sources + page directory
   log.md          Append-only operations log (one entry per ingestion session)
   linha-tempo.md  Chronology of events
@@ -24,7 +24,7 @@ pyproject.toml          uv manifest (Python deps); .python-version pins CPython 
 .codewhale/             Agent tool state — ignore, never edit
 ```
 
-Planned (not yet created) subdirectories per the playbook: `wiki/legislacao/` (analyses of laws), `wiki/projetos/` (bill analyses), `wiki/assets/grafos/` (interactive HTML graphs).
+Planned (not yet created) subdirectories per the playbook: `mnrn/legislacao/` (analyses of laws), `mnrn/projetos/` (bill analyses), `mnrn/assets/grafos/` (interactive HTML graphs).
 
 ## Core Rules (non-negotiable)
 
@@ -41,11 +41,11 @@ Triggered when the user adds a file to `raw/` or provides a URL of an official l
 1. Read the whole source (OCR if it is a scanned PDF).
 2. Map citations to other norms; follow each citation to reasonable depth (avoid infinite loops).
 3. Track the validity of each cited norm on official portals: Prefeitura de SP (https://legislacao.prefeitura.sp.gov.br/), ALESP (https://www.al.sp.gov.br/norma/pesquisa), Planalto (https://legislacao.presidencia.gov.br/). Adapt portals for other jurisdictions.
-4. Create the summary page. Current law → `wiki/legislacao/`; bill → `wiki/projetos/`.
+4. Create the summary page. Current law → `mnrn/legislacao/`; bill → `mnrn/projetos/`.
 5. Apply AIL and axis bifurcation.
 6. Create or update one concept page per important entity.
-7. Generate a Mermaid diagram at the end of the analysis. For dense normative webs, also generate an interactive d3blocks graph — save as `wiki/assets/grafos/<page-name>.htm` (extension `.htm`, NOT `.html` — Quartz strips `.html` from files under `content/`, breaking the embed) and embed via `<iframe src="assets/grafos/<page-name>.htm" width="100%" height="600px" frameborder="0">` (adjust `../` for page depth). Do not use other-language code blocks (e.g. Cypher) as visualization.
-8. Update the four registry files: `wiki/index.md`, `wiki/log.md`, `wiki/linha-tempo.md`, `wiki/noticias-relacionadas.md`.
+7. Generate a Mermaid diagram at the end of the analysis. For dense normative webs, also generate an interactive d3blocks graph — save as `mnrn/assets/grafos/<page-name>.htm` (extension `.htm`, NOT `.html` — Quartz strips `.html` from files under `content/`, breaking the embed) and embed via `<iframe src="assets/grafos/<page-name>.htm" width="100%" height="600px" frameborder="0">` (adjust `../` for page depth). Do not use other-language code blocks (e.g. Cypher) as visualization.
+8. Update the four registry files: `mnrn/index.md`, `mnrn/log.md`, `mnrn/linha-tempo.md`, `mnrn/noticias-relacionadas.md`.
 
 ## Page Format
 
@@ -87,7 +87,7 @@ For legislative analyses (laws and bills), add these sections:
 
 ## Answering Questions
 
-1. Read `wiki/index.md` to find relevant pages.
+1. Read `mnrn/index.md` to find relevant pages.
 2. Read those pages and synthesize the answer.
 3. Cite the specific wiki pages used.
 4. If the answer is not in the wiki, say so clearly.
@@ -112,30 +112,30 @@ Wiki content has no build/test/lint. An isolated `uv` environment is provided fo
 - Add a dependency: `uv add <package>` (commit `pyproject.toml` + `uv.lock`)
 - Installed (2026-09-11): `pymupdf`, `pdfplumber`, `pandas`, `openpyxl`
 
-Verification for this repo means: format-check edited pages against the templates above, confirm the four registry files were updated, and check that every `[[wikilink]]` target resolves to an existing `wiki/*.md` filename.
+Verification for this repo means: format-check edited pages against the templates above, confirm the four registry files were updated, and check that every `[[wikilink]]` target resolves to an existing `mnrn/*.md` filename.
 
 ## Quartz Site (build & preview)
 
-The site is built with Quartz v5, integrated in-repo (`quartz/` code, `quartz.config.yaml`). Content source is `wiki/` — do not create a `content/` dir.
+The site is built with Quartz v5, integrated in-repo (`quartz/` code, `quartz.config.yaml`). Content source is `mnrn/` — do not create a `content/` dir.
 
 - Install deps (once): `npm install`
-- Build static site: `npx quartz build -d wiki` → output `public/` (git-ignored)
-- Live preview: `npx quartz build -d wiki --serve` → http://localhost:8080
+- Build static site: `npx quartz build -d mnrn` → output `public/` (git-ignored)
+- Live preview: `npx quartz build -d mnrn --serve` → http://localhost:8080
 - `baseUrl` is `yvyra.github.io/mnrn-wiki`; `public/` and `node_modules/` are git-ignored.
 
-`wiki/log.md` and `wiki/grandes-arquivos-pendentes.md` are excluded from the site via `ignorePatterns` in `quartz.config.yaml` (not just git-ignored).
+`mnrn/log.md` and `mnrn/grandes-arquivos-pendentes.md` are excluded from the site via `ignorePatterns` in `quartz.config.yaml` (not just git-ignored).
 
 ## Tips for AI Agents
 
-- **Path drift**: `wiki/log.md` and `wiki/grandes-arquivos-pendentes.md` reference `raw/fila/`, which no longer exists — all files now sit at the `raw/` root. Trust `Get-ChildItem raw` over historical log entries.
+- **Path drift**: `mnrn/log.md` and `mnrn/grandes-arquivos-pendentes.md` reference `raw/fila/`, which no longer exists — all files now sit at the `raw/` root. Trust `Get-ChildItem raw` over historical log entries.
 - **Filenames in `raw/` contain spaces and accented characters** (e.g. `2024 09 NFMA D06b_LOTE 1 - Anexo 04 - Estrutura Tarif†ria.pdf`). Always quote paths in shell commands.
-- **Huge PDFs**: the ACP is ~127 MB; the Parecer CAEX ~13.7 MB. Process large documents one per session, reading by page ranges. `wiki/grandes-arquivos-pendentes.md` tracks what remains unprocessed, with priority order and per-file strategies — consult it before starting a new ingestion.
-- **Wikilink targets are kebab-case filenames** (`[[impactos-ambientais]]` → `wiki/impactos-ambientais.md`). A link whose target has no matching file is an audit finding.
+- **Huge PDFs**: the ACP is ~127 MB; the Parecer CAEX ~13.7 MB. Process large documents one per session, reading by page ranges. `mnrn/grandes-arquivos-pendentes.md` tracks what remains unprocessed, with priority order and per-file strategies — consult it before starting a new ingestion.
+- **Wikilink targets are kebab-case filenames** (`[[impactos-ambientais]]` → `mnrn/impactos-ambientais.md`). A link whose target has no matching file is an audit finding.
 - **Wikilink with alias syntax** is used: `[[movimento-de-resistencia|MNRN]]`.
 - **Update registries together**: a new page is not "done" until `index.md`, `log.md`, and (when applicable) `linha-tempo.md` / `noticias-relacionadas.md` are updated.
-- **`wiki/log.md` is append-only**: add a new dated entry at the top; never rewrite history.
+- **`mnrn/log.md` is append-only**: add a new dated entry at the top; never rewrite history.
 - **Planned skills** (`ingestao-wiki-legislativo`, `pesquisa-legislacao`, `gerador-diagrama-drawio`, `gerador-mapa-interativo-d3blocks`) are described in `contexto_mnrn_wiki.md` but not yet present as `.claude/skills/*/SKILL.md` files. Follow the playbook's prose flow directly until they exist.
 - **Dates** in pages use `YYYY-MM-DD`; registry tables use `YYYY-MM-DD` for ingestion dates.
 - **Shell**: this machine runs PowerShell — use PowerShell syntax, not bash.
 - **PyMuPDF**: use `import pymupdf`, not `import fitz` — the `fitz` alias is deprecated and warns on 1.28+.
-- **Keep scripts out of `raw/` and `wiki/`**: automation lives in `scripts/` (created as needed); `raw/` stays source-only and `wiki/` stays content-only.
+- **Keep scripts out of `raw/` and `mnrn/`**: automation lives in `scripts/` (created as needed); `raw/` stays source-only and `mnrn/` stays content-only.

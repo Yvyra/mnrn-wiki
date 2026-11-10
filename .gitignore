@@ -33,3 +33,4 @@ public/
 
 # Local tooling state
 .DS_Store
+.obsidian/

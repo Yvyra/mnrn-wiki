@@ -46,6 +46,7 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 ### O Projeto Contestado
 - [[projeto-nova-raposo]] — Concessão SP-270 + SP-280 + SP-029, 30 anos, EcoRodovias
 - [[contrato-concessao-nova-raposo]] — Contrato 0548/ARTESP/2025: estrutura, anexos e apêndices
+- [[prazos-e-obrigacoes-contratuais]] — prazos de obras/projetos/pareceres e obrigações (DUPs)
 - [[atores-institucionais]] — ARTESP, EcoRodovias, BNDES, IFC, Arcadis, ALESP, MPSP
 - [[edital-lote-1]] — Concorrência Internacional 02/2024, R$ 7,35 bi
 - [[estrutura-tarifaria]] — 13 pórticos free flow bidirecionais, R$ 0,1477/km

@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nova Raposo: efeitos sobre a cidade de São Paulo — CET</title>
+<style>
+  :root{
+    --nrn-red:#ed1c24;
+    --nrn-orange:#f90;
+    --ink:#1b1b1b;
+    --muted:#5f6368;
+    --bg:#fafafa;
+    --card:#ffffff;
+    --line:#e6e6e6;
+    --soft-red:#fdeaea;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:#e9e9e9;color:var(--ink);
+    display:flex;flex-direction:column;overflow:hidden;
+  }
+  .deck{flex:1;position:relative;display:flex;align-items:center;justify-content:center}
+  .slide{
+    display:none;width:min(1200px,94vw);height:min(760px,92vh);
+    background:var(--bg);border-radius:14px;box-shadow:0 20px 60px rgba(0,0,0,.25);
+    padding:48px 60px;flex-direction:column;position:relative;overflow:hidden;
+  }
+  .slide.active{display:flex}
+  .slide::after{
+    content:"";position:absolute;left:0;top:0;bottom:0;width:8px;
+    background:linear-gradient(var(--nrn-red),var(--nrn-orange));
+  }
+  /* cabeçalho */
+  .hd{display:flex;align-items:center;gap:14px;margin-bottom:22px}
+  .hd .logo{width:46px;height:46px;flex:none}
+  .hd .brand{font-weight:800;letter-spacing:.5px;color:var(--nrn-red);font-size:15px;line-height:1.1}
+  .hd .brand span{display:block;color:var(--muted);font-weight:600;font-size:11.5px}
+  .hd .spacer{flex:1}
+  .hd .kicker{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1.2px}
+  .body{flex:1;display:flex;flex-direction:column;gap:16px;min-height:0}
+  h1{font-size:34px;line-height:1.1;letter-spacing:-.5px}
+  h2{font-size:27px;line-height:1.15;color:var(--nrn-red);letter-spacing:-.3px}
+  h3{font-size:16px;color:var(--ink);margin-bottom:6px}
+  p{font-size:15.5px;line-height:1.5;color:var(--ink)}
+  .lead{font-size:18px;color:var(--ink);line-height:1.45}
+  .muted{color:var(--muted)}
+  .small{font-size:12.5px;color:var(--muted)}
+  ul{list-style:none;display:flex;flex-direction:column;gap:8px}
+  ul li{font-size:15px;line-height:1.42;padding-left:18px;position:relative}
+  ul li::before{content:"";position:absolute;left:0;top:8px;width:8px;height:8px;border-radius:2px;background:var(--nrn-red)}
+  ul.orange li::before{background:var(--nrn-orange)}
+  .grid{display:grid;gap:12px}
+  .g2{grid-template-columns:1fr 1fr}.g3{grid-template-columns:1fr 1fr 1fr}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+  .card h3{font-size:14px;color:var(--nrn-red);text-transform:uppercase;letter-spacing:.4px}
+  .num{font-size:30px;font-weight:800;color:var(--ink);letter-spacing:-1px}
+  .num b{color:var(--nrn-red)}
+  .num small{font-size:13px;color:var(--muted);font-weight:600;letter-spacing:0}
+  .chain{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-weight:700;font-size:14.5px}
+  .chain .n{background:var(--soft-red);color:var(--nrn-red);padding:8px 12px;border-radius:8px}
+  .chain .arr{color:var(--nrn-orange);font-weight:900}
+  table{width:100%;border-collapse:collapse;font-size:13.5px}
+  th,td{padding:7px 9px;text-align:left;border-bottom:1px solid var(--line)}
+  th{color:var(--nrn-red);text-transform:uppercase;font-size:11.5px;letter-spacing:.4px;border-bottom:2px solid var(--nrn-red)}
+  td b{color:var(--nrn-red)}
+  .foot{margin-top:auto;padding-top:14px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);display:flex;gap:8px;align-items:center}
+  .foot .src{font-weight:600;color:var(--ink)}
+  .cover{background:linear-gradient(135deg,#fff 55%,var(--soft-red) 100%)}
+  .cover .big{width:190px;height:190px;margin:0 auto 18px;display:block}
+  .cover h1{font-size:44px;text-align:center;letter-spacing:-1px}
+  .cover .sub{font-size:19px;text-align:center;color:var(--muted);margin-top:12px;font-weight:600}
+  .cover .meta{margin-top:auto;text-align:center;color:var(--muted);font-size:13px}
+  /* navegação */
+  .nav{display:flex;align-items:center;justify-content:center;gap:16px;padding:12px}
+  .nav button{
+    border:none;background:var(--nrn-red);color:#fff;font-size:18px;width:44px;height:44px;
+    border-radius:10px;cursor:pointer;font-weight:800;transition:.15s;
+  }
+  .nav button:hover{background:#c8121a}
+  .nav button:disabled{background:#d9d9d9;cursor:default}
+  .nav .count{font-size:13px;color:var(--muted);min-width:64px;text-align:center;font-weight:600}
+  .nav .dots{display:flex;gap:5px}
+  .nav .dots i{width:8px;height:8px;border-radius:50%;background:#ccc;display:block}
+  .nav .dots i.on{background:var(--nrn-red)}
+  .hint{text-align:center;font-size:11px;color:#aaa;padding-bottom:4px}
+  @media (max-width:760px){
+    .slide{padding:28px 26px;height:auto;min-height:88vh}
+    h1{font-size:27px}.cover h1{font-size:30px}
+    .g2,.g3{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute">
+  <symbol id="nrn" viewBox="0 0 800 800">
+<defs><style>.cls-1,.cls-2{fill:#fff;}.cls-2{stroke:#ed1c24;stroke-miterlimit:10;stroke-width:10px;}.cls-3{fill:none;}.cls-4{fill:#ed1c24;}.cls-5{fill:#f90;}</style></defs><g id="Layer_1-2"><g><rect class="cls-3" width="800" height="800"/><g><g><path class="cls-2" d="M468.71,143.12h-187.95c-2.26,0-4.43,.9-6.02,2.49l-132.9,132.9c-1.6,1.6-2.49,3.76-2.49,6.02v187.95c0,2.26,.9,4.43,2.49,6.02l132.9,132.9c1.6,1.6,3.76,2.49,6.02,2.49h187.95c2.26,0,4.43-.9,6.02-2.49l132.9-132.9c1.6-1.6,2.49-3.76,2.49-6.02v-187.95c0-2.26-.9-4.43-2.49-6.02l-132.9-132.9c-1.6-1.6-3.76-2.49-6.02-2.49Z"/><path class="cls-4" d="M458.9,167.71h-168.32c-2.02,0-3.96,.8-5.39,2.23l-119.02,119.02c-1.43,1.43-2.23,3.37-2.23,5.39v168.32c0,2.02,.8,3.96,2.23,5.39l119.02,119.02c1.43,1.43,3.37,2.23,5.39,2.23h168.32c2.02,0,3.96-.8,5.39-2.23l119.02-119.02c1.43-1.43,2.23-3.37,2.23-5.39v-168.32c0-2.02-.8-3.96-2.23-5.39l-119.02-119.02c-1.43-1.43-3.37-2.23-5.39-2.23Z"/></g><g><path class="cls-1" d="M215.34,493.24v-112h43.68l34.56,68.64-2.72,.8v-69.44h34.08v112h-41.44l-36.96-70.88,2.88-.96v71.84h-34.08Z"/><path class="cls-1" d="M323.18,493.24l33.28-112h50.4l33.76,112h-38.08l-23.36-89.44h4l-22.56,89.44h-37.44Zm23.04-120.8c-.21-8.42,1.52-15.01,5.2-19.76,3.68-4.75,8.99-7.12,15.92-7.12,3.41,0,6.45,.4,9.12,1.2,2.67,.8,5.65,1.95,8.96,3.44,2.13,.96,3.92,1.68,5.36,2.16,1.44,.48,2.85,.72,4.24,.72,2.67,0,4.67-.5,6-1.52,1.33-1.01,1.89-2.43,1.68-4.24h16.32c.21,8.32-1.52,14.85-5.2,19.6-3.68,4.75-8.93,7.12-15.76,7.12-3.52,0-6.64-.4-9.36-1.2-2.72-.8-5.74-1.89-9.04-3.28-2.24-.96-4.03-1.68-5.36-2.16-1.33-.48-2.7-.72-4.08-.72-2.78,0-4.8,.48-6.08,1.44s-1.92,2.4-1.92,4.32h-16Zm4.64,103.52v-26.56h61.12v26.56h-61.12Z"/><path class="cls-1" d="M490.22,496.44c-11.63,0-22.03-2.46-31.2-7.36-9.17-4.91-16.32-11.81-21.44-20.72-5.12-8.91-7.68-19.23-7.68-30.96s2.56-21.79,7.68-30.8c5.12-9.01,12.27-16.03,21.44-21.04,9.17-5.01,19.57-7.52,31.2-7.52s22.18,2.51,31.36,7.52c9.17,5.01,16.32,12,21.44,20.96s7.68,19.25,7.68,30.88-2.56,22.05-7.68,30.96c-5.12,8.91-12.27,15.81-21.44,20.72-9.17,4.91-19.63,7.36-31.36,7.36Zm0-34.08c4.69,0,8.72-1.04,12.08-3.12,3.36-2.08,5.92-4.99,7.68-8.72,1.76-3.73,2.64-8,2.64-12.8s-.88-9.15-2.64-13.04c-1.76-3.89-4.32-6.96-7.68-9.2-3.36-2.24-7.39-3.36-12.08-3.36s-8.56,1.12-11.92,3.36c-3.36,2.24-5.92,5.31-7.68,9.2-1.76,3.89-2.64,8.24-2.64,13.04s.88,9.07,2.64,12.8c1.76,3.73,4.32,6.64,7.68,8.72,3.36,2.08,7.33,3.12,11.92,3.12Z"/></g><g><path class="cls-1" d="M212.59,351.48l-1.55,9.63-19.05-9.35,.88-5.47,19.73,5.19Zm1.92-11.91l-1.55,9.63-19.05-9.35,.88-5.47,19.73,5.19Z"/><path class="cls-1" d="M200.36,321.96l4.9-11.95,40.68,1.22-.15,1.93-35.8-14.68,3.2-7.81,42.69,17.51-4.35,10.61-42.71-.78,.36-1.56,37.08,15.21-3.2,7.81-42.69-17.51Z"/><path class="cls-1" d="M260.7,297.85c-3.23,1.04-6.72,1.03-10.47-.03-3.75-1.06-7.6-3.14-11.53-6.24-3.86-3.05-6.73-6.26-8.6-9.64-1.87-3.38-2.67-6.75-2.42-10.13,.26-3.38,1.58-6.58,3.98-9.62,2.39-3.04,5.2-5.06,8.41-6.08,3.21-1.02,6.69-1.01,10.42,.04,3.74,1.05,7.54,3.09,11.4,6.14,3.9,3.08,6.8,6.32,8.7,9.72,1.9,3.41,2.73,6.79,2.49,10.15-.25,3.36-1.56,6.56-3.96,9.6-2.4,3.04-5.21,5.07-8.43,6.11Zm3.4-15.91c-.11-1.63-.88-3.39-2.29-5.29-1.41-1.9-3.5-3.94-6.26-6.11-2.76-2.18-5.23-3.73-7.4-4.66-2.18-.93-4.08-1.27-5.71-1.02-1.63,.25-3.01,1.11-4.16,2.56s-1.66,3-1.54,4.66c.12,1.66,.88,3.44,2.3,5.34,1.41,1.9,3.5,3.94,6.26,6.11,2.76,2.18,5.23,3.73,7.4,4.66,2.18,.93,4.08,1.26,5.7,.97,1.62-.28,3.01-1.15,4.15-2.6s1.66-2.99,1.54-4.62Z"/><path class="cls-1" d="M251.08,240.91l8.55-6.39,30.61,26.08-1.11,.83-16.26-36.82,8.55-6.4,17.81,44.29-10.66,7.97-37.5-29.57Z"/><path class="cls-1" d="M297.02,210.84l12.23-5.28,29.17,37.66-9.68,4.18-6.35-8.89-10.77,4.65,2.11,10.72-9.26,4-7.45-47.04Zm21.39,21.78l-12.66-17.87,4.31,21.47,8.35-3.6Z"/><path class="cls-1" d="M355.52,193.81l16.47-.42c3.43-.09,6.31,.36,8.64,1.33,2.33,.97,4.09,2.4,5.28,4.28,1.19,1.88,1.82,4.16,1.89,6.84,.06,2.55-.4,4.75-1.38,6.6-.99,1.85-2.48,3.29-4.47,4.33-2,1.04-4.42,1.6-7.28,1.67l-3.03,.08,4.29-2.61,13.84,23.19-11.14,.28-13.27-24.06-.04-1.65,4.35-.11c2.85-.07,4.91-.64,6.15-1.71,1.25-1.06,1.84-2.74,1.79-5.02-.05-2.15-.69-3.71-1.9-4.67-1.21-.96-3.22-1.4-6.03-1.33l-4.02,.1,.98,38.75-9.95,.25-1.17-46.13Z"/><path class="cls-1" d="M409.99,196.58l12.97,3.01,1.12,47.63-10.27-2.39,.17-10.92-11.43-2.65-4.66,9.88-9.82-2.28,21.93-42.27Zm4.28,30.23l.42-21.9-9.28,19.84,8.86,2.06Z"/><path class="cls-1" d="M446.38,207.22l14.26,7.43c4.56,2.38,7.46,5.23,8.69,8.58,1.23,3.34,.83,6.96-1.2,10.86-1.28,2.46-2.93,4.32-4.96,5.59-2.03,1.27-4.46,1.83-7.29,1.66-2.84-.17-5.99-1.15-9.46-2.96l-6.25-3.26,3.17-6.08,5.26,2.74c2.57,1.34,4.7,1.82,6.39,1.43s3.06-1.59,4.11-3.62c1.06-2.03,1.3-3.77,.75-5.22-.56-1.45-2.06-2.82-4.52-4.1l-3.57-1.86-17.87,34.32-8.83-4.6,21.31-40.92Z"/><path class="cls-1" d="M460.85,266.85c-.8-3.29-.53-6.77,.8-10.44,1.33-3.67,3.69-7.35,7.07-11.04,3.32-3.63,6.74-6.25,10.24-7.87,3.5-1.62,6.93-2.17,10.28-1.67,3.35,.5,6.45,2.06,9.3,4.67,2.85,2.61,4.67,5.55,5.45,8.83,.78,3.28,.52,6.74-.8,10.39-1.32,3.65-3.63,7.29-6.96,10.92-3.35,3.66-6.8,6.32-10.33,7.97-3.54,1.65-6.97,2.23-10.3,1.74-3.33-.49-6.43-2.04-9.28-4.65-2.85-2.61-4.68-5.56-5.48-8.85Zm15.62,4.56c1.63,0,3.45-.63,5.44-1.9,2-1.27,4.18-3.2,6.55-5.8s4.1-4.94,5.19-7.04c1.09-2.1,1.56-3.97,1.43-5.62-.14-1.64-.88-3.09-2.25-4.33-1.36-1.25-2.88-1.87-4.54-1.88-1.66,0-3.5,.63-5.49,1.9-2,1.27-4.18,3.2-6.55,5.8-2.37,2.59-4.11,4.94-5.19,7.04-1.09,2.1-1.55,3.97-1.38,5.61,.17,1.64,.93,3.08,2.29,4.33,1.36,1.25,2.86,1.87,4.49,1.88Z"/><path class="cls-1" d="M485.09,294.18c-.65-2.64-.81-5.23-.47-7.76l7.89-5.16c-.61,2.92-.73,5.65-.36,8.19,.37,2.54,1.24,4.86,2.61,6.95,1.11,1.69,2.33,2.74,3.67,3.15,1.34,.41,2.69,.17,4.06-.72,.99-.65,1.7-1.48,2.12-2.49,.42-1.01,.54-2.24,.37-3.71-.02-.2-.04-.37-.06-.51s-.04-.32-.06-.51l-1.01-5.64c-.77-3.75-.74-6.83,.1-9.24,.84-2.41,2.56-4.47,5.18-6.18,2.13-1.39,4.36-2.15,6.67-2.27,2.31-.12,4.57,.45,6.79,1.71,2.21,1.26,4.2,3.23,5.95,5.91,1.56,2.39,2.6,4.68,3.11,6.87,.51,2.19,.64,4.25,.39,6.2l-7.39,4.83c.48-2,.57-4.06,.28-6.2-.3-2.14-1.13-4.26-2.5-6.36-1.2-1.84-2.45-2.95-3.75-3.33-1.3-.38-2.56-.18-3.77,.61-.96,.63-1.58,1.44-1.87,2.44-.29,1-.24,2.45,.16,4.34l.97,5.35c.79,3.63,.81,6.72,.03,9.27-.77,2.55-2.65,4.8-5.63,6.75-2.24,1.47-4.61,2.26-7.1,2.39-2.49,.13-4.87-.43-7.15-1.67-2.28-1.24-4.25-3.13-5.91-5.67-1.56-2.39-2.67-4.91-3.32-7.55Z"/><path class="cls-1" d="M502.64,321.75c.89-3.27,2.8-6.19,5.74-8.76,2.94-2.57,6.78-4.65,11.52-6.25,4.66-1.57,8.92-2.22,12.77-1.95,3.85,.28,7.12,1.45,9.81,3.51,2.69,2.06,4.65,4.92,5.89,8.59,1.24,3.66,1.41,7.12,.51,10.37-.9,3.25-2.81,6.15-5.72,8.71-2.92,2.56-6.71,4.63-11.37,6.2-4.71,1.59-9,2.25-12.89,1.99-3.89-.26-7.18-1.42-9.86-3.45-2.68-2.04-4.64-4.89-5.88-8.56-1.24-3.66-1.41-7.13-.52-10.4Zm11.48,11.54c1.43,.79,3.32,1.12,5.68,.97,2.36-.15,5.21-.78,8.54-1.91s5.98-2.34,7.95-3.66c1.97-1.31,3.29-2.72,3.96-4.23,.67-1.5,.72-3.13,.13-4.88-.59-1.75-1.61-3.03-3.07-3.83-1.46-.81-3.36-1.14-5.73-.99-2.36,.15-5.21,.78-8.54,1.91-3.33,1.12-5.98,2.34-7.95,3.66-1.97,1.31-3.28,2.73-3.92,4.25-.65,1.52-.68,3.15-.08,4.9,.59,1.75,1.6,3.02,3.03,3.81Z"/><path class="cls-1" d="M557.98,347.91l.96,9.71-20.81-4.18-.54-5.51,20.4-.02Zm1.18,12l.96,9.71-20.81-4.18-.54-5.51,20.4-.02Z"/></g><g><polygon class="cls-5" points="302.58 656.88 316.73 656.88 660.16 316.28 660.16 302.14 302.58 656.88"/><g><g><rect class="cls-5" x="439.07" y="546.4" width="30.54" height="10" transform="translate(-257.46 489.74) rotate(-45.56)"/><rect class="cls-5" x="474.71" y="510.05" width="30.54" height="10" transform="translate(-220.82 504.29) rotate(-45.56)"/><polygon class="cls-5" points="357.92 656.88 361.68 653.04 354.54 646.04 343.91 656.88 357.92 656.88"/><rect class="cls-5" x="367.78" y="619.1" width="30.54" height="10" transform="translate(-330.75 460.65) rotate(-45.56)"/><rect class="cls-5" x="403.42" y="582.75" width="30.54" height="10" transform="translate(-294.11 475.19) rotate(-45.56)"/><rect class="cls-5" x="510.35" y="473.7" width="30.54" height="10" transform="translate(-184.18 518.84) rotate(-45.56)"/><rect class="cls-5" x="617.28" y="364.66" width="30.55" height="10" transform="translate(-74.26 562.49) rotate(-45.56)"/><rect class="cls-5" x="545.99" y="437.35" width="30.55" height="10" transform="translate(-147.54 533.39) rotate(-45.56)"/><rect class="cls-5" x="581.64" y="401.01" width="30.55" height="10" transform="translate(-110.9 547.94) rotate(-45.56)"/></g><polygon class="cls-5" points="660.65 333.86 653.93 340.71 660.65 347.31 660.65 333.86"/></g></g></g></g></g>
+  </symbol>
+</svg>
+
+<div class="deck">
+
+  <!-- 1 CAPA -->
+  <section class="slide active cover">
+    <div class="body" style="align-items:center;justify-content:center;gap:0">
+      <svg class="big"><use href="#nrn"/></svg>
+      <h1 style="color:var(--ink)">Nova Raposo:<br>efeitos sobre a cidade de São Paulo</h1>
+      <p class="sub">O ganho de capacidade na rodovia pode transferir demanda<br>para gargalos urbanos já saturados?</p>
+    </div>
+    <div class="meta">
+      Apresentação técnica · Planejamento / CET · 10/11/2026<br>
+      Movimento Nova Raposo, Não!
+    </div>
+  </section>
+
+  <!-- 2 PERGUNTA CENTRAL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Objeto</div>
+    </div>
+    <div class="body">
+      <h2>Pergunta central</h2>
+      <p class="lead">O aumento de capacidade na rodovia tende a <b>descarregar mais veículos</b> exatamente nos
+      pontos já saturados da rede municipal — não apenas mover o congestionamento de lugar.</p>
+      <div class="card">
+        <h3>Cadeia crítica analisada</h3>
+        <div class="chain">
+          <span class="n">Raposo Tavares</span><span class="arr">→</span>
+          <span class="n">Escola Politécnica</span><span class="arr">→</span>
+          <span class="n">Marginal Pinheiros</span><span class="arr">→</span>
+          <span class="n">Eusébio Matoso</span><span class="arr">→</span>
+          <span class="n">Túnel F. Vieira</span><span class="arr">→</span>
+          <span class="n">Rebouças</span>
+        </div>
+      </div>
+      <p class="small">Objetivo: identificar impactos, pontos críticos e alternativas integradas de transporte.</p>
+    </div>
+    <div class="foot"><span>Fontes:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx</span></div>
+  </section>
+
+  <!-- 3 O QUE O PROJETO PREVÊ -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Projeto</div>
+    </div>
+    <div class="body">
+      <h2>O que o projeto prevê</h2>
+      <div class="grid g2">
+        <ul>
+          <li>Marginais contínuas de São Paulo a Cotia</li>
+          <li>Túnel na Av. Benjamin Mansur</li>
+          <li>Nova alça na Av. Escola Politécnica</li>
+          <li>Novas alças na Granja Viana</li>
+          <li>Faixa adicional a partir do km 15,27</li>
+        </ul>
+        <ul class="orange">
+          <li>Reorganização de acessos e pontos de ônibus</li>
+          <li>3 novos viadutos na Marginal Pinheiros (Eusébio Matoso, Bernardo Goldfarb e Valentim Gentil–Antônio Batuira)</li>
+        </ul>
+      </div>
+      <div class="card">
+        <p class="small"><b>Ponto central:</b> a questão urbana não é só a capacidade da Raposo — é <b>para onde o fluxo
+        adicional se dirige ao entrar em São Paulo</b>.</p>
+      </div>
+    </div>
+    <div class="foot"><span>Fontes:</span><span class="src">Edital do Lote 1 Nova Raposo (2024 09 NFMA D06a_LOTE 1 - EDITAL.pdf) · Contrato nº 0548-ARTESP-2025</span></div>
+  </section>
+
+  <!-- 4 EFEITO FUNIL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Diagnóstico</div>
+    </div>
+    <div class="body">
+      <h2>O efeito-funil na entrada da cidade</h2>
+      <div class="grid g2">
+        <div class="card">
+          <h3>Capacidade ampliada a montante</h3>
+          <div class="num">+<b>111.000</b> <small>veículos (edital)</small></div>
+          <p class="small">descarregados mais velozmente nos gargalos de Eusébio Matoso e Marginal Pinheiros.</p>
+        </div>
+        <div class="card">
+          <h3>Gargalos urbanos a jusante</h3>
+          <div class="num"><b>transferência</b></div>
+          <p class="small">de congestionamento para a rede municipal — hipótese a testar por modelagem integrada Estado–Município.</p>
+        </div>
+      </div>
+      <p class="small muted">Os efeitos futuros são hipóteses para modelagem, não resultados comprovados (ressalva do próprio material).</p>
+    </div>
+    <div class="foot"><span>Fontes:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx · Relatório preliminar de impactos ambientais — Movimento Nova Raposo NÃO! (2024 09 NFMA D07_RELAT PREL IMPACTO AMBIENTAL.pdf)</span></div>
+  </section>
+
+  <!-- 5 FLUXO ATUAL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Fluxo atual</div>
+    </div>
+    <div class="body">
+      <h2>Fluxo já elevado no trecho inicial da SP-270</h2>
+      <p class="small">Contagens volumétricas classificadas do <b>Estudo de Tráfego do Edital</b> (jun–out/2023).</p>
+      <table>
+        <thead><tr><th>Posto</th><th>km</th><th>Período</th><th>Volume total</th><th>Pico (veíc/h)</th><th>Autos</th></tr></thead>
+        <tbody>
+          <tr><td><b>P255</b></td><td>10</td><td>16 h</td><td>90.419</td><td>2.826</td><td>76%</td></tr>
+          <tr><td><b>P204</b></td><td>12</td><td>7 dias/24 h</td><td>790.010 / sem.</td><td><b>5.079</b></td><td>80%</td></tr>
+          <tr><td><b>P205</b></td><td>18</td><td>7 dias/24 h</td><td>1.028.401 / sem.</td><td><b>6.611</b></td><td>82%</td></tr>
+          <tr><td><b>P206</b></td><td>25</td><td>7 dias/24 h</td><td>1.010.817 / sem.</td><td>6.498</td><td>82%</td></tr>
+          <tr><td><b>P257</b></td><td>31,5</td><td>16 h</td><td>185.588</td><td>5.800</td><td>76%</td></tr>
+          <tr><td><b>P160</b></td><td>39</td><td>16 h</td><td>66.155</td><td>2.067</td><td>80%</td></tr>
+        </tbody>
+      </table>
+      <p class="small">Predomínio do automóvel (76–82%): a ampliação viária fica sensível à destinação desse fluxo a jusante.</p>
+    </div>
+    <div class="foot"><span>Fonte primária:</span><span class="src">Estudo de Tráfego — Edital Lote 1 Nova Raposo (contagens CVC jun–out/2023; descrito também em 1500561-14.2025.8.26.0053 ACP Nova Raposo.pdf). Tabela reproduzida por Horácio A. Figueira (2025).</span></div>
+  </section>
+
+  <!-- 6 DEMANDA INDUZIDA -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Diagnóstico</div>
+    </div>
+    <div class="body">
+      <h2>Demanda induzida: a experiência das ampliações</h2>
+      <p class="lead">Após a ampliação, parte das viagens muda de horário/dia, ocorre <b>tráfego desviado</b>
+      (mudança de rota) e <b>tráfego gerado</b> (novas viagens) — seguidos de nova adaptação aos novos
+      congestionamentos.</p>
+      <div class="grid g2">
+        <div class="card"><h3>Marginal Tietê</h3><p class="small">o congestionamento voltou em menos de um mês.</p></div>
+        <div class="card"><h3>Rodovia dos Bandeirantes</h3><p class="small">ampliação de 3 para 5 faixas na chegada a SP.</p></div>
+        <div class="card"><h3>Castello Branco</h3><p class="small">marginais até Alphaville (e em breve até Aldeia da Serra).</p></div>
+        <div class="card"><h3>Rodoanel Sul</h3><p class="small">os automóveis ocuparam o espaço deixado pelos caminhões.</p></div>
+      </div>
+      <p class="small muted">Exemplos de ampliações que voltaram a congestionar por não terem projeto de transporte de pessoas.</p>
+    </div>
+    <div class="foot"><span>Fonte:</span><span class="src">Horácio Augusto Figueira, "Rodovia Raposo Tavares — Cidade de São Paulo: algumas reflexões" (Seminário Mobilidade, 23/04/2025) — 2025-04 - Apresentação Seminário Mobilidade - Horácio.pdf</span></div>
+  </section>
+
+  <!-- 7 MARGINAL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Pontos críticos</div>
+    </div>
+    <div class="body">
+      <h2>A Marginal Pinheiros como nó crítico</h2>
+      <ul>
+        <li>Funciona como <b>distribuidora metropolitana</b>, já recebendo fluxos de vários eixos.</li>
+        <li>Um aumento concentrado de entradas repercute em <b>interseções, acessos, pontes e conexões</b> municipais.</li>
+        <li>O congestionamento pode se propagar pela rede, afetando <b>deslocamentos que não têm origem na rodovia</b>.</li>
+      </ul>
+      <div class="card">
+        <p class="small">A análise deve considerar o sistema completo: Escola Politécnica, Ponte do Jaguaré, Eusébio Matoso, Túnel Fernando Vieira e Rebouças.</p>
+      </div>
+    </div>
+    <div class="foot"><span>Fonte:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx</span></div>
+  </section>
+
+  <!-- 8 TÚNEL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Pontos críticos</div>
+    </div>
+    <div class="body">
+      <h2>O Túnel Fernando Vieira de Mello como "teste de realidade"</h2>
+      <div class="chain" style="justify-content:center">
+        <span class="n">Entrada de fluxo</span><span class="arr">→</span>
+        <span class="n">Capacidade limitada</span><span class="arr">→</span>
+        <span class="n">Fila / retenção</span><span class="arr">→</span>
+        <span class="n">Repercussão na rede</span>
+      </div>
+      <ul>
+        <li>O túnel deve ser tratado como parte de uma <b>cadeia de capacidade</b>, não como ponto isolado.</li>
+        <li>Se a demanda adicional chegar simultaneamente aos acessos urbanos, a retenção pode deslocar-se para <b>vias paralelas e cruzamentos</b>.</li>
+      </ul>
+      <div class="card">
+        <p class="small"><b>Pergunta técnica:</b> qual será o nível de serviço de cada elo depois da implantação?</p>
+      </div>
+    </div>
+    <div class="foot"><span>Fonte:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx</span></div>
+  </section>
+
+  <!-- 9 ALÉM DO AUTOMÓVEL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Efeitos</div>
+    </div>
+    <div class="body">
+      <h2>Efeitos além dos automóveis</h2>
+      <div class="grid g3">
+        <div class="card"><div class="num"><b>70%</b></div><p class="small">dos autos e táxis circulam só com o condutor.</p></div>
+        <div class="card"><div class="num"><b>10×</b></div><p class="small">mais espaço do individual para transportar as mesmas pessoas.</p></div>
+        <div class="card"><div class="num"><b>1.033</b></div><p class="small">óbitos no trânsito em SP (INFOSIGA-2024): 46,9% moto, 36,1% pedestre.</p></div>
+      </div>
+      <ul>
+        <li>Ônibus perdem velocidade operacional ao compartilhar os gargalos.</li>
+        <li>Mais tempo parado e mais acelerações/frenagens → <b>emissões e ruído</b>.</li>
+        <li>Impactos alcançam usuários que <b>nunca usaram a Raposo</b>.</li>
+      </ul>
+      <p class="small">Comparar <b>pessoas/hora</b> e <b>tempo total de viagem</b>, não apenas veículos/hora.</p>
+    </div>
+    <div class="foot"><span>Fontes:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx · Horácio A. Figueira (2025) · clippings (qualidade do ar — Folha, set/2024)</span></div>
+  </section>
+
+  <!-- 10 MEIO AMBIENTE -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Meio ambiente & urbanização</div>
+    </div>
+    <div class="body">
+      <h2>Meio ambiente e urbanização</h2>
+      <div class="grid g2">
+        <div class="card"><div class="num"><b>425.000 m²</b></div><p class="small">de cobertura vegetal suprimida nesta versão do projeto (relatório preliminar MNRN).</p></div>
+        <div class="card"><div class="num">APPs</div><p class="small">tabela de áreas de APP invadidas pelo projeto proposto.</p></div>
+      </div>
+      <ul>
+        <li>Trechos vegetados junto à rodovia têm funções ambientais e de conectividade ecológica.</li>
+        <li>Novos acessos, alças e viadutos → desapropriações, fragmentação urbana e pressão de ocupação.</li>
+      </ul>
+      <div class="card"><p class="small"><b>Registro:</b> moradores da beira da Raposo passaram a receber notificações de desapropriação do Governo do Estado.</p></div>
+    </div>
+    <div class="foot"><span>Fontes:</span><span class="src">2024 09 NFMA D07_RELAT PREL IMPACTO AMBIENTAL.pdf · 2024 09 NFMA D08_PROJETO NOVA RAPOSO_PARQUES ADJACENTES.pdf · 2025 09 Parecer CAEX.pdf · 1500561-14.2025.8.26.0053 ACP Nova Raposo.pdf · clipping Jornal Cotia Agora</span></div>
+  </section>
+
+  <!-- 11 CONTEXTO INSTITUCIONAL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Institucional</div>
+    </div>
+    <div class="body">
+      <h2>Grupo de Trabalho Intersecretarial</h2>
+      <p class="small">Estudo do novo viaduto na Marginal Pinheiros e requalificação da Raposo Tavares · <b>SEI 6011.2025/0003642-5</b>.</p>
+      <div class="grid g2">
+        <div class="card">
+          <h3>Cadeia normativa</h3>
+          <ul class="small" style="gap:5px">
+            <li><b>SGM 257/2025</b> — institui o GT Marginal Pinheiros.</li>
+            <li><b>SGM 258/2025</b> — designa membros.</li>
+            <li><b>SGM 155/2026</b> — institui novo GT (Marginal + Raposo).</li>
+            <li><b>SGM 159/2026</b> — designa membros e revoga a 258.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>11 órgãos com assento</h3>
+          <p class="small">SGM · SIURB · SMT/SEMTRA · SEPLAN · SMUL · SMDET · SVMA · SPObras · <b>CET</b> · SP-Urbanismo · SPTrans.</p>
+          <p class="small muted" style="margin-top:8px">A CET está formalmente representada no grupo.</p>
+        </div>
+      </div>
+    </div>
+    <div class="foot"><span>Fonte oficial:</span><span class="src">Diário Oficial do Município de SP — legislacao.prefeitura.sp.gov.br (Portarias SGM 257/2025, 258/2025, 155/2026, 159/2026)</span></div>
+  </section>
+
+  <!-- 12 O QUE A CET PRECISA SABER -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Decisão</div>
+    </div>
+    <div class="body">
+      <h2>O que a CET precisa saber antes da decisão</h2>
+      <ul>
+        <li>Quantos <b>veículos</b> — e quantas <b>pessoas</b> — adicionais chegarão a cada ponto crítico?</li>
+        <li>Qual o impacto em Marginal, Eusébio Matoso, Túnel Fernando Vieira, Rebouças, Ponte do Jaguaré e Escola Politécnica?</li>
+        <li>Qual a distribuição temporal dos fluxos e a propagação das filas?</li>
+        <li>Quais linhas de ônibus perderão velocidade e regularidade?</li>
+        <li>Quais intervenções municipais seriam necessárias para absorver o fluxo — e a que custo urbano?</li>
+      </ul>
+      <div class="card"><p class="small"><b>Proposta:</b> simulação integrada antes da consolidação das obras que aumentem a capacidade de entrada na cidade.</p></div>
+    </div>
+    <div class="foot"><span>Fonte:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx</span></div>
+  </section>
+
+  <!-- 13 ALTERNATIVA -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Alternativa</div>
+    </div>
+    <div class="body">
+      <h2>Alternativa: transportar pessoas, não apenas veículos</h2>
+      <div class="grid g3">
+        <div class="card"><div class="num"><b>10–15×</b></div><p class="small">mais pessoas/hora em uma faixa de ônibus bem operada do que em uma faixa de automóveis.</p></div>
+        <div class="card"><div class="num"><b>121</b></div><p class="small">ônibus/hora já operam no pico entre o Rodoanel e a Escola Politécnica (SPTrans + EMTU).</p></div>
+        <div class="card"><div class="num">BRT + Metrô</div><p class="small">corredor estruturante integrado à CPTM e alimentado por linhas locais.</p></div>
+      </div>
+      <div class="card">
+        <p class="small">Linhas locais → BRT Raposo → Metrô → centro expandido: capta passageiros <b>antes</b> que ingressem nos gargalos urbanos.</p>
+      </div>
+    </div>
+    <div class="foot"><span>Fontes:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx · Horácio A. Figueira (2025) · 2025-04 - Apresentação Seminário Mobilidade - Nestor Linha Marrom.pdf</span></div>
+  </section>
+
+  <!-- 14 BASE LEGAL -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Base legal</div>
+    </div>
+    <div class="body">
+      <h2>Lei 12.587/2012 — Política Nacional de Mobilidade Urbana</h2>
+      <div class="grid g2">
+        <div class="card"><h3>Prioridade ao coletivo</h3><p class="small"><b>Art. 6º, II</b> — prioridade do transporte público coletivo sobre o individual motorizado, e dos não motorizados sobre os motorizados.</p><p class="small" style="margin-top:8px"><b>Art. 6º, VI</b> — priorização de projetos de transporte coletivo estruturadores do território.</p></div>
+        <div class="card"><h3>Instrumentos de gestão</h3><p class="small"><b>Art. 23, I</b> — restrição e controle de acesso e circulação de veículos.</p><p class="small" style="margin-top:8px"><b>Art. 23, III</b> — tributos para desestimular modos, com receita vinculada a transporte coletivo, não motorizado e subsídio tarifário.</p></div>
+      </div>
+      <div class="card"><p class="small"><b>Art. 24</b> — Plano de Mobilidade Urbana como instrumento de efetivação (obrigatório para o Município de São Paulo).</p></div>
+    </div>
+    <div class="foot"><span>Fonte:</span><span class="src">Lei 12.587/2012 (texto integral)</span></div>
+  </section>
+
+  <!-- 15 ENCAMINHAMENTOS -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Encaminhamentos</div>
+    </div>
+    <div class="body">
+      <h2>Encaminhamentos propostos</h2>
+      <ol style="list-style:none;display:flex;flex-direction:column;gap:9px">
+        <li style="padding-left:34px;position:relative;font-size:15px"><span style="position:absolute;left:0;top:0;width:24px;height:24px;background:var(--nrn-red);color:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px">1</span>Modelar conjuntamente Nova Raposo + rede municipal, com cenários de demanda.</li>
+        <li style="padding-left:34px;position:relative;font-size:15px"><span style="position:absolute;left:0;top:0;width:24px;height:24px;background:var(--nrn-red);color:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px">2</span>Mapear gargalos e efeitos de fila nos acessos à cidade.</li>
+        <li style="padding-left:34px;position:relative;font-size:15px"><span style="position:absolute;left:0;top:0;width:24px;height:24px;background:var(--nrn-red);color:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px">3</span>Quantificar impactos sobre ônibus, automóveis, emissões e tempo de viagem.</li>
+        <li style="padding-left:34px;position:relative;font-size:15px"><span style="position:absolute;left:0;top:0;width:24px;height:24px;background:var(--nrn-red);color:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px">4</span>Avaliar ambiental e urbanisticamente novas alças, viadutos e ampliações.</li>
+        <li style="padding-left:34px;position:relative;font-size:15px"><span style="position:absolute;left:0;top:0;width:24px;height:24px;background:var(--nrn-red);color:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px">5</span>Comparar cenário rodoviário com cenário de transporte coletivo estruturante (BRT + Metrô).</li>
+        <li style="padding-left:34px;position:relative;font-size:15px"><span style="position:absolute;left:0;top:0;width:24px;height:24px;background:var(--nrn-orange);color:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px">6</span>Levar resultados ao grupo de trabalho intersecretarial Estado–Município.</li>
+      </ol>
+      <div class="card"><p class="small"><b>Mensagem final:</b> antes de ampliar a capacidade de entrada de automóveis, medir o efeito dessa capacidade sobre toda a rede urbana.</p></div>
+    </div>
+    <div class="foot"><span>Fonte:</span><span class="src">Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx</span></div>
+  </section>
+
+  <!-- 16 REFERÊNCIAS -->
+  <section class="slide">
+    <div class="hd">
+      <svg class="logo"><use href="#nrn"/></svg>
+      <div class="brand">Nova Raposo, Não!<span>análise técnica de mobilidade</span></div>
+      <div class="spacer"></div>
+      <div class="kicker">Referências</div>
+    </div>
+    <div class="body">
+      <h2>Fontes originais</h2>
+      <div class="grid g2">
+        <ul class="small" style="gap:7px">
+          <li>Nova_Raposo_Efeitos_Sao_Paulo_CET.pptx (apresentação técnica, 02/10/2026)</li>
+          <li>Edital do Lote 1 Nova Raposo — 2024 09 NFMA D06a_LOTE 1 - EDITAL.pdf</li>
+          <li>Estudo de Tráfego do Edital (contagens CVC jun–out/2023)</li>
+          <li>Contrato nº 0548-ARTESP-2025 e anexos/apêndices</li>
+          <li>2024 09 NFMA D07_RELAT PREL IMPACTO AMBIENTAL.pdf</li>
+          <li>2024 09 NFMA D08_PROJETO NOVA RAPOSO_PARQUES ADJACENTES.pdf</li>
+          <li>2025 09 Parecer CAEX.pdf · 2024 11 CAUTELAR ANTECEDENTE.pdf</li>
+        </ul>
+        <ul class="small" style="gap:7px">
+          <li>1500561-14.2025.8.26.0053 ACP Nova Raposo.pdf</li>
+          <li>Portaria SGM nº 159/2026 (Diário Oficial do Município)</li>
+          <li>Portarias SGM nº 257/2025, 258/2025 e 155/2026</li>
+          <li>Lei 12.587/2012 — Política Nacional de Mobilidade Urbana</li>
+          <li>Horácio Augusto Figueira (2025) — Seminário Mobilidade</li>
+          <li>Clippings de imprensa (Folha, Jornal Cotia Agora, Diário do Transporte)</li>
+        </ul>
+      </div>
+      <p class="small muted">Documento elaborado pelo Movimento Nova Raposo, Não! — para discussão técnica com a área de Planejamento da CET.</p>
+    </div>
+    <div class="foot"><span>Nota metodológica:</span><span class="src">efeitos futuros são hipóteses para modelagem, não resultados comprovados.</span></div>
+  </section>
+
+</div>
+
+<div class="hint">Use ← → do teclado, ou os botões abaixo</div>
+<div class="nav">
+  <button id="prev" aria-label="Anterior">‹</button>
+  <div class="dots" id="dots"></div>
+  <span class="count" id="count"></span>
+  <button id="next" aria-label="Próximo">›</button>
+</div>
+
+<script>
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var idx = 0;
+  var dots = document.getElementById('dots');
+  var count = document.getElementById('count');
+  var prev = document.getElementById('prev');
+  var next = document.getElementById('next');
+
+  slides.forEach(function(_, i){
+    var d = document.createElement('i');
+    dots.appendChild(d);
+  });
+  var dotEls = dots.querySelectorAll('i');
+
+  function show(n){
+    idx = Math.max(0, Math.min(slides.length - 1, n));
+    slides.forEach(function(s, i){ s.classList.toggle('active', i === idx); });
+    dotEls.forEach(function(d, i){ d.classList.toggle('on', i === idx); });
+    count.textContent = (idx + 1) + ' / ' + slides.length;
+    prev.disabled = idx === 0;
+    next.disabled = idx === slides.length - 1;
+  }
+  prev.onclick = function(){ show(idx - 1); };
+  next.onclick = function(){ show(idx + 1); };
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'ArrowRight' || e.key === 'PageDown') show(idx + 1);
+    if (e.key === 'ArrowLeft' || e.key === 'PageUp') show(idx - 1);
+  });
+  show(0);
+</script>
+</body>
+</html>

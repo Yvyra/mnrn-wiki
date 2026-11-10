@@ -47,6 +47,9 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[projeto-nova-raposo]] — Concessão SP-270 + SP-280 + SP-029, 30 anos, EcoRodovias
 - [[contrato-concessao-nova-raposo]] — Contrato 0548/ARTESP/2025: estrutura, anexos e apêndices
 - [[prazos-e-obrigacoes-contratuais]] — prazos de obras/projetos/pareceres e obrigações (DUPs)
+- [[desapropriacoes-nova-raposo]] — desapropriações/DUPs: prazos, custos e trechos
+- [[indicadores-de-desempenho]] — IQD/CSP e vinculação à tarifa
+- [[penalidades-contratuais]] — multas por grupo/nível (Anexo 11)
 - [[atores-institucionais]] — ARTESP, EcoRodovias, BNDES, IFC, Arcadis, ALESP, MPSP
 - [[edital-lote-1]] — Concorrência Internacional 02/2024, R$ 7,35 bi
 - [[estrutura-tarifaria]] — 13 pórticos free flow bidirecionais, R$ 0,1477/km
@@ -75,6 +78,9 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[audiencia-alesp-novembro-2024]] — Apresentação na ALESP — 9 motivações
 - [[artigo-projeto-populacao]] — Análise socioeconômica da AID (~897 mil)
 - [[seminario-mobilidade]] — Seminário técnico abr/2025 — Linha 22-Marrom
+- [[seminario-elio-pedagio]] — Élio Camargo — administração de demanda e subsídio
+- [[seminario-felipe-clima]] — Felipe Barcellos — clima e soluções ASI
+- [[seminario-marta-barcelona]] — Marta Lagreca — opções urbanísticas sustentáveis
 - [[cautelar-antecedente-2024]] — Ação Cautelar Antecedente da Bancada Feminista do PSOL (27/11/2024)
 - [[acao-civil-publica-nova-raposo]] — Ação Civil Pública do MPSP (03/12/2025)
 - [[acao-popular-nova-raposo]] — Ação Popular PSOL/MNRN — manifestação MP (11/11/2025)

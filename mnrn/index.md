@@ -99,6 +99,7 @@ Base de conhecimento sobre o Movimento Nova Raposo, NÃO! e o projeto de concess
 - [[lei-12587-2012]] — Política Nacional de Mobilidade Urbana
 
 ### Contexto e Referências
+- [[malha-normativa]] — grafo interativo das normas e ações judiciais
 - [[linha-tempo]] — Cronologia completa do movimento
 - [[noticias-relacionadas]] — Cobertura da imprensa
 - [[grandes-arquivos-pendentes]] — Lista de arquivos ainda a processar

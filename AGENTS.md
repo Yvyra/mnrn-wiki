@@ -122,6 +122,7 @@ The site is built with Quartz v5, integrated in-repo (`quartz/` code, `quartz.co
 - Build static site: `npx quartz build -d mnrn` → output `public/` (git-ignored)
 - Live preview: `npx quartz build -d mnrn --serve` → http://localhost:8080
 - `baseUrl` is `yvyra.github.io/mnrn-wiki`; `public/` and `node_modules/` are git-ignored.
+- Deploy: every push to `main` runs `.github/workflows/deploy.yml` (build + GitHub Pages). Pages source must be set to "GitHub Actions" in the repo settings (admin only).
 
 `mnrn/log.md` and `mnrn/grandes-arquivos-pendentes.md` are excluded from the site via `ignorePatterns` in `quartz.config.yaml` (not just git-ignored).
 

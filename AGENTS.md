@@ -123,6 +123,7 @@ The site is built with Quartz v5, integrated in-repo (`quartz/` code, `quartz.co
 - Live preview: `npx quartz build -d mnrn --serve` → http://localhost:8080
 - `baseUrl` is `yvyra.github.io/mnrn-wiki`; `public/` and `node_modules/` are git-ignored.
 - Deploy: every push to `main` runs `.github/workflows/deploy.yml` (build + GitHub Pages). Pages source must be set to "GitHub Actions" in the repo settings (admin only).
+- Build-time text transforms live in `mnrn-transforms.ts` (registered in `quartz.ts`): they escape currency `$` (`R$`, `US$`) and strip `raw/` folder prefixes from the HTML. Write `R$` and `raw/...` normally in Markdown — do not escape or remove them by hand. The `latex` plugin is disabled, but `obsidian-flavored-markdown` still parses `$...$` as math; it has no option to turn that off.
 
 `mnrn/log.md` and `mnrn/grandes-arquivos-pendentes.md` are excluded from the site via `ignorePatterns` in `quartz.config.yaml` (not just git-ignored).
 

@@ -28,7 +28,7 @@ jobs:
       - name: Instalar dependências
         run: npm ci
       - name: Gerar site Quartz
-        run: npx quartz build -d mnrn
+        run: node quartz/bootstrap-cli.mjs build -d mnrn
       - uses: actions/upload-pages-artifact@v4
         with:
           path: public
